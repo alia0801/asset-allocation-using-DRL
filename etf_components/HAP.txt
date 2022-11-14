@@ -1,0 +1,416 @@
+HAP
+DE	Deere & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=HAP
+XOM	Exxon Mobil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=HAP
+CVX	Chevron Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=HAP
+	Bhp Group Ltd	
+	Bayer Ag	
+NTR	Nutrien Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NTR.US&back=HAP
+ADM	Archer-Daniels-Midland Co	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=HAP
+CTVA	Corteva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=HAP
+	Shell Plc	
+COP	Conocophillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=HAP
+NEE	Nextera Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=HAP
+	Totalenergies Se	
+	Rio Tinto Plc	
+	Reliance Industries Ltd	
+VALE	Vale Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=VALE.US&back=HAP
+TSN	Tyson Foods Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=HAP
+	Bp Plc	
+CF	Cf Industries Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=HAP
+TSCO	Tractor Supply Co	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=HAP
+MOS	Mosaic Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=HAP
+ENB	Enbridge Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=HAP
+SO	Southern Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=HAP
+FCX	Freeport-Mcmoran Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=HAP
+	Anglo American Plc	
+EOG	Eog Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=HAP
+6326.JP&back=HAP	Kubota Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6326.JP&back=HAP
+OXY	Occidental Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=HAP
+NUE	Nucor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=HAP
+	Iberdrola Sa	
+BG	Bunge Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=HAP
+CNQ	Canadian Natural Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CNQ.US&back=HAP
+NEM	Newmont Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=HAP
+SQM	Sociedad Quimica Y Minera De Chile Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=SQM.US&back=HAP
+FMC	Fmc Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=HAP
+PXD	Pioneer Natural Resources Co	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=HAP
+MPC	Marathon Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=HAP
+DAR	Darling Ingredients Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DAR.US&back=HAP
+CNHI	Cnh Industrial Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=CNHI.US&back=HAP
+	Glencore Plc	
+SLB	Schlumberger Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=HAP
+GOLD	Barrick Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GOLD.US&back=HAP
+VLO	Valero Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=HAP
+TRP	Tc Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=HAP
+SU	Suncor Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SU.US&back=HAP
+WY	Weyerhaeuser Co	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=HAP
+DVN	Devon Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=HAP
+	Woodside Energy Group Ltd	
+	Franco-Nevada Corp	
+PSX	Phillips 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=HAP
+WMB	Williams Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=HAP
+	Equinor Asa	
+LNG	Cheniere Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=HAP
+	Other/Cash	
+TTC	Toro Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TTC.US&back=HAP
+	Mowi Asa	
+KMI	Kinder Morgan Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=HAP
+	Fortescue Metals Group Ltd	
+AEM	Agnico Eagle Mines Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AEM.US&back=HAP
+HES	Hess Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=HAP
+TECK	Teck Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TECK.US&back=HAP
+	Upm-Kymmene Oyj	
+	Icl Group Ltd	
+ELAN	Elanco Animal Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ELAN.US&back=HAP
+AGCO	Agco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AGCO.US&back=HAP
+	Yara International Asa	
+	Eni Spa	
+HWM	Howmet Aerospace Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=HAP
+IP	International Paper Co	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=HAP
+	Cenovus Energy Inc	
+HAL	Halliburton Co	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=HAP
+4021.JP&back=HAP	Nissan Chemical Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4021.JP&back=HAP
+STLD	Steel Dynamics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=HAP
+PBR	Petroleo Brasileiro Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=PBR.US&back=HAP
+OKE	Oneok Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=HAP
+WPM	Wheaton Precious Metals Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WPM.US&back=HAP
+005490.KS&back=HAP	Posco Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=005490.KS&back=HAP
+	Arcelormittal Sa	
+INGR	Ingredion Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INGR.US&back=HAP
+BKR	Baker Hughes Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=HAP
+CTRA	Coterra Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=HAP
+	Wilmar International Ltd	
+PKG	Packaging Corp Of America	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=HAP
+	South32 Ltd	
+5401.JP&back=HAP	Nippon Steel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5401.JP&back=HAP
+	Grupo Mexico Sab De Cv	
+FANG	Diamondback Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=HAP
+2002.TW&back=HAP	China Steel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=2002.TW&back=HAP
+CCJ	Cameco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CCJ.US&back=HAP
+RS	Reliance Steel & Aluminum Co	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=HAP
+	Sse Plc	
+	Neste Oyj	
+	Newcrest Mining Ltd	
+AWK	American Water Works Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=HAP
+	K+s Ag	
+	Pembina Pipeline Corp	
+PCG	Pg&E Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=HAP
+WRK	Westrock Co	/etf/ea/ETZCW.djhtm?c=1&etfid=WRK.US&back=HAP
+	Vestas Wind Systems A/S	
+	Tourmaline Oil Corp	
+	Repsol Sa	
+MRO	Marathon Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=HAP
+	First Quantum Minerals Ltd	
+EQT	Eqt Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=HAP
+	Norsk Hydro Asa	
+	Impala Platinum Holdings Ltd	
+AA	Alcoa Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=HAP
+	Salmar Asa	
+	Santos Ltd	
+	Svenska Cellulosa Ab Sca	
+	Aker Bp Asa	
+	Boliden Ab	
+CLF	Cleveland-Cliffs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=HAP
+ATO	Atmos Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=HAP
+	Oci Nv	
+	Smurfit Kappa Group Plc	
+TRGP	Targa Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=HAP
+	Stora Enso Oyj	
+	Mondi Plc	
+	E.On Se	
+GFI	Gold Fields Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=GFI.US&back=HAP
+APA	Apa Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=HAP
+	Orsted As	
+OVV	Ovintiv Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=HAP
+	Ptt Pcl	
+	Bakkafrost P/F	
+	Charoen Pokphand Indonesia Tbk Pt	
+5713.JP&back=HAP	Sumitomo Metal Mining Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5713.JP&back=HAP
+	Husqvarna Ab	
+GPK	Graphic Packaging Holding Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GPK.US&back=HAP
+	Emera Inc	
+NI	Nisource Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=HAP
+2899.HK&back=HAP	Zijin Mining Group Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2899.HK&back=HAP
+SMG	Scotts Miracle-Gro Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SMG.US&back=HAP
+TS	Tenaris Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=TS.US&back=HAP
+	West Fraser Timber Co Ltd	
+XYL	Xylem Inc/Ny	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=HAP
+X	United States Steel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=HAP
+	Veolia Environnement Sa	
+TX	Ternium Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=TX.US&back=HAP
+	Sibanye Stillwater Ltd	
+	Suzano Sa	
+	Sasol Ltd	
+SEDG	Solaredge Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=HAP
+RGLD	Royal Gold Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=HAP
+PLUG	Plug Power Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLUG.US&back=HAP
+2688.HK&back=HAP	Enn Energy Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2688.HK&back=HAP
+1605.JP&back=HAP	Inpex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1605.JP&back=HAP
+5020.JP&back=HAP	Eneos Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=5020.JP&back=HAP
+CHK	Chesapeake Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=HAP
+AR	Antero Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=HAP
+	Northern Star Resources Ltd	
+	Igo Ltd	
+	Lynas Rare Earths Ltd	
+AU	Anglogold Ashanti Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AU.US&back=HAP
+	Bluescope Steel Ltd	
+2282.JP&back=HAP	Nh Foods Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2282.JP&back=HAP
+0003.HK&back=HAP	Hong Kong & China Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0003.HK&back=HAP
+1088.HK&back=HAP	China Shenhua Energy Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1088.HK&back=HAP
+	Oz Minerals Ltd	
+RYN	Rayonier Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=HAP
+	Snam Spa	
+WTRG	Essential Utilities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=HAP
+2002.JP&back=HAP	Nisshin Seifun Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2002.JP&back=HAP
+5411.JP&back=HAP	Jfe Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=5411.JP&back=HAP
+0857.HK&back=HAP	Petrochina Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0857.HK&back=HAP
+BRFS	Brf Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=BRFS.US&back=HAP
+CALM	Cal-Maine Foods Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CALM.US&back=HAP
+CLR	Continental Resources Inc/Ok	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=HAP
+CMC	Commercial Metals Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CMC.US&back=HAP
+	Arc Resources Ltd	
+	Kuala Lumpur Kepong Bhd	
+IMO	Imperial Oil Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=IMO.US&back=HAP
+	Ioi Corp Bhd	
+	Epiroc Ab	
+	Gruma Sab De Cv	
+GGB	Gerdau Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=GGB.US&back=HAP
+FSLR	First Solar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=HAP
+DINO	Hf Sinclair Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=HAP
+	Apa Group	
+0386.HK&back=HAP	China Petroleum & Chemical Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=0386.HK&back=HAP
+010130.KS&back=HAP	Korea Zinc Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=010130.KS&back=HAP
+UGI	Ugi Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=HAP
+RRC	Range Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=HAP
+SCCO	Southern Copper Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCCO.US&back=HAP
+	Ds Smith Plc	
+	Ppb Group Bhd	
+	Origin Energy Ltd	
+	Verbund Ag	
+096770.KS&back=HAP	Sk Innovation Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=096770.KS&back=HAP
+0006.HK&back=HAP	Power Assets Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0006.HK&back=HAP
+	Antofagasta Plc	
+	Anglo American Platinum Ltd	
+AUY	Yamana Gold Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AUY.US&back=HAP
+	Hektas Ticaret Tas	
+	Klabin Sa	
+KGC	Kinross Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KGC.US&back=HAP
+LNN	Lindsay Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LNN.US&back=HAP
+LPX	Louisiana-Pacific Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=HAP
+	Merdeka Copper Gold Tbk Pt	
+	Ivanhoe Mines Ltd	
+NOV	Nov Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NOV.US&back=HAP
+MTDR	Matador Resources Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=HAP
+	Holmen Ab	
+	Endeavour Mining Plc	
+	Algonquin Power & Utilities Corp	
+9531.JP&back=HAP	Tokyo Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9531.JP&back=HAP
+1722.TW&back=HAP	Taiwan Fertilizer Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1722.TW&back=HAP
+SWN	Southwestern Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=HAP
+	Severn Trent Plc	
+	United Utilities Group Plc	
+WMS	Advanced Drainage Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WMS.US&back=HAP
+	Omv Ag	
+PAAS	Pan American Silver Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PAAS.US&back=HAP
+PCH	Potlatchdeltic Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCH.US&back=HAP
+PDCE	Pdc Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=HAP
+	Press Metal Aluminium Holdings Bhd	
+	Ptt Exploration & Production Pcl	
+PPC	Pilgrim's Pride Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=HAP
+034730.KS&back=HAP	Sk Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=034730.KS&back=HAP
+1171.HK&back=HAP	Yankuang Energy Group Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1171.HK&back=HAP
+1377.JP&back=HAP	Sakata Seed Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1377.JP&back=HAP
+9502.JP&back=HAP	Chubu Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9502.JP&back=HAP
+	Altagas Ltd	
+	Ampol Ltd	
+	Andritz Ag	
+	Cez As	
+	B2gold Corp	
+	Siemens Energy Ag	
+	Graincorp Ltd	
+	Maple Leaf Foods Inc	
+NFG	National Fuel Gas Co	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=HAP
+	Northland Power Inc	
+	Lundin Mining Corp	
+LXU	Lsb Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LXU.US&back=HAP
+	Kghm Polska Miedz Sa	
+	Northam Platinum Holdings Ltd	
+	Golden Agri-Resources Ltd	
+	Galp Energia Sgps Sa	
+	Evolution Mining Ltd	
+	Eregli Demir Ve Celik Fabrikalari Tas	
+	Electricite De France Sa	
+	Elders Ltd	
+	Centrica Plc	
+AOS	A O Smith Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=HAP
+ANDE	Andersons Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=ANDE.US&back=HAP
+	Alamos Gold Inc	
+AGRO	Adecoagro Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=AGRO.US&back=HAP
+0968.HK&back=HAP	Xinyi Solar Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0968.HK&back=HAP
+5486.JP&back=HAP	Hitachi Metals Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5486.JP&back=HAP
+3861.JP&back=HAP	Oji Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3861.JP&back=HAP
+5019.JP&back=HAP	Idemitsu Kosan Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5019.JP&back=HAP
+1332.JP&back=HAP	Nippon Suisan Kaisha Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1332.JP&back=HAP
+PNR	Pentair Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=HAP
+SEB	Seaboard Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SEB.US&back=HAP
+	Turquoise Hill Resources Ltd	
+	Ssab Ab	
+SSRM	Ssr Mining Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=HAP
+	Voestalpine Ag	
+	Sao Martinho Sa	
+	Washington H Soul Pattinson & Co Ltd	
+	Slc Agricola Sa	
+	Olam Group Ltd	
+ORA	Ormat Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORA.US&back=HAP
+1378.HK&back=HAP	China Hongqiao Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1378.HK&back=HAP
+0916.HK&back=HAP	China Longyuan Power Group Corp Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0916.HK&back=HAP
+	Austevoll Seafood Asa	
+	Alumina Ltd	
+BCC	Boise Cascade Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BCC.US&back=HAP
+	Billerudkorsnas Ab	
+	Edp Renovaveis Sa	
+	Enagas Sa	
+FDP	Fresh Del Monte Produce Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FDP.US&back=HAP
+HL	Hecla Mining Co	/etf/ea/ETZCW.djhtm?c=1&etfid=HL.US&back=HAP
+NFE	New Fortress Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NFE.US&back=HAP
+	Nufarm Ltd/Australia	
+	Aurubis Ag	
+	Nac Kazatomprom Jsc	
+	Hap Seng Consolidated Bhd	
+	First Majestic Silver Corp	
+	Bega Cheese Ltd	
+	Minerva Sa/Brazil	
+AQUA	Evoqua Water Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AQUA.US&back=HAP
+	Adaro Energy Indonesia Tbk Pt	
+	Empresas Cmpc Sa	
+	Empresas Copec Sa	
+	Cosan Sa	
+	Canadian Utilities Ltd	
+	Costa Group Holdings Ltd	
+6370.JP&back=HAP	Kurita Water Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6370.JP&back=HAP
+6505.TW&back=HAP	Formosa Petrochemical Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6505.TW&back=HAP
+4091.JP&back=HAP	Nippon Sanso Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4091.JP&back=HAP
+0384.HK&back=HAP	China Gas Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0384.HK&back=HAP
+1333.JP&back=HAP	Maruha Nichiro Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1333.JP&back=HAP
+0135.HK&back=HAP	Kunlun Energy Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0135.HK&back=HAP
+1193.HK&back=HAP	China Resources Gas Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1193.HK&back=HAP
+004020.KS&back=HAP	Hyundai Steel Co	/etf/ea/ETZCW.djhtm?c=1&etfid=004020.KS&back=HAP
+010950.KS&back=HAP	S-Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=010950.KS&back=HAP
+1911.JP&back=HAP	Sumitomo Forestry Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1911.JP&back=HAP
+	Osisko Gold Royalties Ltd	
+	Polski Koncern Naftowy Orlen Sa	
+SID	Cia Siderurgica Nacional Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=SID.US&back=HAP
+	Stella-Jones Inc	
+	Siemens Gamesa Renewable Energy Sa	
+	Scg Packaging Pcl	
+	United Tractors Tbk Pt	
+	Suedzucker Ag	
+	Tassal Group Ltd	
+WTS	Watts Water Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTS.US&back=HAP
+SBS	Cia De Saneamento Basico Do Estado De S	/etf/ea/ETZCW.djhtm?c=1&etfid=SBS.US&back=HAP
+	Rural Funds Group	
+SLVM	Sylvamo Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SLVM.US&back=HAP
+SNDL	Sndl Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNDL.US&back=HAP
+	Perseus Mining Ltd	
+	Petronas Gas Bhd	
+	Omnia Holdings Ltd	
+1787.HK&back=HAP	Shandong Gold Mining Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1787.HK&back=HAP
+1818.HK&back=HAP	Zhaojin Mining Industry Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1818.HK&back=HAP
+0358.HK&back=HAP	Jiangxi Copper Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0358.HK&back=HAP
+2689.HK&back=HAP	Nine Dragons Paper Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2689.HK&back=HAP
+2600.HK&back=HAP	Aluminum Corp Of China Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2600.HK&back=HAP
+4996.JP&back=HAP	Kumiai Chemical Industry Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4996.JP&back=HAP
+3993.HK&back=HAP	Cmoc Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3993.HK&back=HAP
+SBS	Centamin Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=SBS.US&back=HAP
+CWEN	Clearway Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CWEN.US&back=HAP
+AWR	American States Water Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AWR.US&back=HAP
+AVD	American Vanguard Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AVD.US&back=HAP
+AVO	Mission Produce Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVO.US&back=HAP
+	Boralex Inc	
+FELE	Franklin Electric Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FELE.US&back=HAP
+	Fresnillo Plc	
+HMY	Harmony Gold Mining Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=HMY.US&back=HAP
+	Egypt Kuwait Holding Co Sae	
+	Kemira Oyj	
+	Kumba Iron Ore Ltd	
+	Metsa Board Oyj	
+	Indah Kiat Pulp & Paper Tbk Pt	
+	Inghams Group Ltd	
+	Mayr Melnhof Karton Ag	
+	Mol Hungarian Oil & Gas Plc	
+	Methanex Corp	
+	Neoenergia Sa	
+	Neoen Sa	
+	Nel Asa	
+	Navigator Co Sa/The	
+NG	Novagold Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NG.US&back=HAP
+	Vale Indonesia Tbk Pt	
+	Innergex Renewable Energy Inc	
+IPI	Intrepid Potash Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IPI.US&back=HAP
+ITRI	Itron Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ITRI.US&back=HAP
+EGO	Eldorado Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EGO.US&back=HAP
+	Energy Absolute Pcl	
+	Encavis Ag	
+	Enlight Renewable Energy Ltd	
+	Erg Spa	
+	Equinox Gold Corp	
+	Gubre Fabrikalari Tas	
+	Filo Mining Corp	
+	First Resources Ltd	
+	Genting Plantations Bhd	
+FPI	Farmland Partners Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FPI.US&back=HAP
+	Ballard Power Systems Inc	
+AY	Atlantica Sustainable Infrastructure Pl	/etf/ea/ETZCW.djhtm?c=1&etfid=AY.US&back=HAP
+	Astral Foods Ltd	
+	Grupa Azoty Sa	
+CSIQ	Canadian Solar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSIQ.US&back=HAP
+CRESY	Cresud Sacif Y A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRESY.US&back=HAP
+BVN	Cia De Minas Buenaventura Saa	/etf/ea/ETZCW.djhtm?c=1&etfid=BVN.US&back=HAP
+	Canfor Corp	
+	Centerra Gold Inc	
+3880.JP&back=HAP	Daio Paper Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3880.JP&back=HAP
+	Abou Kir Fertilizers & Chemical Industr	
+	Brasilagro - Co Brasileira De Proprieda	
+AMRC	Ameresco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMRC.US&back=HAP
+1898.HK&back=HAP	China Coal Energy Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1898.HK&back=HAP
+021240.KS&back=HAP	Coway Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=021240.KS&back=HAP
+1379.JP&back=HAP	Hokuto Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1379.JP&back=HAP
+	Industrias Penoles Sab De Cv	
+	Pennon Group Plc	
+	Polskie Gornictwo Naftowe I Gazownictwo	
+PRMW	Primo Water Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PRMW.US&back=HAP
+SPWR	Sunpower Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SPWR.US&back=HAP
+	Select Harvests Ltd	
+	Reliance Worldwide Corp Ltd	
+	Transalta Renewables Inc	
+SJW	Sjw Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SJW.US&back=HAP
+	Royal Bafokeng Platinum Ltd	
+	Petronas Dagangan Bhd	
+	Voltalia Sa	
+	Pabrik Kertas Tjiwi Kimia Tbk Pt	
+	Terna Energy Sa	
+	Ta Ann Holdings Bhd	
+	Verbio Vereinigte Bioenergie Ag	
+	Uniper Se	
+112610.KS&back=HAP	Cs Wind Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=112610.KS&back=HAP
+2314.HK&back=HAP	Lee & Man Paper Manufacturing Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2314.HK&back=HAP
+0297.HK&back=HAP	Sinofert Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0297.HK&back=HAP
+0371.HK&back=HAP	Beijing Enterprises Water Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0371.HK&back=HAP
+0323.HK&back=HAP	Maanshan Iron & Steel Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0323.HK&back=HAP
+0347.HK&back=HAP	Angang Steel Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0347.HK&back=HAP
+	Astra Agro Lestari Tbk Pt	
+	Csn Mineracao Sa	
+	Ceres Power Holdings Plc	
+	B Grimm Power Pcl	
+FCEL	Fuelcell Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FCEL.US&back=HAP
+	Eramet Sa	
+	Energix-Renewable Energies Ltd	
+	Dexco Sa	
+	Engie Brasil Energia Sa	
+	Japfa Ltd	
+	Itm Power Plc	
+	Perusahaan Perkebunan London Sumatra In	
+	Lundin Gold Inc	
+	Keppel Infrastructure Trust	
+	Kernel Holding Sa	
+	Nordex Se	

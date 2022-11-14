@@ -1,0 +1,102 @@
+OUSA
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=OUSA
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=OUSA
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=OUSA
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=OUSA
+SPGI	S&P Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=OUSA
+MMC	Marsh & McLennan Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=OUSA
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=OUSA
+TROW	T Rowe Price Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=OUSA
+MRK	Merck & Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=OUSA
+MCD	McDonald's Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=OUSA
+TXN	Texas Instruments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=OUSA
+PG	Procter & Gamble Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=OUSA
+SBUX	Starbucks Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=OUSA
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=OUSA
+CMCSA	Comcast Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=OUSA
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=OUSA
+UPS	United Parcel Service Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=OUSA
+V	Visa Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=OUSA
+LOW	Lowe's Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=OUSA
+ACN	Accenture PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=OUSA
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=OUSA
+UNH	UnitedHealth Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=OUSA
+KO	Coca-Cola Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=OUSA
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=OUSA
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=OUSA
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=OUSA
+UNP	Union Pacific Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=OUSA
+TJX	TJX Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=OUSA
+HON	Honeywell International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=OUSA
+BX	Blackstone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=OUSA
+LLY	Eli Lilly & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=OUSA
+LMT	Lockheed Martin Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=OUSA
+ITW	Illinois Tool Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=OUSA
+MCO	Moody's Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCO.US&back=OUSA
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=OUSA
+YUM	Yum! Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=OUSA
+BMY	Bristol-Myers Squibb Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=OUSA
+NOC	Northrop Grumman Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=OUSA
+BLK	BlackRock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=OUSA
+COST	Costco Wholesale Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=OUSA
+MSCI	MSCI Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSCI.US&back=OUSA
+MMM	3M Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=OUSA
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=OUSA
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=OUSA
+CB	Chubb Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=OUSA
+MA	Mastercard Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=OUSA
+INTC	Intel Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=OUSA
+FAST	Fastenal Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=OUSA
+NKE	NIKE Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=OUSA
+MDT	Medtronic PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=OUSA
+DG	Dollar General Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=OUSA
+TSCO	Tractor Supply Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=OUSA
+TGT	Target Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=OUSA
+CL	Colgate-Palmolive Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=OUSA
+CTSH	Cognizant Technology Solutions Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=OUSA
+GILD	Gilead Sciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=OUSA
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=OUSA
+ADP	Automatic Data Processing Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=OUSA
+GRMN	Garmin Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=OUSA
+ADI	Analog Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=OUSA
+GD	General Dynamics Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=OUSA
+PAYX	Paychex Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=OUSA
+MDLZ	Mondelez International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=OUSA
+NSC	Norfolk Southern Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=OUSA
+ORCL	Oracle Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=OUSA
+WM	Waste Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=OUSA
+TEL	TE Connectivity Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=OUSA
+ZTS	Zoetis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=OUSA
+HSY	Hershey Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=OUSA
+EMR	Emerson Electric Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=OUSA
+CSX	CSX Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=OUSA
+CMI	Cummins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=OUSA
+	Cash and Equivalents	
+KMB	Kimberly-Clark Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=OUSA
+EXPD	Expeditors International of Washington Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=OUSA
+APH	Amphenol Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=OUSA
+CAT	Caterpillar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=OUSA
+OTIS	Otis Worldwide Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=OUSA
+MO	Altria Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=OUSA
+GIS	General Mills Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=OUSA
+CTAS	Cintas Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=OUSA
+TT	Trane Technologies PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=OUSA
+IBM	International Business Machines Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=OUSA
+LHX	L3Harris Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=OUSA
+ETN	Eaton Corp. PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=OUSA
+MSI	Motorola Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=OUSA
+QCOM	QUALCOMM Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=OUSA
+BF.B	Brown-Forman Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=OUSA
+TSN	Tyson Foods Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=OUSA
+DHR	Danaher Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=OUSA
+CHRW	CH Robinson Worldwide Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=OUSA
+ADM	Archer-Daniels-Midland Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=OUSA
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=OUSA
+VRSK	Verisk Analytics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=OUSA
+ELV	Elevance Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=OUSA
+A	Agilent Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=OUSA
+EL	Estee Lauder Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=OUSA
+DGX	Quest Diagnostics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=OUSA
+CVS	CVS Health Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=OUSA
+GLW	Corning Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=OUSA
+TMO	Thermo Fisher Scientific Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=OUSA

@@ -1,0 +1,21 @@
+VHT
+UNH	UnitedHealth Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=VHT
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=VHT
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=VHT
+LLY	Eli Lilly & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=VHT
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=VHT
+MRK	Merck & Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=VHT
+TMO	Thermo Fisher Scientific Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=VHT
+DHR	Danaher Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=VHT
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=VHT
+BMY	Bristol-Myers Squibb Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=VHT
+CVS	CVS Health Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=VHT
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=VHT
+ELV	Anthem Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=VHT
+MDT	Medtronic plc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=VHT
+CI	Cigna Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=VHT
+GILD	Gilead Sciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=VHT
+ISRG	Intuitive Surgical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=VHT
+ZTS	Zoetis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=VHT
+VRTX	Vertex Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=VHT
+BDX	Becton Dickinson and Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=VHT

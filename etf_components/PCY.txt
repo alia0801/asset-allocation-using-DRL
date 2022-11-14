@@ -1,0 +1,99 @@
+PCY
+	Republic of Poland Government International Bond 3.25 04/06/2026	
+	Kuwait International Government Bond 3.5 03/20/2027	
+	Kazakhstan Government International Bond 6.5 07/21/2045	
+	Kazakhstan Government International Bond 4.88 10/14/2044	
+	Republic of Kenya Government International Bond 7.25 02/28/2028	
+	Republic of Kenya Government International Bond 8.25 02/28/2048	
+	Jordan Government International Bond 5.75 01/31/2027	
+	Guatemala Government Bond 4.88 02/13/2028	
+	Paraguay Government International Bond 4.7 03/27/2027	
+	Costa Rica Government International Bond 7 04/04/2044	
+	Jordan Government International Bond 5.85 07/07/2030	
+	Turkey Government International Bond 8 02/14/2034	
+	Costa Rica Government International Bond 5.62 04/30/2043	
+	Mongolia Government International Bond 5.12 04/07/2026	
+	Turkey Government International Bond 5.95 01/15/2031	
+	Oman Government International Bond 7 01/25/2051	
+	Oman Government International Bond 6.75 01/17/2048	
+	Costa Rica Government International Bond 7.16 03/12/2045	
+	Indonesia Government International Bond 7.75 01/17/2038	
+	Brazilian Government International Bond 5.62 01/07/2041	
+	Panama Government International Bond 3.16 01/23/2030	
+	Brazilian Government International Bond 5.62 02/21/2047	
+	Brazilian Government International Bond 4.75 01/14/2050	
+	Bahrain Government International Bond 6.25 01/25/2051	
+	Oman Government International Bond 6.5 03/08/2047	
+	Bahrain Government International Bond 7.5 09/20/2047	
+	Jordan Government International Bond 7.38 10/10/2047	
+	Mongolia Government International Bond 3.5 07/07/2027	
+	Guatemala Government Bond 3.7 10/07/2033	
+	Morocco Government International Bond 3 12/15/2032	
+	Panama Government International Bond 3.3 01/19/2033	
+	Mexico Government International Bond 6.05 01/11/2040	
+	Dominican Republic International Bond 7.45 04/30/2044	
+	Dominican Republic International Bond 6.85 01/27/2045	
+	Emirate of Dubai Government International Bonds 5.25 01/30/2043	
+	Turkey Government International Bond 6.88 03/17/2036	
+	Angolan Government International Bond 8.25 05/09/2028	
+	Dominican Republic International Bond 6.5 02/15/2048	
+	China Government International Bond 4 10/19/2048	
+	Chile Government International Bond 4.34 03/07/2042	
+	Bahrain Government International Bond 6 09/19/2044	
+	Panama Government International Bond 2.25 09/29/2032	
+	Philippine Government International Bond 3.7 03/01/2041	
+	Saudi Government International Bond 5 04/17/2049	
+	Qatar Government International Bond 5.1 04/23/2048	
+	Saudi Government International Bond 4.62 10/04/2047	
+	Guatemala Government Bond 4.65 10/07/2041	
+	Philippine Government International Bond 3.2 07/06/2046	
+	Republic of South Africa Government International Bond 7.3 04/20/2052	
+	Qatar Government International Bond 4.62 06/02/2046	
+	Saudi Government International Bond 4.5 10/26/2046	
+	Indonesia Government International Bond 6.75 01/15/2044	
+	Paraguay Government International Bond 6.1 08/11/2044	
+	Mexico Government International Bond 5.75 10/12/2110	
+	Mexico Government International Bond 4.6 01/23/2046	
+	Colombia Government International Bond 6.12 01/18/2041	
+	Mongolia Government International Bond 4.45 07/07/2031	
+	Chile Government International Bond 3.86 06/21/2047	
+	Republic of South Africa Government International Bond 6.3 06/22/2048	
+	Philippine Government International Bond 4.2 03/29/2047	
+	Colombia Government International Bond 7.38 09/18/2037	
+	Peruvian Government International Bond 5.62 11/18/2050	
+	Colombia Government International Bond 5.62 02/26/2044	
+	Chile Government International Bond 4 01/31/2052	
+	Qatar Government International Bond 4.82 03/14/2049	
+	Morocco Government International Bond 5.5 12/11/2042	
+	China Government International Bond 2.25 10/21/2050	
+	Angolan Government International Bond 9.12 11/26/2049	
+	Morocco Government International Bond 4 12/15/2050	
+	China Government International Bond 2.5 10/26/2051	
+	Paraguay Government International Bond 5.6 03/13/2048	
+	Peruvian Government International Bond 3.55 03/10/2051	
+	Hungary Government International Bond 5.5 06/16/2034	
+	Finance Department Government of Sharjah 4 07/28/2050	
+	Peruvian Government International Bond 3.6 01/15/2072	
+	Republic of South Africa Government International Bond 5.75 09/30/2049	
+	Indonesia Government International Bond 4.45 04/15/2070	
+	Egypt Government International Bond 8.5 01/31/2047	
+	Angolan Government International Bond 9.38 05/08/2048	
+	Egypt Government International Bond 7.9 02/21/2048	
+	Nigeria Government International Bond 7.62 11/28/2047	
+	Romanian Government International Bond 6.12 01/22/2044	
+	Nigeria Government International Bond 7.7 02/23/2038	
+	Nigeria Government International Bond 9.25 01/21/2049	
+	Romanian Government International Bond 5.12 06/15/2048	
+	El Salvador Government International Bond 6.38 01/18/2027	
+	Finance Department Government of Sharjah 4.38 03/10/2051	
+	El Salvador Government International Bond 8.62 02/28/2029	
+	Egypt Government International Bond 8.7 03/01/2049	
+	El Salvador Government International Bond 9.5 07/15/2052	
+	Hungary Government International Bond 7.62 03/29/2041	
+	Romanian Government International Bond 4 02/14/2051	
+	Hungary Government International Bond 3.12 09/21/2051	
+	Pakistan Government International Bond 6.88 12/05/2027	
+	Pakistan Government International Bond 6 04/08/2026	
+	Pakistan Government International Bond 8.25 09/30/2025	
+	Cash/Receivables/Payables 0	
+	Invesco Government & Agency Portfolio	

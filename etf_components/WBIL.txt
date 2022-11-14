@@ -1,0 +1,8 @@
+WBIL
+	Cash & Other	
+CAG	CONAGRA BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=WBIL
+HUM	HUMANA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=WBIL
+CSX	CSX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=WBIL
+NLSN	NIELSEN HLDGS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLSN.US&back=WBIL
+GIS	GENERAL MLS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=WBIL
+DVN	DEVON ENERGY CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=WBIL

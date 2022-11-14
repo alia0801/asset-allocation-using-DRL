@@ -1,0 +1,75 @@
+IPO
+ABNB	Airbnb	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=IPO
+SNOW	Snowflake	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=IPO
+DDOG	Datadog	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=IPO
+NET	Cloudflare	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=IPO
+BILL	Bill.com	/etf/ea/ETZCW.djhtm?c=1&etfid=BILL.US&back=IPO
+RPRX	Royalty Pharma	/etf/ea/ETZCW.djhtm?c=1&etfid=RPRX.US&back=IPO
+DASH	DoorDash	/etf/ea/ETZCW.djhtm?c=1&etfid=DASH.US&back=IPO
+LI	Li Auto	/etf/ea/ETZCW.djhtm?c=1&etfid=LI.US&back=IPO
+PLTR	Palantir Technologies	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTR.US&back=IPO
+RBLX	Roblox	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=IPO
+ZI	ZoomInfo Technologies	/etf/ea/ETZCW.djhtm?c=1&etfid=ZI.US&back=IPO
+BNTX	BioNTech	/etf/ea/ETZCW.djhtm?c=1&etfid=BNTX.US&back=IPO
+BEKE	KE Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=BEKE.US&back=IPO
+COIN	Coinbase Global	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=IPO
+CPNG	Coupang	/etf/ea/ETZCW.djhtm?c=1&etfid=CPNG.US&back=IPO
+XPEV	Xpeng	/etf/ea/ETZCW.djhtm?c=1&etfid=XPEV.US&back=IPO
+U	Unity Software	/etf/ea/ETZCW.djhtm?c=1&etfid=U.US&back=IPO
+DT	Dynatrace Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=DT.US&back=IPO
+BSY	Bentley Systems	/etf/ea/ETZCW.djhtm?c=1&etfid=BSY.US&back=IPO
+	Change Healthcare	
+PATH	UiPath	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=IPO
+NVST	Envista Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=NVST.US&back=IPO
+XP	XP	/etf/ea/ETZCW.djhtm?c=1&etfid=XP.US&back=IPO
+RIVN	Rivian Automotive	/etf/ea/ETZCW.djhtm?c=1&etfid=RIVN.US&back=IPO
+APP	AppLovin	/etf/ea/ETZCW.djhtm?c=1&etfid=APP.US&back=IPO
+HOOD	Robinhood Markets	/etf/ea/ETZCW.djhtm?c=1&etfid=HOOD.US&back=IPO
+YMM	Full Truck Alliance	/etf/ea/ETZCW.djhtm?c=1&etfid=YMM.US&back=IPO
+ACI	Albertsons Companies	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=IPO
+AFRM	Affirm Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=AFRM.US&back=IPO
+GFL	GFL Environmental	/etf/ea/ETZCW.djhtm?c=1&etfid=GFL.US&back=IPO
+AGL	agilon health	/etf/ea/ETZCW.djhtm?c=1&etfid=AGL.US&back=IPO
+GFS	GlobalFoundries	/etf/ea/ETZCW.djhtm?c=1&etfid=GFS.US&back=IPO
+PCOR	Procore Technologies	/etf/ea/ETZCW.djhtm?c=1&etfid=PCOR.US&back=IPO
+DNB	Dun & Bradstreet Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=DNB.US&back=IPO
+RYAN	Ryan Specialty Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=RYAN.US&back=IPO
+CFLT	Confluent	/etf/ea/ETZCW.djhtm?c=1&etfid=CFLT.US&back=IPO
+MQ	Marqeta	/etf/ea/ETZCW.djhtm?c=1&etfid=MQ.US&back=IPO
+DOCN	DigitalOcean	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCN.US&back=IPO
+OSH	Oak Street Health	/etf/ea/ETZCW.djhtm?c=1&etfid=OSH.US&back=IPO
+BZ	Kanzhun	/etf/ea/ETZCW.djhtm?c=1&etfid=BZ.US&back=IPO
+GTLB	GitLab	/etf/ea/ETZCW.djhtm?c=1&etfid=GTLB.US&back=IPO
+ZIM	ZIM Integrated Shipping Services	/etf/ea/ETZCW.djhtm?c=1&etfid=ZIM.US&back=IPO
+TXG	10x Genomics	/etf/ea/ETZCW.djhtm?c=1&etfid=TXG.US&back=IPO
+PTON	Peloton Interactive	/etf/ea/ETZCW.djhtm?c=1&etfid=PTON.US&back=IPO
+LU	Lufax Holding	/etf/ea/ETZCW.djhtm?c=1&etfid=LU.US&back=IPO
+EDR	Endeavor Group Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=EDR.US&back=IPO
+DLO	dLocal	/etf/ea/ETZCW.djhtm?c=1&etfid=DLO.US&back=IPO
+MRVI	Maravai LifeSciences	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVI.US&back=IPO
+BMBL	Bumble	/etf/ea/ETZCW.djhtm?c=1&etfid=BMBL.US&back=IPO
+OLPX	Olaplex Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=OLPX.US&back=IPO
+SHC	Sotera Health	/etf/ea/ETZCW.djhtm?c=1&etfid=SHC.US&back=IPO
+REYN	Reynolds Consumer Products	/etf/ea/ETZCW.djhtm?c=1&etfid=REYN.US&back=IPO
+NU	Nu Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=NU.US&back=IPO
+CNM	Core & Main	/etf/ea/ETZCW.djhtm?c=1&etfid=CNM.US&back=IPO
+XM	Qualtrics International	/etf/ea/ETZCW.djhtm?c=1&etfid=XM.US&back=IPO
+ASAN	Asana	/etf/ea/ETZCW.djhtm?c=1&etfid=ASAN.US&back=IPO
+MNDY	monday.com	/etf/ea/ETZCW.djhtm?c=1&etfid=MNDY.US&back=IPO
+PYCR	Paycor HCM	/etf/ea/ETZCW.djhtm?c=1&etfid=PYCR.US&back=IPO
+FRSH	Freshworks	/etf/ea/ETZCW.djhtm?c=1&etfid=FRSH.US&back=IPO
+WOOF	Petco Health and Wellness	/etf/ea/ETZCW.djhtm?c=1&etfid=WOOF.US&back=IPO
+ALGM	Allegro MicroSystems	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGM.US&back=IPO
+TWKS	Thoughtworks Holding	/etf/ea/ETZCW.djhtm?c=1&etfid=TWKS.US&back=IPO
+S	SentinelOne	/etf/ea/ETZCW.djhtm?c=1&etfid=S.US&back=IPO
+PLTK	Playtika Holding	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTK.US&back=IPO
+TPG	TPG	/etf/ea/ETZCW.djhtm?c=1&etfid=TPG.US&back=IPO
+LEGN	Legend Biotech	/etf/ea/ETZCW.djhtm?c=1&etfid=LEGN.US&back=IPO
+	Cash/Other	
+INFA	Informatica	/etf/ea/ETZCW.djhtm?c=1&etfid=INFA.US&back=IPO
+HTZ	Hertz Global Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=HTZ.US&back=IPO
+ONON	On Holding	/etf/ea/ETZCW.djhtm?c=1&etfid=ONON.US&back=IPO
+DOCS	Doximity	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCS.US&back=IPO
+BLCO	Bausch + Lomb	/etf/ea/ETZCW.djhtm?c=1&etfid=BLCO.US&back=IPO
+HCP	HashiCorp	/etf/ea/ETZCW.djhtm?c=1&etfid=HCP.US&back=IPO
+OZON	Ozon Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=OZON.US&back=IPO

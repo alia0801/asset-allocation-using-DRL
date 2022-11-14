@@ -1,0 +1,21 @@
+VIG
+UNH	UnitedHealth Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=VIG
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=VIG
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=VIG
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=VIG
+PG	Procter & Gamble Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=VIG
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=VIG
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=VIG
+MA	Mastercard Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=VIG
+KO	Coca-Cola Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=VIG
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=VIG
+COST	Costco Wholesale Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=VIG
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=VIG
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=VIG
+MCD	McDonald's Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=VIG
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=VIG
+ACN	Accenture plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=VIG
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=VIG
+NEE	NextEra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=VIG
+CMCSA	Comcast Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=VIG
+TXN	Texas Instruments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=VIG

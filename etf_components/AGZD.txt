@@ -1,0 +1,2434 @@
+AGZD
+	Citi Triparty Repo WisdomTree	
+	US Treasury N/B 2.875% 5/15/2032	
+	US Treasury Note 2.625% 2/15/2029	
+	US Treasury N/B 2.875% 5/15/2052	
+	US Treasury Bond 1.875% 2/15/2051	
+	US Treasury N/B 0.625% 11/30/2027	
+	US Treasury N/B 0.875% 9/30/2026	
+	US Treasury Note 3% 5/15/2047	
+	US Treasury Note 2.875% 11/15/2046	
+	US Treasury Note 3.125% 2/15/2043	
+	US Treasury Note 0.25% 10/31/2025	
+	US Treasury Note 0.625% 8/15/2030	
+	US Treasury Note 0.875% 11/15/2030	
+	US Treasury N/B 1.25% 11/30/2026	
+	US Treasury N/B 0.5% 6/30/2027	
+	US Treasury Note 3% 05/15/2045	
+	Us Treasury N/B 1.25% 8/15/2031	
+	US Treasury N/B 1.875% 2/28/2029	
+	US Treasury N/B 0.875% 1/31/2024	
+	US Treasury N/B 0.625% 10/15/2024	
+	US Treasury Note 2.875% 8/15/2028	
+	US Treasury Note 0.375% 12/31/2025	
+	Fannie Mae 1.875% 9/24/2026	
+	US Treasury N/B 0.25% 6/15/2024	
+	US Treasury N/B 0.75% 12/31/2023	
+	US Treasury N/B 1.5% 11/30/2028	
+	US Treasury Note 0.125% 2/15/2024	
+	US Treasury Bond 4.375% 5/15/2040	
+	US Treasury Note 3.625% 2/15/2044	
+	FNCL 3.5% 9/15 TBA	
+	US Treasury N/B 2.25% 3/31/2024	
+	US Treasury Note 3.375% 5/15/2044	
+	US Treasury Note 4.75% 2/15/2037	
+	US Treasury N/B 1.25% 12/31/2026	
+	FN MA4182 2% 11/1/2050	
+	US Treasury N/B 1% 12/15/2024	
+	Freddie Mac 6.25% 7/15/2032	
+	US Treasury N/B 0.5% 11/30/2023	
+	US Treasury N/B 0.375% 4/15/2024	
+	US Treasury Note 0.125% 1/15/2024	
+	US Treasury Note 2.875% 5/15/2028	
+	US Treasury Note 2.25% 11/15/2025	
+	US Treasury Note 2% 8/15/2025	
+	US Treasury N/B 3.25% 5/15/2042	
+	US Treasury N/B 0.25% 3/15/2024	
+	US Treasury N/B 0.25% 5/15/2024	
+	US Treasury N/B 0.75% 4/30/2026	
+	US Treasury N/B 0.75% 5/31/2026	
+	FN MA4119 2% 9/1/2050	
+	Fr Sd8177 2% 11/1/2051	
+	FN BQ9685 2% 1/1/2051	
+	FN FM8745 2.5% 9/1/2051	
+	Us Treasury N/B 1.25% 4/30/2028	
+	US Treasury N/B 2.5% 3/31/2027	
+	US Treasury Note 3.125% 11/15/2028	
+	US Treasury Notes 2.25%	
+	US Treasury N/B 1.5% 2/15/2025	
+	US Treasury N/B 0.5% 5/31/2027	
+	US Treasury N/B 0.375% 8/15/2024	
+	US Treasury N/B 1.25% 5/31/2028	
+	G2 Ma7767 2.5% 12/20/2051	
+	Nike Inc 2.4% 3/27/2025	
+	FR SD8167 2.5% 9/1/2051	
+	FN MA4399 2.5% 8/1/2051	
+	FN FM6184 2% 3/1/2051	
+	FN BR4094 2% 1/1/2051	
+	Morgan Stanley 4.35% 9/8/2026	
+	US Treasury N/B 1.5% 2/29/2024	
+	US Treasury N/B 0.375% 10/31/2023	
+	US Treasury N/B 0.75% 11/15/2024	
+	US Treasury N/B 1% 7/31/2028	
+	US Treasury Note 2.5% 5/15/2024	
+	US Treasury Note 1.625% 2/15/2026	
+	US Treasury Note 2.75% 11/15/2023	
+	US Treasury N/B 0.375% 7/15/2024	
+	US Treasury N/B 1.75% 1/31/2029	
+	US Treasury N/B 2.875% 6/15/2025	
+	US Treasury N/B 2.625% 7/31/2029	
+	US Treasury Note 0.25% 8/31/2025	
+	FN MA4208 2% 12/1/2050	
+	FNCL 3% 9/15 TBA	
+	FNCL 4.5% 9/15 TBA	
+	US Treasury N/B 2.625% 4/15/2025	
+	US Treasury N/B 1.875% 6/30/2026	
+	US Treasury N/B 2.5% 4/30/2024	
+	US Treasury Note 2.75% 2/28/2025	
+	US Treasury Note 2.25% 11/15/2024	
+	Intl Bk Recon & Develop 2.5% 7/29/2025	
+	G2 MA7828 3% 1/20/2052	
+	G2SF 4 9/14 TBA	
+	G2 MA7135 2% 1/20/2051	
+	G2 MA7704 2% 11/20/2051	
+	Intl Bk Recon & Develop 0.625% 4/22/2025	
+	US Treasury Note 2.375% 5/15/2027	
+	US Treasury N/B 1.625% 8/15/2029	
+	US Treasury N/B 2.75% 5/15/2025	
+	US Treasury N/B 2.75% 5/31/2029	
+	US Treasury N/B 2.875% 4/30/2029	
+	Us Treasury Note 0.125% 12/15/2023	
+	US Treasury Note 0.125% 9/15/2023	
+	US Treasury Note 0.5% 8/31/2027	
+	US Treasury N/B 0.375% 9/15/2024	
+	US Treasury N/B 0.5% 10/31/2027	
+	FR RA5286 2.5% 5/1/2051	
+	FN CB0415 2.5% 5/1/2051	
+	FN CA8132 2.5% 12/1/2050	
+	FN FM7943 2% 7/1/2051	
+	FR RA5256 2% 5/1/2051	
+	FR RA6507 2% 12/1/2051	
+	FNCL 4% 9/15 TBA	
+	FN MA4255 2% 2/1/2051	
+	Asian Development Bank 1.5% 10/18/2024	
+	US Treasury N/B 1.125% 1/15/2025	
+	US Treasury Bond 1.375% 8/15/2050	
+	Us Treasury N/B 2.875% 5/15/2049	
+	US Treasury N/B 1.25% 6/30/2028	
+	US Treasury Note 2.375% 8/15/2024	
+	G2 MA7052 2.5% 12/20/2050	
+	FR SD8199 2% 3/1/2052	
+	General Motors Finl Co 4.35% 4/9/2025	
+	Goldman Sachs Group Inc 3% 3/15/2024	
+	G2 MA4261 3% 2/20/2047	
+	General Electric Co 6.75% 3/15/2032	
+	Mondelez International 2.125% 3/17/2024	
+	US Treasury Note 1.625% 5/15/2026	
+	US Treasury N/B 2.5% 5/31/2024	
+	US Treasury Note 0.5% 02/28/2026	
+	Enterprise Products Oper 4.25% 2/15/2048	
+	FN MA4305 2% 4/1/2051	
+	FR SD0792 2% 12/1/2051	
+	FR SB8088 1.5% 2/1/2036	
+	FR QO0110 2% 4/1/2037	
+	FN FM9042 4% 11/1/2048	
+	FN FS0631 3% 2/1/2052	
+	Charter Comm Opt LLC/Cap 2.3% 2/1/2032	
+	Abbvie Inc 2.95% 11/21/2026	
+	US Treasury N/B 2.375% 3/31/2029	
+	US Treasury N/B 1.75% 3/15/2025	
+	US Treasury N/B 0.375% 7/31/2027	
+	US Treasury Note 2.125% 5/15/2025	
+	Italy Govt 5.375% 06/15/2033	
+	KFW 2.625% 2/28/2024	
+	Georgia-Pacific LLC 8% 1/15/2024	
+	Govt Nat Mort A 4.5%	
+	G2 MA7534 2.5% 8/20/2051	
+	G2 MA6994 2% 11/20/2050	
+	Inter-American Devel Bk 0.625% 7/15/2025	
+	US Treasury Note 0.25% 7/31/2025	
+	US Treasury Note 1.5% 2/15/2030	
+	US Treasury Note 1.5% 8/15/2026	
+	US Treasury Bond 1.25% 5/15/2050	
+	US TREASURY N/B 10/23 0.125	
+	US Treasury Note 0.5% 3/31/2025	
+	US Treasury Note 0.625% 3/31/2027	
+	Panama Govt 8.875% 9/30/2027	
+	Avalonbay Communities 2.3% 3/1/2030	
+	Avnet Inc 3% 5/15/2031	
+	FN FS0547 2.5% 2/1/2052	
+	FR SB8510 2% 2/1/2036	
+	FR SD0847 2.5% 2/1/2052	
+	FN MA4517 2.5% 1/1/2037	
+	FR SD8146 2% 5/1/2051	
+	FR SD7518 3% 6/1/2050	
+	FR SD8128 2% 2/1/2051	
+	Asian Infrastructure Inv 2.25% 5/16/2024	
+	CGCMT 2016-GC36 A4 3.349% 2/10/2049	
+	Citigroup Inc 6.625% 6/15/2032	
+	Pacific Gas & Electric 2.5% 2/1/2031	
+	Shell International Fin 3.25% 5/11/2025	
+	US Treasury Note 0.375% 4/30/2025	
+	US Treasury N/B 3% 10/31/2025	
+	US Treasury N/B 3% 9/30/2025	
+	US Treasury N/B 1.875% 2/28/2027	
+	US Treasury N/B 2.375% 4/30/2026	
+	US Treasury N/B 2.5% 2/28/2026	
+	US Treasury N/B 2.625% 1/31/2026	
+	US Treasury N/B 2.625% 12/31/2025	
+	US Treasury N/B 1.625% 11/30/2026	
+	US Treasury Note 1.5% 11/30/2024	
+	US Treasury Note 1.75% 7/31/2024	
+	US Treasury Note 1.875% 8/31/2024	
+	US Treasury Note 2% 2/15/2025	
+	US Treasury Note 2.125% 7/31/2024	
+	US Treasury Note 2% 6/30/2024	
+	US Treasury Note 2.125% 11/30/2024	
+	US Treasury Notes 2% 11/15/2026	
+	Kinder Morgan Inc/Delaware 5.3% 12/1/2034	
+	Laboratory Corp Of Amer 2.3% 12/1/2024	
+	Landwirtsch. Rentenbank 1.75% 7/27/2026	
+	Woart 2020-B A4 0.82% 1/15/2026	
+	Kansas City Southern 4.95% 8/15/2045	
+	Marriott International 3.5% 10/15/2032	
+	G2 MA7136 2.5% 1/20/2051	
+	G2 MA7255 2.5% 3/20/2051	
+	FR ZS9935 3% 2/1/2047	
+	Honeywell International 2.7% 8/15/2029	
+	Goldman Sachs Group Inc 3.615% 3/15/2028	
+	Goldman Sachs Group Inc 3.8% 3/15/2030	
+	Wells Fargo & Company 3% 4/22/2026	
+	US Treasury N/B 1.25% 9/30/2028	
+	Us Treasury N/B 1.125% 8/31/2028	
+	US Treasury N/B 1.875% 7/31/2026	
+	US Treasury N/B 2.75% 4/30/2027	
+	US Treasury Note 0.375% 11/30/2025	
+	US Treasury Note 1.125% 2/28/2025	
+	US Treasury N/B 0.25% 11/15/2023	
+	US Treasury N/B 1.125% 10/31/2026	
+	US Treasury N/B 0.75% 8/31/2026	
+	Sumitomo Mitsui Finl Grp 2.142% 9/23/2030	
+	Tenn Valley Authority 5.25% 9/15/2039	
+	U.S. Treasury Note 0.25% 6/30/2025	
+	Cigna Corp 3.05% 10/15/2027	
+	Dupont De Nemours Inc 5.319% 11/15/2038	
+	FR SD8149 1.5% 6/1/2051	
+	FR RA3328 2% 8/1/2050	
+	FR RA6815 2.5% 2/1/2052	
+	FR QD9881 3% 3/1/2052	
+	FNCL 5% 9/14	
+	FN FM9871 2.5% 12/1/2051	
+	FN BU7103 2% 12/1/2051	
+	FN CB2312 2.5% 12/1/2051	
+	FN AE5463 4% 10/1/2040	
+	Exxon Mobil Corporation 4.327% 3/19/2050	
+	Fed HM LN PC Pool RA6621 2.5% 1/1/2052	
+	FN BT0240 2% 9/1/2051	
+	FN BQ4410 2.5% 1/1/2051	
+	Amgen Inc 4.663% 6/15/2051	
+	Axa Equitable Holdings Inc 4.35% 4/20/2028	
+	Boeing Co 3.825% 3/1/2059	
+	Target Corp 2.5% 4/15/2026	
+	Owl Rock Core Income Cor 5.5% 3/21/2025	
+	Oracle Corp 4% 11/15/2047	
+	US Treasury N/B 1.125% 2/28/2027	
+	US Treasury N/B 0.625% 7/31/2026	
+	US Treasury Bond 2.75% 11/15/2042	
+	US Treasury N/B 0.25% 9/30/2023	
+	US Treasury Note 2.25% 12/31/2023	
+	US Treasury Note 1.625% 9/30/2026	
+	FR SD8196 3.5% 2/1/2052	
+	G2 MA6820 3% 8/20/2050	
+	G2 MA7471 2% 7/20/2051	
+	G2 MA7366 2% 5/20/2051	
+	KFW 0.625% 1/22/2026	
+	Intl Finance Corp 1.375% 10/16/2024	
+	JPMorgan Chase & Co 2.005% 3/13/2026	
+	G2 MA7589 2.5% 9/20/2051	
+	G2 Ma7254 2% 3/20/2051	
+	Halliburton Co 4.5% 11/15/2041	
+	US Treasury Note 1.75% 11/15/2029	
+	US Treasury Note 1.5% 9/30/2024	
+	US Treasury Note 2.25% 11/15/2027	
+	US Treasury Note 2.25% 02/15/2027	
+	US Treasury Note 2.25% 1/31/2024	
+	US Treasury Note 2.125% 3/31/2024	
+	US Treasury Note 2.375% 5/15/2029	
+	US Treasury Note 3.75% 11/15/2043	
+	US Treasury Note 2.75% 2/15/2024	
+	Univ Southern Califoria 3.841% 10/1/2047	
+	US Treasury N/B 1.25% 8/31/2024	
+	Rogers Communications Inc 3.2% 3/15/2027	
+	S&P Global Inc 4.75% 8/1/2028	
+	Equinor Asa 3.625% 9/10/2028	
+	Equinor Asa 3.7% 3/1/2024	
+	FN CA8498 2.5% 1/1/2051	
+	FN CB2868 2.5% 2/1/2052	
+	FN CB0711 1.5% 6/1/2051	
+	FN FM6852 2% 5/1/2051	
+	FN FM6550 2% 3/1/2051	
+	Fannie Mae 7.25% 5/15/2030	
+	FNCI 3 9/14 TBA	
+	FN MA4437 2% 10/1/2051	
+	FNA 2020-M1 A2 2.444% 10/25/2029	
+	FN MA4256 2.5% 2/1/2051	
+	FN MA4120 2.5% 9/1/2050	
+	FR RA3575 2% 9/1/2050	
+	FR SD8113 2% 12/1/2050	
+	FHMS K069 A2 3.187% 9/25/2027	
+	FHMS K131 A2 1.853% 7/25/2031	
+	FN FM6555 2% 4/1/2051	
+	FN FM4222 2.5% 9/1/2050	
+	FN FM4969 2% 12/1/2050	
+	FN FS1621 2% 7/01/2051	
+	FN FS1838 3% 12/1/2051	
+	Citigroup Inc 3.98% 3/20/2030	
+	Comcast Corp 3.969% 11/1/2047	
+	Berkshire Hathaway Fin 1.85% 3/12/2030	
+	Blackstone Private Cre 4.7% 3/24/2025	
+	British Telecom Plc 9.125% 12/15/2030	
+	Bank Of America Corp 1.922% 10/24/2031	
+	Bank of America Corp 3.419% 12/20/2028	
+	Union Pacific Corp 3.839% 3/20/2060	
+	United Mexican States 5.75% 10/12/2110	
+	Republica Orient Uruguay 4.975% 4/20/2055	
+	US Treasury N/B 2% 8/15/2051	
+	US Treasury Bond 2.375% 11/15/2049	
+	Verisk Analytics Inc 4.125% 3/15/2029	
+	US Treasury Note 3.75% 8/15/2041	
+	Us Treasury Note 2.875% 8/15/2045	
+	US Treasury Note 3% 2/15/2048	
+	US Treasury Note 2.75% 6/30/2025	
+	US Treasury Note 2.125% 2/29/2024	
+	US Treasury Note 2.25% 12/31/2024	
+	US Treasury Note 1.625% 10/31/2023	
+	US Treasury Note 1.375% 8/31/2026	
+	US Treasury Note 1.375% 9/30/2023	
+	US Treasury Note 2% 4/30/2024	
+	Gilead Sciences Inc 4.5% 2/1/2045	
+	G2 MA7588 2% 9/20/2051	
+	G2 MA7417 2% 6/20/2051	
+	G2 MA7472 2.5% 7/20/2051	
+	G2 MA7827 2.5% 1/20/2052	
+	G2 MA6819 2.5% 8/20/2050	
+	FR ZL3242 3.5% 6/1/2042	
+	GNMA MA3662 3% 5/20/2046	
+	GSK Consumer Healthcare 3.024% 3/24/2024	
+	GSK Consumer Healthcare 3.125% 3/24/2025	
+	IBM Corp 4% 6/20/2042	
+	Lloyds Banking Group Plc 4.716% 8/11/2026	
+	Microsoft Corp 2.525% 6/1/2050	
+	Morgan Stanley 2.72% 7/22/2025	
+	US Treasury Note 1.75% 6/30/2024	
+	US Treasury Note 2.25% 4/30/2024	
+	US Treasury Note 2.75% 8/31/2025	
+	US Treasury Note 3.125% 2/15/2042	
+	US Treasury Note 5.25% 2/15/2029	
+	US Treasury Note 6.25% 5/15/2030	
+	US Treasury Note 6.875% 8/15/2025	
+	US Bancorp 2.375% 7/22/2026	
+	Unitedhealth Group Inc 5.95% 2/15/2041	
+	US TREASURY N/B 1.5% 10/31/2024	
+	US Treasury Note 1.375% 1/31/2025	
+	US Treasury N/B 2.875% 11/30/2025	
+	Peco Energy Co 2.8% 6/15/2050	
+	Telefonica Europe BV 8.25% 9/15/2030	
+	Bank Of America Corp 1.197% 10/24/2026	
+	AT&T Inc 4.35% 06/15/2045	
+	Asian Development Bank 1.625% 3/15/2024	
+	Arizona Public Service 2.6% 8/15/2029	
+	Ally Financial Inc 8% 11/1/2031	
+	Coca-Cola Co/The 2.125% 9/6/2029	
+	Citigroup Inc 3.29% 3/17/2026	
+	Duke Energy Corp 3.15% 08/15/27	
+	CVS Health Corp 4.875% 7/20/2035	
+	FN FM6024 2.5% 2/1/2051	
+	FN CB1382 2.5% 8/1/2051	
+	FN CA8043 2.5% 12/1/2050	
+	FN CA7224 2% 10/1/2050	
+	FN BQ3023 2% 10/1/2050	
+	FHMS K072 A1 3.252% 11/25/2027	
+	FN AU3735 3% 8/1/2043	
+	FN BM4622 4% 9/1/2048	
+	FN BM3779 3.5% 5/1/2046	
+	FHLMC ZS4677 3% 9/1/2046	
+	FR SD8193 2% 2/1/2052	
+	FR QA5519 3% 12/1/2049	
+	FN MA4442 2% 10/1/2036	
+	Wells Fargo & Company 5.013% 4/4/2051	
+	Western Union Co/The 2.75% 3/15/2031	
+	FN MA4536 2% 2/1/2037	
+	FN MA4602 2% 5/1/2037	
+	FN MA4209 1.5% 12/1/2050	
+	FN MA4181 1.5% 11/1/2050	
+	FNA 2019-M4 A2 3.61% 2/25/2031	
+	FR RA3528 2.5% 9/1/2050	
+	FR RA5257 2% 5/1/2051	
+	FR RA4454 2% 2/1/2051	
+	Fr Ra5832 2.5% 9/1/2051	
+	FR RA6025 2% 10/1/2051	
+	FR RA5040 2% 4/1/2051	
+	FR SD8160 2% 8/1/2051	
+	FR SD8172 2% 10/1/2051	
+	FR SD8121 2% 1/1/2051	
+	FR SD0659 3% 7/1/2051	
+	FR SD0717 2.5% 9/1/2051	
+	FR SB8111 2% 7/1/2036	
+	FR SB0424 2% 10/1/2035	
+	FN BO4657 2.5% 11/1/2049	
+	FN BC4777 2.5% 10/1/2031	
+	FN CA4022 3.5% 8/1/2049	
+	FN CA7136 2% 9/1/2035	
+	FN CB1131 2.5% 7/1/2051	
+	FN CB3364 3% 4/1/2052	
+	FN FM2881 2.5% 4/1/2050	
+	FN FM6097 1.5% 3/1/2051	
+	FN FM6765 3.5% 4/1/2050	
+	Comm 2015-Cr26 A4 3.63% 10/10/2048	
+	Comcast Corp 4.049% 11/1/2052	
+	CA TXB-Var Purp 7.55% 04/01/2039	
+	Anheuser-Busch Inbev Wor 4.6% 4/15/2048	
+	Anheuser-Busch Inbev Wor 4.9% 1/23/2031	
+	Bank of Montreal 2.15% 3/8/2024	
+	BB&T Corporation 2.85% 10/26/2024	
+	S&P Global Inc 2.9% 3/1/2032	
+	Southern Cal Edison 4.65% 10/01/2043	
+	Oracle Corp 2.65% 7/15/2026	
+	Republic Of Peru 4.125% 8/25/2027	
+	Public Service Electric 3.6% 12/1/2047	
+	US Treasury N/B 1.75% 12/31/2024	
+	Verizon Communications 3.4% 3/22/2041	
+	Walgreens Boots Alliance 3.8% 11/18/2024	
+	US Treasury Note 3% 5/15/2042	
+	US Treasury Note 2.875% 9/30/2023	
+	US Treasury Note 2.875% 10/31/2023	
+	US Treasury Note 2.875% 11/30/2023	
+	US Treasury Note 2.5% 1/31/2024	
+	US Treasury Note 2.625% 12/31/2023	
+	US Treasury Note 2.375% 2/29/2024	
+	US Treasury Note 2.25% 10/31/2024	
+	US Treasury Note 2.125% 11/30/2023	
+	US Treasury Note 2.125% 9/30/2024	
+	Morgan Stanley 3.591% 7/22/2028	
+	MSBAM 2017-C33 A5 3.599% 5/15/2050	
+	National Bank of Canada 3.75% 6/9/2025	
+	Key Bank Na 4.15% 8/8/2025	
+	Keycorp 4.15% 10/29/2025	
+	Hess Corp 7.875% 10/1/2029	
+	G2 AJ9334 3.5% 10/20/2044	
+	G2 MA6995 2.5% 11/20/2050	
+	G2SF 3.5 9/14 TBA	
+	G2 MA7648 2% 10/20/2051	
+	G2 MA7766 2% 12/20/2051	
+	G2 MA7826 2% 1/20/2052	
+	G2 MA7590 3% 9/20/2051	
+	G2 MA7591 3.5% 9/20/2051	
+	G2 MA6153 3% 9/20/2049	
+	G2 MA6218 3% 10/20/2049	
+	FR ZS4703 3% 2/1/2047	
+	Harot 2022-1 A3 1.88% 5/15/2026	
+	Georgia Power Company 4.3% 3/15/2043	
+	JPMorgan Chase & Co 0.563% 2/16/2025	
+	Intl Bk Recon & Develop 2.5% 11/25/2024	
+	Morgan Stanley 3.772% 1/24/2029	
+	NYU Hospitals Center 4.784% 7/1/2044	
+	Oekb Oest. Kontrollbank 3.125% 11/7/2023	
+	Magallanes Inc 4.054% 3/15/2029	
+	Mass General Brigham Inc 3.192% 7/1/2049	
+	McDonald's Corp 3.7% 2/15/2042	
+	US Treasury Note 2.75% 11/15/2047	
+	US Treasury Note 2.875% 5/31/2025	
+	US Treasury Note 4.375% 2/15/2038	
+	US Treasury Notes 3% 2/15/2047	
+	US Treasury N/B 1.625% 10/31/2026	
+	US Treasury Bond 5.375% 2/15/2031	
+	S&P Global Inc 2.45% 3/1/2027	
+	Republic of Panama 7.125% 1/29/2026	
+	Orlando Health Obl Grp 3.327% 10/1/2050	
+	Philip Morris Intl Inc 2.1% 5/1/2030	
+	Santander UK Group Hldgs 1.089% 3/15/2025	
+	Synchrony Financial 5.15% 3/19/2029	
+	Boeing Co 5.15% 5/1/2030	
+	American Express Co 3% 10/30/2024	
+	Air Lease Corp 3.625% 12/1/2027	
+	Citigroup Inc 4.45% 9/29/2027	
+	Citigroup Inc 4.65% 7/23/2048	
+	FN FM5497 2% 12/1/2035	
+	FN FS0630 3% 2/1/2052	
+	FN BT7183 2.5% 8/1/2051	
+	FN BR7796 2% 4/1/2051	
+	FHMS K-1516 A1 1.238% 1/25/2035	
+	FN AE0828 3.5% 2/1/2041	
+	FR RB5141 2% 1/1/2042	
+	FR SD0590 3.5% 8/1/2049	
+	FR SD7502 3.5% 7/1/2049	
+	FR SD8139 1.5% 4/1/2051	
+	FR QN9521 1.5% 2/1/2037	
+	FR QA8967 3% 4/1/2050	
+	FN MA4095 2% 8/1/2035	
+	FN MA4205 1.5% 12/1/2035	
+	FN MA4474 2% 11/1/2041	
+	FN MA4325 2% 5/1/2051	
+	FNMA AE0411 4.5% 9/1/2040	
+	FR QN9700 1.5% 3/1/2037	
+	FR RB5108 2% 4/1/2041	
+	FR RB5121 2% 7/1/2041	
+	FR RA5258 2% 5/1/2051	
+	FR QC7457 2.5% 9/1/2051	
+	FR QC9547 2.5% 10/1/2051	
+	FR SD7504 3.5% 8/1/2049	
+	FR SB8078 1.5% 12/1/2035	
+	FR SD0844 3.5% 7/1/2047	
+	FR SB0301 2.5% 4/1/2035	
+	FR SB0571 2% 10/1/2036	
+	FR SD0185 3% 12/1/2049	
+	FR SD0298 3% 11/1/2048	
+	FR SB8128 2% 11/1/2036	
+	FN AL5376 4% 5/1/2044	
+	FN 310104 5.5% 8/1/2037	
+	FN BP5878 2.5% 6/1/2050	
+	FHMS K053 A2 2.995% 12/25/2025	
+	FN BU5917 2.5% 12/1/2051	
+	FN CA1909 4.5% 6/1/2048	
+	FN CA1191 3.5% 11/1/2047	
+	FN CA1545 4% 4/1/2048	
+	FN CA6073 2.5% 6/1/2050	
+	FN CA6799 2% 8/1/2050	
+	FN CA8817 2% 2/1/2051	
+	FN CB2621 2.5% 1/1/2052	
+	FN CB0458 2.5% 5/1/2051	
+	FN CB0684 2% 6/1/2051	
+	FN FS1327 1.5% 6/1/2036	
+	FN FS1340 2.5% 3/1/2052	
+	FN FS0016 4% 6/1/2049	
+	FN MA3240 4.5% 1/1/2048	
+	FN FM6288 3% 2/1/2051	
+	FN FM8276 3% 7/1/2051	
+	Comm 2014-Cr17 A5 3.977% 5/10/2047	
+	Charter Comm Opt LLC/Cap 5.05% 3/30/2029	
+	Cred Suis Gp Fun Ltd 4.55% 4/17/2026	
+	Credit Suisse New York 5% 7/9/2027	
+	AerCap Ireland Cap/Globa 4.875% 1/16/2024	
+	3M Company 2.25% 9/19/2026	
+	Altria Group Inc 5.375% 1/31/2044	
+	Anheuser-Busch Inbev Fin 4% 1/17/2043	
+	American Water Capital C 2.95% 09/01/27	
+	Asian Development Bank 0.625% 4/29/2025	
+	BBCMS 2019-C5 ASB 2.99% 11/15/2052	
+	BMark 2018-B8 A4 3.9628% 1/15/2052	
+	Bmark 2021-B24 A2 1.9533% 3/15/2054	
+	AT&T Inc 4.3% 12/15/2042	
+	Banco Bilbao Vizcaya Arg 0.875% 9/18/2023	
+	Banco Santander Sa 5.294% 8/18/2027	
+	Toronto-Dominion Bank 4.456% 6/8/2032	
+	Sherwin-Williams Co 4.05% 8/8/2024	
+	Sherwin-Williams Co 4.25% 8/8/2025	
+	State Street Corp 4.421% 5/13/2033	
+	Philippines Govt 3.95% 1/20/2040	
+	Parker-Hannifin Corp 4.25% 9/15/2027	
+	Peacehealth Obligated Gr 4.787% 11/15/2048	
+	OKLAHOMA ST DEV FIN AUTH OKSDEV 05/37 FIXED 3.877	
+	Oracle Corp 2.3% 3/25/2028	
+	Public Service Colorado 3.6% 9/15/2042	
+	US Treasury Bond 3.125% 08/15/2044	
+	United Technologies Corp 4.05% 5/4/2047	
+	US Treasury N/B 2.125% 5/31/2026	
+	US Treasury Note 4.5% 5/15/2038	
+	US Treasury Note 4.75% 2/15/2041	
+	US Treasury Note 2.875% 4/30/2025	
+	US Treasury Note 2.5% 5/15/2046	
+	Mayo Clinic 3.196% 11/15/2061	
+	Mitsubishi UFJ Fin Grp 4.315% 4/19/2033	
+	Morgan Stanley 4.21% 4/20/2028	
+	Intl Bk Recon & Develop 3.125% 6/15/2027	
+	John Deere Capital Corp 3.4% 6/6/2025	
+	Lloyds Banking Group Plc 4.976% 8/11/2033	
+	Los Angeles Arpts-A 4.242% 5/15/2048	
+	Lloyds Banking Group Plc 1.627% 5/11/2027	
+	Landwirtsch. Rentenbank 0.875% 9/3/2030	
+	Lloyds Banking Group Plc 3.9% 3/12/2024	
+	Korea Development Bank 3% 1/13/2026	
+	Goldman Sachs Group Inc 4.482% 8/23/2028	
+	HSBC Holdings Plc 4.95% 3/31/2030	
+	Hsbc Holdings Plc 5.402% 8/11/2033	
+	FR ZS4646 3% 1/1/2046	
+	G2 MA3376 3.5% 1/20/2046	
+	G2 MA5527 3.5% 10/20/2048	
+	G2 MA6866 3% 9/20/2050	
+	G2 MA7054 3.5% 12/20/2050	
+	G2 MA7312 2.5% 4/20/2051	
+	G2 MA7051 2% 12/20/2050	
+	GATX Corp 3.5% 6/1/2032	
+	G2 Ma7935 2% 3/20/2052	
+	G2 MA7936 2.5% 3/20/2052	
+	G2 MA6476 4% 2/20/2050	
+	G2 Ma6709 2.5% 6/20/2050	
+	G2 MA5019 3.5% 2/20/2048	
+	G2 MA0533 3% 11/20/2042	
+	G2 MA0783 3.5% 2/20/2043	
+	G2 MA2303 3.5% 10/20/2044	
+	FR ZT0179 3.5% 11/1/2047	
+	Honeywell International 3.812% 11/21/2047	
+	General Motors Co 6.75% 4/1/2046	
+	GNMA MA5018 3% 2/20/2048	
+	Jetblue Airways Corp 4% 11/15/2032	
+	JPMorgan Chase & Co 3.22% 3/1/2025	
+	JPMorgan Chase & Co 3.96% 1/29/2027	
+	Intl Bk Recon & Develop 2.5% 11/22/2027	
+	Intel Corp 3.75% 3/25/2027	
+	Inter-American Devel Bk 1.75% 3/14/2025	
+	McDonald\''s Corp 4.2% 4/1/2050	
+	Massachusetts Cmnwlth 4.11% 7/15/2031	
+	US Treasury Note 2.25% 3/31/2026	
+	US Treasury Note 5% 5/15/2037	
+	Visa Inc 2.75% 9/15/2027	
+	Wells Fargo & Company 2.393% 6/2/2028	
+	US Treasury Bond 3.625% 8/15/2043	
+	US Treasury Bond 2.75% 8/15/2042	
+	Public Storage 0.875% 2/15/2026	
+	Province of Alberta 1.875% 11/13/2024	
+	PNC Financial Services 1.15% 8/13/2026	
+	Realty Income Corp 4.6% 2/6/2024	
+	Republic of Indonesia 3.5% 2/14/2050	
+	Nextera Energy Capital 3.5% 4/1/2029	
+	Otis Worldwide Corp 2.056% 4/5/2025	
+	Pacific Gas & Electric 3.45% 7/1/2025	
+	Southern Co 0.6% 2/26/2024	
+	Simon Property Group Lp 3.375% 10/1/2024	
+	Southern Cal Edison 2.25% 6/1/2030	
+	Sales Tax Securitizat 3.82% 1/1/2048	
+	Unilever Capital Corp 5.9% 11/15/32	
+	Svb Financial Group 1.8% 2/2/2031	
+	Texas Instruments Inc 4.15% 5/15/2048	
+	T-Mobile USA Inc 3.375% 4/15/2029	
+	T-Mobile USA Inc 5.375% 4/15/2027	
+	Bank 2020-Bn25 A4 2.399% 1/15/2063	
+	AT&T Inc 4.3% 2/15/2030	
+	Automatic Data Processng 1.25% 9/1/2030	
+	BAT Capital Corp 3.222% 8/15/2024	
+	Bank of America Corp 4.083% 3/20/2051	
+	BP Cap Markets America 3.379% 2/8/2061	
+	Astrazeneca Plc 4% 9/18/2042	
+	Anheuser-Busch Co/Inbev 3.65% 2/1/2026	
+	Ameren Corp 2.5% 9/15/2024	
+	Cooperatieve Rabobank Ua 5.25% 5/24/2041	
+	Dell Int LLC / EMC Corp 4% 7/15/2024	
+	European Investment Bank 2.375% 5/24/2027	
+	Evergy Inc 2.9% 9/15/2029	
+	Entergy Texas Inc 1.75% 3/15/2031	
+	CHENIERE CORP CHRISTI HD 7% 6/30/2024	
+	Charles Schwab Corp 0.9% 3/11/2026	
+	Canadian Pacific Railway 1.35% 12/2/2024	
+	Carmx 2021-3 A3 0.55% 6/15/2026	
+	Commonspirit Health 3.347% 10/1/2029	
+	FN FM5882 3.5% 11/1/2049	
+	FN FM6559 2% 3/1/2051	
+	FN FM5308 2% 12/1/2050	
+	FN FM9201 2.5% 11/1/2050	
+	FN FM9313 1.5% 10/1/2036	
+	FN CB0325 2% 4/1/2051	
+	FN CB0310 1.5% 4/1/2036	
+	FN FM2182 4% 10/1/2049	
+	FN FM3039 5% 3/1/2050	
+	FN FM3860 4% 6/1/2050	
+	FN CA6427 3% 7/1/2050	
+	FG G18652 3% 7/1/2032	
+	FGLMC G08721 3% 9/1/2046	
+	Federal Home Loan Bank 0.5% 4/14/2025	
+	FN BM5562 4% 6/1/2045	
+	FN BC9023 3% 11/1/2046	
+	FN AU1628 3% 7/1/2043	
+	FHMS K137 A2 2.347% 11/25/2031	
+	Fiserv Inc 2.75% 7/1/2024	
+	FR SB8140 1.5% 2/1/2037	
+	FR SB8144 1.5% 3/1/2037	
+	FR SB8116 2.5% 8/1/2036	
+	FR QB7708 2% 1/1/2051	
+	FR RA3077 2.5% 7/1/2050	
+	FR RA3600 2.5% 10/1/2050	
+	FR RA6913 2% 2/1/2052	
+	FNMA BM1660 4% 8/1/2047	
+	FN MA4316 2.5% 4/1/2036	
+	FN MA4447 2.5% 10/1/2041	
+	FN MA4541 2.5% 2/1/2042	
+	FN MA4236 1.5% 1/1/2051	
+	FN MA4257 3% 2/1/2051	
+	FN FP0010 3.5% 10/1/2041	
+	FN MA4031 4.5% 5/1/2050	
+	FN MA4204 2% 12/1/2040	
+	FNA 2020-M14 A2 1.784% 5/25/2030	
+	FNA 2020-M42 A2 1.27% 7/25/2030	
+	FNMA CA4109 3% 9/1/2049	
+	FNMA AU1684 3.5% 8/1/2043	
+	FNCI 3.5 9/14 TBA	
+	FNMA AL2901 4% 9/1/2042	
+	FR RA3603 2.5% 10/1/2050	
+	FR RA2595 2.5% 5/1/2050	
+	FR RA2897 2.5% 6/1/2050	
+	FR QB0640 3% 6/1/2050	
+	FNMA MA3058 4% 7/1/2047	
+	FR SB8067 1.5% 9/1/2035	
+	FR SB8045 2.5% 5/1/2035	
+	FR SD7537 2% 3/1/2051	
+	FR SD8183 2.5% 12/1/2051	
+	FR SD8135 2.5% 3/1/2051	
+	FHMS K733 A2 3.75% 8/25/2025	
+	FHMS K088 A2 3.69% 1/25/2029	
+	FMC CORP 4.5% 10/1/2049	
+	FN 254903 5% 10/1/2033	
+	FN AL8947 3.5% 9/1/2046	
+	FN BM4869 3% 8/1/2031	
+	FHMS K057 AM 2.624% 8/25/2026	
+	FN CA6075 2.5% 6/1/2050	
+	FN BQ1161 2.5% 8/1/2050	
+	FN FM3217 3.5% 5/1/2050	
+	FN CB0397 3% 5/1/2051	
+	FN CB2869 2.5% 2/1/2052	
+	FN CB3298 2.5% 4/1/2052	
+	FN CB2170 3% 11/1/2051	
+	FN FM9980 2% 12/1/2036	
+	FN FS0946 5% 11/1/2049	
+	FN FM5425 3.5% 6/1/2049	
+	FN FM5534 2% 1/1/2041	
+	FN FM5044 2% 12/1/2050	
+	FN FM4226 2.5% 9/1/2050	
+	FN FM2870 3% 3/1/2050	
+	Comcast Corp 3.55% 5/1/2028	
+	CME Group Inc 3% 3/15/2025	
+	Citigroup Inc 4.91% 5/24/2033	
+	Cigna Corp 0.613% 3/15/2024	
+	Canadian Natl Railway 3.85% 8/5/2032	
+	Canadian Natl Railway 4.4% 8/5/2052	
+	Centerpoint Energy Res 1.75% 10/1/2030	
+	CCCIT 2018-A7 A7 3.96% 10/13/2030	
+	Canadian Natl Railway 2.75% 3/1/2026	
+	CBRE Services Inc 2.5% 4/1/2031	
+	Charter Comm Opt Llc/Cap 6.834% 10/23/2055	
+	Charles Schwab Corp 2.45% 3/3/2027	
+	EPR Properties 4.75% 12/15/2026	
+	Energy Transfer LP 6.625% 10/15/2036	
+	Duke Energy Corp 3.75% 4/15/2024	
+	Dow Chemical Co 5.25% 11/15/2041	
+	Duke Energy Indiana LLC 2.75% 4/1/2050	
+	Enable Midstream Partner 4.15% 9/15/2029	
+	Dell Int LLC / EMC Corp 8.1% 7/15/2036	
+	Dallas-Fort Worth-A 4.087% 11/1/2051	
+	Dallas-Fort Worth-A 4.507% 11/1/2051	
+	Conocophillips Company 2.4% 3/7/2025	
+	Amazon.Com Inc 2.1% 5/12/2031	
+	Amazon.Com Inc 3.3% 4/13/2027	
+	Amazon.Com Inc 3.6% 4/13/2032	
+	Ally Financial Inc 1.45% 10/2/2023	
+	Abbvie Inc 4.05% 11/21/2039	
+	Abbvie Inc 4.5% 5/14/2035	
+	Abbott Laboratories 6.15% 11/30/2037	
+	AMXCA 2021-1 A 0.9% 11/15/2026	
+	Amxca 2022-1 A 2.21% 3/15/2027	
+	Anthem Inc 3.125% 5/15/2050	
+	Asian Development Bank 0.5% 2/4/2026	
+	Apple Inc 3% 2/9/2024	
+	Apple Inc 3.2% 5/11/2027	
+	Brighthouse Financial Inc 5.625% 5/15/2030	
+	Bon Secours Mercy 3.205% 6/1/2050	
+	Bristol-Myers Squibb Co 3.4% 7/26/2029	
+	Bristol-Myers Squibb Co 3.9% 2/20/2028	
+	Bmark 2021-B28 Asb 1.9804% 8/15/2054	
+	Baxter International Inc 1.322% 11/29/2024	
+	Berkshire Hathaway Energy 4.05% 4/15/2025	
+	Bank of America Corp 3.974% 2/7/2030	
+	Bank of America Corp 3.458% 3/15/2025	
+	BAT Capital Corp 3.984% 9/25/2050	
+	Bank of Montreal 3.7% 6/7/2025	
+	Bank Of America Corp 5% 1/21/2044	
+	Bank of America Corp 5.015% 7/22/2033	
+	Autozone Inc 3.625% 4/15/2025	
+	AT&T Inc 4.25% 3/1/2027	
+	BACM 2016-Ub10 A4 3.17% 7/15/2049	
+	Bank 2022-Bnk39 As 3.181% 2/15/2055	
+	Bank of America Corp 0.81% 10/24/2024	
+	Bank 2017-Bnk7 A5 3.435% 9/15/2060	
+	T-Mobile USA Inc 3.4% 10/15/2052	
+	T-Mobile USA Inc 4.5% 4/15/2050	
+	Time Warner Cable Inc 4.5% 9/15/2042	
+	Tampa Electric Co 4.45% 6/15/2049	
+	Toronto-Dominion Bank 3.766% 6/6/2025	
+	United Mexican States 4.28% 8/14/2041	
+	Transcanada Pipelines 4.25% 5/15/2028	
+	San Diego G & E 1.7% 10/1/2030	
+	Simon Property Group LP 3.375% 6/15/2027	
+	Southwestern Elec Power 3.25% 11/1/2051	
+	Ontario (Province of) 3.2% 5/16/2024	
+	Omega Hlthcare Investors 3.625% 10/1/2029	
+	PayPal Holdings Inc 1.65% 6/1/2025	
+	Phillips 66 5.875% 5/1/2042	
+	Philip Morris Intl Inc 3.125% 3/2/2028	
+	Pfizer Inc 7.20% 03/15/2039	
+	PG&E Wildfire Recovery 5.212% 12/1/2047	
+	Royal Bank of Canada 3.875% 5/4/2032	
+	Republic of Philippines 7.75% 1/14/2031	
+	Republic Of Peru 3% 1/15/2034	
+	Republic of Chile 3.5% 1/25/2050	
+	Qualcomm Inc 4.5% 5/20/2052	
+	Qualcomm Inc 4.65% 5/20/2035	
+	Port Auth-Txb-164Th 5.647% 11/1/2040	
+	Procter & Gamble Co/The 2.8% 3/25/2027	
+	Province of Alberta 3.3% 3/15/2028	
+	Prudential Financial Inc 6% 9/1/2052	
+	Unitedhealth Group Inc 4.75% 7/15/2045	
+	UnitedHealth Group Inc 4.2% 5/15/2032	
+	US Bancorp 3.9% 4/26/2028	
+	US Treasury N/B 2.625% 5/31/2027	
+	Wells Fargo & Company 3.584% 5/22/2028	
+	Walt Disney Company/The 2.65% 1/13/2031	
+	VMware Inc 1% 8/15/2024	
+	US Treasury Note 4.5% 8/15/2039	
+	Valet 2021-1 A4 1.26% 10/20/2028	
+	US Treasury Note 3% 11/15/2045	
+	US Treasury Note 4.25% 5/15/2039	
+	US Treasury Note 4.375% 11/15/2039	
+	Mizuho Financial Group 2.172% 5/22/2032	
+	Micron Technology Inc 4.975% 2/6/2026	
+	Meta Platforms Inc 3.5% 8/15/2027	
+	Meta Platforms Inc 3.85% 8/15/2032	
+	MPLX Lp 4.125% 3/1/2027	
+	MSBAM 2013-C9 A4 3.102% 5/15/2046	
+	Ohio Power Company 1.625% 1/15/2031	
+	NYC Mun Wtr Fin -Babs 5.44% 6/15/2043	
+	Intercontinentalexchange 3% 6/15/2050	
+	Intercontinentalexchange 4.6% 3/15/2033	
+	Intel Corp 4.1% 5/11/2047	
+	Intl Bk Recon & Develop 0.875% 5/14/2030	
+	JPMorgan Chase & Co 3.845% 6/14/2025	
+	JPMorgan Chase & Co 3.509% 1/23/2029	
+	JPMorgan Chase & Co 0.969% 6/23/2025	
+	JPMorgan Chase & Co 1.764% 11/19/2031	
+	JPMorgan Chase & Co 2.58% 4/22/2032	
+	Kraft Heinz Foods Co 4.375% 6/1/2046	
+	Landwirtsch. Rentenbank 2.5% 11/15/2027	
+	La Local Govt Envrn-A 3.615% 2/1/2029	
+	Keycorp 4.789% 6/1/2033	
+	Kellogg Co 3.4% 11/15/2027	
+	JPMorgan Chase & Co 4.586% 4/26/2033	
+	JPMorgan Chase & Co 4.851% 7/25/2028	
+	JPMorgan Chase & Co 5.625% 8/16/2043	
+	Kimco Realty Corp 3.7% 10/1/2049	
+	GNMA MA4962 3.5% 1/20/2048	
+	GNMA MA3936 3% 9/20/2046	
+	GNMA MA5329 3.5% 7/20/2048	
+	GNMA II POOL MA8147 G2 07/52 FIXED 2.5	
+	GNMA MA0852 3.5% 3/20/2043	
+	Hospital Special Surgery 2.667% 10/1/2050	
+	Houston Tx-Txbl 3.961% 3/1/2047	
+	IBM Corp 3.45% 2/19/2026	
+	Goldman Sachs Group Inc 4.223% 5/1/2029	
+	FR SD8215 4% 5/1/2052	
+	G2 MA2074	
+	FR ZS7410 3% 4/1/2031	
+	FR ZS8566 2.5% 5/1/2030	
+	G2 4853 4% 11/20/2040	
+	G2 MA4837 3.5% 11/20/2047	
+	G2 MA6767 3.5% 7/20/2050	
+	G2 MA6821 3.5% 8/20/2050	
+	G2 MA6656 3% 5/20/2050	
+	G2 MA6818 2% 8/20/2050	
+	G2 MA6865 2.5% 9/20/2050	
+	G2 MA8148 3% 7/20/2052	
+	General Motors 4% 1/15/2025	
+	GE Capital Intl Funding 4.418% 11/15/2035	
+	G2 MA7473 3% 7/20/2051	
+	Westinghouse Air Brake 4.4% 3/15/2024	
+	WRKCo Inc 4.65% 3/15/2026	
+	Weyerhaeuser Co 4% 11/15/2029	
+	WFCM 2015-Sg1 A4 3.789% 9/15/2048	
+	WFRBS 2013-C17 A4 4.023% 12/15/2046	
+	Whirlpool Corp 4.5% 6/1/2046	
+	Whirlpool Corp 4.6% 5/15/2050	
+	WFCM 2017-RB1 A5 3.635% 3/15/2050	
+	WFCM 2020-C58 As 2.398% 7/15/2053	
+	WFCM 2021-C59 A5 2.626% 4/15/2054	
+	WW Grainger Inc 3.75% 5/15/2046	
+	Williams Companies Inc 7.5% 1/15/2031	
+	Wells Fargo & Company 4.75% 12/7/2046	
+	Welltower Inc 4% 6/1/2025	
+	Xilinx Inc 2.95% 06/01/24	
+	G2 MA7367 2.5% 5/20/2051	
+	General Motors Co 4.2% 10/01/27	
+	General Motors Co 5% 10/1/2028	
+	G2 MA6996 3% 11/20/2050	
+	G2 MA6869 4.5% 9/20/2050	
+	G2 MA7311 2% 4/20/2051	
+	G2 MA6598 2.5% 4/20/2050	
+	G2 MA6089 3% 8/20/2049	
+	G2 MA6474 3% 2/20/2050	
+	G2 MA3804 4% 7/20/2046	
+	G2 MA4002 2.5% 10/20/2046	
+	G2 MA4383 4% 4/20/2047	
+	FR ZS8602 3% 3/1/2031	
+	FR ZS8670 3.5% 9/1/2032	
+	G2 BW6206 2.5% 8/20/2050	
+	G2 MA3034 3.5% 8/20/2045	
+	FR ZM2661 3.5% 2/1/2047	
+	FR ZS4599 3.5% 1/1/2045	
+	FR ZS4611 4% 4/1/2045	
+	FR ZS4659 3.5% 4/1/2046	
+	FR ZS4688 3% 11/1/2046	
+	GSMS 2020-GC45 A4 2.6584% 2/13/2053	
+	Hackensack Meridian Hlth 2.675% 9/1/2041	
+	HCA Inc 5.625% 9/1/2028	
+	Home Depot Inc 0.9% 3/15/2028	
+	Home Depot Inc 1.375% 3/15/2031	
+	Hershey Company 2.3% 8/15/2026	
+	Hess Corp 7.125% 3/15/2033	
+	Illinois Tool Works Inc 2.65% 11/15/2026	
+	Intel Corp 3.25% 11/15/2049	
+	Home Depot Inc 3.35% 4/15/2050	
+	GNMA 2.5 9/18 2.5%	
+	GNMA Ma1223 3% 8/20/2043	
+	GNMA MA2148	
+	GNMA BD3893 3.5% 1/20/2048	
+	GNMA II POOL MA7986 G2 04/52 FIXED 2	
+	GNMA MA2755 4% 4/20/2045	
+	GNMA MA2960 3% 7/20/2045	
+	General Motors Finl Co 2.35% 1/8/2031	
+	Glaxosmithkline Cap Inc 6.375% 5/15/2038	
+	GNMA MA3309 3% 12/20/2045	
+	GNMA MA3310 3.5% 12/20/2045	
+	Gilead Sciences Inc 3.65% 3/1/2026	
+	GNMA MA4262 3.5% 2/20/2047	
+	JPMorgan Chase & Co 4.323% 4/26/2028	
+	Kroger Co 3.7% 08/01/27	
+	Kraft Heinz Foods Co 3.75% 4/1/2030	
+	Lowe\''S Cos Inc 3.5% 4/1/2051	
+	Johnson & Johnson 3.4% 1/15/2038	
+	Nvidia Corp 3.5% 4/1/2050	
+	Nutrien Ltd 2.95% 5/13/2030	
+	Novartis Capital Corp 3.1% 5/17/2027	
+	MS St-Txb-F-Bab 5.245% 11/1/2034	
+	MSC 2019-H7 As 3.524% 7/15/2052	
+	MSC 2021-L6 A4 2.444% 6/15/2054	
+	MSC 2021-L7 A5 2.574% 10/15/2054	
+	Nasdaq Inc 3.95% 3/7/2052	
+	Morgan Stanley 3.7% 10/23/2024	
+	Meta Platforms Inc 4.65% 8/15/2062	
+	Metlife Inc 3.6% 11/13/2025	
+	Microsoft Corp 2.4% 8/8/2026	
+	Microsoft Corp 3.3% 2/6/2027	
+	Microsoft Corp 4.5% 10/1/2040	
+	Mondelez International 2.75% 4/13/2030	
+	Montefiore Obligated Grp 5.246% 11/1/2048	
+	Merck & Co Inc 6.5% 12/1/2033	
+	Magallanes Inc 5.391% 3/15/2062	
+	US Treasury Note 3.5% 2/15/2039	
+	Verizon Communications 2.875% 11/20/2050	
+	Verizon Communications 3.7% 3/22/2061	
+	Verizon Communications 1.68% 10/30/2030	
+	Visa Inc 3.65% 9/15/2047	
+	Walmart Inc 3.55% 6/26/2025	
+	Wal-Mart Stores Inc 5.25% 9/1/2035	
+	Walt Disney Company/The 2.2% 1/13/2028	
+	Washington University 3.524% 4/15/2054	
+	Univ of Michigan-A 3.504% 4/1/2052	
+	Univ of Michigan-A 4.454% 4/1/2122	
+	Univ of Michigan-C 3.599% 4/1/2047	
+	United Technologies Corp 4.5% 6/1/2042	
+	UnitedHealth Group Inc 3.7% 12/15/2025	
+	US Treasury Bond 4.625% 2/15/2040	
+	Prudential Financial Inc 3.935% 12/7/2049	
+	Prospect Capital Corp 3.706% 1/22/2026	
+	PNC FiNAncial Services 3.9% 4/29/2024	
+	Poland Govt 3.25% 4/6/2026	
+	PNC Financial Services 2.55% 1/22/2030	
+	Province of Alberta 1.3% 7/22/2030	
+	Philip Morris Intl Inc 1.75% 11/1/2030	
+	Oracle Corp 2.95% 4/1/2030	
+	Oracle Corp 4.375% 5/15/2055	
+	Pacificorp 3.3% 3/15/2051	
+	Starbucks Corp 2% 3/12/2027	
+	Southern Co 3.25% 7/1/2026	
+	Steel Dynamics Inc 3.45% 4/15/2030	
+	Sutter Health 3.161% 8/15/2040	
+	Santander Holdings USA 4.4% 7/13/2027	
+	Shire Acq Inv Ireland Da 3.2% 9/23/2026	
+	Sabine Pass Liquefaction 4.2% 3/15/2028	
+	Truist Financial Corp 3.875% 3/19/2029	
+	Tucson Electric Power Co 1.5% 8/1/2030	
+	Sysco Corporation 3.3% 7/15/2026	
+	Time Warner Cable Inc 6.75% 06/15/2039	
+	T-Mobile USA Inc 3.5% 4/15/2025	
+	Bank 2019-Bn21 A5 2.851% 10/17/2052	
+	Bank 2020-Bn28 As 2.14% 3/15/2063	
+	AT&T Inc 3.8% 12/1/2057	
+	AT&T Inc 3.8% 2/15/2027	
+	Bank of America Corp 3.194% 7/23/2030	
+	Bank of America Corp 4.33% 3/15/2050	
+	Bank Of America Corp 3.5% 4/19/2026	
+	Atmos Energy Corp 1.5% 1/15/2031	
+	Bank Of America Corp 4.2% 8/26/2024	
+	Baxter International Inc 2.272% 12/1/2028	
+	Banner Health 2.338% 1/1/2030	
+	Boeing Co 4.875% 5/1/2025	
+	Bmark 2019-B9 A5 4.0156% 3/15/2052	
+	Broadcom Crp / Caymn Fi 3.625% 1/15/2024	
+	Broadcom Inc 2.45% 2/15/2031	
+	Broadcom Inc 4.15% 11/15/2030	
+	BP Cap Markets America 3.588% 4/14/2027	
+	Apple Inc 3.25% 2/23/2026	
+	Apple Inc 2.2% 9/11/2029	
+	AT&T Inc 2.75% 6/1/2031	
+	AT&T Inc 3.5% 9/15/2053	
+	AT&T Inc 3.55% 9/15/2055	
+	Anthem Inc 3.5% 8/15/2024	
+	Anthem Inc 4.625% 5/15/2042	
+	Amgen Inc 2.3% 2/25/2031	
+	American Intl Group 4.5% 7/16/2044	
+	Aflac Inc 3.25% 3/17/2025	
+	Activision Blizzard 3.4% 06/15/27	
+	Abbvie Inc 3.6% 5/14/2025	
+	3M Company 2.875% 10/15/2027	
+	Amazon.Com Inc 2.7% 6/3/2060	
+	Amazon.Com Inc 4.1% 4/13/2062	
+	American Express Co 4.05% 12/3/2042	
+	Constellation Brands Inc 4.4% 11/15/2025	
+	Consumers Energy Co 3.1% 8/15/2050	
+	Corebridge Financial Inc 3.9% 4/5/2032	
+	Corebridge Financial Inc 4.4% 4/5/2052	
+	CSAIL 2018-CX11 A3 4.0945% 4/15/2051	
+	CVS Health Corp 1.875% 2/28/2031	
+	Darden Restaurants Inc 3.85% 5/1/2027	
+	CVS Health Corp 6.25% 6/1/2027	
+	DDR Corp 4.7% 6/1/2027	
+	Deutsche Telekom Int Fin 9.25% 6/1/2032	
+	Discover Financial Svs 4.1% 2/9/2027	
+	Dominion Energy Inc 1.45% 4/15/2026	
+	Dominion Energy Inc 6.3% 3/15/2033	
+	DTE Electric Co 1.9% 4/1/2028	
+	Duke Energy Corp 0.9% 9/15/2025	
+	Entergy Corp 2.4% 6/15/2031	
+	Entergy Louisiana Llc 4% 3/15/2033	
+	Charles Schwab Corp 2.9% 3/3/2032	
+	Chevron Corp 3.078% 5/11/2050	
+	Cboe Global Markets Inc 3% 3/16/2032	
+	Charles Schwab Corp 1.65% 3/11/2031	
+	Citigroup Inc 8.125% 7/15/2039	
+	Citizens Financial Group 2.5% 2/6/2030	
+	Chicago Transit Ser B 6.899% 12/1/2040	
+	CME Group Inc 2.65% 3/15/2032	
+	Coca-Cola Co/The 1.65% 6/1/2030	
+	Comcast Corp 3.999% 11/1/2049	
+	FN FM4138 2.5% 9/1/2050	
+	FN FM4517 2% 10/1/2035	
+	FN FM4992 4.5% 3/1/2050	
+	FN FM5825 4% 1/1/2049	
+	FN FM5200 4% 3/1/2050	
+	FN FM6519 2% 3/1/2036	
+	FN FM8904 3.5% 9/1/2047	
+	FN FM7129 1.5% 5/1/2041	
+	FN FS1272 3% 4/1/2037	
+	FN FS0862 2.5% 12/1/2036	
+	FN FS0207 2% 1/1/2037	
+	FN MA3868 3% 12/1/2039	
+	FN MA2738 3% 9/1/2036	
+	FN MA1459 3% 6/1/2033	
+	FN MA2642 3.5% 6/1/2046	
+	FN FM3380 3.5% 4/1/2050	
+	FN FM3162 3% 11/1/2046	
+	FN FM3971 3.5% 4/1/2050	
+	FN FM2378 4.5% 1/1/2050	
+	FN FM2675 4% 6/1/2049	
+	FN FM2972 4% 12/1/2044	
+	FN FM1540 4% 9/1/2049	
+	FN CA0995 3.5% 1/1/2048	
+	FN CA4950 3.5% 1/1/2050	
+	FN CA6324 2.5% 7/1/2050	
+	FN CA8005 1.5% 12/1/2050	
+	FHLMC K063 A2 3.43% 1/25/2027	
+	FHMS K055 A2 2.673% 3/25/2026	
+	FHMS K044 A2 2.811% 1/25/2025	
+	FHLMC G67714 4% 7/1/2048	
+	FGLMC V82275 3% 5/1/2046	
+	Federal Home Loan Bank 1.5% 8/15/2024	
+	Federal Home Loan Bank 3.25% 11/16/2028	
+	Federal Home Loan Bank 3.375% 12/8/2023	
+	Federal Home Loan Bank 3.375% 9/8/2023	
+	FGLMC A97038 4% 2/1/2041	
+	FGLMC C91778 3.5% 8/1/2034	
+	Fedex Corp 4.4% 1/15/2047	
+	FN BC9077 3.5% 12/1/2046	
+	FN BM5861 4.5% 5/1/2047	
+	FN BO2256 3% 10/1/2049	
+	FN BP6618 2.5% 8/1/2050	
+	FN BQ0329 2.5% 7/1/2050	
+	FN BP1932 3% 4/1/2050	
+	FN BP1947 3.5% 4/1/2050	
+	FN AL9572 4.5% 4/1/2044	
+	FN AT2724 3% 5/1/2043	
+	FN AS8699 4% 1/1/2047	
+	Florida Power & Light Co 3.25% 6/1/2024	
+	FN AH0936 3.5% 12/1/2040	
+	FHMS K157 A3 3.99% 8/25/2033	
+	FHMS K136 A2 2.127% 11/25/2031	
+	FR SD8122 2.5% 1/1/2051	
+	FR SD8123 3% 1/1/2051	
+	FR SD7520 4% 5/1/2050	
+	FR SD8006 4% 8/1/2049	
+	FR SD8016 3% 10/1/2049	
+	FR SD8021 2.5% 9/1/2049	
+	FR SD8068 3% 6/1/2050	
+	FR SD7514 3.5% 4/1/2050	
+	FR SD1181 3% 6/1/2052	
+	FR SB8058 2.5% 8/1/2035	
+	FR SB8061 2% 9/1/2035	
+	FR SB0399 2% 8/1/2035	
+	FR RB5137 1.5% 12/1/2041	
+	FR RB5140 1.5% 1/1/2042	
+	FR RB5142 2.5% 1/1/2042	
+	FR SB8119 2% 9/1/2036	
+	FR SB8136 1.5% 1/1/2037	
+	FNMA MA2806 3% 11/1/2046	
+	FNMA MA3184 4.5% 11/1/2047	
+	FNMA MA2864 3.5% 1/1/2047	
+	FNMA MA3057 3.5% 7/1/2047	
+	FR QA8490 3% 4/1/2050	
+	FR QA6367 3% 1/1/2050	
+	FR RA3019 2.5% 7/1/2050	
+	FR RA1573 3.5% 10/1/2049	
+	FR RA4524 1.5% 2/1/2051	
+	FR RB5105 2% 3/1/2041	
+	FR RB5094 1.5% 1/1/2041	
+	FR RB5095 2% 12/1/2040	
+	FNMA As1770 4% 2/1/2044	
+	FNMA As5175 3.5% 6/1/2045	
+	FNMA Al4904 4.5% 2/1/2044	
+	FNMA Al6179 3% 8/1/2043	
+	FNMA Ab9659 3% 6/1/2043	
+	FNMA BM3805 3.5% 2/1/2045	
+	FNMA AS6311 3.5% 12/1/2045	
+	Fna 2019-M1 A2 3.673084% 9/25/2028	
+	FN MA4469 1.5% 11/1/2036	
+	FN MA4470 2% 11/1/2036	
+	FN MA4606 2% 5/1/2042	
+	FN MA4445 1.5% 10/1/2041	
+	FN MA4416 3.5% 9/1/2051	
+	FN MA4304 1.5% 4/1/2051	
+	FN MA4333 2% 5/1/2041	
+	FN MA4334 2.5% 5/1/2041	
+	FN MA4364 2% 6/1/2041	
+	FN MA4380 3% 7/1/2051	
+	Fn Ma4386 1.5% 7/1/2041	
+	FN MA4397 1.5% 8/1/2051	
+	FN MA4211 3% 12/1/2050	
+	FN MA4176 2% 11/1/2040	
+	FN MA3988 3% 4/1/2040	
+	FN MA4075 2.5% 6/1/2035	
+	FN MA4078 2.5% 7/1/2050	
+	FN MA4099 2.5% 8/1/2035	
+	FN MA4123 2% 9/1/2035	
+	FN MA4124 2.5% 9/1/2035	
+	FN MA4013 2.5% 5/1/2035	
+	FN MA3965 2.5% 3/1/2040	
+	FN MA4026 4% 5/1/2050	
+	FN MA4074 2% 7/1/2035	
+	FN MA4129 2.5% 9/1/2040	
+	FN MA4154 1.5% 10/1/2035	
+	FN MA4206 2% 12/1/2035	
+	FN MA4203 2.5% 12/1/2040	
+	FN MA4363 1.5% 6/1/2041	
+	FN MA4311 2% 4/1/2041	
+	FN MA4278 1.5% 3/1/2036	
+	FN MA4286 1.5% 3/1/2041	
+	FN MA4287 2% 3/1/2041	
+	FN MA4302 1.5% 4/1/2036	
+	FN MA4570 2% 3/1/2042	
+	FNA 2017-M3 A2 2.56835% 12/25/2026	
+	FNMA AS6473 3% 1/1/2046	
+	FNMA AS6524 3.5% 1/1/2046	
+	FNMA AS7253 4.5% 5/1/2046	
+	FNMA AY1306 3.5% 3/1/2045	
+	FNMA BC0885 3% 5/1/2046	
+	FNMA BC8998 3% 11/1/2046	
+	FNMA BD7081 4% 3/1/2047	
+	FNMA BM4806 3% 12/1/2047	
+	FNMA BM1898 2.5% 9/1/2032	
+	FNMA MA2017 4% 9/1/2044	
+	FNMA Ma2057 4% 10/1/2044	
+	FNMA Bk0922 4.5% 7/1/2048	
+	FNMA BK4772 4% 8/1/2048	
+	FNMA AS8046 2.5% 10/1/2031	
+	FNMA Ad8529 4.5% 8/1/2040	
+	FNMA Al0414 5.5% 9/1/2040	
+	FNMA Al0846 3.5% 10/1/2026	
+	FNMA 725162 6% 2/1/2034	
+	FNCI 4 9/14 TBA	
+	FNMA 2.125% 4/24/2026	
+	FNMA 2014-M1 A2 3.193483% 7/25/2023	
+	FNMA 2016-M6 A2 2.488% 5/25/2026	
+	FNMA 2018-M4 A2 3.04294% 3/25/2028	
+	FNMA AL7570 4% 7/1/2042	
+	FNMA AL9412 3% 11/1/2036	
+	FNMA Al9893 5% 2/1/2045	
+	FNMA AL9960 3% 2/1/2044	
+	FNMA Ab8906 3% 4/1/2043	
+	FNMA AS4797 3.5% 4/1/2045	
+	FNMA AL3181 3% 1/1/2043	
+	FNMA AL3626 4% 9/1/2042	
+	FR RB5100 2% 2/1/2041	
+	FR RB5135 2% 11/1/2041	
+	FR RB5085 2% 10/1/2040	
+	FR RA2645 2.5% 6/1/2050	
+	FR RA4244 1.5% 12/1/2050	
+	FR QA7114 3% 2/1/2050	
+	Fortune Brands Home & Se 4% 9/21/2023	
+	Fox Corp 5.476% 1/25/2039	
+	FNMA MA3339 3% 4/1/2033	
+	FNMA MA3902 2.5% 12/1/2049	
+	Fordo 2020-A A3 1.04% 8/15/2024	
+	FR QB4683 2% 10/1/2050	
+	FR QN9780 1.5% 3/1/2037	
+	FNMA MA2897 3% 2/1/2037	
+	FNMA MA2522 3.5% 2/1/2046	
+	FNMA MA2692 3.5% 7/1/2036	
+	FNMA MA2737 3% 9/1/2046	
+	FNMA MA3246 2.5% 1/1/2033	
+	FNMA MA2863 3% 1/1/2047	
+	FNMA Ma3155 3% 10/1/2032	
+	FR SB8147 1.5% 4/1/2037	
+	FR SB8121 1% 10/1/2036	
+	FR SB8070 2.5% 10/1/2035	
+	FR SB8113 1% 8/1/2036	
+	FR SB8114 1.5% 8/1/2036	
+	FR RB5146 2.5% 2/1/2042	
+	FR RB5163 3% 5/1/2042	
+	FR RC1995 1.5% 5/1/2036	
+	FR SB0179 3% 2/1/2034	
+	FR SB8036 3% 3/1/2035	
+	FR SB0461 2.5% 1/1/2036	
+	FR SD1212 3.5% 6/1/2049	
+	FR SD0615 4.5% 1/1/2051	
+	FR SD7513 3.5% 4/1/2050	
+	FR SD8083 2.5% 8/1/2050	
+	FR SD8104 1.5% 11/1/2050	
+	FR SD7523 2.5% 8/1/2050	
+	FR SD8120 1.5% 1/1/2051	
+	FHMS K101 A2 2.524% 10/25/2029	
+	Fifth Third Bancorp 2.55% 5/5/2027	
+	FIFTH THIRD BANCORP 3.95% 3/14/2028	
+	Fifth Third Bancorp 8.25% 3/1/2038	
+	Fiserv Inc 4.4% 7/1/2049	
+	Flir Systems Inc 2.5% 8/1/2030	
+	FN AK3263 3% 2/1/2027	
+	FN AL1869 3% 6/1/2027	
+	FN AL6729 3.5% 5/1/2044	
+	FN AL5162 3% 9/1/2043	
+	Florida Power & Light Co 4.125% 6/1/2048	
+	FN AT2720 3% 5/1/2043	
+	FN AU6682 3% 9/1/2028	
+	FN AS0204 3% 8/1/2043	
+	FN AS2874 3% 07/01/2029	
+	FN AS5594 3.5% 8/1/2045	
+	FN AS5696 3.5% 8/1/2045	
+	FN AS6328 3.5% 12/1/2045	
+	FN AS6520 3.5% 1/1/2046	
+	FN BJ1662 3.5% 12/1/2047	
+	FN BM5110 3% 9/1/2032	
+	FN BM5261 4% 1/1/2048	
+	FN BM5490 3.5% 11/1/2031	
+	FG C91761 4% 04/1/2034	
+	FG G08659 3.5% 8/1/2045	
+	FG G18623 3% 12/1/2031	
+	Fed Hm Ln PC Pool C09063 4% 9/1/2044	
+	FGLMC G04219 5.5% 4/1/2038	
+	FGLMC G06251 4% 2/1/2041	
+	FGLMC G08479 3.5% 3/1/2042	
+	FG G31030 4% 10/1/2037	
+	FGLMC A95828 4.5% 12/1/2040	
+	Fannie Mae 0.875% 8/5/2030	
+	Fannie Mae 1.625% 1/7/2025	
+	Fannie Mae 1.625% 10/15/2024	
+	Exxon Mobil Corporation 2.275% 8/16/2026	
+	Exxon Mobil Corporation 2.61% 10/15/2030	
+	Exxon Mobil Corporation 3.043% 3/1/2026	
+	European Investment Bank 4.875% 2/15/2036	
+	FGLMC V80167 3% 7/1/2043	
+	FHLMC 3% 10/1/2046	
+	FHLMC G08783 3% 10/1/2047	
+	FHLMC G18540 2.5% 2/1/2030	
+	FHLMC G61235 4.5% 9/1/2046	
+	FGLMC G08738 3.5% 12/1/2046	
+	FGLMC G18550 3% 4/1/2030	
+	FGLMC G18622 2.5% 12/1/2031	
+	FGLMC G18515 2.5% 6/1/2029	
+	FGLMC G61231 3.5% 9/1/2044	
+	FGLMC G61233 3% 1/1/2044	
+	FGLMC Q50135 3.5% 8/1/2047	
+	FN CA7109 2% 9/1/2040	
+	FN CA9360 2.5% 3/1/2041	
+	FN CA6606 3% 8/1/2050	
+	FN CA4977 3% 1/1/2050	
+	FN CA6304 2.5% 7/1/2050	
+	FN CA2626 4% 11/1/2048	
+	FN CA4119 4% 9/1/2049	
+	FN BM3751 3.5% 2/1/2033	
+	FN BQ5160 2% 12/1/2050	
+	FN FM1795 3% 4/1/2048	
+	FN FM0047 3% 12/1/2034	
+	FN FM1147 5% 5/1/2049	
+	FN FM3936 2.5% 8/1/2035	
+	FN CB0313 1.5% 4/1/2036	
+	FN MA2643 3% 6/1/2036	
+	FN MA2389 3.5% 9/1/2035	
+	FN MA1029 3.5% 4/1/2032	
+	FN MA2866 3% 1/1/2037	
+	FN MA3059 3.5% 7/1/2037	
+	FN MA3180 3.5% 11/1/2032	
+	FN FM9314 1.5% 10/1/2036	
+	FN FS0873 3% 2/1/2042	
+	FN FM7288 2% 5/1/2036	
+	FN FM6978 4% 3/1/2034	
+	FN FM6579 1.5% 3/1/2051	
+	FN FM5370 3% 12/1/2048	
+	FN FM5134 4% 1/1/2049	
+	Comcast Corp 4% 08/15/47	
+	Comcast Corp 4.25% 10/15/2030	
+	Comcast Corp 4.95% 10/15/2058	
+	Comcast Corp 5.65% 6/15/2035	
+	Comcast Corp 6.45% 3/15/2037	
+	Comerica Inc 4% 2/1/2029	
+	Citigroup Inc 6.675% 9/13/2043	
+	Comcast Corp 3.7% 4/15/2024	
+	Coca-Cola Co/The 2.75% 6/1/2060	
+	Comcast Corp 2.35% 1/15/2027	
+	Children\''s Hospital Corp 4.115% 1/1/2047	
+	Chevron USA Inc 3.25% 10/15/2029	
+	Cigna Corp 3.875% 10/15/2047	
+	Cigna Corp 4.9% 12/15/2048	
+	Cintas Corporation No. 2 3.7% 4/1/2027	
+	Cisco Systems Inc 2.2% 9/20/2023	
+	Cisco Systems Inc 3.625% 3/4/2024	
+	Cisco Systems Inc 5.9% 2/15/2039	
+	Citizens Financial Group 3.25% 4/30/2030	
+	Citrix Systems Inc 3.3% 3/1/2030	
+	Cleco Corporate Holdings 3.743% 5/1/2026	
+	Citigroup Inc 4.412% 3/31/2031	
+	Citigroup Inc 3.52% 10/27/2028	
+	CDW LLC/CDW Finance 3.25% 2/15/2029	
+	CDWLlc/Cdw Finance 4.125% 5/1/2025	
+	Cenovus Energy Inc 6.75% 11/15/2039	
+	Centerpoint Ener Houston 2.35% 4/1/2031	
+	Canadian Natl Railway 2.95% 11/21/2024	
+	CBRE Services Inc 4.875% 3/1/2026	
+	CBS Corp 4.6% 1/15/2045	
+	Cheniere Corp Christi Hd 5.125% 6/30/2027	
+	Boeing Co 5.93% 5/1/2060	
+	Charter Comm Opt LLC/Cap 6.484% 10/23/2045	
+	Charles Schwab Corp 3.25% 5/22/2029	
+	Charles Schwab Corp 3.45% 2/13/2026	
+	Charter Comm Opt LLC/Cap 3.5% 6/1/2041	
+	Canadian Natl Resources 3.8% 4/15/2024	
+	Canadian Natl Resources 3.85% 6/1/2027	
+	Camden Property Trust 2.8% 5/15/2030	
+	Camden Property Trust 3.15% 7/1/2029	
+	Campbell Soup Co 4.15% 3/15/2028	
+	Canadian Imperial Bank 3.1% 4/2/2024	
+	Brookfield Finance Inc 4.7% 9/20/2047	
+	Brookfield Finance Inc 4.85% 3/29/2029	
+	Burlingtn North Santa Fe 5.15% 9/1/2043	
+	Burlingtn North Santa Fe 7% 12/15/2025	
+	Carrier Global Corp 2.722% 2/15/2030	
+	Caterpillar Financial SE 3.75% 11/24/2023	
+	Caterpillar Inc 3.25% 9/19/2049	
+	Caterpillar Inc 3.4% 5/15/2024	
+	Caterpillar Inc 3.803% 8/15/2042	
+	Catholic Health Services 3.368% 7/1/2050	
+	Cboe Global Markets Inc 1.625% 12/15/2030	
+	Canadian Pacific RR Co 4.8% 9/15/2035	
+	Capital One Financial Co 3.75% 3/9/2027	
+	Capital One Financial Co 4.2% 10/29/2025	
+	Cardinal Health Inc 4.9% 9/15/2045	
+	Care Capital Properties 5.125% 8/15/2026	
+	Carlisle Cos Inc 2.75% 3/1/2030	
+	Entergy Louisiana Llc 4.2% 9/1/2048	
+	Energy Transfer Operatng 4.5% 4/15/2024	
+	Energy Transfer Operatng 5.5% 6/1/2027	
+	Energy Transfer Operatng 5.875% 1/15/2024	
+	Equinix Inc 2.95% 9/15/2051	
+	Equinor Asa 1.75% 1/22/2026	
+	Equinor Asa 3% 4/6/2027	
+	Entergy Texas Inc 3.55% 9/30/2049	
+	Enterprise Products Oper 4.45% 2/15/2043	
+	Enterprise Products Oper 6.875% 3/1/2033	
+	European Investment Bank 0.375% 3/26/2026	
+	European Investment Bank 1.875% 2/10/2025	
+	European Investment Bank 2.125% 4/13/2026	
+	ERP Operating LP 3% 7/1/2029	
+	Essex Portfolio LP 1.65% 1/15/2031	
+	Essex Portfolio LP 2.65% 9/1/2050	
+	Estee Lauder Co Inc 1.95% 3/15/2031	
+	Estee Lauder Co Inc 2% 12/1/2024	
+	Duke Energy Florida Inc 6.4% 06/15/2038	
+	Eastman Chemical Co 4.8% 9/1/2042	
+	DTE Electric Co 3.75% 08/15/47	
+	Duke Energy Carolinas 3.7% 12/1/2047	
+	Dr Pepper Snapple Group 3.13% 12/15/2023	
+	Dr Pepper Snapple Group 4.42% 12/15/2046	
+	Dow Chemical Co 9.4% 5/15/2039	
+	Duke Realty LP 3.05% 3/1/2050	
+	Enable Midstream Partner 3.9% 5/15/2024	
+	Enbridge Inc 4.25% 12/1/2026	
+	Enel Chile Sa 4.875% 6/12/2028	
+	Energy Transfer LP 4.2% 4/15/2027	
+	Energy Transfer Lp 5.95% 12/1/2025	
+	Ecolab Inc 2.125% 8/15/2050	
+	Ecolab Inc 3.25% 12/1/2027	
+	Eli Lilly & Co 5.5% 3/15/2027	
+	Emerson Electric Co 1.8% 10/15/2027	
+	Dollar General Corp 3.5% 4/3/2030	
+	Dollar Tree Inc 4.2% 5/15/2028	
+	Dominion Resources Inc 4.9% 8/1/2041	
+	Dover Corp 3.15% 11/15/2025	
+	Discovery Communications 4% 9/15/2055	
+	Devon Energy Corporation 7.875% 9/30/2031	
+	DH Europe Finance Ii 3.25% 11/15/2039	
+	Diageo Capital Plc 2.125% 4/29/2032	
+	Digital Realty Trust Lp 3.6% 7/1/2029	
+	Dignity Health 5.267% 11/1/2064	
+	Conoco Phillips 6.50% 02/01/2039	
+	Dell Int LLC / EMC Corp 4.9% 10/1/2026	
+	Deutsche Bank AG London 3.7% 5/30/2024	
+	Deutsche Telekom Int Fin 8.75% 6/15/2030	
+	D.R. Horton Inc 2.5% 10/15/2024	
+	CVS Health Corp 5.05% 3/25/2048	
+	CVS Health Corp 5.3% 12/5/2043	
+	Dcent 2021-A1 A1 0.58% 9/15/2026	
+	CVS Health Corp 3.25% 8/15/2029	
+	CVS Health Corp 4.78% 3/25/2038	
+	Crown Castle Intl Corp 4.3% 2/15/2029	
+	Crown Castle Intl Corp 4.75% 5/15/2047	
+	CSX Corp 2.4% 2/15/2030	
+	CSX Corp 4.3% 3/1/2048	
+	Corning Inc 4.375% 11/15/2057	
+	Costco Wholesale Corp 1.6% 4/20/2030	
+	Consumers Energy Co 3.95% 7/15/2047	
+	Constellation Brands Inc 5.25% 11/15/2048	
+	Consumers Energy Co 2.5% 5/1/2060	
+	Comcast Corp 3.45% 2/1/2050	
+	Comm 2015-Cr22 A3 3.207% 3/10/2048	
+	Consolidated Edison Co O 4% 11/15/2057	
+	Constellation Brands Inc 3.15% 8/1/2029	
+	Consolidated Edison Co 4.5% 12/1/2045	
+	Consolidated Edison Co O 3.85% 6/15/2046	
+	Con Edison Co Of Ny Inc 3.7% 11/15/2059	
+	Conagra Brands Inc 1.375% 11/1/2027	
+	Conagra Brands Inc 7% 10/1/2028	
+	American Financial Group 4.5% 06/15/47	
+	Ameren Illinois Co 1.55% 11/15/2030	
+	Ameren Illinois Co 3.8% 5/15/2028	
+	Amazon.Com Inc 4.25% 8/22/2057	
+	Amazon.Com Inc 4.95% 12/5/2044	
+	Amazon.Com Inc 5.2% 12/3/2025	
+	Altria Group Inc 4.8% 2/14/2029	
+	Amazon.Com Inc 1.5% 6/3/2030	
+	Alphabet Inc 1.1% 8/15/2030	
+	Alphabet Inc 2.25% 8/15/2060	
+	Altria Group Inc 2.45% 2/4/2032	
+	Alexandria Real Estate E 1.875% 2/1/2033	
+	Alexandria Real Estate E 4.9% 12/15/2030	
+	Alleghany Corp 4.9% 9/15/2044	
+	Allstate Corp 1.45% 12/15/2030	
+	Allstate Corp 4.2% 12/15/2046	
+	3M Company 3.05% 4/15/2030	
+	3M Company 3.375% 3/1/2029	
+	3M Company 3.625% 10/15/2047	
+	Abbvie Inc 4.7% 5/14/2045	
+	Adobe Inc 2.3% 2/1/2030	
+	Advance Auto Parts 3.9% 4/15/2030	
+	Advocate Health Corp 3.008% 6/15/2050	
+	Aetna Inc 3.875% 08/15/47	
+	Aetna Inc 4.75% 3/15/2044	
+	Air Lease Corp 3.25% 3/1/2025	
+	Air Lease Corp 3.625% 4/1/2027	
+	Air Lease Corp 4.625% 10/1/2028	
+	Air Products & Chemicals 2.7% 5/15/2040	
+	Aircastle Ltd 4.25% 6/15/2026	
+	American Intl Group 4.75% 4/1/2048	
+	American Tower Corp 0.6% 1/15/2024	
+	American Tower Corp 2.95% 1/15/2025	
+	American Tower Corp 3.6% 1/15/2028	
+	American Tower Corp 3.8% 8/15/2029	
+	American Tower Corp 4% 06/01/25	
+	American University 3.672% 4/1/2049	
+	American Water Capital 3.45% 6/1/2029	
+	American Water Capital C 3.75% 09/01/47	
+	Amazon.Com Inc 4.05% 8/22/2047	
+	American Express Co 3.625% 12/5/2024	
+	Amerisourcebergen Corp 3.45% 12/15/2027	
+	Amerisourcebergen Corp 4.3% 12/15/2047	
+	Anheuser-Busch Co/Inbev 4.7% 2/1/2036	
+	Anthem Inc 6.375% 6/15/2037	
+	Anthem Inc 3.6% 3/15/2051	
+	Anthem Inc 3.65% 12/1/2027	
+	Astrazeneca Plc 4.375% 11/16/2045	
+	AT&T Inc 2.25% 2/1/2032	
+	Astrazeneca Plc 4% 1/17/2029	
+	Ares Capital Corp 4.25% 3/1/2025	
+	Asian Development Bank 2.5% 11/2/2027	
+	Asian Development Bank 2.625% 1/30/2024	
+	Apple Inc 2.55% 8/20/2060	
+	Apple Inc 2.65% 5/11/2050	
+	Apple Inc 2.85% 5/11/2024	
+	Apple Inc 3% 06/20/27	
+	Ascension Health 3.945% 11/15/2046	
+	Ascension Health 4.847% 11/15/2053	
+	Apple Inc 1.65% 5/11/2030	
+	Apple Inc 1.8% 9/11/2024	
+	Apple Inc 3.35% 8/8/2032	
+	Apple Inc 3.75% 11/13/2047	
+	Apple Inc 3.85% 8/4/2046	
+	Apple Inc 4.1% 8/8/2062	
+	Apple Inc 4.25% 2/9/2047	
+	BP Cap Markets America 3.41% 2/11/2026	
+	Boeing Co 5.805% 5/1/2050	
+	Boston Properties LP 2.75% 10/1/2026	
+	Boston Properties LP 2.9% 3/15/2030	
+	Boston Properties LP 3.125% 9/1/2023	
+	Brookfield Asset Man Inc 4% 1/15/2025	
+	Broadcom Crp / Caymn Fi 3.875% 1/15/2027	
+	Brixmor Operating Part 3.9% 3/15/2027	
+	BP Capital Markets Plc 3.279% 9/19/2027	
+	BP Capital Markets Plc 3.723% 11/28/2028	
+	Brandywine Oper Partners 4.55% 10/1/2029	
+	Bristol-Myers Squibb Co 4.25% 10/26/2049	
+	British Columbia Prov of 2.25% 6/2/2026	
+	Bmark 2020-Ig1 As 2.9086% 9/15/2043	
+	BHP Billiton Fin USA Ltd 5% 9/30/2043	
+	Black Hills Corp 4.35% 5/1/2033	
+	Bmark 2022-B34 A5 3.786% 4/15/2055	
+	Bay Area Toll-S1 7.043% 4/1/2050	
+	Baylor Scott & White Hol 4.185% 11/15/2045	
+	Becton Dickinson And Co 2.823% 5/20/2030	
+	Becton Dickinson And Co 4.685% 12/15/2044	
+	Berkshire Hathaway Energy 6.125% 4/1/2036	
+	Berkshire Hathaway Fin 1.45% 10/15/2030	
+	Berkshire Hathaway Energ 3.25% 4/15/2028	
+	Berkshire Hathaway Energ 3.7% 7/15/2030	
+	Berkshire Hathaway Energ 3.8% 7/15/2048	
+	Berkshire Hathaway Fin 4.2% 8/15/2048	
+	Berkshire Hathaway Fin 4.25% 1/15/2049	
+	Berry Global Inc 1.57% 1/15/2026	
+	Bank Of America Corp 4.125% 1/22/2024	
+	Bank of America Corp 1.658% 3/11/2027	
+	Bank Of America Corp 4% 4/1/2024	
+	Bank of America Corp 3.946% 1/23/2049	
+	Bank Of America Corp 3.95% 4/21/2025	
+	Bank of America Corp 2.456% 10/22/2025	
+	Bank Of America Corp 2.676% 6/19/2041	
+	Bank of America Corp 4.271% 7/23/2029	
+	Bank Of Montreal 3.3% 2/5/2024	
+	Bank of Montreal 3.803% 12/15/2032	
+	Bank One Corp 8% 4/29/2027	
+	BAT Capital Corp 4.39% 8/15/2037	
+	BAT Capital Corp 4.758% 9/6/2049	
+	AT&T Inc 5.15% 2/15/2050	
+	Autozone Inc 4% 4/15/2030	
+	Avangrid Inc 3.8% 6/1/2029	
+	Autonation Inc 3.8% 11/15/2027	
+	Baker Hughes LLC/Co-Obl 3.337% 12/15/2027	
+	AXIS SPECIALTY FINANCE 3.9% 7/15/2029	
+	B.A.T. Capital Corp 3.215% 9/6/2026	
+	TJX Cos Inc 3.875% 4/15/2030	
+	T-Mobile USA Inc 3.75% 4/15/2027	
+	Toll Bros Finance Corp 4.875% 3/15/2027	
+	Toronto-Dominion Bank 0.7% 9/10/2024	
+	Toronto-Dominion Bank 0.75% 9/11/2025	
+	Toronto-Dominion Bank 2.65% 6/12/2024	
+	Toronto-Dominion Bank 3.25% 3/11/2024	
+	Totalenergies Cap Intl 3.455% 2/19/2029	
+	Toyota Motor Corp 3.669% 7/20/2028	
+	Toyota Motor Credit Corp 0.45% 1/11/2024	
+	Toyota Motor Credit Corp 1.65% 1/10/2031	
+	Toyota Motor Credit Corp 2.15% 2/13/2030	
+	Sysco Corporation 6.6% 4/1/2050	
+	Takeda Pharmaceutical 3.025% 7/9/2040	
+	Swedish Export Credit 5/11/2037	
+	Target Corp 4% 7/1/2042	
+	Tenn Valley Authority 2.875% 9/15/2024	
+	Texas Instruments Inc 2.9% 11/3/2027	
+	UBS CM 2018-C15 A3 4.0746% 12/15/2051	
+	UBSCM 2018-C12 A5 4.2962% 8/15/2051	
+	UDR Inc 2.1% 8/1/2032	
+	Transcanada Pipelines 4.625% 3/1/2034	
+	Transcanada Pipelines 5.85% 3/15/2036	
+	Travelers Cos Inc 3.75% 5/15/2046	
+	Travelers Cos Inc 4% 5/30/2047	
+	Travelers Cos Inc 6.25% 6/15/2037	
+	Trinity Health Corp 2.632% 12/1/2040	
+	Truist Bank 4.05% 11/3/2025	
+	Truist Financial Corp 1.125% 8/3/2027	
+	United Mexican States 6.75% 9/27/2034	
+	United Parcel Service 3.05% 11/15/2027	
+	Tx St Transn-1St Tier 5.178% 4/1/2030	
+	Tx Transprtn Com-Ref 4% 10/1/2033	
+	Tyson Foods Inc 4.875% 8/15/2034	
+	Union Pacific Corp 3.75% 2/5/2070	
+	Sabine Pass Liquefaction 5% 3/15/2027	
+	Sabine Pass Liquefaction 5.875% 6/30/2026	
+	Salesforce.Com Inc 3.7% 4/11/2028	
+	Select Income Reit 4.25% 5/15/2024	
+	Select Income REIT 4.5% 2/1/2025	
+	Sempra Energy 3.25% 06/15/27	
+	Shell International Fin 3.125% 11/7/2049	
+	Shell International Fin 5.50% 03/25/2040	
+	Simon Property Group LP 2.45% 9/13/2029	
+	Simon Property Group Lp 3.25% 11/30/2026	
+	South Carolina Elec&Gas 5.1% 6/1/2065	
+	Southern Cal Edison 0.975% 8/1/2024	
+	Suzano Austria GmbH 3.75% 1/15/2031	
+	Sherwin-Williams Co 4% 12/15/2042	
+	Sunoco Logistics Partner 4.25% 4/1/2024	
+	Sumitomo Mitsui Finl Grp 3.202% 9/17/2029	
+	Sumitomo Mitsui Finl Grp 3.352% 10/18/2027	
+	Sumitomo Mitsui Finl Grp 3.446% 1/11/2027	
+	Steel Dynamics Inc 5% 12/15/2026	
+	Statoil Asa 4.8% 11/8/2043	
+	Statoil Asa 5.1% 8/17/2040	
+	State Street Corp 2.354% 11/1/2025	
+	State Street Corp 2.4% 1/24/2030	
+	State Street Corp 4.141% 12/3/2029	
+	Southern Power Co 0.9% 1/15/2026	
+	Southern Power Co 5.15% 9/15/2041	
+	Southwest Airlines Co 5.125% 6/15/2027	
+	Southwest Gas Corp 3.8% 9/29/2046	
+	Starbucks Corp 3.5% 11/15/2050	
+	Pacificorp 4.1% 2/1/2042	
+	Packaging Corp Of Americ 3.4% 12/15/2027	
+	Panama Govt 6.7% 1/26/2036	
+	Pacific Gas & Electric 3.5% 8/1/2050	
+	Pacific Gas & Electric 4.5% 7/1/2040	
+	Owens Corning 4.3% 07/15/47	
+	Owl Rock Capital Corp 4% 3/30/2025	
+	Paccar Financial Corp 1.1% 5/11/2026	
+	Paccar Financial Corp 2% 2/4/2027	
+	Oracle Corp 4.5% 7/8/2044	
+	Oneok Inc 4.55% 7/15/2028	
+	Oneok Inc 5.2% 7/15/2048	
+	Oracle Corp 2.4% 9/15/2023	
+	Oracle Corp 2.5% 4/1/2025	
+	Pfizer Inc 3.6% 9/15/2028	
+	Pfizer Inc 4% 3/15/2049	
+	Pfizer Inc 4.1% 9/15/2038	
+	Philip Morris Intl Inc 3.25% 11/10/2024	
+	Philip Morris Intl Inc 4.875% 11/15/2043	
+	Piedmont Natural Gas Co 2.5% 3/15/2031	
+	Phillips 66 3.85% 4/9/2025	
+	O'Reilly Automotive Inc 3.55% 3/15/2026	
+	Partners Healthcare Syst 3.342% 7/1/2060	
+	Pepsico Inc 2.625% 3/19/2027	
+	Pepsico Inc 2.75% 3/19/2030	
+	Pepsico Inc 3% 10/15/2027	
+	Pepsico Inc 3.6% 3/1/2024	
+	Peru Govt 5.625% 11/18/2050	
+	Peru Govt 8.75% 11/21/2033	
+	Pfizer Inc 1.75% 8/18/2031	
+	Republic of Peru 2.783% 1/23/2031	
+	Regeneron Pharmaceutical 2.8% 9/15/2050	
+	Reliance Steel & Alum 1.3% 8/15/2025	
+	Qualcomm Inc 2.9% 05/20/24	
+	Qualcomm Inc 3.25% 5/20/2050	
+	Quanta Services Inc 2.9% 10/1/2030	
+	Raymond James Financial 4.65% 4/1/2030	
+	Raytheon Tech Corp 3.5% 3/15/2027	
+	Raytheon Tech Corp 4.35% 4/15/2047	
+	Republic of Peru 3.23% 7/28/2121	
+	Reynolds American Inc 7.25% 6/15/2037	
+	Rockwell Automation 4.2% 3/1/2049	
+	ROGERS COMMUNICATIONS IN 4.5% 3/15/2043	
+	RWJ Barnabas Health 3.949% 7/1/2046	
+	Roper Technologies Inc 1.4% 9/15/2027	
+	Roper Technologies Inc 3.8% 12/15/2026	
+	Royal Bank Of Canada 2.25% 11/1/2024	
+	Royal Bank of Canada 3.7% 10/5/2023	
+	PNC Financial Services 3.45% 4/23/2029	
+	Phillips 66 4.65% 11/15/2034	
+	Plains All Amer Pipeline 6.65% 1/15/2037	
+	Port Auth NY/NJ-192 4.81% 10/15/2065	
+	Prov of New Brunswick 3.625% 2/24/2028	
+	PPG Industries Inc 1.2% 3/15/2026	
+	Praxair Inc 3.2% 1/30/2026	
+	Principal Financial Group 3.1% 11/15/2026	
+	Procter & Gamble Co/The 3% 3/25/2030	
+	Progressive Corp 3% 3/15/2032	
+	Progressive Corp 3.95% 3/26/2050	
+	Prologis Lp 1.25% 10/15/2030	
+	Prologis Lp 2.25% 4/15/2030	
+	Prudential Financial Inc 4.35% 2/25/2050	
+	Province of Quebec 1.5% 2/11/2025	
+	Province of Quebec 2.5% 4/20/2026	
+	Province of Quebec 2.875% 10/16/2024	
+	Province of Quebec 7.5% 9/15/2029	
+	Prudential Financial 6.625% 12/01/37	
+	Pub Svc Elec & Gas 3.95% 5/1/2042	
+	PVH Corp 4.625% 7/10/2025	
+	Public Service Enterpris 2.875% 6/15/2024	
+	Unitedhealth Group Inc 2.3% 5/15/2031	
+	UnitedHealth Group Inc 3.1% 3/15/2026	
+	Unitedhealth Group Inc 4.45% 12/15/2048	
+	United Technologies Corp 3.75% 11/1/2046	
+	United Technologies Corp 3.95% 8/16/2025	
+	Unitedhealth Group Inc 5.8% 3/15/2036	
+	Univ of Southern Califor 3.028% 10/1/2039	
+	Unum Group 4.5% 12/15/2049	
+	Uruguay Govt 5.1% 6/18/2050	
+	US Bancorp 1.45% 5/12/2025	
+	US Bancorp 3.6% 9/11/2024	
+	US Bancorp 3.7% 1/30/2024	
+	Wellpoint 4.65% 01/15/2043	
+	Walt Disney Company/The 6.65% 11/15/2037	
+	Wells Fargo & Company 3.9% 5/1/2045	
+	Wells Fargo & Company 3.068% 4/30/2041	
+	Wells Fargo & Company 3.196% 6/17/2027	
+	Walt Disney Company/The 2.95% 06/15/27	
+	Walt Disney Company/The 4.75% 9/15/2044	
+	Walt Disney Company/The 3% 7/30/2046	
+	Walt Disney Company/The 3.35% 3/24/2025	
+	Walt Disney Company/The 3.5% 5/13/2040	
+	Walmart Inc 4.05% 6/29/2048	
+	Walmart Inc 2.375% 9/24/2029	
+	Verisign Inc 4.75% 7/15/2027	
+	Wabtec 3.45% 11/15/2026	
+	VMware Inc 4.5% 5/15/2025	
+	Vodafone Group Plc 4.125% 5/30/2025	
+	Vodafone Group Plc 4.375% 2/19/2043	
+	Vodafone Group Plc 5.25% 5/30/2048	
+	Vulcan Materials Co 3.5% 6/1/2030	
+	Verizon Communications 2.65% 11/20/2040	
+	Verizon Communications 0.75% 3/22/2024	
+	Verizon Communications 4.016% 12/3/2029	
+	Verizon Communications 4.329% 9/21/2028	
+	Visa Inc 3.15% 12/14/2025	
+	Viatris Inc 3.85% 6/22/2040	
+	Viatris Inc 4% 6/22/2050	
+	Virginia Elec & Power Co 8.875% 11/15/2038	
+	Visa Inc 1.9% 4/15/2027	
+	Ventas Realty LP 4.375% 2/1/2045	
+	Vale Overseas Limited 6.25% 8/10/2026	
+	Magellan Midstream Partn 3.25% 6/1/2030	
+	Magellan Midstream Partners 4.2% 10/3/2047	
+	Lubrizol Corp 6.5% 10/1/2034	
+	Marsh & Mclennan Cos Inc 3.75% 3/14/2026	
+	Marathon Petroleum Corp 5% 9/15/2054	
+	Marathon Petroleum Corp 6.5% 3/1/2041	
+	Marsh & Mclennan Cos Inc 4.9% 3/15/2049	
+	Martin Marietta Material 4.25% 7/2/2024	
+	Mastercard Inc 3.8% 11/21/2046	
+	McDonald's Corp 6.3% 10/15/2037	
+	McCormick & Co 4.2% 8/15/2047	
+	McDonald\''s Corp 3.625% 9/1/2049	
+	Mitsubishi UFJ Fin Grp 3.961% 3/2/2028	
+	Mitsubishi UFJ Fin Grp 4.153% 3/7/2039	
+	Moody\''s Corporation 4.875% 12/17/2048	
+	Molson Coors Brewing Co 5% 5/1/2042	
+	Mondelez International 1.5% 5/4/2025	
+	Midamerican Energy Co 4.25% 5/1/2046	
+	Mitsubishi UFJ Fin Grp 3.407% 3/7/2024	
+	Mitsubishi UFJ Fin Grp 3.741% 3/7/2029	
+	Microsoft Corp 4.5% 2/6/2057	
+	Mid-America Apartments 3.95% 3/15/2029	
+	Microsoft Corp 3.5% 2/12/2035	
+	Microsoft Corp 4.1% 2/6/2037	
+	Microsoft Corp 2.921% 3/17/2052	
+	Metlife Inc 4.875% 11/13/2043	
+	Metlife Inc 5.7% 6/15/2035	
+	Morgan Stanley 4.431% 1/23/2030	
+	Motorola Solutions Inc 2.3% 11/15/2030	
+	Morgan Stanley 3.971% 7/22/2038	
+	Mylan NV 3.95% 6/15/2026	
+	NBCUniversal Media LLC 4.45% 1/15/2043	
+	Mt Sinai Hospital 3.737% 7/1/2049	
+	MPLX LP 4.7% 4/15/2048	
+	Northern Trust Corp 3.375% 5/8/2032	
+	Northrop Grumman Corp 3.2% 2/1/2027	
+	Nisource Inc 4.375% 5/15/2047	
+	NJ St Transn-Bab-C 5.754% 12/15/2028	
+	Norfolk Southern Corp 3.15% 6/1/2027	
+	Norfolk Southern Corp 3.7% 3/15/2053	
+	Netapp Inc 3.3% 9/29/2024	
+	Newmont Mining Corp 4.875% 3/15/2042	
+	Nisource Finance Corp 5.25% 2/15/2043	
+	Nutrien Ltd 3.95% 5/13/2050	
+	NYU Hospitals Center 3.38% 7/1/2055	
+	Omega Hlthcare Investors 4.75% 1/15/2028	
+	Oncor Electric Delivery 0.55% 10/1/2025	
+	Oncor Electric Delivery 5.75% 3/15/2029	
+	Johnson & Johnson 2.625% 1/15/2025	
+	Johnson & Johnson 2.95% 3/3/2027	
+	Johnson & Johnson 3.7% 3/1/2046	
+	Johnson & Johnson 4.5% 9/1/2040	
+	Johnson & Johnson 4.95% 5/15/2033	
+	Johnson Controls Intl Pl 6% 1/15/2036	
+	JPMBB 2014-C18 A5 4.0793% 2/15/2047	
+	John Deere Capital Corp 2.45% 1/9/2030	
+	John Deere Capital Corp 2.8% 9/8/2027	
+	Jabil Inc 3.95% 1/12/2028	
+	John Deere Capital Corp 3.45% 3/13/2025	
+	Johns Hopkins Health Sys 3.837% 5/15/2046	
+	JPmorgan Chase & Co 2.956% 5/13/2031	
+	JPMorgan Chase & Co 3.109% 4/22/2051	
+	Jefferies Group LLC 6.45% 6/8/2027	
+	JPMorgan Chase & Co 1.045% 11/19/2026	
+	JPMorgan Chase & Co 3.54% 5/1/2028	
+	JPMorgan Chase & Co 3.875% 2/1/2024	
+	JPMorgan Chase & Co 3.897% 1/23/2049	
+	JPMorgan Chase & Co 3.964% 11/15/2048	
+	JPMorgan Chase & Co 4.203% 7/23/2029	
+	Intl Bk Recon & Develop 1.375% 4/20/2028	
+	Intl Bk Recon & Develop 2.125% 3/3/2025	
+	International Paper Co 7.3% 11/15/2039	
+	Intl Bk Recon & Develop 0.5% 10/28/2025	
+	Intuit Inc 1.35% 7/15/2027	
+	Intel Corp 4.1% 5/19/2046	
+	Intel Corp 4.75% 3/25/2050	
+	Intel Corp 5.05% 8/5/2062	
+	Intel Corp 3.9% 3/25/2030	
+	Inter-American Devel Bk 0.625% 9/16/2027	
+	Inter-American Devel Bk 2% 7/23/2026	
+	Inter-American Devel Bk 2.375% 7/7/2027	
+	INTER-AMERICAN DEVEL BK 3.2% 8/7/2042	
+	Lowe'S Cos Inc 2.5% 4/15/2026	
+	Lockheed Martin Corp 4.09% 9/15/2052	
+	Lockheed Martin Corp 6.15% 9/1/2036	
+	Lloyds Banking Group Plc 3.574% 11/7/2028	
+	Lennar Corp 4.5% 4/30/2024	
+	Lennar Corp 4.75% 11/29/2027	
+	Lennar Corp 5.875% 11/15/2024	
+	Kinross Gold Corp 4.5% 7/15/2027	
+	KLA CORP 5% 3/15/2049	
+	KLACorp 3.3% 3/1/2050	
+	JPMorgan Chase & Co 2.525% 11/19/2041	
+	Kroger Co 5.4% 1/15/2049	
+	Kroger Co 6.9% 4/15/2038	
+	Lam Research Corp 4% 3/15/2029	
+	JPMorgan Chase & Co 4.452% 12/5/2029	
+	Keysight Technologies 4.6% 4/6/2027	
+	KFW 0% 6/29/2037	
+	Juniper Networks Inc 2% 12/10/2030	
+	Kinder Morgan Inc 4.3% 3/1/2028	
+	KFW 2.5% 11/20/2024	
+	KFW 2.875% 4/3/2028	
+	KFW 4/18/2036	
+	Kimberly-Clark Corp 1.05% 9/15/2027	
+	Kimberly-Clark Corp 3.9% 5/4/2047	
+	GNMA MA4321 3.5% 3/20/2047	
+	GNMA MA4382 3.5% 4/20/2047	
+	GNMA MA4450 3% 5/20/2047	
+	GNMA MA4963 4% 1/20/2048	
+	GNMA Ma5110 3% 4/20/2033	
+	GNMA MA5265 4.5% 6/20/2048	
+	GNMA MA4198 4.5% 1/20/2047	
+	GNMA MA3312 4.5% 12/20/2045	
+	GNMA MA3937 3.5% 9/20/2046	
+	GNMA MA4003 3% 10/20/2046	
+	GNMA MA5466 4% 9/20/2048	
+	GNMA MA6090 3.5% 8/20/2049	
+	GNMA MA6220 4% 10/20/2049	
+	Goldman Sachs Bdc Inc 2.875% 1/15/2026	
+	Goldman Sachs Capital Inc 6.345% 2/15/2034	
+	Goldman Sachs Group Inc 3.814% 4/23/2029	
+	Goldman Sachs Group Inc 3.691% 6/5/2028	
+	Goldman Sachs Group Inc 3.75% 2/25/2026	
+	Goldman Sachs Group Inc 3.272% 9/29/2025	
+	Goldman Sachs Group Inc 3.5% 1/23/2025	
+	GLP Capital Lp / Fin Ii 3.25% 1/15/2032	
+	GLP Capital LP / Fin Ii 4% 1/15/2030	
+	Gilead Sciences Inc 5.65% 12/1/2041	
+	Glaxosmithkline Cap Inc 5.375% 4/15/2034	
+	Gilead Sciences Inc 1.2% 10/1/2027	
+	General Motors Finl Co 4.35% 1/17/2027	
+	George Washington Univ 4.3% 9/15/2044	
+	George Washington Univer 4.126% 9/15/2048	
+	Georgia Power Co 3.25% 4/1/2026	
+	GNMA MA3244 3.5% 11/20/2045	
+	GNMA MA2222 3% 9/20/2044	
+	GNMA Ma2225 4.5% 9/20/2044	
+	GNMA 3.5% 9/20/2047	
+	GLP Capital Lp / Fin Ii 5.75% 6/1/2028	
+	GMCAR 2020-2 A3 1.49% 12/16/2024	
+	GNMA MA1013 4% 5/20/2043	
+	GNMA Ma1091 4% 6/20/2043	
+	HP Enterprise Co 6.2% 10/15/2035	
+	HP Inc 3% 6/17/2027	
+	HSBC Holdings Plc 3.9% 5/25/2026	
+	Hormel Foods Corp 1.8% 6/11/2030	
+	Humana Inc 4.8% 3/15/2047	
+	Hubbell Inc 3.15% 8/15/2027	
+	Intel Corp 3.7% 7/29/2025	
+	Ingersoll-Rand Gl Hld Co 3.75% 8/21/2028	
+	Ingersoll-Rand Lux Finan 3.55% 11/1/2024	
+	IBM Corp 5.875% 11/29/2032	
+	IBM Corp 6.22% 8/1/2027	
+	Huntington Ingalls Indus 4.2% 5/1/2030	
+	Hyatt Hotels Corp 5.375% 4/23/2025	
+	Huntington Bancshares 2.625% 8/6/2024	
+	Huntington Bancshares 4% 5/15/2025	
+	Huntington Ingalls Indus 2.043% 8/16/2028	
+	Hess Corp 4.3% 4/1/2027	
+	Hess Corp 6% 1/15/2040	
+	Goldman Sachs Group Inc 6.45% 5/1/2036	
+	Healthpeak Properties 6.75% 2/1/2041	
+	Home Depot Inc 1.875% 9/15/2031	
+	Home Depot Inc 2.8% 9/14/2027	
+	Healthcare Trust of Amer 2% 3/15/2031	
+	Hartford Finl Svcs Grp 5.95% 10/15/2036	
+	Hasbro Inc 3.55% 11/19/2026	
+	HCA Inc 4.125% 6/15/2029	
+	Halliburton Co 6.7% 9/15/2038	
+	Goldman Sachs Group Inc 5.15% 5/22/2045	
+	Goldman Sachs Group Inc 5.95% 1/15/2027	
+	GSMS 2019-GC42 A4 3.0005% 9/1/2052	
+	FR ZS4727 4% 7/1/2047	
+	FR ZS4747 3.5% 12/1/2047	
+	FR ZS4777 3.5% 7/1/2048	
+	FR ZS6689 2.5% 4/1/2028	
+	FR ZS7297 3% 7/1/2027	
+	FR ZT1779 5% 3/1/2049	
+	Franciscan Health Sys 3.914% 7/1/2049	
+	Franklin Resources Inc 2.85% 3/30/2025	
+	Freddie Mac 0% 11/15/2038	
+	Freddie Mac 0.25% 12/4/2023	
+	Freddie Mac 0.25% 9/8/2023	
+	Freddie Mac 11/15/2038	
+	FR ZS4652 4% 2/1/2046	
+	FR ZS4630 3.5% 9/1/2045	
+	FR Zs4519 3% 6/1/2043	
+	FR Zs4525 3% 8/1/2043	
+	FR ZM2089 3% 11/1/2046	
+	FR SD8226 3.5% 7/1/2052	
+	FR SD8230 4.5% 6/1/2052	
+	FR SD8237 4% 8/1/2052	
+	G2 MA0786 5.00% 02/20/2043	
+	G2 MA1133 2.5% 7/20/2028	
+	G2 MA1841 5.00% 04/20/2044	
+	G2 MA2073	
+	Freeport-Mcmoran Inc 4.625% 8/1/2030	
+	FS KKR CAPITAL CORP 4.125% 2/1/2025	
+	FR ZS8676 3% 11/1/2032	
+	FR ZS9164 3% 9/1/2033	
+	G2 Ma5136 3.5% 4/20/2048	
+	G2 MA5263 3.5% 6/20/2048	
+	G2 MA5817 4% 3/20/2049	
+	G2 MA5987 4.5% 6/20/2049	
+	G2 MA6039 3.5% 7/20/2049	
+	G2 MA6282 2.5% 11/20/2049	
+	G2 MA6822 4% 8/20/2050	
+	G2 MA6770 5% 7/20/2050	
+	G2 MA6710 3% 6/20/2050	
+	G2 MA7339 2% 5/20/2036	
+	G2 MA6933 3.5% 10/20/2050	
+	G2 MA6868 4% 9/20/2050	
+	General Motors 4.3% 7/13/2025	
+	General Dynamics Corp 3.75% 5/15/2028	
+	General Dynamics Corp 4.25% 4/1/2040	
+	General Elec Cap Corp 5.875% 1/14/2038	
+	GATX Corp 4% 6/30/2030	
+	G2 MA7368 3% 5/20/2051	
+	G2 MA7587 1.5% 9/20/2051	
+	Xilinx Inc 2.375% 6/1/2030	
+	Welltower Inc 4.25% 4/1/2026	
+	Western Digital Corp 2.85% 2/1/2029	
+	Western Digital Corp 4.75% 2/15/2026	
+	Wells Fargo & Company 4.478% 4/4/2031	
+	Wells Fargo & Company 5.375% 11/2/2043	
+	Welltower Inc 2.75% 1/15/2031	
+	Westpac Banking Corp 4.421% 7/24/2039	
+	Westpac Banking Corp 2.668% 11/15/2035	
+	Westpac Banking Corp 2.963% 11/16/2040	
+	Westpac Banking Corp 3.35% 3/8/2027	
+	Willis-Knighton Med Ctr 4.813% 9/1/2048	
+	Wisconsin Public Service 3.671% 12/1/2042	
+	WRKCO Inc 3.75% 3/15/2025	
+	WRKCO Inc 3.9% 6/1/2028	
+	Williams Companies Inc 5.75% 6/24/2044	
+	Wyeth LLC 5.95% 4/1/2037	
+	Williams Partners Lp 3.75% 6/15/2027	
+	Williams Partners LP 6.3% 4/15/2040	
+	Westpac Banking Corp 4.322% 11/23/2031	
+	Westrock MWV Llc 7.95% 2/15/2031	
+	Westlake Chemical Corp 5% 8/15/2046	
+	Welltower Inc 4.25% 4/15/2028	
+	Xylem Inc 3.25% 11/1/2026	
+	G2 Ma6409 3% 1/20/2050	
+	G2 Ma6410 3.5% 1/20/2050	
+	G2 MA6412 4.5% 1/20/2050	
+	G2 MA5818 4.5% 3/20/2049	
+	G2 MA5816 3.5% 3/20/2049	
+	G2 MA5077 3.5% 3/20/2048	
+	G2 MA2076 5.00% 07/20/2044	
+	G2 MA2151	
+	FR ZA2380 3.5% 6/1/2035	
+	FR ZA2714 3% 4/1/2027	
+	FR Zs4651 3.5% 3/1/2046	
+	FR ZS4658 3% 4/1/2046	
+	FR Zs4663 3.5% 5/1/2046	
+	FR ZS4756 4% 2/1/2048	
+	FR ZS4731 4% 8/1/2047	
+	Goldman Sachs Group Inc 6.125% 2/15/2033	
+	Goldman Sachs Group Inc 6.25% 2/1/2041	
+	Harot 2019-4 A3 1.83% 1/18/2024	
+	Harot 2020-2 A3 0.82% 7/15/2024	
+	Goldman Sachs Group Inc 4.411% 4/23/2039	
+	Hasbro Inc 3.5% 9/15/2027	
+	Healthcare Trust of Amer 2.4% 3/15/2030	
+	Healthcare Trust Of America 3.75% 7/1/2027	
+	Huntington Ingalls Indus 3.844% 5/1/2025	
+	Idaho Power Co 4.2% 3/1/2048	
+	IBM Corp 4.25% 5/15/2049	
+	Hudson Pacific Properties 3.95% 11/1/2027	
+	Hungary Govt 5.375% 3/25/2024	
+	Home Depot Inc 4.875% 2/15/2044	
+	Home Depot Inc 5.875% 12/16/2036	
+	Honeywell International 2.5% 11/1/2026	
+	GN BQ8591 3% 11/15/2049	
+	GNMA MA2520 3% 1/20/2045	
+	Georgia-Pacific LLC 7.75% 11/15/2029	
+	Gilead Sciences Inc 3.5% 2/1/2025	
+	GLP Capital LP / Fin Ii 5.25% 6/1/2025	
+	Glp Capital Lp / Fin Ii 5.375% 11/1/2023	
+	Goldman Sachs Group Inc 3.85% 1/26/2027	
+	Goldman Sachs Group Inc 4% 3/3/2024	
+	Goldman Sachs Group Inc 4.017% 10/31/2038	
+	GNMA MA5467 4.5% 9/20/2048	
+	GNMA MA5711 4.5% 1/20/2049	
+	GNMA MA5819 5% 3/20/2049	
+	GNMA MA5876 4% 4/20/2049	
+	GNMA MA4126 3% 12/20/2046	
+	GNMA MA4128 4% 12/20/2046	
+	GNMA MA4197 4% 01/20/2047	
+	GNMA MA4587 4% 7/20/2047	
+	GNMA MA4653 4% 8/20/2047	
+	GNMA MA4780 4.5% 10/20/2047	
+	Kimco Realty Corp 2.8% 10/1/2026	
+	Kimco Realty Corp 3.3% 02/01/25	
+	Keycorp 2.55% 10/1/2029	
+	Kinder Morgan Inc/Delawa 7.75% 1/15/2032	
+	Kinder Morgan Inc/Delaware 5.55% 6/1/2045	
+	Kinder Morgan Ener Part 4.3% 5/1/2024	
+	Kinder Morgan Ener Part 5.5% 03/01/2044	
+	Kinder Morgan Energy Partners 3.5% 9/1/2023	
+	Kinder Morgan Energy Partners 5.4% 9/1/2044	
+	Kaiser Foundation Hospit 3.002% 6/1/2051	
+	Kaiser Foundation Hospit 3.15% 5/1/2027	
+	Kaiser Foundation Hospital 4.15% 5/1/2047	
+	JPMorgan Chase & Co 6.4% 5/15/2038	
+	Jpmorgan Chase & Co 4.493% 3/24/2031	
+	Legg Mason Inc 5.625% 1/15/2044	
+	Kla-Tencor Corp 4.65% 11/1/2024	
+	Kroger Co 5.15% 8/1/2043	
+	Linde Inc/Ct 2% 8/10/2050	
+	Lowe's Cos Inc 4.05% 5/3/2047	
+	Lowe\''s Cos Inc 2.625% 4/1/2031	
+	International Paper Co 4.35% 08/15/48	
+	International Paper Co 4.8% 6/15/2044	
+	Intercontinentalexchange 3.1% 09/15/27	
+	Intercontinentalexchange 3.75% 12/1/2025	
+	Invesco Finance Plc 4% 1/30/2024	
+	ITC Holdings Corp 5.3% 7/1/2043	
+	Intl Flavor & Fragrances 5% 9/26/2048	
+	JPMorgan Chase & Co 3.702% 5/6/2030	
+	JPMorgan Chase & Co 3.3% 4/1/2026	
+	JPMorgan Chase & Co 2.522% 4/22/2031	
+	Johns Hopkins University 2.813% 1/1/2060	
+	Janus Capital Group Inc 4.875% 8/1/2025	
+	Johnson & Johnson 3.55% 3/1/2036	
+	Oneok Inc 2.75% 9/1/2024	
+	Oneok Inc 4% 7/13/2027	
+	O\''Reilly Automotive Inc 3.9% 6/1/2029	
+	Nvidia Corp 3.7% 4/1/2060	
+	NY & Presbyterian Hospital 2.606% 8/1/2060	
+	Nutrien Ltd 5.25% 1/15/2045	
+	Nutrien Ltd 5.625% 12/1/2040	
+	Nvidia Corp 2.85% 4/1/2030	
+	Nisource Finance Corp 5.65% 2/1/2045	
+	Nike Inc 2.85% 3/27/2030	
+	Nike Inc 3.375% 11/1/2046	
+	Nike Inc 3.875% 11/1/2045	
+	Nisource Finance Corp 3.49% 5/15/2027	
+	Nisource Finance Corp 3.95% 3/30/2048	
+	Norfolk Southern Corp 4.05% 8/15/2052	
+	Novartis Capital Corp 3.7% 9/21/2042	
+	Mt Sinai Hospital 3.981% 7/1/2048	
+	NBCUniversal Media LLC 5.95% 4/1/2041	
+	National Oilwell Varco I 3.95% 12/1/2042	
+	National Rural Util Coop 3.25% 11/1/2025	
+	National Rural Util Coop 3.4% 2/7/2028	
+	National Rural Util Coop 3.9% 11/1/2028	
+	National Rural Util Coop 4.023% 11/1/2032	
+	Morgan Stanley 4% 7/23/2025	
+	Morgan Stanley 3.875% 1/27/2026	
+	Morgan Stanley 3.875% 4/29/2024	
+	Morgan Stanley 3.622% 4/1/2031	
+	Morgan Stanley 2.802% 1/25/2052	
+	Morgan Stanley 3.125% 7/27/2026	
+	MPLX LP 4% 3/15/2028	
+	Morgan Stanley 5.597% 3/24/2051	
+	Mosaic Co 4.875% 11/15/2041	
+	Morgan Stanley 4.375% 1/22/2047	
+	Microsoft Corp 4.25% 2/6/2047	
+	Microsoft Corp 3.7% 8/8/2046	
+	Midamerican Energy Co 3.15% 4/15/2050	
+	Mitsubishi UFJ Fin Grp 3.777% 3/2/2025	
+	Midamerican Energy Co 4.8% 9/15/2043	
+	Morgan Stanley 2.699% 1/22/2031	
+	Moody\''s Corporation 2.55% 8/18/2060	
+	Moody\''s Corporation 3.25% 1/15/2028	
+	McDonald's Corp 3.375% 5/26/2025	
+	Mastercard Inc 3.65% 6/1/2049	
+	Mass Institute of Tech 3.885% 7/1/2116	
+	Medtronic Inc 4.375% 3/15/2035	
+	Merck & Co Inc 2.35% 6/24/2040	
+	Merck & Co Inc 2.45% 6/24/2050	
+	McDonald's Corp 4.45% 3/1/2047	
+	Marvell Technology Inc 4.875% 6/22/2028	
+	Masco Corp 4.5% 5/15/2047	
+	Martin Marietta Material 3.5% 12/15/2027	
+	Marsh & Mclennan Cos Inc 4.2% 3/1/2048	
+	LYB Int Finance Iii 3.8% 10/1/2060	
+	LYB Intl Finance Bv 4.875% 3/15/2044	
+	Lyondellbasell Ind Nv 4.625% 2/26/2055	
+	Magna International Inc 3.625% 6/15/2024	
+	Marathon Oil Corp 6.8% 3/15/2032	
+	Vale Overseas Ltd 6.875% 11/21/2036	
+	Ventas Realty Lp 4.75% 11/15/2030	
+	US Treasury Note 6.125% 8/15/2029	
+	Visa Inc 2% 8/15/2050	
+	Verizon Communications 3% 11/20/2060	
+	Verizon Communications 3.376% 2/15/2025	
+	Viacom Inc 6.875% 4/30/2036	
+	Viacomcbs Inc 4.95% 5/19/2050	
+	Viatris Inc 2.7% 6/22/2030	
+	Verizon Communications 0.85% 11/20/2025	
+	Vulcan Materials Co 4.5% 4/1/2025	
+	Wachovia Corp 5.5% 8/1/2035	
+	Walmart Inc 3.7% 6/26/2028	
+	Walt Disney Company 3.7% 12/1/2042	
+	Walt Disney Company 4.375% 8/16/2041	
+	Walt Disney Company/The 3.8% 5/13/2060	
+	Walt Disney Company/The 4.95% 10/15/2045	
+	Walt Disney Company/The 6.4% 12/15/2035	
+	Walt Disney Company/The 3% 2/13/2026	
+	Wells Fargo & Company 4.15% 1/24/2029	
+	US Bancorp 1.375% 7/22/2030	
+	Univ of California-Bd 3.349% 7/1/2029	
+	Unitedhealth Group Inc 3.75% 10/15/2047	
+	UnitedHealth Group Inc 3.875% 12/15/2028	
+	Unitedhealth Group Inc 3.95% 10/15/2042	
+	US Treasury Note 0.25% 5/31/2025	
+	Qualcomm Inc 1.65% 5/20/2032	
+	Public Service Electric 3% 5/15/2027	
+	Prudential Financial Inc 4.6% 5/15/2044	
+	Prudential Financial Inc 5.375% 5/15/2045	
+	Prudential Financial Inc 5.7% 12/14/2036	
+	Prudential Financial Inc 5.7% 9/15/2048	
+	Prologis Lp 4.375% 9/15/2048	
+	Port Of Morrow Or Tra 2.543% 9/1/2040	
+	Roper Technologies Inc 2.35% 9/15/2024	
+	Reynolds American Inc 5.85% 8/15/2045	
+	Raytheon Tech Corp 4.8% 12/15/2043	
+	Realty Income Corp 3% 1/15/2027	
+	Realty Income Corp 3.95% 8/15/2027	
+	Pfizer Inc 2.95% 3/15/2024	
+	Pfizer Inc 3% 12/15/2026	
+	Pepsico Inc 3.375% 7/29/2049	
+	Parker-Hannifin Corp 6.25% 5/15/2038	
+	Parker-Hannifin Corp 3.25% 6/14/2029	
+	Parker-Hannifin Corp 3.3% 11/21/2024	
+	Phillips 66 3.9% 3/15/2028	
+	Plains All Amer Pipeline 4.5% 12/15/2026	
+	Pfizer Inc 4.3% 6/15/2043	
+	Peco Energy Co 3.9% 3/1/2048	
+	Omega Hlthcare Investors 4.5% 4/1/2027	
+	Oracle Corp 5.375% 7/15/2040	
+	Oracle Corp 3.25% 11/15/2027	
+	Oracle Corp 3.85% 4/1/2060	
+	Pacific Gas & Electric 2.1% 8/1/2027	
+	Pacific Gas & Electric 2.95% 3/1/2026	
+	Starbucks Corp 4% 11/15/2028	
+	Starbucks Corp 2.45% 6/15/2026	
+	Spectra Energy Partners 3.5% 3/15/2025	
+	Spectra Energy Partners 4.75% 3/15/2024	
+	Stanford Health Care 3.795% 11/15/2048	
+	Stanley Black & Decker I 2.75% 11/15/2050	
+	Southern Copper Corp 6.75% 04/16/40	
+	Southern Cal Edison 4.875% 3/1/2049	
+	Southern Calif Gas Co 4.125% 6/1/2048	
+	Statoil ASA 2.65% 1/15/2024	
+	Stryker Corp 3.375% 5/15/2024	
+	Sunoco Logistics Partner 3.9% 7/15/2026	
+	Southern Cal Edison 3.65% 2/1/2050	
+	Simon Property Group Lp 3.75% 2/1/2024	
+	Simon Property Group LP 3.3% 1/15/2026	
+	Sherwin-Williams Co 4.5% 6/1/2047	
+	Shire Acq Inv Ireland Da 2.875% 9/23/2023	
+	Sherwin-Williams Co 2.95% 8/15/2029	
+	Sherwin-Williams Co 3.8% 8/15/2049	
+	Sanofi 3.625% 6/19/2028	
+	Sabra Health/Captl Corp 3.9% 10/15/2029	
+	Union Pacific Corp 3.75% 7/15/2025	
+	Union Pacific Corp 3.799% 4/6/2071	
+	Union Electric Co 2.95% 06/15/27	
+	Union Pacific Corp 2.75% 3/1/2026	
+	Union Pacific Corp 3.25% 8/15/2025	
+	United Parcel Service 3.4% 11/15/2046	
+	United Parcel Service 6.2% 1/15/2038	
+	United Parcel Service 2.4% 11/15/2026	
+	Union Pacific Corp 4% 4/15/2047	
+	United Air 2013-1 A Ptt 4.3% 8/15/2025	
+	Transcont Gas Pipe Corp 4.45% 8/1/2042	
+	Travelers Cos Inc 2.55% 4/27/2050	
+	Tx St Trans Comm 2.562% 4/1/2042	
+	Total Capital Intl Sa 3.461% 7/12/2049	
+	Time Warner Cable Inc 5.5% 9/1/2041	
+	Telus Corp 2.8% 2/16/2027	
+	Telus Corp 4.6% 11/16/2048	
+	Synchrony Financial 3.7% 8/4/2026	
+	Tampa Electric Co 4.3% 6/15/2048	
+	Toyota Motor Credit Corp 2.9% 4/17/2024	
+	Toyota Motor Credit Corp 3.05% 1/11/2028	
+	T-Mobile USA Inc 3.3% 2/15/2051	
+	T-Mobile USA Inc 3.6% 11/15/2060	
+	Bank Of America Corp 1.319% 6/19/2026	
+	Autonation Inc 4.5% 10/1/2025	
+	Autozone Inc 3.25% 4/15/2025	
+	Autonation Inc 3.5% 11/15/2024	
+	AT&T Inc 4.75% 5/15/2046	
+	Baxalta Inc 4% 6/23/2025	
+	Bankunited Inc 4.875% 11/17/2025	
+	Bank Of America Corp 5.875% 02/07/2042	
+	Bank Of America Corp 4.443% 1/20/2048	
+	Bank Of America Corp 4.75% 4/21/2045	
+	Bank Of America Corp 2.831% 10/24/2051	
+	Bank of America Corp 2.884% 10/22/2030	
+	Bank Of America Corp 4.244% 4/24/2038	
+	BGC Partners Inc 3.75% 10/1/2024	
+	Berkley (Wr) Corporation 3.15% 9/30/2061	
+	Boardwalk Pipelines Lp 3.4% 2/15/2031	
+	Boardwalk Pipelines LP 4.45% 7/15/2027	
+	Boardwalk Pipelines LP 4.95% 12/15/2024	
+	Boeing Co 2.25% 6/15/2026	
+	Boeing Co 3.9% 5/1/2049	
+	Blackrock Inc 3.5% 3/18/2024	
+	Berkshire Hathaway Fin 2.85% 10/15/2050	
+	Brixmor Operating Part 3.65% 6/15/2024	
+	Bristol-Myers Squibb Co 4.125% 6/15/2039	
+	Broadcom Crp / Caymn Fi 3.5% 1/15/2028	
+	Brookfield Finance Inc 3.9% 1/25/2028	
+	Boston Properties LP 3.65% 2/1/2026	
+	BP Cap Markets America 3.119% 5/4/2026	
+	Boeing Co 5.875% 2/15/2040	
+	Borgwarner Inc 2.65% 7/1/2027	
+	BP Cap Markets America 4.234% 11/6/2028	
+	Bristol-Myers Squibb Co 1.45% 11/13/2030	
+	Bristol-Myers Squibb Co 2.55% 11/13/2050	
+	Bristol-Myers Squibb Co 3.2% 6/15/2026	
+	Apple Inc 4.375% 5/13/2045	
+	Apple Inc 4.45% 5/6/2044	
+	Aspen Insurance Hldg Ltd 4.65% 11/15/2023	
+	Astrazeneca Plc 3.375% 11/16/2025	
+	Asian Development Bank 2% 1/22/2025	
+	AT&T Inc 3.65% 6/1/2051	
+	Aon Corp 2.8% 5/15/2030	
+	Apple Inc 1.125% 5/11/2025	
+	Anthem Inc 4.65% 8/15/2044	
+	Anheuser-Busch InBev World 4.439% 10/6/2048	
+	Amgen Inc. 3.625% 05/22/2024	
+	Amerisourcebergen Corp 3.4% 5/15/2024	
+	American Tower Corp 2.95% 1/15/2051	
+	American Tower Corp 3.1% 6/15/2050	
+	Alabama Power Co 3.45% 10/1/2049	
+	Alabama Power Co 4.3% 7/15/2048	
+	Air Lease Corp 4.25% 9/15/2024	
+	AGL Capital Corp 4.4% 6/1/2043	
+	Abbvie Inc 4.75% 3/15/2045	
+	Activision Blizzard 2.5% 9/15/2050	
+	Abbvie Inc 4.55% 3/15/2035	
+	Abbvie Inc 4.25% 11/21/2049	
+	Abbvie Inc 4.4% 11/6/2042	
+	Abbott Laboratories 3.4% 11/30/2023	
+	Abbott Laboratories 4.75% 4/15/2043	
+	3M Company 3.125% 9/19/2046	
+	Alexandria Real Estate E 3.45% 4/30/2025	
+	Ally Financial Inc 8% 11/1/2031	
+	Altria Group Inc 3.4% 2/4/2041	
+	Alphabet Inc 1.9% 8/15/2040	
+	Alphabet Inc 2.05% 8/15/2050	
+	Amazon.Com Inc 3.875% 8/22/2037	
+	American Express Co 3.3% 5/3/2027	
+	American Homes 4 Rent 4.25% 2/15/2028	
+	American Honda Finance 1% 9/10/2025	
+	American Honda Finance 2.3% 9/9/2026	
+	American Honda Finance 2.9% 2/16/2024	
+	Connecticut Light & Pwr 4.3% 04/15/44	
+	Consolidated Edison Co O 3.875% 06/15/47	
+	Costco Wholesale Corp 1.75% 4/20/2032	
+	Costco Wholesale Corp 3% 5/18/2027	
+	Crown Castle Intl Corp 3.25% 1/15/2051	
+	Corning Inc 5.45% 11/15/2079	
+	Corning Inc 5.85% 11/15/2068	
+	CSX Corp 4.5% 8/1/2054	
+	Danaher Corp 2.6% 10/1/2050	
+	Dell Int LLC/ EMC Corp 8.35% 7/15/2046	
+	Dell Int LLC / EMC Corp 6.02% 6/15/2026	
+	Discovery Communications 5.2% 9/20/2047	
+	Devon Energy Corporation 5.6% 7/15/2041	
+	Dow Chemical Co 4.25% 10/1/2034	
+	Dow Chemical Co 4.375% 11/15/2042	
+	Dominion Resources Inc 5.95% 6/15/2035	
+	Dominion Resources Inc 3.9% 10/1/2025	
+	Emerson Electric Co 1.95% 10/15/2030	
+	Ecolab Inc 2.7% 11/1/2026	
+	Duke Energy Ohio Inc 3.8% 9/1/2023	
+	Enbridge Energy Partners 5.875% 10/15/2025	
+	Dr Pepper Snapple Group 2.55% 9/15/2026	
+	Dow Chemical Co 7.375% 11/1/2029	
+	Eaton Vance Corp 3.5% 4/6/2027	
+	Ebay Inc 4% 7/15/2042	
+	Duke Energy Corp 3.95% 08/15/47	
+	European Investment Bank 0.375% 12/15/2025	
+	Essential Utilities Inc 2.704% 4/15/2030	
+	European Investment Bank 3.25% 1/29/2024	
+	Eversource Energy 4.25% 4/1/2029	
+	Exelon Corp 5.1% 6/15/2045	
+	Expedia Inc 3.8% 2/15/2028	
+	Exxon Mobil Corporation 2.019% 8/16/2024	
+	Energy Transfer Partners 4.2% 9/15/2023	
+	Energy Transfer Operatng 4.9% 3/15/2035	
+	Entergy Louisiana LLC 3.12% 9/1/2027	
+	Carlisle Cos Inc 3.75% 12/1/2027	
+	Burlington Resources Fin 7.4% 12/1/2031	
+	Burlingtn North Santa Fe 6.15% 5/1/2037	
+	Bunge Ltd Finance Corp 1.63% 8/17/2025	
+	Burlingtn North Santa Fe 3% 4/1/2025	
+	Burlingtn North Santa Fe 3.9% 8/1/2046	
+	Charter Comm Opt LLC/Cap 3.7% 4/1/2051	
+	Charter Comm Opt Llc/Cap 3.85% 4/1/2061	
+	Charter Comm Opt LLC/Cap 4.5% 2/1/2024	
+	Charter Comm Opt LLC/Cap 5.125% 7/1/2049	
+	Charter Comm Opt LLC/Cap 6.384% 10/23/2035	
+	Chevron USA Inc 0.687% 8/12/2025	
+	CBS Corp 4.85% 7/1/2042	
+	CBS Corp 4.9% 8/15/2044	
+	CBS Corp 3.375% 02/15/28	
+	CBOE Holdings Inc 3.65% 1/12/2027	
+	Centerpoint Energy Res 4.1% 9/1/2047	
+	Citigroup Inc 3.7% 1/12/2026	
+	Citigroup Inc 3.3% 4/27/2025	
+	Citigroup Inc 3.4% 5/1/2026	
+	Citigroup Inc 4.075% 4/23/2029	
+	Citigroup Inc 4.281% 4/24/2048	
+	Citigroup Inc 5.5% 9/13/2025	
+	Cigna Corp 6.125% 11/15/2041	
+	Citigroup Inc 1.122% 1/28/2027	
+	Citigroup Inc 2.572% 6/3/2031	
+	Chevron USA Inc 3.9% 11/15/2024	
+	Cigna Corp 3.4% 3/1/2027	
+	Children\''S Hospital/Dc 2.928% 7/15/2050	
+	Chubb Ina Holdings Inc 3.15% 3/15/2025	
+	Comcast Corp 2.45% 8/15/2052	
+	Comcast Corp 2.65% 8/15/2062	
+	Comcast Corp 3.4% 7/15/2046	
+	Coca-Cola Co/The 2.5% 3/15/2051	
+	Coca-Cola Co/The 2.6% 6/1/2050	
+	CME Group Inc 4.15% 6/15/2048	
+	CME Group Inc 5.3% 9/15/2043	
+	Coach Inc 4.125% 07/15/27	
+	Comcast Corp 4.6% 10/15/2038	
+	Comcast Corp 4.7% 10/15/2048	
+	Comm 2014-Cr17 Asb 3.598% 5/10/2047	
+	Commonspirit Health 4.35% 11/1/2042	
+	Commonwealth Edison Co 4.7% 1/15/2044	
+	FN MA3897 3% 1/1/2035	
+	FN MA3674 2.5% 5/1/2034	
+	FN MA1983	
+	FN MA2579 3% 4/1/2036	
+	FN FM4116 4.5% 7/1/2049	
+	FN BQ5781 1.5% 11/1/2035	
+	FN CA1710 4.5% 5/1/2048	
+	FGLMC Q50152 4% 8/1/2047	
+	FGLMC Q51461 3.5% 10/1/2047	
+	FGLMC V60585 3% 8/1/2029	
+	FGLMC Q36049 3.5% 9/1/2045	
+	FGLMC G18536 2.5% 1/1/2030	
+	FGLMC G18665 2.5% 11/1/2032	
+	FGLMC G60819 4.5% 7/1/2045	
+	FGLMC G08749 4% 2/1/2047	
+	FGLMC G08759 4.5% 4/1/2047	
+	FGLMC G08761 3.5% 5/1/2047	
+	FGLMC G08774 3.5% 8/1/2047	
+	FGLMC G08801 4% 2/1/2048	
+	FGLMC V83344 4% 8/1/2047	
+	FHLMC K049 A1 2.475% 3/25/2025	
+	Exxon Mobil Corporation 2.44% 8/16/2029	
+	Federal Home Loan Bank 5.5% 7/15/2036	
+	Fedex Corp 3.875% 8/1/2042	
+	Fedex Corp 3.9% 2/1/2035	
+	Fedex Corp 4.2% 10/17/2028	
+	FGLMC G08734 4% 11/1/2046	
+	FGLMC G08660 4% 8/1/2045	
+	FGLMC G08677 4% 11/1/2045	
+	Fed Hm Ln PC Pool E09025 2.5% 3/1/2028	
+	Fed Hm Ln PC Pool G18493 3.5% 1/1/2029	
+	Fed Hm Ln PC Pool G18714 4% 11/1/2033	
+	Fedex Corp 4.75% 11/15/2045	
+	FG C09055 4% 12/1/2043	
+	FN BM1020 4.5% 11/1/2046	
+	FN BM4306 4% 9/1/2025	
+	FN AS2515 4.5% 5/1/2044	
+	FN AP7539 3% 9/1/2027	
+	FN AV0605 4% 11/1/2043	
+	FN AV0633 3% 11/1/2028	
+	Florida Power & Light Co 3.7% 12/1/2047	
+	FN 255956 5.5% 10/1/2025	
+	FN 890397 3.5% 12/1/2026	
+	FN AC2953 4.5% 9/1/2039	
+	FN AL7729 4% 6/1/2043	
+	FN AL4643 4% 7/1/2026	
+	FN AJ5336 3% 11/1/2026	
+	FLMC G18673 3% 1/1/2033	
+	Fiserv Inc 3.2% 7/1/2026	
+	Fiserv Inc 4.2% 10/1/2028	
+	FR SB8046 3% 5/1/2035	
+	FR SD0093 5% 10/1/2049	
+	FNMA MA3182 3.5% 11/1/2047	
+	FNMA MA3248 3.5% 1/1/2033	
+	FNMA MA3336 3.5% 4/1/2038	
+	FNMA MA3217 2.5% 12/1/2032	
+	FNMA MA3238 3.5% 1/1/2048	
+	FNMA MA2805 2.5% 11/1/2046	
+	FNMA MA2907 4% 2/1/2047	
+	FNMA MA2995 4% 5/1/2047	
+	Fortune Brands Home & Se 3.25% 9/15/2029	
+	FNMA MA3681 3% 6/1/2034	
+	FNMA MA3804 4% 10/1/2049	
+	FNMA AS3467 4% 10/1/2044	
+	FNMA AS5729 3% 9/1/2030	
+	FNMA AL9994 2.5% 4/1/2032	
+	FNMA Al8271 3.5% 4/1/2031	
+	FNMA 3% 9/1/2046	
+	FNMA AB5286 3.5% 6/1/2042	
+	FNMA AS8056 3% 10/1/2046	
+	FNMA AS8142 4% 10/1/2046	
+	FNMA AS8207 2.5% 10/1/2031	
+	FNMA Au2619 2.5% 8/1/2028	
+	FNMA MA2497 3.5% 1/1/2036	
+	FNMA MA1440 3.5% 5/1/2043	
+	FNMA Ca0183 4% 8/1/2047	
+	FNMA BE3619 4% 5/1/2047	
+	FNMA BE5067 3.5% 11/1/2046	
+	FNMA BE5069 3% 11/1/2046	
+	FNMA BE5651 3% 2/1/2047	
+	FNMA AS7437 2.5% 6/1/2031	
+	FNMA AS7495 2.5% 7/1/2031	
+	FNMA AS7601 4% 7/1/2046	
+	FNMA AS6923 3.5% 4/1/2046	
+	FNMA AS7106 3.5% 5/1/2046	
+	FN MA4262 2.5% 2/1/2036	
+	FN MA4046 3% 6/1/2040	
+	FN MA4016 2.5% 5/1/2040	
+	FN MA4128 2% 9/1/2040	

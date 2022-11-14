@@ -1,0 +1,87 @@
+DWAT
+INDA	iShares MSCI India ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=INDA.US&back=DWAT
+	Mizrahi Tefahot Bank Ltd.	
+	Bank Hapoalim BM	
+	Israel Discount Bank Ltd.	
+	Bank Leumi Le-Israel BM	
+	Elbit Systems Ltd.	
+	Jollibee Foods Corporation	
+	ICL Group Ltd.	
+EPI	WisdomTree India Earnings Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=EPI.US&back=DWAT
+	BDO Unibank Inc.	
+	Metropolitan Bank & Trust Company	
+	Bank of the Philippine Islands	
+	DNB Bank ASA	
+	Equinor ASA	
+	Storebrand ASA	
+	PLDT Inc.	
+	Gjensidige Forsikring ASA	
+	Mineral Resources Ltd.	
+	International Container Terminal Services Inc.	
+	United Tractors Tbk P.T.	
+	Adaro Energy Indonesia Tbk P.T.	
+6409.TW&back=DWAT	Voltronic Power Technology Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6409.TW&back=DWAT
+	Salmar ASA	
+	Incitec Pivot Ltd.	
+	Yara International ASA	
+	Aker BP ASA	
+	Manila Electric Company	
+	Tourmaline Oil Corporation	
+	CSL Ltd.	
+	Telekomunikasi Indonesia Persero Tbk P.T.	
+	National Australia Bank Ltd.	
+	Bank Mandiri Persero Tbk P.T.	
+	Origin Energy Ltd.	
+3023.TW&back=DWAT	Sinbon Electronics Company Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3023.TW&back=DWAT
+	Indah Kiat Pulp & Paper Corp Tbk P.T.	
+	Bank Central Asia Tbk P.T.	
+	Commonwealth Bank of Australia	
+	Regional S.A.B. de C.V.	
+	Mowi ASA	
+	Dollarama Inc.	
+	Astra International Tbk P.T.	
+5434.TW&back=DWAT	Topco Scientific Company Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=5434.TW&back=DWAT
+	Constellation Software Inc.	
+	APA Group	
+	Grupo Financiero Banorte S.A.B. de C.V.	
+	Prologis Property Mexico S.A. de CV	
+	Bank Rakyat Indonesia Persero Tbk P.T.	
+	Bank Negara Indonesia Persero Tbk P.T.	
+2368.TW&back=DWAT	Gold Circuit Electronics Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2368.TW&back=DWAT
+	Grupo Aeroportuario del Pacifico S.A.B. de C.V.	
+2884.TW&back=DWAT	E.Sun Financial Holding Company Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2884.TW&back=DWAT
+	Computershare Ltd.	
+3533.TW&back=DWAT	Lotes Company Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3533.TW&back=DWAT
+	Whitecap Resources Inc.	
+2352.TW&back=DWAT	Qisda Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=2352.TW&back=DWAT
+2330.TW&back=DWAT	Taiwan Semiconductor Manufacturing Company Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2330.TW&back=DWAT
+	Absa Group Ltd.	
+	Alsea S.A.B. de C.V.	
+	Exxaro Resources Ltd.	
+	BHP Group Ltd.	
+	Fortis Inc.	
+	Tower Bersama Infrastructure Tbk P.T.	
+	ASX Ltd.	
+	Cenovus Energy Inc.	
+	Qualitas Controladora S.A.B. de C.V.	
+	Clicks Group Ltd.	
+	Wal-Mart de Mexico S.A.B. de C.V.	
+	Toronto-Dominion Bank (The)	
+	PSG Group Ltd.	
+	Redefine Properties Ltd.	
+2395.TW&back=DWAT	Advantech Company Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2395.TW&back=DWAT
+	Royal Bank of Canada	
+	Alfa S.A.B. de C.V.	
+	NuVista Energy Ltd.	
+	Granite Real Estate Investment Trust	
+	Capitec Bank Holdings Ltd.	
+	Grupo Financiero Inbursa S.A.B. de C.V.	
+	Investec Ltd.	
+	Grupo Mexico S.A.B. de C.V.	
+	Nedbank Group Ltd.	
+	Sappi Ltd.	
+2609.TW&back=DWAT	Yang Ming Marine Transport Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=2609.TW&back=DWAT
+	Sasol Ltd.	
+	Ninety One Ltd.	
+2615.TW&back=DWAT	Wan Hai Lines Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2615.TW&back=DWAT
+	NEW TAIWAN DOLLAR	

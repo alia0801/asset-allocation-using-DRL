@@ -1,0 +1,27 @@
+SLX
+RIO	Rio Tinto Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=RIO.US&back=SLX
+VALE	Vale Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=VALE.US&back=SLX
+NUE	Nucor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=SLX
+X	United States Steel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=SLX
+MT	Arcelormittal Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=MT.US&back=SLX
+STLD	Steel Dynamics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=SLX
+CMC	Commercial Metals Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CMC.US&back=SLX
+RS	Reliance Steel & Aluminum Co	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=SLX
+TS	Tenaris Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=TS.US&back=SLX
+PKX	Posco Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PKX.US&back=SLX
+CLF	Cleveland-Cliffs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=SLX
+GGB	Gerdau Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=GGB.US&back=SLX
+ATI	Ati Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATI.US&back=SLX
+TX	Ternium Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=TX.US&back=SLX
+SID	Cia Siderurgica Nacional Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=SID.US&back=SLX
+WOR	Worthington Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WOR.US&back=SLX
+HCC	Warrior Met Coal Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HCC.US&back=SLX
+CRS	Carpenter Technology Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CRS.US&back=SLX
+ROCK	Gibraltar Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROCK.US&back=SLX
+RYI	Ryerson Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RYI.US&back=SLX
+SCHN	Schnitzer Steel Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHN.US&back=SLX
+TMST	Timkensteel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TMST.US&back=SLX
+SXC	Suncoke Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SXC.US&back=SLX
+ZEUS	Olympic Steel Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZEUS.US&back=SLX
+HUDI	Huadi International Group Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=HUDI.US&back=SLX
+	Other/Cash	

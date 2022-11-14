@@ -1,0 +1,35 @@
+XLP
+PG	Procter & Gamble Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=XLP
+KO	Coca-Cola Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=XLP
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=XLP
+COST	Costco Wholesale Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=XLP
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=XLP
+MDLZ	Mondelez International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=XLP
+MO	Altria Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=XLP
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=XLP
+CL	Colgate-Palmolive Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=XLP
+EL	Estee Lauder Companies Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=XLP
+ADM	Archer-Daniels-Midland Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=XLP
+GIS	General Mills Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=XLP
+KMB	Kimberly-Clark Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=XLP
+SYY	Sysco Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=XLP
+STZ	Constellation Brands Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=STZ.US&back=XLP
+MNST	Monster Beverage Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=XLP
+HSY	Hershey Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=XLP
+KR	Kroger Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=XLP
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=XLP
+KHC	Kraft Heinz Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=XLP
+WBA	Walgreens Boots Alliance Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=XLP
+TSN	Tyson Foods Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=XLP
+MKC	McCormick & Company Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=XLP
+CHD	Church & Dwight Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=XLP
+K	Kellogg Company	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=XLP
+CLX	Clorox Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=XLP
+CAG	Conagra Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=XLP
+SJM	J.M. Smucker Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=XLP
+HRL	Hormel Foods Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=XLP
+BF.B	Brown-Forman Corporation Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=XLP
+LW	Lamb Weston Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LW.US&back=XLP
+CPB	Campbell Soup Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=XLP
+TAP	Molson Coors Beverage Company Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=XLP
+	STATE STREET INSTITUTIONAL LIQ STATE STR	

@@ -1,0 +1,37 @@
+XNTK
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=XNTK
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=XNTK
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=XNTK
+BKNG	Booking Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=XNTK
+JD	JD.com Inc. Sponsored ADR Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=JD.US&back=XNTK
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=XNTK
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=XNTK
+UBER	Uber Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=XNTK
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=XNTK
+BABA	Alibaba Group Holding Ltd. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BABA.US&back=XNTK
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=XNTK
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=XNTK
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=XNTK
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=XNTK
+QCOM	Qualcomm Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=XNTK
+TSM	Taiwan Semiconductor Manufacturing Co. Ltd. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=XNTK
+NOW	ServiceNow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=XNTK
+MU	Micron Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=XNTK
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=XNTK
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=XNTK
+ABNB	Airbnb Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=XNTK
+ASML	ASML Holding NV ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=XNTK
+LRCX	Lam Research Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=XNTK
+AMAT	Applied Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=XNTK
+AMD	Advanced Micro Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=XNTK
+CRM	Salesforce Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=XNTK
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=XNTK
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=XNTK
+META	Meta Platforms Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=XNTK
+SNOW	Snowflake Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=XNTK
+NFLX	Netflix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=XNTK
+RBLX	Roblox Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=XNTK
+SE	Sea Ltd. (Singapore) Sponsored ADR Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SE.US&back=XNTK
+	Shopify Inc. Class A	
+SNAP	Snap Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNAP.US&back=XNTK
+	STATE STREET INSTITUTIONAL LIQ STATE STR	

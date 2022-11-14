@@ -1,0 +1,21 @@
+VOO
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=VOO
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=VOO
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=VOO
+TSLA	Tesla Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=VOO
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=VOO
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=VOO
+BRK.B	Berkshire Hathaway Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=VOO
+UNH	UnitedHealth Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=VOO
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=VOO
+XOM	Exxon Mobil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=VOO
+NVDA	NVIDIA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=VOO
+META	Facebook Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=VOO
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=VOO
+PG	Procter & Gamble Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=VOO
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=VOO
+CVX	Chevron Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=VOO
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=VOO
+MA	Mastercard Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=VOO
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=VOO
+KO	Coca-Cola Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=VOO

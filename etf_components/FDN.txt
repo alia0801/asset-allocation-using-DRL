@@ -1,0 +1,43 @@
+FDN
+AMZN	Amazon.com,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=FDN
+META	Meta Platforms Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=FDN
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=FDN
+GOOGL	Alphabet Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=FDN
+GOOG	Alphabet Inc. (Class C)	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=FDN
+PYPL	PayPal Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=FDN
+NFLX	Netflix,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=FDN
+CRM	Salesforce,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=FDN
+SNOW	Snowflake Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=FDN
+ABNB	Airbnb,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=FDN
+WDAY	Workday,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=FDN
+ANET	Arista Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=FDN
+VEEV	Veeva Systems Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=FDN
+TWTR	Twitter,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=FDN
+DDOG	Datadog,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=FDN
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=FDN
+NET	Cloudflare,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=FDN
+ETSY	Etsy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=FDN
+ZI	ZoomInfo Technologies Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZI.US&back=FDN
+PINS	Pinterest,Inc (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=PINS.US&back=FDN
+	Citrix Systems,Inc.	
+GDDY	GoDaddy Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GDDY.US&back=FDN
+AKAM	Akamai Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=FDN
+OKTA	Okta,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=FDN
+EXPE	Expedia Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=FDN
+ZM	Zoom Video Communications,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=FDN
+MTCH	Match Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTCH.US&back=FDN
+JNPR	Juniper Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=FDN
+CIEN	Ciena Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=FDN
+SNAP	Snap Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SNAP.US&back=FDN
+DOCU	DocuSign,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCU.US&back=FDN
+DBX	Dropbox,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=FDN
+NTNX	Nutanix,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=NTNX.US&back=FDN
+TDOC	Teladoc Health,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=FDN
+COMM	CommScope Holding Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COMM.US&back=FDN
+BOX	Box,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=BOX.US&back=FDN
+COUP	Coupa Software Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=COUP.US&back=FDN
+Z	Zillow Group,Inc. (Class C)	/etf/ea/ETZCW.djhtm?c=1&etfid=Z.US&back=FDN
+OPEN	Opendoor Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OPEN.US&back=FDN
+FSLY	Fastly,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLY.US&back=FDN
+ZG	Zillow Group,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZG.US&back=FDN
+	US Dollar	

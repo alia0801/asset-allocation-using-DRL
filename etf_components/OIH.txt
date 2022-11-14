@@ -1,0 +1,26 @@
+OIH
+SLB	Schlumberger Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=OIH
+HAL	Halliburton Co	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=OIH
+BKR	Baker Hughes Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=OIH
+FTI	Technipfmc Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=FTI.US&back=OIH
+NOV	Nov Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NOV.US&back=OIH
+TS	Tenaris Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=TS.US&back=OIH
+CHX	Championx Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHX.US&back=OIH
+HP	Helmerich & Payne Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HP.US&back=OIH
+PTEN	Patterson-Uti Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PTEN.US&back=OIH
+RIG	Transocean Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=RIG.US&back=OIH
+WHD	Cactus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WHD.US&back=OIH
+LBRT	Liberty Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRT.US&back=OIH
+NEX	Nextier Oilfield Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEX.US&back=OIH
+RES	Rpc Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RES.US&back=OIH
+NBR	Nabors Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NBR.US&back=OIH
+SLCA	Us Silica Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLCA.US&back=OIH
+XPRO	Expro Group Holdings Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=XPRO.US&back=OIH
+OII	Oceaneering International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OII.US&back=OIH
+WTTR	Select Energy Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTTR.US&back=OIH
+PUMP	Propetro Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PUMP.US&back=OIH
+DRQ	Dril-Quip Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DRQ.US&back=OIH
+HLX	Helix Energy Solutions Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLX.US&back=OIH
+CLB	Core Laboratories Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=CLB.US&back=OIH
+OIS	Oil States International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OIS.US&back=OIH
+BOOM	Dmc Global Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BOOM.US&back=OIH

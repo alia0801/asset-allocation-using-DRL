@@ -1,0 +1,43 @@
+PTF
+INTU	Intuit Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=PTF
+AAPL	Apple Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=PTF
+MPWR	Monolithic Power Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=PTF
+CDNS	Cadence Design Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=PTF
+ON	ON Semiconductor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=PTF
+LSCC	Lattice Semiconductor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=PTF
+KLAC	KLA Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=PTF
+ARRY	Array Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARRY.US&back=PTF
+ENPH	Enphase Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=PTF
+FSLR	First Solar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=PTF
+SNPS	Synopsys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=PTF
+MSFT	Microsoft Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=PTF
+CDW	CDW Corp/DE	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=PTF
+PANW	Palo Alto Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=PTF
+PCTY	Paylocity Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCTY.US&back=PTF
+PSTG	Pure Storage Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PSTG.US&back=PTF
+RBLX	ROBLOX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=PTF
+QLYS	Qualys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QLYS.US&back=PTF
+AVGO	Broadcom Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=PTF
+EXTR	Extreme Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXTR.US&back=PTF
+PI	Impinj Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PI.US&back=PTF
+KEYS	Keysight Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=PTF
+TTD	Trade Desk Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TTD.US&back=PTF
+WOLF	Wolfspeed Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WOLF.US&back=PTF
+SPSC	SPS Commerce Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPSC.US&back=PTF
+ACLS	Axcelis Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ACLS.US&back=PTF
+MTSI	MACOM Technology Solutions Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MTSI.US&back=PTF
+SHLS	Shoals Technologies Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLS.US&back=PTF
+SMCI	Super Micro Computer Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SMCI.US&back=PTF
+CALX	Calix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CALX.US&back=PTF
+MANH	Manhattan Associates Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MANH.US&back=PTF
+IRDM	Iridium Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IRDM.US&back=PTF
+HLIT	Harmonic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLIT.US&back=PTF
+DGII	Digi International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DGII.US&back=PTF
+EXLS	ExlService Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXLS.US&back=PTF
+BDC	Belden Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BDC.US&back=PTF
+BOX	Box Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BOX.US&back=PTF
+NSIT	Insight Enterprises Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NSIT.US&back=PTF
+ATEN	A10 Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATEN.US&back=PTF
+COMM	CommScope Holding Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COMM.US&back=PTF
+PWSC	PowerSchool Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PWSC.US&back=PTF
+	Invesco Government & Agency Portfolio	

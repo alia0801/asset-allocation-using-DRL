@@ -1,0 +1,1011 @@
+PXF
+	Shell PLC	
+BP	BP PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=BP.US&back=PXF
+TTE	TotalEnergies SE	/etf/ea/ETZCW.djhtm?c=1&etfid=TTE.US&back=PXF
+	Nestle SA	
+005930.KS&back=PXF	Samsung Electronics Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=005930.KS&back=PXF
+7203.JP&back=PXF	Toyota Motor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7203.JP&back=PXF
+HSBC	HSBC Holdings PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=HSBC.US&back=PXF
+	Roche Holding AG	
+BTI	British American Tobacco PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=BTI.US&back=PXF
+BHP	BHP Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=BHP.US&back=PXF
+NVS	Novartis AG	/etf/ea/ETZCW.djhtm?c=1&etfid=NVS.US&back=PXF
+RY	Royal Bank of Canada	/etf/ea/ETZCW.djhtm?c=1&etfid=RY.US&back=PXF
+UL	Unilever PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=UL.US&back=PXF
+	Glencore PLC	
+TD	Toronto-Dominion Bank/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TD.US&back=PXF
+	Allianz SE	
+9984.JP&back=PXF	SoftBank Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9984.JP&back=PXF
+SNY	Sanofi	/etf/ea/ETZCW.djhtm?c=1&etfid=SNY.US&back=PXF
+	Deutsche Telekom AG	
+ENB	Enbridge Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=PXF
+8306.JP&back=PXF	Mitsubishi UFJ Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8306.JP&back=PXF
+	BNP Paribas SA	
+	Mercedes-Benz Group AG	
+	Iberdrola SA	
+AZN	AstraZeneca PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=PXF
+RIO	Rio Tinto PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=RIO.US&back=PXF
+	Siemens AG	
+BNS	Bank of Nova Scotia/The	/etf/ea/ETZCW.djhtm?c=1&etfid=BNS.US&back=PXF
+SAN	Banco Santander SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SAN.US&back=PXF
+ING	ING Groep NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ING.US&back=PXF
+	Bayer AG	
+	AXA SA	
+GSK	GSK PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=GSK.US&back=PXF
+8316.JP&back=PXF	Sumitomo Mitsui Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8316.JP&back=PXF
+E	Eni SpA	/etf/ea/ETZCW.djhtm?c=1&etfid=E.US&back=PXF
+4502.JP&back=PXF	Takeda Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4502.JP&back=PXF
+	Enel SpA	
+UBS	UBS Group AG	/etf/ea/ETZCW.djhtm?c=1&etfid=UBS.US&back=PXF
+VOD	Vodafone Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=VOD.US&back=PXF
+SU	Suncor Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SU.US&back=PXF
+	BASF SE	
+BBVA	Banco Bilbao Vizcaya Argentaria SA	/etf/ea/ETZCW.djhtm?c=1&etfid=BBVA.US&back=PXF
+	Volkswagen AG	
+	Zurich Insurance Group AG	
+6758.JP&back=PXF	Sony Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6758.JP&back=PXF
+	Intesa Sanpaolo SpA	
+BMO	Bank of Montreal	/etf/ea/ETZCW.djhtm?c=1&etfid=BMO.US&back=PXF
+BUD	Anheuser-Busch InBev SA/NV	/etf/ea/ETZCW.djhtm?c=1&etfid=BUD.US&back=PXF
+SAP	SAP SE	/etf/ea/ETZCW.djhtm?c=1&etfid=SAP.US&back=PXF
+MFC	Manulife Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MFC.US&back=PXF
+	Nordea Bank Abp	
+1299.HK&back=PXF	AIA Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1299.HK&back=PXF
+NVO	Novo Nordisk A/S	/etf/ea/ETZCW.djhtm?c=1&etfid=NVO.US&back=PXF
+BAM	Brookfield Asset Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BAM.US&back=PXF
+6501.JP&back=PXF	Hitachi Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6501.JP&back=PXF
+9432.JP&back=PXF	Nippon Telegraph & Telephone Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9432.JP&back=PXF
+	Commonwealth Bank of Australia	
+	LVMH Moet Hennessy Louis Vuitton SE	
+	UniCredit SpA	
+	Bayerische Motoren Werke AG	
+	Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen	
+	Vinci SA	
+BCS	Barclays PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=BCS.US&back=PXF
+	Societe Generale SA	
+	Repsol SA	
+LYG	Lloyds Banking Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=LYG.US&back=PXF
+DEO	Diageo PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=DEO.US&back=PXF
+CNQ	Canadian Natural Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CNQ.US&back=PXF
+STLA	Stellantis NV	/etf/ea/ETZCW.djhtm?c=1&etfid=STLA.US&back=PXF
+	Koninklijke Ahold Delhaize NV	
+	Air Liquide SA	
+NTR	Nutrien Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NTR.US&back=PXF
+CM	Canadian Imperial Bank of Commerce	/etf/ea/ETZCW.djhtm?c=1&etfid=CM.US&back=PXF
+ORAN	Orange SA	/etf/ea/ETZCW.djhtm?c=1&etfid=ORAN.US&back=PXF
+TRP	TC Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=PXF
+9433.JP&back=PXF	KDDI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9433.JP&back=PXF
+8058.JP&back=PXF	Mitsubishi Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8058.JP&back=PXF
+NGG	National Grid PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NGG.US&back=PXF
+	Schneider Electric SE	
+EQNR	Equinor ASA	/etf/ea/ETZCW.djhtm?c=1&etfid=EQNR.US&back=PXF
+WDS	Woodside Energy Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=WDS.US&back=PXF
+	Swiss Re AG	
+	Holcim AG	
+	Engie SA	
+	Deutsche Post AG	
+	Danone SA	
+	Westpac Banking Corp	
+9434.JP&back=PXF	SoftBank Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9434.JP&back=PXF
+7267.JP&back=PXF	Honda Motor Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7267.JP&back=PXF
+6178.JP&back=PXF	Japan Post Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6178.JP&back=PXF
+TEF	Telefonica SA	/etf/ea/ETZCW.djhtm?c=1&etfid=TEF.US&back=PXF
+DB	Deutsche Bank AG	/etf/ea/ETZCW.djhtm?c=1&etfid=DB.US&back=PXF
+	Anglo American PLC	
+ABB	ABB Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ABB.US&back=PXF
+	DBS Group Holdings Ltd	
+8411.JP&back=PXF	Mizuho Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8411.JP&back=PXF
+	BAE Systems PLC	
+	Compass Group PLC	
+	Assicurazioni Generali SpA	
+PUK	Prudential PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PUK.US&back=PXF
+CRH	CRH PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRH.US&back=PXF
+7751.JP&back=PXF	Canon Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7751.JP&back=PXF
+000660.KS&back=PXF	SK Hynix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=000660.KS&back=PXF
+	National Australia Bank Ltd	
+MT	ArcelorMittal SA	/etf/ea/ETZCW.djhtm?c=1&etfid=MT.US&back=PXF
+	Alimentation Couche-Tard Inc	
+	Volvo AB	
+	Electricite de France SA	
+SLF	Sun Life Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLF.US&back=PXF
+	Rio Tinto Ltd	
+8766.JP&back=PXF	Tokio Marine Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8766.JP&back=PXF
+5401.JP&back=PXF	Nippon Steel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5401.JP&back=PXF
+CNI	Canadian National Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CNI.US&back=PXF
+	Airbus SE	
+2914.JP&back=PXF	Japan Tobacco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2914.JP&back=PXF
+	RWE AG	
+	Reckitt Benckiser Group PLC	
+	L'Oreal SA	
+8031.JP&back=PXF	Mitsui & Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8031.JP&back=PXF
+AEG	Aegon NV	/etf/ea/ETZCW.djhtm?c=1&etfid=AEG.US&back=PXF
+	Australia & New Zealand Banking Group Ltd	
+3382.JP&back=PXF	Seven & i Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3382.JP&back=PXF
+	Cie de Saint-Gobain	
+	Investor AB	
+CS	Credit Suisse Group AG	/etf/ea/ETZCW.djhtm?c=1&etfid=CS.US&back=PXF
+4063.JP&back=PXF	Shin-Etsu Chemical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4063.JP&back=PXF
+NOK	Nokia Oyj	/etf/ea/ETZCW.djhtm?c=1&etfid=NOK.US&back=PXF
+005935.KS&back=PXF	Samsung Electronics Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=005935.KS&back=PXF
+ASML	ASML Holding NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=PXF
+4568.JP&back=PXF	Daiichi Sankyo Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4568.JP&back=PXF
+	Cie Financiere Richemont SA	
+	E.ON SE	
+	Sampo Oyj	
+	Carrefour SA	
+6367.JP&back=PXF	Daikin Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6367.JP&back=PXF
+6902.JP&back=PXF	Denso Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6902.JP&back=PXF
+	Credit Agricole SA	
+	Renault SA	
+000270.KS&back=PXF	Kia Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=000270.KS&back=PXF
+7974.JP&back=PXF	Nintendo Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7974.JP&back=PXF
+005380.KS&back=PXF	Hyundai Motor Co	/etf/ea/ETZCW.djhtm?c=1&etfid=005380.KS&back=PXF
+	Safran SA	
+	Cie Generale des Etablissements Michelin SCA	
+	Macquarie Group Ltd	
+9020.JP&back=PXF	East Japan Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=9020.JP&back=PXF
+	Swiss Life Holding AG	
+RELX	RELX PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=RELX.US&back=PXF
+9022.JP&back=PXF	Central Japan Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=9022.JP&back=PXF
+	CSL Ltd	
+	EDP - Energias de Portugal SA	
+	SSE PLC	
+MGA	Magna International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MGA.US&back=PXF
+GOLD	Barrick Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GOLD.US&back=PXF
+8001.JP&back=PXF	ITOCHU Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8001.JP&back=PXF
+2888.HK&back=PXF	Standard Chartered PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=2888.HK&back=PXF
+	Swedbank AB	
+	EssilorLuxottica SA	
+4452.JP&back=PXF	Kao Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4452.JP&back=PXF
+FTS	Fortis Inc/Canada	/etf/ea/ETZCW.djhtm?c=1&etfid=FTS.US&back=PXF
+NWG	NatWest Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NWG.US&back=PXF
+	Tesco PLC	
+	Commerzbank AG	
+6702.JP&back=PXF	Fujitsu Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6702.JP&back=PXF
+	Wesfarmers Ltd	
+	Woolworths Group Ltd	
+6301.JP&back=PXF	Komatsu Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6301.JP&back=PXF
+7011.JP&back=PXF	Mitsubishi Heavy Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7011.JP&back=PXF
+8750.JP&back=PXF	Dai-ichi Life Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8750.JP&back=PXF
+	Pernod Ricard SA	
+	Power Corp of Canada	
+	Svenska Handelsbanken AB	
+1605.JP&back=PXF	Inpex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1605.JP&back=PXF
+	UPM-Kymmene Oyj	
+PBA	Pembina Pipeline Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PBA.US&back=PXF
+	National Bank of Canada	
+	NN Group NV	
+	Skandinaviska Enskilda Banken AB	
+8591.JP&back=PXF	ORIX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8591.JP&back=PXF
+6954.JP&back=PXF	FANUC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6954.JP&back=PXF
+	CaixaBank SA	
+	Fairfax Financial Holdings Ltd	
+	Ferguson PLC	
+005490.KS&back=PXF	POSCO Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=005490.KS&back=PXF
+HLN	Haleon PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=HLN.US&back=PXF
+	Telstra Corp Ltd	
+	Imperial Brands PLC	
+6981.JP&back=PXF	Murata Manufacturing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6981.JP&back=PXF
+7201.JP&back=PXF	Nissan Motor Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7201.JP&back=PXF
+	Fortescue Metals Group Ltd	
+8801.JP&back=PXF	Mitsui Fudosan Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8801.JP&back=PXF
+6971.JP&back=PXF	Kyocera Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6971.JP&back=PXF
+	Fresenius SE & Co KGaA	
+PHG	Koninklijke Philips NV	/etf/ea/ETZCW.djhtm?c=1&etfid=PHG.US&back=PXF
+6502.JP&back=PXF	Toshiba Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6502.JP&back=PXF
+	Atlantia SpA	
+5020.JP&back=PXF	ENEOS Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=5020.JP&back=PXF
+5411.JP&back=PXF	JFE Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=5411.JP&back=PXF
+	Industria de Diseno Textil SA	
+	Veolia Environnement SA	
+AMCR	Amcor PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=PXF
+BCE	BCE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BCE.US&back=PXF
+	Deutsche Boerse AG	
+	Daimler Truck Holding AG	
+9021.JP&back=PXF	West Japan Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=9021.JP&back=PXF
+TEVA	Teva Pharmaceutical Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TEVA.US&back=PXF
+	KBC Group NV	
+	BT Group PLC	
+8630.JP&back=PXF	Sompo Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8630.JP&back=PXF
+TECK	Teck Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TECK.US&back=PXF
+	Singapore Telecommunications Ltd	
+RCI	Rogers Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RCI.US&back=PXF
+	Danske Bank A/S	
+8002.JP&back=PXF	Marubeni Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8002.JP&back=PXF
+	Heineken NV	
+	Loblaw Cos Ltd	
+5108.JP&back=PXF	Bridgestone Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5108.JP&back=PXF
+4503.JP&back=PXF	Astellas Pharma Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4503.JP&back=PXF
+2502.JP&back=PXF	Asahi Group Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2502.JP&back=PXF
+4901.JP&back=PXF	FUJIFILM Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4901.JP&back=PXF
+6098.JP&back=PXF	Recruit Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6098.JP&back=PXF
+CP	Canadian Pacific Railway Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CP.US&back=PXF
+	Legal & General Group PLC	
+	Telia Co AB	
+	United Overseas Bank Ltd	
+8802.JP&back=PXF	Mitsubishi Estate Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8802.JP&back=PXF
+6503.JP&back=PXF	Mitsubishi Electric Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6503.JP&back=PXF
+7269.JP&back=PXF	Suzuki Motor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7269.JP&back=PXF
+105560.KS&back=PXF	KB Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=105560.KS&back=PXF
+	Bouygues SA	
+	Capgemini SE	
+	Swisscom AG	
+	Oversea-Chinese Banking Corp Ltd	
+2388.HK&back=PXF	BOC Hong Kong Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2388.HK&back=PXF
+	ACS Actividades de Construccion y Servicios SA	
+	Neste Oyj	
+	Volkswagen AG	
+051910.KS&back=PXF	LG Chem Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=051910.KS&back=PXF
+6752.JP&back=PXF	Panasonic Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6752.JP&back=PXF
+	Kering SA	
+WPP	WPP PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=WPP.US&back=PXF
+8267.JP&back=PXF	Aeon Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8267.JP&back=PXF
+8035.JP&back=PXF	Tokyo Electron Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8035.JP&back=PXF
+6326.JP&back=PXF	Kubota Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6326.JP&back=PXF
+066570.KS&back=PXF	LG Electronics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=066570.KS&back=PXF
+ERIC	Telefonaktiebolaget LM Ericsson	/etf/ea/ETZCW.djhtm?c=1&etfid=ERIC.US&back=PXF
+4523.JP&back=PXF	Eisai Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4523.JP&back=PXF
+	Vonovia SE	
+	Transurban Group	
+	Aviva PLC	
+7270.JP&back=PXF	Subaru Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7270.JP&back=PXF
+	Publicis Groupe SA	
+	HeidelbergCement AG	
+	Henkel AG & Co KGaA	
+0016.HK&back=PXF	Sun Hung Kai Properties Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0016.HK&back=PXF
+	adidas AG	
+	ABN AMRO Bank NV	
+6762.JP&back=PXF	TDK Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6762.JP&back=PXF
+012330.KS&back=PXF	Hyundai Mobis Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=012330.KS&back=PXF
+9501.JP&back=PXF	Tokyo Electric Power Co Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9501.JP&back=PXF
+	Emera Inc	
+CNHI	CNH Industrial NV	/etf/ea/ETZCW.djhtm?c=1&etfid=CNHI.US&back=PXF
+	Vestas Wind Systems A/S	
+WCN	Waste Connections Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WCN.US&back=PXF
+	Infineon Technologies AG	
+	Essity AB	
+8604.JP&back=PXF	Nomura Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8604.JP&back=PXF
+ALC	Alcon Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALC.US&back=PXF
+	Akzo Nobel NV	
+	Thales SA	
+	Continental AG	
+2503.JP&back=PXF	Kirin Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2503.JP&back=PXF
+8308.JP&back=PXF	Resona Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8308.JP&back=PXF
+	Siemens Energy AG	
+	Koninklijke KPN NV	
+	Banco de Sabadell SA	
+	Naturgy Energy Group SA	
+	Kone Oyj	
+	Wolters Kluwer NV	
+	Brambles Ltd	
+9983.JP&back=PXF	Fast Retailing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9983.JP&back=PXF
+8053.JP&back=PXF	Sumitomo Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8053.JP&back=PXF
+096770.KS&back=PXF	SK Innovation Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=096770.KS&back=PXF
+GIB	CGI Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GIB.US&back=PXF
+	Galp Energia SGPS SA	
+	Koninklijke DSM NV	
+	Ageas SA/NV	
+	Givaudan SA	
+	Johnson Matthey PLC	
+	H & M Hennes & Mauritz AB	
+	Eiffage SA	
+	South32 Ltd	
+	Atlas Copco AB	
+8725.JP&back=PXF	MS&AD Insurance Group Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8725.JP&back=PXF
+0823.HK&back=PXF	Link REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=0823.HK&back=PXF
+6861.JP&back=PXF	Keyence Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6861.JP&back=PXF
+	DNB Bank ASA	
+CVE	Cenovus Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CVE.US&back=PXF
+2802.JP&back=PXF	Ajinomoto Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2802.JP&back=PXF
+	Rheinmetall AG	
+1928.JP&back=PXF	Sekisui House Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1928.JP&back=PXF
+	Erste Group Bank AG	
+	Ashtead Group PLC	
+AEM	Agnico Eagle Mines Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AEM.US&back=PXF
+5201.JP&back=PXF	AGC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=5201.JP&back=PXF
+	Legrand SA	
+	Experian PLC	
+	Intact Financial Corp	
+	Snam SpA	
+	Sodexo SA	
+SJR	Shaw Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SJR.US&back=PXF
+	Metro Inc/CN	
+PSO	Pearson PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PSO.US&back=PXF
+6701.JP&back=PXF	NEC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6701.JP&back=PXF
+	EXOR NV	
+	Coles Group Ltd	
+	Bank Leumi Le-Israel BM	
+	Leonardo SpA	
+	Unibail-Rodamco-Westfield	
+055550.KS&back=PXF	Shinhan Financial Group Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=055550.KS&back=PXF
+	Covestro AG	
+6594.JP&back=PXF	Nidec Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6594.JP&back=PXF
+6273.JP&back=PXF	SMC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6273.JP&back=PXF
+6988.JP&back=PXF	Nitto Denko Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6988.JP&back=PXF
+8795.JP&back=PXF	T&D Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8795.JP&back=PXF
+	Sandvik AB	
+	Mondi PLC	
+	Orsted AS	
+	Deutsche Lufthansa AG	
+	Whitehaven Coal Ltd	
+9735.JP&back=PXF	Secom Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9735.JP&back=PXF
+	ASR Nederland NV	
+	Bank of Ireland Group PLC	
+	Assa Abloy AB	
+7272.JP&back=PXF	Yamaha Motor Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7272.JP&back=PXF
+8309.JP&back=PXF	Sumitomo Mitsui Trust Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8309.JP&back=PXF
+	Great-West Lifeco Inc	
+	Merck KGaA	
+	George Weston Ltd	
+4543.JP&back=PXF	Terumo Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4543.JP&back=PXF
+3402.JP&back=PXF	Toray Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3402.JP&back=PXF
+	Banco BPM SpA	
+	Brenntag SE	
+	Endesa SA	
+7741.JP&back=PXF	Hoya Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7741.JP&back=PXF
+	OMV AG	
+	Valeo	
+	3i Group PLC	
+	Fortum Oyj	
+	Randstad NV	
+	Yara International ASA	
+7261.JP&back=PXF	Mazda Motor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7261.JP&back=PXF
+7832.JP&back=PXF	Bandai Namco Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7832.JP&back=PXF
+1925.JP&back=PXF	Daiwa House Industry Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1925.JP&back=PXF
+	Bunzl PLC	
+	Boliden AB	
+	Julius Baer Group Ltd	
+FMS	Fresenius Medical Care AG & Co KGaA	/etf/ea/ETZCW.djhtm?c=1&etfid=FMS.US&back=PXF
+IMO	Imperial Oil Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=IMO.US&back=PXF
+	Lonza Group AG	
+	Bank Hapoalim BM	
+	Telecom Italia SpA/Milano	
+TRI	Thomson Reuters Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRI.US&back=PXF
+SNN	Smith & Nephew PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNN.US&back=PXF
+	Prysmian SpA	
+	Flutter Entertainment PLC	
+	Adecco Group AG	
+9531.JP&back=PXF	Tokyo Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9531.JP&back=PXF
+	Carlsberg AS	
+4578.JP&back=PXF	Otsuka Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4578.JP&back=PXF
+4188.JP&back=PXF	Mitsubishi Chemical Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4188.JP&back=PXF
+	Hydro One Ltd	
+	Hannover Rueck SE	
+	QBE Insurance Group Ltd	
+	Stora Enso Oyj	
+TU	TELUS Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TU.US&back=PXF
+	Swedish Match AB	
+	Kingfisher PLC	
+1113.HK&back=PXF	CK Asset Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1113.HK&back=PXF
+	Amadeus IT Group SA	
+4005.JP&back=PXF	Sumitomo Chemical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4005.JP&back=PXF
+QSR	Restaurant Brands International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QSR.US&back=PXF
+	Red Electrica Corp SA	
+STM	STMicroelectronics NV	/etf/ea/ETZCW.djhtm?c=1&etfid=STM.US&back=PXF
+	SGS SA	
+	Tourmaline Oil Corp	
+086790.KS&back=PXF	Hana Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=086790.KS&back=PXF
+7012.JP&back=PXF	Kawasaki Heavy Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7012.JP&back=PXF
+9831.JP&back=PXF	Yamada Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9831.JP&back=PXF
+	Aker BP ASA	
+	Terna - Rete Elettrica Nazionale	
+	Prosus NV	
+	Mediobanca Banca di Credito Finanziario SpA	
+	Solvay SA	
+	Sika AG	
+	Santos Ltd	
+	Telenor ASA	
+9101.JP&back=PXF	Nippon Yusen KK	/etf/ea/ETZCW.djhtm?c=1&etfid=9101.JP&back=PXF
+8830.JP&back=PXF	Sumitomo Realty & Development Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8830.JP&back=PXF
+	Bayerische Motoren Werke AG	
+7202.JP&back=PXF	Isuzu Motors Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7202.JP&back=PXF
+034220.KS&back=PXF	LG Display Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=034220.KS&back=PXF
+006400.KS&back=PXF	Samsung SDI Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=006400.KS&back=PXF
+4507.JP&back=PXF	Shionogi & Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4507.JP&back=PXF
+0388.HK&back=PXF	Hong Kong Exchanges & Clearing Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0388.HK&back=PXF
+7182.JP&back=PXF	Japan Post Bank Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7182.JP&back=PXF
+7211.JP&back=PXF	Mitsubishi Motors Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7211.JP&back=PXF
+	AGL Energy Ltd	
+	Umicore SA	
+	Worldline SA/France	
+	Norsk Hydro ASA	
+	Newcrest Mining Ltd	
+KGC	Kinross Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KGC.US&back=PXF
+	Investor AB	
+	Ferrovial SA	
+	Smurfit Kappa Group PLC	
+	Canadian Tire Corp Ltd	
+	DCC PLC	
+7013.JP&back=PXF	IHI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7013.JP&back=PXF
+033780.KS&back=PXF	KT&G Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=033780.KS&back=PXF
+0001.HK&back=PXF	CK Hutchison Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0001.HK&back=PXF
+	SKF AB	
+	AP Moller - Maersk A/S	
+3407.JP&back=PXF	Asahi Kasei Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3407.JP&back=PXF
+7733.JP&back=PXF	Olympus Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7733.JP&back=PXF
+	DSV A/S	
+	Alstom SA	
+8601.JP&back=PXF	Daiwa Securities Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8601.JP&back=PXF
+9613.JP&back=PXF	NTT Data Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9613.JP&back=PXF
+0992.HK&back=PXF	Lenovo Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0992.HK&back=PXF
+	AltaGas Ltd	
+5713.JP&back=PXF	Sumitomo Metal Mining Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5713.JP&back=PXF
+5019.JP&back=PXF	Idemitsu Kosan Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5019.JP&back=PXF
+0027.HK&back=PXF	Galaxy Entertainment Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0027.HK&back=PXF
+	Porsche Automobil Holding SE	
+	Rexel SA	
+	Insurance Australia Group Ltd	
+	Swatch Group AG/The	
+	thyssenkrupp AG	
+	Kuehne + Nagel International AG	
+	Henkel AG & Co KGaA	
+4004.JP&back=PXF	Showa Denko KK	/etf/ea/ETZCW.djhtm?c=1&etfid=4004.JP&back=PXF
+5802.JP&back=PXF	Sumitomo Electric Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5802.JP&back=PXF
+8015.JP&back=PXF	Toyota Tsusho Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8015.JP&back=PXF
+034730.KS&back=PXF	SK Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=034730.KS&back=PXF
+9104.JP&back=PXF	Mitsui OSK Lines Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9104.JP&back=PXF
+	Sonic Healthcare Ltd	
+	Scentre Group	
+	Taylor Wimpey PLC	
+	Kerry Group PLC	
+	iA Financial Corp Inc	
+	Saputo Inc	
+	Baloise Holding AG	
+4528.JP&back=PXF	Ono Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4528.JP&back=PXF
+1928.HK&back=PXF	Sands China Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1928.HK&back=PXF
+1878.JP&back=PXF	Daito Trust Construction Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1878.JP&back=PXF
+	Origin Energy Ltd	
+	London Stock Exchange Group PLC	
+	Informa PLC	
+	Geberit AG	
+	WSP Global Inc	
+	UCB SA	
+TS	Tenaris SA	/etf/ea/ETZCW.djhtm?c=1&etfid=TS.US&back=PXF
+	United Utilities Group PLC	
+	Smiths Group PLC	
+	Persimmon PLC	
+1801.JP&back=PXF	Taisei Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1801.JP&back=PXF
+2269.JP&back=PXF	MEIJI Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2269.JP&back=PXF
+316140.KS&back=PXF	Woori Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=316140.KS&back=PXF
+7752.JP&back=PXF	Ricoh Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7752.JP&back=PXF
+6471.JP&back=PXF	NSK Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6471.JP&back=PXF
+	BlueScope Steel Ltd	
+	Centrica PLC	
+4911.JP&back=PXF	Shiseido Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4911.JP&back=PXF
+	Poste Italiane SpA	
+	Hexagon AB	
+	Roche Holding AG	
+	Suncorp Group Ltd	
+6645.JP&back=PXF	Omron Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6645.JP&back=PXF
+028260.KS&back=PXF	Samsung C&T Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=028260.KS&back=PXF
+	Arkema SA	
+8473.JP&back=PXF	SBI Holdings Inc/Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=8473.JP&back=PXF
+AQN	Algonquin Power & Utilities Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AQN.US&back=PXF
+	Enagas SA	
+000720.KS&back=PXF	Hyundai Engineering & Construction Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=000720.KS&back=PXF
+0011.HK&back=PXF	Hang Seng Bank Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0011.HK&back=PXF
+0002.HK&back=PXF	CLP Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0002.HK&back=PXF
+4324.JP&back=PXF	Dentsu Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4324.JP&back=PXF
+3099.JP&back=PXF	Isetan Mitsukoshi Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3099.JP&back=PXF
+	Mowi ASA	
+	Goodman Group	
+	Keyera Corp	
+	Jeronimo Martins SGPS SA	
+	Groupe Bruxelles Lambert NV	
+TRQ	Turquoise Hill Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TRQ.US&back=PXF
+4183.JP&back=PXF	Mitsui Chemicals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4183.JP&back=PXF
+003550.KS&back=PXF	LG Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=003550.KS&back=PXF
+6479.JP&back=PXF	MINEBEA MITSUMI Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=6479.JP&back=PXF
+7731.JP&back=PXF	Nikon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7731.JP&back=PXF
+6963.JP&back=PXF	Rohm Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6963.JP&back=PXF
+7259.JP&back=PXF	Aisin Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7259.JP&back=PXF
+	Associated British Foods PLC	
+7532.JP&back=PXF	Pan Pacific International Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7532.JP&back=PXF
+015760.KS&back=PXF	Korea Electric Power Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=015760.KS&back=PXF
+	Severn Trent PLC	
+	Singapore Airlines Ltd	
+	Sage Group PLC/The	
+VET	Vermilion Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VET.US&back=PXF
+	Klepierre SA	
+	Ramsay Health Care Ltd	
+	Hermes International	
+	Svenska Cellulosa AB SCA	
+	Atlas Copco AB	
+9064.JP&back=PXF	Yamato Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9064.JP&back=PXF
+9142.JP&back=PXF	Kyushu Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=9142.JP&back=PXF
+9503.JP&back=PXF	Kansai Electric Power Co Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=9503.JP&back=PXF
+	Acciona SA	
+	Burberry Group PLC	
+	Berkeley Group Holdings PLC	
+2768.JP&back=PXF	Sojitz Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=2768.JP&back=PXF
+6201.JP&back=PXF	Toyota Industries Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6201.JP&back=PXF
+	Heineken Holding NV	
+	Teleperformance	
+	St James's Place PLC	
+	Symrise AG	
+	Incitec Pivot Ltd	
+	Kesko Oyj	
+	Rolls-Royce Holdings PLC	
+	RioCan Real Estate Investment Trust	
+	Medibank Pvt Ltd	
+	AP Moller - Maersk A/S	
+5406.JP&back=PXF	Kobe Steel Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5406.JP&back=PXF
+4902.JP&back=PXF	Konica Minolta Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4902.JP&back=PXF
+8113.JP&back=PXF	Unicharm Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8113.JP&back=PXF
+6724.JP&back=PXF	Seiko Epson Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6724.JP&back=PXF
+4519.JP&back=PXF	Chugai Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4519.JP&back=PXF
+3626.JP&back=PXF	TIS Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3626.JP&back=PXF
+009830.KS&back=PXF	Hanwha Solutions Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=009830.KS&back=PXF
+CCJ	Cameco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CCJ.US&back=PXF
+	Evonik Industries AG	
+	Elisa Oyj	
+	Empire Co Ltd	
+	Edenred	
+	APA Group	
+	Aurizon Holdings Ltd	
+	Air France-KLM	
+9502.JP&back=PXF	Chubu Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9502.JP&back=PXF
+8697.JP&back=PXF	Japan Exchange Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8697.JP&back=PXF
+EURN	Euronav NV	/etf/ea/ETZCW.djhtm?c=1&etfid=EURN.US&back=PXF
+	CapLand Ascendas REIT	
+	Beiersdorf AG	
+0288.HK&back=PXF	WH Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0288.HK&back=PXF
+4689.JP&back=PXF	Z Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4689.JP&back=PXF
+6504.JP&back=PXF	Fuji Electric Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6504.JP&back=PXF
+	Phoenix Group Holdings PLC	
+	Parkland Corp	
+	Industrivarden AB	
+FNV	Franco-Nevada Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FNV.US&back=PXF
+	First Quantum Minerals Ltd	
+	Siemens Healthineers AG	
+	Stockland	
+	Orkla ASA	
+	M&G PLC	
+2587.JP&back=PXF	Suntory Beverage & Food Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2587.JP&back=PXF
+1963.JP&back=PXF	JGC Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1963.JP&back=PXF
+010130.KS&back=PXF	Korea Zinc Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=010130.KS&back=PXF
+	Barratt Developments PLC	
+	CapitaLand Integrated Commercial Trust	
+	Aena SME SA	
+	Alfa Laval AB	
+	BAWAG Group AG	
+	Direct Line Insurance Group PLC	
+2267.JP&back=PXF	Yakult Honsha Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2267.JP&back=PXF
+4182.JP&back=PXF	Mitsubishi Gas Chemical Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4182.JP&back=PXF
+	Next PLC	
+	Land Securities Group PLC	
+	SSAB AB	
+	Segro PLC	
+	Telecom Italia SpA/Milano	
+	Lottery Corp Ltd/The	
+	Whitbread PLC	
+WPM	Wheaton Precious Metals Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WPM.US&back=PXF
+	ISS A/S	
+IHG	InterContinental Hotels Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=IHG.US&back=PXF
+	Gecina SA	
+	Partners Group Holding AG	
+	Mirvac Group	
+RACE	Ferrari NV	/etf/ea/ETZCW.djhtm?c=1&etfid=RACE.US&back=PXF
+3088.JP&back=PXF	MatsukiyoCocokara & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=3088.JP&back=PXF
+010950.KS&back=PXF	S-Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=010950.KS&back=PXF
+5334.JP&back=PXF	NGK Spark Plug Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5334.JP&back=PXF
+7181.JP&back=PXF	Japan Post Insurance Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7181.JP&back=PXF
+	Capital Power Corp	
+	Cellnex Telecom SA	
+	Coloplast A/S	
+	Canadian Apartment Properties REIT	
+	Aristocrat Leisure Ltd	
+8951.JP&back=PXF	Nippon Building Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8951.JP&back=PXF
+9201.JP&back=PXF	Japan Airlines Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9201.JP&back=PXF
+9202.JP&back=PXF	ANA Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9202.JP&back=PXF
+9506.JP&back=PXF	Tohoku Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9506.JP&back=PXF
+9042.JP&back=PXF	Hankyu Hanshin Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9042.JP&back=PXF
+8953.JP&back=PXF	Japan Metropolitan Fund Invest	/etf/ea/ETZCW.djhtm?c=1&etfid=8953.JP&back=PXF
+	ARC Resources Ltd	
+	CCL Industries Inc	
+	Canadian Utilities Ltd	
+	Computershare Ltd	
+	Israel Discount Bank Ltd	
+	Electrolux AB	
+7309.JP&back=PXF	Shimano Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7309.JP&back=PXF
+4704.JP&back=PXF	Trend Micro Inc/Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=4704.JP&back=PXF
+6770.JP&back=PXF	Alps Alpine Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6770.JP&back=PXF
+6723.JP&back=PXF	Renesas Electronics Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6723.JP&back=PXF
+MFGP	Micro Focus International PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=MFGP.US&back=PXF
+	LANXESS AG	
+	MTU Aero Engines AG	
+	Northland Power Inc	
+	Trelleborg AB	
+	Securitas AB	
+	SIG Group AG	
+	Skanska AB	
+	Tele2 AB	
+	Storebrand ASA	
+	DS Smith PLC	
+OTEX	Open Text Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OTEX.US&back=PXF
+	Marks & Spencer Group PLC	
+	SCOR SE	
+	Saab AB	
+	GEA Group AG	
+	Signify NV	
+5332.JP&back=PXF	TOTO Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5332.JP&back=PXF
+017670.KS&back=PXF	SK Telecom Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=017670.KS&back=PXF
+	Endeavour Group Ltd/Australia	
+	Faurecia SE	
+	Dexus	
+	Bankinter SA	
+	Element Fleet Management Corp	
+	Barry Callebaut AG	
+	Atco Ltd/Canada	
+9532.JP&back=PXF	Osaka Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9532.JP&back=PXF
+9041.JP&back=PXF	Kintetsu Group Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9041.JP&back=PXF
+009540.KS&back=PXF	Korea Shipbuilding & Offshore Engineering Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=009540.KS&back=PXF
+1802.JP&back=PXF	Obayashi Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1802.JP&back=PXF
+3086.JP&back=PXF	J Front Retailing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3086.JP&back=PXF
+5938.JP&back=PXF	Lixil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5938.JP&back=PXF
+	Chocoladefabriken Lindt & Spruengli AG	
+	Schindler Holding AG	
+	Vicinity Centres	
+AUY	Yamana Gold Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AUY.US&back=PXF
+	Wartsila OYJ Abp	
+	Subsea 7 SA	
+	Jyske Bank A/S	
+	H&R Real Estate Investment Trust	
+	Freenet AG	
+	GPT Group/The	
+	J Sainsbury PLC	
+	Rentokil Initial PLC	
+7911.JP&back=PXF	TOPPAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=7911.JP&back=PXF
+3462.JP&back=PXF	Nomura Real Estate Master Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3462.JP&back=PXF
+	Constellation Software Inc/Canada	
+	British Land Co PLC/The	
+	BPER Banca	
+	Bureau Veritas SA	
+CPG	Crescent Point Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CPG.US&back=PXF
+	Croda International PLC	
+	Dassault Systemes SE	
+	Ampol Ltd	
+047050.KS&back=PXF	Posco International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=047050.KS&back=PXF
+7912.JP&back=PXF	Dai Nippon Printing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7912.JP&back=PXF
+8233.JP&back=PXF	Takashimaya Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8233.JP&back=PXF
+6841.JP&back=PXF	Yokogawa Electric Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6841.JP&back=PXF
+6586.JP&back=PXF	Makita Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6586.JP&back=PXF
+	K+S AG	
+	Qantas Airways Ltd	
+	Melrose Industries PLC	
+	Getlink SE	
+	Volvo AB	
+	Worley Ltd	
+	Unipol Gruppo SpA	
+TFII	TFI International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TFII.US&back=PXF
+ICL	ICL Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ICL.US&back=PXF
+	LEG Immobilien SE	
+	Chocoladefabriken Lindt & Spruengli AG	
+	Novozymes A/S	
+6869.JP&back=PXF	Sysmex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6869.JP&back=PXF
+086280.KS&back=PXF	Hyundai Glovis Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=086280.KS&back=PXF
+009150.KS&back=PXF	Samsung Electro-Mechanics Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=009150.KS&back=PXF
+2875.JP&back=PXF	Toyo Suisan Kaisha Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2875.JP&back=PXF
+2282.JP&back=PXF	NH Foods Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2282.JP&back=PXF
+	Aareal Bank AG	
+8952.JP&back=PXF	Japan Real Estate Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8952.JP&back=PXF
+	Dollarama Inc	
+	Coca-Cola HBC AG	
+	Clariant AG	
+	Capitaland Investment Ltd/Singapore	
+9024.JP&back=PXF	Seibu Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9024.JP&back=PXF
+9107.JP&back=PXF	Kawasaki Kisen Kaisha Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9107.JP&back=PXF
+9513.JP&back=PXF	Electric Power Development Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9513.JP&back=PXF
+	Antofagasta PLC	
+3231.JP&back=PXF	Nomura Real Estate Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3231.JP&back=PXF
+3405.JP&back=PXF	Kuraray Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3405.JP&back=PXF
+7951.JP&back=PXF	Yamaha Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7951.JP&back=PXF
+5333.JP&back=PXF	NGK Insulators Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5333.JP&back=PXF
+5987.JP&back=PXF	Onex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5987.JP&back=PXF
+	Pennon Group PLC	
+	Intertek Group PLC	
+	Investec PLC	
+	Industrivarden AB	
+	Helvetia Holding AG	
+	Treasury Wine Estates Ltd	
+	Tate & Lyle PLC	
+	Swiss Prime Site AG	
+	Sonova Holding AG	
+WFG	West Fraser Timber Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=WFG.US&back=PXF
+	Polski Koncern Naftowy ORLEN SA	
+	Telefonica Deutschland Holding AG	
+	MEG Energy Corp	
+0669.HK&back=PXF	Techtronic Industries Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0669.HK&back=PXF
+0066.HK&back=PXF	MTR Corp Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0066.HK&back=PXF
+7701.JP&back=PXF	Shimadzu Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7701.JP&back=PXF
+3289.JP&back=PXF	Tokyu Fudosan Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3289.JP&back=PXF
+0003.HK&back=PXF	Hong Kong & China Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0003.HK&back=PXF
+1997.HK&back=PXF	Wharf Real Estate Investment Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1997.HK&back=PXF
+034020.KS&back=PXF	Doosan Enerbility Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=034020.KS&back=PXF
+032830.KS&back=PXF	Samsung Life Insurance Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=032830.KS&back=PXF
+035420.KS&back=PXF	NAVER Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=035420.KS&back=PXF
+	ANDRITZ AG	
+	Air Canada	
+9843.JP&back=PXF	Nitori Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9843.JP&back=PXF
+9005.JP&back=PXF	Tokyu Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9005.JP&back=PXF
+	Bezeq The Israeli Telecommunication Corp Ltd	
+	Man Group PLC/Jersey	
+	Epiroc AB	
+	Admiral Group PLC	
+	ASX Ltd	
+	Aroundtown SA	
+1803.JP&back=PXF	Shimizu Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1803.JP&back=PXF
+004020.KS&back=PXF	Hyundai Steel Co	/etf/ea/ETZCW.djhtm?c=1&etfid=004020.KS&back=PXF
+2181.JP&back=PXF	Persol Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2181.JP&back=PXF
+2801.JP&back=PXF	Kikkoman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=2801.JP&back=PXF
+2897.JP&back=PXF	Nissin Foods Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2897.JP&back=PXF
+4204.JP&back=PXF	Sekisui Chemical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4204.JP&back=PXF
+4151.JP&back=PXF	Kyowa Kirin Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4151.JP&back=PXF
+8252.JP&back=PXF	Marui Group Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8252.JP&back=PXF
+8304.JP&back=PXF	Aozora Bank Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8304.JP&back=PXF
+8331.JP&back=PXF	Chiba Bank Ltd/The	/etf/ea/ETZCW.djhtm?c=1&etfid=8331.JP&back=PXF
+7276.JP&back=PXF	Koito Manufacturing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7276.JP&back=PXF
+6506.JP&back=PXF	Yaskawa Electric Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6506.JP&back=PXF
+6448.JP&back=PXF	Brother Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6448.JP&back=PXF
+6361.JP&back=PXF	Ebara Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6361.JP&back=PXF
+4661.JP&back=PXF	Oriental Land Co Ltd/Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=4661.JP&back=PXF
+4768.JP&back=PXF	Otsuka Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4768.JP&back=PXF
+5711.JP&back=PXF	Mitsubishi Materials Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5711.JP&back=PXF
+	Merlin Properties Socimi SA	
+	Mizrahi Tefahot Bank Ltd	
+	Powszechna Kasa Oszczednosci Bank Polski SA	
+	Pandora A/S	
+	Proximus SADP	
+QGEN	QIAGEN NV	/etf/ea/ETZCW.djhtm?c=1&etfid=QGEN.US&back=PXF
+	Jardine Matheson Holdings Ltd	
+	Wilmar International Ltd	
+	Tryg A/S	
+	SNC-Lavalin Group Inc	
+	SPIE SA	
+	Technip Energies NV	
+	TUI AG	
+	Vivendi SE	
+	TMX Group Ltd	
+GMAB	Genmab A/S	/etf/ea/ETZCW.djhtm?c=1&etfid=GMAB.US&back=PXF
+GRFS	Grifols SA	/etf/ea/ETZCW.djhtm?c=1&etfid=GRFS.US&back=PXF
+	PSP Swiss Property AG	
+	Royal Mail PLC	
+8354.JP&back=PXF	Fukuoka Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8354.JP&back=PXF
+8355.JP&back=PXF	Shizuoka Bank Ltd/The	/etf/ea/ETZCW.djhtm?c=1&etfid=8355.JP&back=PXF
+8227.JP&back=PXF	Shimamura Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8227.JP&back=PXF
+3861.JP&back=PXF	Oji Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3861.JP&back=PXF
+000810.KS&back=PXF	Samsung Fire & Marine Insurance Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=000810.KS&back=PXF
+003490.KS&back=PXF	Korean Air Lines Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=003490.KS&back=PXF
+011170.KS&back=PXF	Lotte Chemical Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=011170.KS&back=PXF
+010140.KS&back=PXF	Samsung Heavy Industries Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=010140.KS&back=PXF
+1812.JP&back=PXF	Kajima Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1812.JP&back=PXF
+9001.JP&back=PXF	Tobu Railway Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9001.JP&back=PXF
+9008.JP&back=PXF	Keio Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9008.JP&back=PXF
+9143.JP&back=PXF	SG Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9143.JP&back=PXF
+	Bombardier Inc	
+	Beazley PLC	
+	Bank of Queensland Ltd	
+	Entain PLC	
+	Drax Group PLC	
+	AMP Ltd	
+3391.JP&back=PXF	Tsuruha Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3391.JP&back=PXF
+3003.JP&back=PXF	Hulic Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3003.JP&back=PXF
+8253.JP&back=PXF	Credit Saison Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8253.JP&back=PXF
+5706.JP&back=PXF	Mitsui Mining & Smelting Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5706.JP&back=PXF
+6370.JP&back=PXF	Kurita Water Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6370.JP&back=PXF
+6305.JP&back=PXF	Hitachi Construction Machinery Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6305.JP&back=PXF
+	SBM Offshore NV	
+	Quebecor Inc	
+	Raiffeisen Bank International AG	
+	Genting Singapore Ltd	
+	Finning International Inc	
+	Venture Corp Ltd	
+	Universal Music Group NV	
+	Weir Group PLC/The	
+	Singapore Technologies Engineering Ltd	
+	Georg Fischer AG	
+JHX	James Hardie Industries PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JHX.US&back=PXF
+	Kinnevik AB	
+	Linamar Corp	
+	Italgas SpA	
+	Rubis SCA	
+5486.JP&back=PXF	Hitachi Metals Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5486.JP&back=PXF
+5714.JP&back=PXF	Dowa Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5714.JP&back=PXF
+4755.JP&back=PXF	Rakuten Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4755.JP&back=PXF
+5214.JP&back=PXF	Nippon Electric Glass Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5214.JP&back=PXF
+4912.JP&back=PXF	Lion Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4912.JP&back=PXF
+7186.JP&back=PXF	Concordia Financial Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7186.JP&back=PXF
+4021.JP&back=PXF	Nissan Chemical Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4021.JP&back=PXF
+028050.KS&back=PXF	Samsung Engineering Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=028050.KS&back=PXF
+9533.JP&back=PXF	Toho Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9533.JP&back=PXF
+	A2A SpA	
+9009.JP&back=PXF	Keisei Electric Railway Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9009.JP&back=PXF
+8593.JP&back=PXF	Mitsubishi HC Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8593.JP&back=PXF
+BHC	Bausch Health Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BHC.US&back=PXF
+	BillerudKorsnas AB	
+	Bollore SE	
+	Dufry AG	
+	Elia Group SA/NV	
+9007.JP&back=PXF	Odakyu Electric Railway Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9007.JP&back=PXF
+8960.JP&back=PXF	United Urban Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8960.JP&back=PXF
+068270.KS&back=PXF	Celltrion Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=068270.KS&back=PXF
+4042.JP&back=PXF	Tosoh Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4042.JP&back=PXF
+3436.JP&back=PXF	SUMCO Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3436.JP&back=PXF
+2651.JP&back=PXF	Lawson Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2651.JP&back=PXF
+6857.JP&back=PXF	Advantest Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6857.JP&back=PXF
+6923.JP&back=PXF	Stanley Electric Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6923.JP&back=PXF
+7167.JP&back=PXF	Mebuki Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7167.JP&back=PXF
+5110.JP&back=PXF	Sumitomo Rubber Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5110.JP&back=PXF
+6302.JP&back=PXF	Sumitomo Heavy Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6302.JP&back=PXF
+6806.JP&back=PXF	Hirose Electric Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6806.JP&back=PXF
+	Powszechny Zaklad Ubezpieczen SA	
+	Aurubis AG	
+	Orion Oyj	
+	Metcash Ltd	
+	Huhtamaki Oyj	
+	FinecoBank Banca Fineco SpA	
+	First Capital Real Estate Investment Trust	
+	Holmen AB	
+	Spectris PLC	
+	Travis Perkins PLC	
+	SmartCentres Real Estate Investment Trust	
+	Hiscox Ltd	
+GIL	Gildan Activewear Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GIL.US&back=PXF
+	Gibson Energy Inc	
+	IG Group Holdings PLC	
+	JB Hi-Fi Ltd	
+	ITV PLC	
+LOGI	Logitech International SA	/etf/ea/ETZCW.djhtm?c=1&etfid=LOGI.US&back=PXF
+	Lundin Mining Corp	
+	Orica Ltd	
+	Bank Polska Kasa Opieki SA	
+	ProSiebenSat.1 Media SE	
+6753.JP&back=PXF	Sharp Corp/Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=6753.JP&back=PXF
+6113.JP&back=PXF	Amada Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6113.JP&back=PXF
+3197.JP&back=PXF	Skylark Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3197.JP&back=PXF
+3401.JP&back=PXF	Teijin Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3401.JP&back=PXF
+4185.JP&back=PXF	JSR Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4185.JP&back=PXF
+097950.KS&back=PXF	CJ CheilJedang Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=097950.KS&back=PXF
+1911.JP&back=PXF	Sumitomo Forestry Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1911.JP&back=PXF
+0017.HK&back=PXF	New World Development Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0017.HK&back=PXF
+9048.JP&back=PXF	Nagoya Railroad Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9048.JP&back=PXF
+	Amundi SA	
+	Accor SA	
+	CI Financial Corp	
+	ComfortDelGro Corp Ltd	
+	CGG SA	
+	Castellum AB	
+	Eutelsat Communications SA	
+	Acerinox SA	
+	Atos SE	
+8954.JP&back=PXF	Orix JREIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8954.JP&back=PXF
+	abrdn plc	
+9508.JP&back=PXF	Kyushu Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9508.JP&back=PXF
+1721.JP&back=PXF	COMSYS Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1721.JP&back=PXF
+036460.KS&back=PXF	Korea Gas Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=036460.KS&back=PXF
+024110.KS&back=PXF	Industrial Bank of Korea	/etf/ea/ETZCW.djhtm?c=1&etfid=024110.KS&back=PXF
+005387.KS&back=PXF	Hyundai Motor Co	/etf/ea/ETZCW.djhtm?c=1&etfid=005387.KS&back=PXF
+4307.JP&back=PXF	Nomura Research Institute Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4307.JP&back=PXF
+3291.JP&back=PXF	Iida Group Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3291.JP&back=PXF
+6268.JP&back=PXF	Nabtesco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6268.JP&back=PXF
+0006.HK&back=PXF	Power Assets Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0006.HK&back=PXF
+6952.JP&back=PXF	Casio Computer Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6952.JP&back=PXF
+	Eurazeo SE	
+	Outokumpu Oyj	
+	Mapfre SA	
+	Lendlease Corp Ltd	
+	KGHM Polska Miedz SA	
+	International Consolidated Airlines Group SA	
+	HOCHTIEF AG	
+	Hongkong Land Holdings Ltd	
+	Hera SpA	
+	Gjensidige Forsikring ASA	
+SSRM	SSR Mining Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=PXF
+STN	Stantec Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STN.US&back=PXF
+	Just Eat Takeaway.com NV	
+	voestalpine AG	
+	Halma PLC	
+	RS GROUP PLC	
+6146.JP&back=PXF	Disco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6146.JP&back=PXF
+6481.JP&back=PXF	THK Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6481.JP&back=PXF
+006360.KS&back=PXF	GS Engineering & Construction Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=006360.KS&back=PXF
+004170.KS&back=PXF	Shinsegae Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=004170.KS&back=PXF
+000060.KS&back=PXF	Meritz Fire & Marine Insurance Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=000060.KS&back=PXF
+032640.KS&back=PXF	LG Uplus Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=032640.KS&back=PXF
+9962.JP&back=PXF	MISUMI Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9962.JP&back=PXF
+8984.JP&back=PXF	Daiwa House REIT Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8984.JP&back=PXF
+	Cash/Receivables/Payables	
+	Allied Properties Real Estate Investment Trust	
+	Aeroports de Paris	
+	Covivio	
+	HUGO BOSS AG	
+BTG	B2Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BTG.US&back=PXF
+	B&M European Value Retail SA	
+	Bendigo & Adelaide Bank Ltd	
+CAE	CAE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAE.US&back=PXF
+	Eurofins Scientific SE	
+011070.KS&back=PXF	LG Innotek Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=011070.KS&back=PXF
+2871.JP&back=PXF	Nichirei Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=2871.JP&back=PXF
+4536.JP&back=PXF	Santen Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4536.JP&back=PXF
+6383.JP&back=PXF	Daifuku Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6383.JP&back=PXF
+6460.JP&back=PXF	Sega Sammy Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=6460.JP&back=PXF
+6473.JP&back=PXF	JTEKT Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6473.JP&back=PXF
+	Schroders PLC	
+MEOH	Methanex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MEOH.US&back=PXF
+	IGM Financial Inc	
+	IMI PLC	
+	Knorr-Bremse AG	
+	Valmet Oyj	
+	United Internet AG	
+	Spirax-Sarco Engineering PLC	
+	Ubisoft Entertainment SA	
+	Virgin Money UK PLC	
+	Wienerberger AG	
+	Kingspan Group PLC	
+	Hays PLC	
+	Pirelli & C SpA	
+4613.JP&back=PXF	Kansai Paint Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4613.JP&back=PXF
+0322.HK&back=PXF	Tingyi Cayman Islands Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=0322.HK&back=PXF
+016360.KS&back=PXF	Samsung Securities Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=016360.KS&back=PXF
+018260.KS&back=PXF	Samsung SDS Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=018260.KS&back=PXF
+051900.KS&back=PXF	LG H&H Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=051900.KS&back=PXF
+	Elis SA	
+	Chr Hansen Holding A/S	
+	Etablissements Franz Colruyt NV	
+	ASM International NV	
+	Aalberts NV	
+	Derwent London PLC	
+036570.KS&back=PXF	NCSoft Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=036570.KS&back=PXF
+0012.HK&back=PXF	Henderson Land Development Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0012.HK&back=PXF
+3281.JP&back=PXF	GLP J-Reit	/etf/ea/ETZCW.djhtm?c=1&etfid=3281.JP&back=PXF
+3283.JP&back=PXF	Nippon Prologis REIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3283.JP&back=PXF
+6976.JP&back=PXF	Taiyo Yuden Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6976.JP&back=PXF
+	Moncler SpA	
+	Quilter PLC	
+	Inchcape PLC	
+	Husqvarna AB	
+	Swatch Group AG/The	
+	Nokian Renkaat Oyj	
+	Schindler Holding AG	
+	Salzgitter AG	
+7205.JP&back=PXF	Hino Motors Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7205.JP&back=PXF
+7453.JP&back=PXF	Ryohin Keikaku Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7453.JP&back=PXF
+2018.HK&back=PXF	AAC Technologies Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2018.HK&back=PXF
+	Cofinimmo SA	
+	Bellway PLC	
+	Banco Comercial Portugues SA	
+0868.HK&back=PXF	Xinyi Glass Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0868.HK&back=PXF
+	Azimut Holding SpA	
+	Inmobiliaria Colonial Socimi SA	
+4062.JP&back=PXF	Ibiden Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4062.JP&back=PXF
+139480.KS&back=PXF	E-MART Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=139480.KS&back=PXF
+071050.KS&back=PXF	Korea Investment Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=071050.KS&back=PXF
+	SSP Group Plc	
+	SSAB AB	
+	SEB SA	
+	Howden Joinery Group PLC	
+	Hikma Pharmaceuticals PLC	
+GRFS	Grifols SA	/etf/ea/ETZCW.djhtm?c=1&etfid=GRFS.US&back=PXF
+	Intermediate Capital Group PLC	
+	Sofina SA	
+SHOP	Shopify Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SHOP.US&back=PXF
+	Koninklijke Vopak NV	
+	Dometic Group AB	
+EGO	Eldorado Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EGO.US&back=PXF
+	Epiroc AB	
+	Evolution Mining Ltd	
+	APERAM SA	
+005385.KS&back=PXF	Hyundai Motor Co	/etf/ea/ETZCW.djhtm?c=1&etfid=005385.KS&back=PXF
+	Zalando SE	
+	Getinge AB	
+	Fabege AB	
+	Puma SE	
+	PostNL NV	
+	easyJet PLC	
+	KION Group AG	
+090430.KS&back=PXF	Amorepacific Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=090430.KS&back=PXF
+	Fastighets AB Balder	
+	ams-OSRAM AG	
+	Cash/Receivables/Payables	
+	Orpea SA	
+	Telenet Group Holding NV	

@@ -1,0 +1,34 @@
+SGDM
+NEM	Newmont Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=SGDM
+	Barrick Gold Corp.	
+	Franco-Nevada Corp.	
+	Agnico Eagle Mines Ltd.	
+	Wheaton Precious Metals Corp.	
+	Centerra Gold Inc.	
+	Sandstorm Gold Ltd.	
+	Alamos Gold Inc.	
+	SSR Mining Inc.	
+RGLD	Royal Gold Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=SGDM
+	B2Gold Corp.	
+	Torex Gold Resources Inc.	
+	Yamana Gold Inc.	
+	Dundee Precious Metals Inc.	
+	K92 Mining Inc.	
+HMY	Harmony Gold Mining Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=HMY.US&back=SGDM
+GFI	Gold Fields Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=GFI.US&back=SGDM
+	Osisko Gold Royalties Ltd.	
+	Kinross Gold Corp.	
+	Endeavour Mining PLC	
+HL	Hecla Mining Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=HL.US&back=SGDM
+	Eldorado Gold Corp.	
+	Seabridge Gold Inc.	
+	OceanaGold Corp.	
+	Novagold Resources Inc.	
+	Equinox Gold Corp.	
+AU	AngloGold Ashanti Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=AU.US&back=SGDM
+	Wesdome Gold Mines Ltd.	
+CDE	Coeur Mining Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDE.US&back=SGDM
+	Osisko Mining Inc.	
+	IAMGOLD Corp.	
+	New Gold Inc.	
+	Cash Equivalent	

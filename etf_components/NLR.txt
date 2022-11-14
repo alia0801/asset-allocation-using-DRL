@@ -1,0 +1,26 @@
+NLR
+CEG	Constellation Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=NLR
+D	Dominion Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=NLR
+DUK	Duke Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=NLR
+PEG	Public Service Enterprise Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=NLR
+	Electricite De France Sa	
+ETR	Entergy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=NLR
+PCG	Pg&E Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=NLR
+CCJ	Cameco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CCJ.US&back=NLR
+9503.JP&back=NLR	Kansai Electric Power Co Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=9503.JP&back=NLR
+PNW	Pinnacle West Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=NLR
+	Endesa Sa	
+KEP	Korea Electric Power Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEP.US&back=NLR
+	Cez As	
+PNM	Pnm Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PNM.US&back=NLR
+	Fortum Oyj	
+9508.JP&back=NLR	Kyushu Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9508.JP&back=NLR
+9501.JP&back=NLR	Tokyo Electric Power Co Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9501.JP&back=NLR
+BWXT	Bwx Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BWXT.US&back=NLR
+1816.HK&back=NLR	Cgn Power Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1816.HK&back=NLR
+	Nac Kazatomprom Jsc	
+NXE	Nexgen Energy Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NXE.US&back=NLR
+	Paladin Energy Ltd	
+UUUU	Energy Fuels Inc/Canada	/etf/ea/ETZCW.djhtm?c=1&etfid=UUUU.US&back=NLR
+UEC	Uranium Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UEC.US&back=NLR
+DNN	Denison Mines Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DNN.US&back=NLR

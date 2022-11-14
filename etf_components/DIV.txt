@@ -1,0 +1,52 @@
+DIV
+SBR	SABINE ROYALTY TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=SBR.US&back=DIV
+IRM	IRON MOUNTAIN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=DIV
+ED	CONSOLIDATED EDISON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=DIV
+KRP	KIMBELL ROYALTY	/etf/ea/ETZCW.djhtm?c=1&etfid=KRP.US&back=DIV
+AEP	AMERICAN ELECTRIC POWER	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=DIV
+SHLX	SHELL MIDSTREAM	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLX.US&back=DIV
+NFG	NATIONAL FUEL GAS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=DIV
+CWEN	CLEARWAY ENERGY INC-C	/etf/ea/ETZCW.djhtm?c=1&etfid=CWEN.US&back=DIV
+K	KELLOGG CO	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=DIV
+EBF	ENNIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EBF.US&back=DIV
+AGR	AVANGRID INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=DIV
+SPTN	SPARTANNASH CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTN.US&back=DIV
+DTB	DTE ENERGY COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=DTB.US&back=DIV
+DUK	DUKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=DIV
+KNOP	KNOT OFFSHORE PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=KNOP.US&back=DIV
+USAC	USA COMPRESSION	/etf/ea/ETZCW.djhtm?c=1&etfid=USAC.US&back=DIV
+GILD	GILEAD SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=DIV
+IBM	IBM	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=DIV
+LUMN	LUMEN TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=DIV
+KMI	KINDER MORGAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=DIV
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=DIV
+MSM	MSC INDL DIRECT	/etf/ea/ETZCW.djhtm?c=1&etfid=MSM.US&back=DIV
+KHC	KRAFT HEINZ CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=DIV
+EVA	ENVIVA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVA.US&back=DIV
+CAPL	CROSSAMERICA PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CAPL.US&back=DIV
+HEP	HOLLY ENERGY PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=DIV
+HE	HAWAIIAN ELECTRIC INDS	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=DIV
+GNL	GLOBAL NET LEASE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GNL.US&back=DIV
+IEP	ICAHN ENTERPRISES LP	/etf/ea/ETZCW.djhtm?c=1&etfid=IEP.US&back=DIV
+UVV	UNIVERSAL CORP/VA	/etf/ea/ETZCW.djhtm?c=1&etfid=UVV.US&back=DIV
+TWO	TWO HARBORS INVE	/etf/ea/ETZCW.djhtm?c=1&etfid=TWO.US&back=DIV
+ABBV	ABBVIE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=DIV
+KREF	KKR REAL ESTATE	/etf/ea/ETZCW.djhtm?c=1&etfid=KREF.US&back=DIV
+ALX	ALEXANDER'S INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALX.US&back=DIV
+AGNC	AGNC INVESTMENT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=DIV
+WLK	WESTLAKE CHEMICA	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=DIV
+MO	ALTRIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=DIV
+PM	PHILIP MORRIS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=DIV
+DEA	EASTERLY GOVERNM	/etf/ea/ETZCW.djhtm?c=1&etfid=DEA.US&back=DIV
+MMM	3M CO	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=DIV
+NYCB	NY COMM BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=DIV
+TFSL	TFS FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TFSL.US&back=DIV
+CCOI	COGENT COMMUNICA	/etf/ea/ETZCW.djhtm?c=1&etfid=CCOI.US&back=DIV
+ARR	ARMOUR RESIDENTI	/etf/ea/ETZCW.djhtm?c=1&etfid=ARR.US&back=DIV
+VZ	VERIZON COMMUNIC	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=DIV
+PETS	PETMED EXPRESS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PETS.US&back=DIV
+WBA	WALGREENS BOOTS	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=DIV
+BGS	B&G FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BGS.US&back=DIV
+IVR	INVESCO MORTGAGE CAPITAL	/etf/ea/ETZCW.djhtm?c=1&etfid=IVR.US&back=DIV
+VIRT	VIRTU FINANCIA-A	/etf/ea/ETZCW.djhtm?c=1&etfid=VIRT.US&back=DIV
+	CASH	

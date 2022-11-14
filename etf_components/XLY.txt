@@ -1,0 +1,60 @@
+XLY
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=XLY
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=XLY
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=XLY
+MCD	McDonald's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=XLY
+NKE	NIKE Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=XLY
+LOW	Lowe's Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=XLY
+SBUX	Starbucks Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=XLY
+BKNG	Booking Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=XLY
+TGT	Target Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=XLY
+TJX	TJX Companies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=XLY
+F	Ford Motor Company	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=XLY
+GM	General Motors Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=XLY
+DG	Dollar General Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=XLY
+ORLY	O'Reilly Automotive Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=XLY
+CMG	Chipotle Mexican Grill Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMG.US&back=XLY
+MAR	Marriott International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=XLY
+AZO	AutoZone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=XLY
+HLT	Hilton Worldwide Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLT.US&back=XLY
+YUM	Yum! Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=XLY
+DLTR	Dollar Tree Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=XLY
+ROST	Ross Stores Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=XLY
+APTV	Aptiv PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=XLY
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=XLY
+DHI	D.R. Horton Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=XLY
+GPC	Genuine Parts Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=XLY
+ULTA	Ulta Beauty Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=XLY
+TSCO	Tractor Supply Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=XLY
+LEN	Lennar Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=XLY
+EXPE	Expedia Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=XLY
+DRI	Darden Restaurants Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DRI.US&back=XLY
+BBY	Best Buy Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=XLY
+KMX	CarMax Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=XLY
+LKQ	LKQ Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=XLY
+POOL	Pool Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=POOL.US&back=XLY
+GRMN	Garmin Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=XLY
+ETSY	Etsy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=XLY
+DPZ	Domino's Pizza Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DPZ.US&back=XLY
+VFC	V.F. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=XLY
+LVS	Las Vegas Sands Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LVS.US&back=XLY
+NVR	NVR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=XLY
+MGM	MGM Resorts International	/etf/ea/ETZCW.djhtm?c=1&etfid=MGM.US&back=XLY
+HAS	Hasbro Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HAS.US&back=XLY
+AAP	Advance Auto Parts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=XLY
+PHM	PulteGroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=XLY
+CZR	Caesars Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CZR.US&back=XLY
+CCL	Carnival Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CCL.US&back=XLY
+RCL	Royal Caribbean Group	/etf/ea/ETZCW.djhtm?c=1&etfid=RCL.US&back=XLY
+BWA	BorgWarner Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BWA.US&back=XLY
+BBWI	Bath & Body Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=XLY
+WHR	Whirlpool Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=XLY
+TPR	Tapestry Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=XLY
+NWL	Newell Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=XLY
+WYNN	Wynn Resorts Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=WYNN.US&back=XLY
+MHK	Mohawk Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MHK.US&back=XLY
+NCLH	Norwegian Cruise Line Holdings Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=NCLH.US&back=XLY
+PENN	PENN Entertainment Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PENN.US&back=XLY
+RL	Ralph Lauren Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RL.US&back=XLY
+PVH	PVH Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PVH.US&back=XLY
+	STATE STREET INSTITUTIONAL LIQ STATE STR	

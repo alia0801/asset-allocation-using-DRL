@@ -1,0 +1,204 @@
+IDMO
+	Shell PLC	
+	Novo Nordisk A/S	
+	AstraZeneca PLC	
+	TotalEnergies SE	
+	HSBC Holdings PLC	
+BP	BP PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=BP.US&back=IDMO
+	Enbridge Inc	
+BTI	British American Tobacco PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=BTI.US&back=IDMO
+CNQ	Canadian Natural Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CNQ.US&back=IDMO
+4568.JP&back=IDMO	Daiichi Sankyo Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4568.JP&back=IDMO
+SNY	Sanofi	/etf/ea/ETZCW.djhtm?c=1&etfid=SNY.US&back=IDMO
+	Glencore PLC	
+8306.JP&back=IDMO	Mitsubishi UFJ Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8306.JP&back=IDMO
+	National Australia Bank Ltd	
+SU	Suncor Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SU.US&back=IDMO
+9433.JP&back=IDMO	KDDI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9433.JP&back=IDMO
+EQNR	Equinor ASA	/etf/ea/ETZCW.djhtm?c=1&etfid=EQNR.US&back=IDMO
+CNI	Canadian National Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CNI.US&back=IDMO
+8766.JP&back=IDMO	Tokio Marine Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8766.JP&back=IDMO
+	Zurich Insurance Group AG	
+NTR	Nutrien Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NTR.US&back=IDMO
+9432.JP&back=IDMO	Nippon Telegraph & Telephone Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9432.JP&back=IDMO
+	National Grid PLC	
+WDS	Woodside Energy Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=WDS.US&back=IDMO
+	Reckitt Benckiser Group PLC	
+	RELX PLC	
+8058.JP&back=IDMO	Mitsubishi Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8058.JP&back=IDMO
+TRP	TC Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=IDMO
+CVE	Cenovus Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CVE.US&back=IDMO
+	BAE Systems PLC	
+8001.JP&back=IDMO	ITOCHU Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8001.JP&back=IDMO
+4661.JP&back=IDMO	Oriental Land Co Ltd/Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=4661.JP&back=IDMO
+	Compass Group PLC	
+	Deutsche Boerse AG	
+8316.JP&back=IDMO	Sumitomo Mitsui Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8316.JP&back=IDMO
+	Tourmaline Oil Corp	
+	Macquarie Group Ltd	
+8031.JP&back=IDMO	Mitsui & Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8031.JP&back=IDMO
+7751.JP&back=IDMO	Canon Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7751.JP&back=IDMO
+	RWE AG	
+9434.JP&back=IDMO	SoftBank Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9434.JP&back=IDMO
+ENI	Eni SpA	/etf/ea/ETZCW.djhtm?c=1&etfid=ENI.US&back=IDMO
+3382.JP&back=IDMO	Seven & i Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3382.JP&back=IDMO
+	Intact Financial Corp	
+4503.JP&back=IDMO	Astellas Pharma Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4503.JP&back=IDMO
+	Imperial Brands PLC	
+	Dollarama Inc	
+7832.JP&back=IDMO	Bandai Namco Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7832.JP&back=IDMO
+4528.JP&back=IDMO	Ono Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4528.JP&back=IDMO
+PBA	Pembina Pipeline Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PBA.US&back=IDMO
+	SSE PLC	
+	Wolters Kluwer NV	
+	Repsol SA	
+	Loblaw Cos Ltd	
+8053.JP&back=IDMO	Sumitomo Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8053.JP&back=IDMO
+2914.JP&back=IDMO	Japan Tobacco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2914.JP&back=IDMO
+8002.JP&back=IDMO	Marubeni Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8002.JP&back=IDMO
+7011.JP&back=IDMO	Mitsubishi Heavy Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7011.JP&back=IDMO
+	Bank Leumi Le-Israel BM	
+ORAN	Orange SA	/etf/ea/ETZCW.djhtm?c=1&etfid=ORAN.US&back=IDMO
+1605.JP&back=IDMO	Inpex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1605.JP&back=IDMO
+8630.JP&back=IDMO	Sompo Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8630.JP&back=IDMO
+TEF	Telefonica SA	/etf/ea/ETZCW.djhtm?c=1&etfid=TEF.US&back=IDMO
+8591.JP&back=IDMO	ORIX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8591.JP&back=IDMO
+	Fortis Inc/Canada	
+	Computershare Ltd	
+	Tesco PLC	
+	Sampo Oyj	
+IMO	Imperial Oil Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=IMO.US&back=IDMO
+8802.JP&back=IDMO	Mitsubishi Estate Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8802.JP&back=IDMO
+2802.JP&back=IDMO	Ajinomoto Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2802.JP&back=IDMO
+8725.JP&back=IDMO	MS&AD Insurance Group Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8725.JP&back=IDMO
+	Thales SA	
+	Singapore Telecommunications Ltd	
+2888.HK&back=IDMO	Standard Chartered PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=2888.HK&back=IDMO
+6502.JP&back=IDMO	Toshiba Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6502.JP&back=IDMO
+9101.JP&back=IDMO	Nippon Yusen KK	/etf/ea/ETZCW.djhtm?c=1&etfid=9101.JP&back=IDMO
+	Fairfax Financial Holdings Ltd	
+8750.JP&back=IDMO	Dai-ichi Life Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8750.JP&back=IDMO
+TRI	Thomson Reuters Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRI.US&back=IDMO
+	NatWest Group PLC	
+	Teck Resources Ltd	
+8309.JP&back=IDMO	Sumitomo Mitsui Trust Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8309.JP&back=IDMO
+	DNB Bank ASA	
+9104.JP&back=IDMO	Mitsui OSK Lines Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9104.JP&back=IDMO
+BCE	BCE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BCE.US&back=IDMO
+	Hydro One Ltd	
+4704.JP&back=IDMO	Trend Micro Inc/Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=4704.JP&back=IDMO
+	Bank Hapoalim BM	
+	Koninklijke KPN NV	
+	South32 Ltd	
+2388.HK&back=IDMO	BOC Hong Kong Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2388.HK&back=IDMO
+2267.JP&back=IDMO	Yakult Honsha Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2267.JP&back=IDMO
+	Keppel Corp Ltd	
+CCJ	Cameco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CCJ.US&back=IDMO
+8308.JP&back=IDMO	Resona Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8308.JP&back=IDMO
+	Metro Inc/CN	
+9503.JP&back=IDMO	Kansai Electric Power Co Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=9503.JP&back=IDMO
+	Bunzl PLC	
+	Emera Inc	
+	Aker BP ASA	
+ESLT	Elbit Systems Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ESLT.US&back=IDMO
+	ASX Ltd	
+	APA Group	
+	TELUS Corp	
+	Tenaris SA	
+	AP Moller - Maersk A/S	
+	Origin Energy Ltd	
+3659.JP&back=IDMO	Nexon Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3659.JP&back=IDMO
+9531.JP&back=IDMO	Tokyo Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9531.JP&back=IDMO
+	George Weston Ltd	
+9042.JP&back=IDMO	Hankyu Hanshin Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9042.JP&back=IDMO
+	Elia Group SA/NV	
+	Jeronimo Martins SGPS SA	
+	Red Electrica Corp SA	
+9613.JP&back=IDMO	NTT Data Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9613.JP&back=IDMO
+	Israel Discount Bank Ltd	
+2897.JP&back=IDMO	Nissin Foods Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2897.JP&back=IDMO
+	Pilbara Minerals Ltd	
+	WiseTech Global Ltd	
+	Mizrahi Tefahot Bank Ltd	
+3626.JP&back=IDMO	TIS Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3626.JP&back=IDMO
+4021.JP&back=IDMO	Nissan Chemical Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4021.JP&back=IDMO
+	Bezeq The Israeli Telecommunication Corp Ltd	
+RBA	Ritchie Bros Auctioneers Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RBA.US&back=IDMO
+9107.JP&back=IDMO	Kawasaki Kisen Kaisha Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9107.JP&back=IDMO
+4324.JP&back=IDMO	Dentsu Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4324.JP&back=IDMO
+2587.JP&back=IDMO	Suntory Beverage & Food Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2587.JP&back=IDMO
+ICL	ICL Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ICL.US&back=IDMO
+9532.JP&back=IDMO	Osaka Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9532.JP&back=IDMO
+9041.JP&back=IDMO	Kintetsu Group Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9041.JP&back=IDMO
+	Incitec Pivot Ltd	
+	Endeavour Group Ltd/Australia	
+5019.JP&back=IDMO	Idemitsu Kosan Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5019.JP&back=IDMO
+5334.JP&back=IDMO	NGK Spark Plug Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5334.JP&back=IDMO
+2875.JP&back=IDMO	Toyo Suisan Kaisha Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2875.JP&back=IDMO
+0006.HK&back=IDMO	Power Assets Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0006.HK&back=IDMO
+	Naturgy Energy Group SA	
+	Vicinity Centres	
+4732.JP&back=IDMO	USS Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4732.JP&back=IDMO
+7911.JP&back=IDMO	TOPPAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=7911.JP&back=IDMO
+1801.JP&back=IDMO	Taisei Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1801.JP&back=IDMO
+	Spark New Zealand Ltd	
+	AP Moller - Maersk A/S	
+4527.JP&back=IDMO	Rohto Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4527.JP&back=IDMO
+6504.JP&back=IDMO	Fuji Electric Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6504.JP&back=IDMO
+6823.HK&back=IDMO	HKT Trust & HKT Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6823.HK&back=IDMO
+9086.JP&back=IDMO	Hitachi Transport System Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9086.JP&back=IDMO
+	Orica Ltd	
+	Orion Oyj	
+7912.JP&back=IDMO	Dai Nippon Printing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7912.JP&back=IDMO
+6841.JP&back=IDMO	Yokogawa Electric Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6841.JP&back=IDMO
+9766.JP&back=IDMO	Konami Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9766.JP&back=IDMO
+WFG	West Fraser Timber Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=WFG.US&back=IDMO
+	AltaGas Ltd	
+	Canadian Utilities Ltd	
+7731.JP&back=IDMO	Nikon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7731.JP&back=IDMO
+3099.JP&back=IDMO	Isetan Mitsukoshi Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3099.JP&back=IDMO
+	Ampol Ltd	
+	Galp Energia SGPS SA	
+6460.JP&back=IDMO	Sega Sammy Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=6460.JP&back=IDMO
+5411.JP&back=IDMO	JFE Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=5411.JP&back=IDMO
+	First International Bank Of Israel Ltd/The	
+	EDP Renovaveis SA	
+8354.JP&back=IDMO	Fukuoka Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8354.JP&back=IDMO
+	Axfood AB	
+8252.JP&back=IDMO	Marui Group Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8252.JP&back=IDMO
+7013.JP&back=IDMO	IHI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7013.JP&back=IDMO
+8331.JP&back=IDMO	Chiba Bank Ltd/The	/etf/ea/ETZCW.djhtm?c=1&etfid=8331.JP&back=IDMO
+9501.JP&back=IDMO	Tokyo Electric Power Co Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9501.JP&back=IDMO
+	Jardine Cycle & Carriage Ltd	
+	Kongsberg Gruppen ASA	
+	Aeroports de Paris	
+	Worley Ltd	
+2768.JP&back=IDMO	Sojitz Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=2768.JP&back=IDMO
+9513.JP&back=IDMO	Electric Power Development Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9513.JP&back=IDMO
+8804.JP&back=IDMO	Tokyo Tatemono Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8804.JP&back=IDMO
+7550.JP&back=IDMO	Zensho Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7550.JP&back=IDMO
+7182.JP&back=IDMO	Japan Post Bank Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7182.JP&back=IDMO
+	Corp ACCIONA Energias Renovables SA	
+7211.JP&back=IDMO	Mitsubishi Motors Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7211.JP&back=IDMO
+	Verbund AG	
+	City Developments Ltd	
+3231.JP&back=IDMO	Nomura Real Estate Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3231.JP&back=IDMO
+	Suntec Real Estate Investment Trust	
+ZIM	ZIM Integrated Shipping Services Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ZIM.US&back=IDMO
+	Plus500 Ltd	
+	Israel Corp Ltd	
+8227.JP&back=IDMO	Shimamura Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8227.JP&back=IDMO
+8111.JP&back=IDMO	Goldwin Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8111.JP&back=IDMO
+	Hapag-Lloyd AG	
+9987.JP&back=IDMO	Suzuken Co Ltd/Aichi Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=9987.JP&back=IDMO
+	Mivne Real Estate KD Ltd	
+	Phoenix Holdings Ltd/The	
+8060.JP&back=IDMO	Canon Marketing Japan Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8060.JP&back=IDMO
+KEN	Kenon Holdings Ltd/Singapore	/etf/ea/ETZCW.djhtm?c=1&etfid=KEN.US&back=IDMO
+8303.JP&back=IDMO	Shinsei Bank Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8303.JP&back=IDMO
+	Airport City Ltd	
+	Cash/Receivables/Payables	
+	Fattal Holdings 1998 Ltd	
+	Cash/Receivables/Payables	
+	Cash/Receivables/Payables	
+	Cash/Receivables/Payables	

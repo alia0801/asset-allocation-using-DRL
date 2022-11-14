@@ -1,0 +1,302 @@
+RESP
+AAPL	Apple Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=RESP
+MSFT	Microsoft Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=RESP
+GOOGL	Alphabet Inc-Cl A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=RESP
+AMZN	Amazon.com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=RESP
+V	Visa Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=RESP
+MA	Mastercard Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=RESP
+UNH	UnitedHealth Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=RESP
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=RESP
+HD	Home Depot Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=RESP
+JPM	JPMorgan Chase & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=RESP
+PG	Procter & Gamble Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=RESP
+CSCO	Cisco Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=RESP
+ORCL	Oracle Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=RESP
+VZ	Verizon Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=RESP
+BAC	Bank of America Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=RESP
+ADBE	Adobe Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=RESP
+LLY	Eli Lilly & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=RESP
+CMCSA	Comcast Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=RESP
+PEP	PepsiCo Inc/NC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=RESP
+MCD	McDonalds Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=RESP
+QCOM	Qualcomm Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=RESP
+T	AT&T Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=RESP
+UPS	United Parcel Service Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=RESP
+ABBV	AbbVie Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=RESP
+PFE	Pfizer Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=RESP
+MRK	Merck & Co Inc/NJ	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=RESP
+INTC	Intel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=RESP
+TMO	Thermo Fisher Scientific Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=RESP
+IBM	International Business Machines Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=RESP
+ADP	Automatic Data Processing Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=RESP
+PYPL	PayPal Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=RESP
+LOW	Lowe's Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=RESP
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=RESP
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=RESP
+SBUX	Starbucks Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=RESP
+AMAT	Applied Materials Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=RESP
+DE	Deere & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=RESP
+BMY	Bristol-Myers Squibb Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=RESP
+CVS	CVS Health Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=RESP
+TGT	Target Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=RESP
+AMGN	Amgen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=RESP
+AXP	American Express Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=RESP
+GS	Goldman Sachs Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=RESP
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=RESP
+ELV	Elevance Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=RESP
+F	Ford Motor Co	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=RESP
+C	Citigroup Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=RESP
+CAT	Caterpillar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=RESP
+WM	Waste Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=RESP
+GM	General Motors Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=RESP
+CI	Cigna Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=RESP
+TJX	TJX Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=RESP
+MMM	3M Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=RESP
+LRCX	Lam Research Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=RESP
+KEYS	Keysight Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=RESP
+VMW	VMware Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=RESP
+EXC	Exelon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=RESP
+DOW	Dow Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=RESP
+MDLZ	Mondelez International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=RESP
+GILD	Gilead Sciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=RESP
+CBRE	CBRE Group Inc - A	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=RESP
+BDX	Becton Dickinson and Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=RESP
+HUM	Humana Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=RESP
+AWK	American Water Works Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=RESP
+FDX	Fedex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=RESP
+GIS	General Mills Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=RESP
+ES	Eversource Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=RESP
+NSC	Norfolk Southern Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=RESP
+CL	Colgate-Palmolive Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=RESP
+HSY	Hershey Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=RESP
+HPE	Hewlett Packard Enterprise Co	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=RESP
+AGR	Avangrid Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=RESP
+KDP	Keurig Dr Pepper Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=RESP
+HPQ	HP Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=RESP
+SNPS	Synopsys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=RESP
+PNC	PNC Financial Services Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=RESP
+ED	Consolidated Edison Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=RESP
+CF	CF Industries Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=RESP
+MET	MetLife Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=RESP
+RSG	Republic Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=RESP
+CTSH	Cognizant Technology Solutions	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=RESP
+MMC	Marsh & Mclennan Cos	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=RESP
+IRM	Iron Mountain Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=RESP
+BSX	Boston Scientific Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BSX.US&back=RESP
+EW	Edwards Lifesciences Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=RESP
+YUM	Yum! Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=RESP
+MCK	McKesson Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=RESP
+WY	Weyerhaeuser Co	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=RESP
+USB	US Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=RESP
+FIS	Fidelity National Information	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=RESP
+FISV	Fiserv Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=RESP
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=RESP
+VTR	Ventas Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=RESP
+PGR	Progressive Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=RESP
+NLOK	Nortonlifelock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=RESP
+VRSK	Verisk Analytics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=RESP
+CHTR	Charter Communications Inc-A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=RESP
+AFL	Aflac Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=RESP
+ADM	Archer-Daniels-Midland Co	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=RESP
+REGN	Regeneron Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=RESP
+A	Agilent Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=RESP
+BBY	Best Buy Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=RESP
+PEAK	Healthpeak Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=RESP
+K	Kellogg Co	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=RESP
+EPAM	Epam Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=RESP
+JBL	Jabil Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=RESP
+CAH	Cardinal Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=RESP
+WSM	Williams-Sonoma Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WSM.US&back=RESP
+CPB	Campbell Soup Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=RESP
+HRL	Hormel Foods Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=RESP
+GLW	Corning Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=RESP
+TFC	Truist Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=RESP
+IPG	Interpublic Group of Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=RESP
+NTAP	NetApp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=RESP
+EBAY	eBay Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=RESP
+KRC	Kilroy Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KRC.US&back=RESP
+BK	Bank of New York Mellon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=RESP
+PRU	Prudential Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=RESP
+MOS	Mosaic Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=RESP
+TRV	Travelers Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=RESP
+HST	Host Hotels & Resorts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HST.US&back=RESP
+ALL	Allstate Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=RESP
+COF	Capital One Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=RESP
+BIIB	Biogen Idec Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=RESP
+CLX	Clorox Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=RESP
+BAH	Booz Allen Hamilton Holding Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=RESP
+KMB	Kimberly-Clark Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=RESP
+AZO	AutoZone Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=RESP
+SCCO	Southern Copper Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCCO.US&back=RESP
+VRTX	Vertex Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=RESP
+BF.B	Brown-Forman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=RESP
+JLL	Jones Lang LaSalle Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JLL.US&back=RESP
+AKAM	Akamai Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=RESP
+PFG	Principal Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=RESP
+CAG	Conagra Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=RESP
+JNPR	Juniper Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=RESP
+CNC	Centene Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=RESP
+MKC	McCormick & Co Inc/MD	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=RESP
+KHC	Kraft Heinz Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=RESP
+URI	United Rentals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=URI.US&back=RESP
+ABC	AmerisourceBergen Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=RESP
+WHR	Whirlpool Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=RESP
+CARR	Carrier Global Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=RESP
+HRB	H&R Block Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HRB.US&back=RESP
+RF	Regions Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=RESP
+BAX	Baxter International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=RESP
+OC	Owens Corning	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=RESP
+WTRG	Essential Utilities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=RESP
+ARW	Arrow Electronics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=RESP
+TSCO	Tractor Supply Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=RESP
+NUE	Nucor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=RESP
+RMD	ResMed Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=RESP
+EA	Electronic Arts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=RESP
+HUN	Huntsman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HUN.US&back=RESP
+DRI	Darden Restaurants Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DRI.US&back=RESP
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=RESP
+AMP	Ameriprise Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=RESP
+SJM	JM Smucker Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=RESP
+SWK	Stanley Black & Decker Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=RESP
+NTRS	Northern Trust Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=RESP
+STZ	Constellation Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STZ.US&back=RESP
+BWA	BorgWarner Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BWA.US&back=RESP
+KEY	Keycorp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=RESP
+VOYA	Voya Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=RESP
+ACM	Aecom	/etf/ea/ETZCW.djhtm?c=1&etfid=ACM.US&back=RESP
+LII	Lennox International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LII.US&back=RESP
+BRX	Brixmor Property Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRX.US&back=RESP
+CIEN	Ciena Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=RESP
+OMC	Omnicom Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=RESP
+LECO	Lincoln Electric Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LECO.US&back=RESP
+IQV	Iqvia Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=RESP
+TAP	Molson Coors Beverage Co	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=RESP
+STLD	Steel Dynamics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=RESP
+HCA	HCA Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=RESP
+IT	Gartner Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=RESP
+APP	Applovin Corp-Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APP.US&back=RESP
+PARA	Paramount Global - Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=RESP
+UNM	Unum Group	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=RESP
+AIG	American Intl Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=RESP
+ATVI	Activision Blizzard Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=RESP
+TPR	Tapestry Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=RESP
+CC	Chemours Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=CC.US&back=RESP
+WCC	Wesco International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC.US&back=RESP
+DOV	Dover Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=RESP
+ZBH	Zimmer Biomet Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=RESP
+FCN	FTI Consulting Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FCN.US&back=RESP
+PCAR	Paccar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=RESP
+LNC	Lincoln National Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=RESP
+RHI	Robert Half International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RHI.US&back=RESP
+WDC	Western Digital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=RESP
+MAS	Masco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=RESP
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=RESP
+NWL	Newell Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=RESP
+WST	West Pharmaceutical Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=RESP
+CAR	Avis Budget Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAR.US&back=RESP
+AGCO	AGCO Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AGCO.US&back=RESP
+DLB	Dolby Laboratories Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DLB.US&back=RESP
+CHD	Church & Dwight Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=RESP
+GNTX	Gentex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GNTX.US&back=RESP
+PKG	Packaging Corp of America	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=RESP
+PAG	Penske Auto Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=RESP
+DXC	DXC Technology Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=RESP
+MRNA	Moderna Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=RESP
+AIRC	Apartment Income Reit Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=RESP
+GPN	Global Payments Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=RESP
+BEN	Franklin Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=RESP
+DGX	Quest Diagnostics Inc/DE	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=RESP
+SYF	Synchrony Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=RESP
+SIRI	Sirius XM Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=RESP
+EXPD	Expeditors International of Wa	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=RESP
+GPC	Genuine Parts Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=RESP
+WPC	WP Carey Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=RESP
+M	Macy's Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=M.US&back=RESP
+UGI	UGI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=RESP
+AYI	Acuity Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AYI.US&back=RESP
+DVA	DaVita Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=RESP
+CNXC	Concentrix Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=RESP
+RS	Reliance Steel & Aluminum Co	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=RESP
+ATO	Atmos Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=RESP
+CHRW	CH Robinson Worldwide Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=RESP
+NWSA	News Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NWSA.US&back=RESP
+LH	Laboratory Corp of America Hldgs	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=RESP
+BURL	Burlington Stores Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BURL.US&back=RESP
+HOLX	Hologic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=RESP
+PTC	PTC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=RESP
+CBSH	Commerce Bancshares Inc/Kansas	/etf/ea/ETZCW.djhtm?c=1&etfid=CBSH.US&back=RESP
+TSN	Tyson Foods Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=RESP
+WU	Western Union Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=RESP
+DCI	Donaldson Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DCI.US&back=RESP
+WEX	WEX Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WEX.US&back=RESP
+BKI	Black Knight Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BKI.US&back=RESP
+ORLY	O\''Reilly Automotive Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=RESP
+FLO	Flowers Foods Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=RESP
+FICO	Fair Isaac Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FICO.US&back=RESP
+XPO	XPO Logistics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=XPO.US&back=RESP
+DAR	Darling Ingredients Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DAR.US&back=RESP
+HUBB	Hubbell Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=RESP
+HSIC	Henry Schein Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HSIC.US&back=RESP
+WAT	Waters Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=RESP
+AIZ	Assurant Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=RESP
+RGA	Reinsurance Group of America Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RGA.US&back=RESP
+JBHT	Hunt (JB) Transprt Svcs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JBHT.US&back=RESP
+CFG	Citizens Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=RESP
+VAC	Marriott Vacations Worldwide	/etf/ea/ETZCW.djhtm?c=1&etfid=VAC.US&back=RESP
+WRB	WR Berkley Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=RESP
+FOXA	Fox Corp - Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=RESP
+ALLY	Ally Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=RESP
+CLF	Cleveland-Cliffs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=RESP
+PHM	Pulte Homes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=RESP
+XRAY	Dentsply Sirona Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=XRAY.US&back=RESP
+JEF	Jefferies Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JEF.US&back=RESP
+LAD	Lithia Motors Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LAD.US&back=RESP
+SEIC	SEI Investments Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=RESP
+NFG	National Fuel Gas Co	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=RESP
+FWONK	Liberty Media Corp-Liberty-C	/etf/ea/ETZCW.djhtm?c=1&etfid=FWONK.US&back=RESP
+LSXMK	Liberty Media SiriusXM	/etf/ea/ETZCW.djhtm?c=1&etfid=LSXMK.US&back=RESP
+SCI	Service Corp International	/etf/ea/ETZCW.djhtm?c=1&etfid=SCI.US&back=RESP
+INCY	Incyte Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=RESP
+AOS	AO Smith Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=RESP
+SNA	Snap-On Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNA.US&back=RESP
+FAF	First American Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FAF.US&back=RESP
+DBX	Dropbox Inc-Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=RESP
+THC	Tenet Healthcare Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=THC.US&back=RESP
+MOH	Molina Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=RESP
+JKHY	Jack Henry & Associates Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=RESP
+SWX	Southwest Gas Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWX.US&back=RESP
+CNA	CNA Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNA.US&back=RESP
+SNV	Synovus Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV.US&back=RESP
+AFG	American Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=RESP
+CINF	Cincinnati Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=RESP
+EHC	Encompass Health Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EHC.US&back=RESP
+PPC	Pilgrim's Pride Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=RESP
+Y	Alleghany Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=Y.US&back=RESP
+X	United States Steel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=RESP
+UTHR	United Therapeutics Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=RESP
+GDDY	GoDaddy Inc - Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GDDY.US&back=RESP
+RYN	Rayonier Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=RESP
+WLK	Westlake Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=RESP
+EXPE	Expedia Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=RESP
+FNF	Fidelity National Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=RESP
+AN	Autonation Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=RESP
+TFX	Teleflex Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=RESP
+NVST	Envista Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NVST.US&back=RESP
+HALO	Halozyme Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HALO.US&back=RESP
+MKL	Markel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=RESP
+ACHC	Acadia Healthcare Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHC.US&back=RESP
+KNX	Knight-Swift Transportation	/etf/ea/ETZCW.djhtm?c=1&etfid=KNX.US&back=RESP
+VLY	Valley National Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=VLY.US&back=RESP
+DDS	Dillard's Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DDS.US&back=RESP
+RLI	RLI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RLI.US&back=RESP
+NXST	Nexstar Media Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=RESP
+EXEL	Exelixis Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=RESP
+UHS	Universal Health Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=RESP
+LSTR	Landstar System Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LSTR.US&back=RESP
+HLI	Houlihan Lokey Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLI.US&back=RESP
+OHI	Omega Healthcare Investors Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OHI.US&back=RESP
+REYN	Reynolds Consumer Products Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REYN.US&back=RESP
+ORI	Old Republic International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=RESP
+CACC	Credit Acceptance Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CACC.US&back=RESP
+CHE	Chemed Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=RESP
+EHAB	Enhabit Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EHAB.US&back=RESP

@@ -1,0 +1,209 @@
+XT
+CF	CF INDUSTRIES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=XT
+	SOCIEDAD QUIMICA Y MINERA DE CHILE	
+	MANDIANT INC	
+IONS	IONIS PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=XT
+ENPH	ENPHASE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=XT
+FSLR	FIRST SOLAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=XT
+	SUBSEASA	
+	CITRIX SYSTEMS INC	
+JAZZ	JAZZ PHARMACEUTICALS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JAZZ.US&back=XT
+LLY	ELI LILLY	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=XT
+BMY	BRISTOL MYERS SQUIBB	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=XT
+ALNY	ALNYLAM PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALNY.US&back=XT
+MRK	MERCK & CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=XT
+	ASTRAZENECA PLC	
+LTHM	LIVENT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LTHM.US&back=XT
+ABBV	ABBVIE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=XT
+	WISETECHGLOBAL PTY LTD	
+EXEL	EXELIXIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=XT
+PANW	PALO ALTO NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=XT
+IBM	INTERNATIONAL BUSINESS MACHINES CO	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=XT
+INCY	INCYTE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=XT
+SGEN	SEAGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=XT
+4502.JP&back=XT	TAKEDA PHARMACEUTICAL LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=4502.JP&back=XT
+ALB	ALBEMARLE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=XT
+BMRN	BIOMARIN PHARMACEUTICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BMRN.US&back=XT
+VMW	VMWARE CLASS A INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=XT
+	NOVARTIS AG	
+HUBB	HUBBELL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=XT
+BR	BROADRIDGE FINANCIAL SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=XT
+JNJ	JOHNSON & JOHNSON	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=XT
+PCTY	PAYLOCITY HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PCTY.US&back=XT
+9888.HK&back=XT	BAIDU CLASS A INC	/etf/ea/ETZCW.djhtm?c=1&etfid=9888.HK&back=XT
+ANET	ARISTA NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=XT
+PTC	PTC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=XT
+2317.TW&back=XT	HON HAI PRECISION INDUSTRY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=2317.TW&back=XT
+SNPS	SYNOPSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=XT
+CDNS	CADENCE DESIGN SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=XT
+NLOK	NORTONLIFELOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=XT
+SHLS	SHOALS TECHNOLOGIES GROUP INC CLAS	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLS.US&back=XT
+	TECHNOLOGY ONE LTD	
+MANH	MANHATTAN ASSOCIATES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MANH.US&back=XT
+GILD	GILEAD SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=XT
+AAPL	APPLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=XT
+SEIC	SEI INVESTMENTS	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=XT
+	TOMTOM NV	
+6324.JP&back=XT	HARMONIC DRIVE SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=6324.JP&back=XT
+REGN	REGENERON PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=XT
+JNPR	JUNIPER NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=XT
+HPE	HEWLETT PACKARD ENTERPRISE	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=XT
+6762.JP&back=XT	TDK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6762.JP&back=XT
+CRWD	CROWDSTRIKE HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=XT
+	DESCARTES SYSTEMS GROUP INC	
+DBX	DROPBOX INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=XT
+	SANOFI SA	
+	IRESS LTD	
+MYGN	MYRIAD GENETICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MYGN.US&back=XT
+	NOKIA	
+TMO	THERMO FISHER SCIENTIFIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=XT
+	TATA CONSULTANCY SERVICES LTD	
+AVGO	BROADCOM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=XT
+688180.SH&back=XT	SHANGHAI JUNSHI BIOSCIENCES LTD A	/etf/ea/ETZCW.djhtm?c=1&etfid=688180.SH&back=XT
+TXN	TEXAS INSTRUMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=XT
+ORCL	ORACLE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=XT
+SEDG	SOLAREDGE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=XT
+9984.JP&back=XT	SOFTBANK GROUP CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=9984.JP&back=XT
+BIIB	BIOGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=XT
+	NEXTDC LTD	
+	QIAGEN NV	
+LUMN	LUMEN TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=XT
+CRSP	CRISPR THERAPEUTICS AG	/etf/ea/ETZCW.djhtm?c=1&etfid=CRSP.US&back=XT
+A	AGILENT TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=XT
+KLAC	KLA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=XT
+	INFOSYS LTD	
+ADI	ANALOG DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=XT
+AKAM	AKAMAI TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=XT
+	NETWEALTH GROUP LTD	
+	ROCHE HOLDING PAR AG	
+TEL	TE CONNECTIVITY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=XT
+	KEPPEL DC REIT	
+	SAGE GROUP PLC	
+CSCO	CISCO SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=XT
+MSFT	MICROSOFT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=XT
+CTSH	COGNIZANT TECHNOLOGY SOLUTIONS COR	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=XT
+9988.HK&back=XT	ALIBABA GROUP HOLDING LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=9988.HK&back=XT
+2330.TW&back=XT	TAIWAN SEMICONDUCTOR MANUFACTURING	/etf/ea/ETZCW.djhtm?c=1&etfid=2330.TW&back=XT
+SABR	SABRE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SABR.US&back=XT
+0916.HK&back=XT	CHINA LONGYUAN POWER GROUP CORP LT	/etf/ea/ETZCW.djhtm?c=1&etfid=0916.HK&back=XT
+TSLA	TESLA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=XT
+	ORSTED	
+ACN	ACCENTURE PLC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=XT
+4519.JP&back=XT	CHUGAI PHARMACEUTICAL LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=4519.JP&back=XT
+	VESTAS WIND SYSTEMS	
+1530.HK&back=XT	3SBIO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=1530.HK&back=XT
+6954.JP&back=XT	FANUC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6954.JP&back=XT
+EW	EDWARDS LIFESCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=XT
+FTNT	FORTINET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=XT
+SPLK	SPLUNK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=XT
+	CAPGEMINI	
+	ABB LTD	
+MCHP	MICROCHIP TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=XT
+	GLAXOSMITHKLINE	
+006400.KS&back=XT	SAMSUNG SDI LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=006400.KS&back=XT
+ZEN	ZENDESK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZEN.US&back=XT
+ADSK	AUTODESK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=XT
+	SIEMENS GAMESA RENEWABLE ENERGY SA	
+GOOGL	ALPHABET INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=XT
+	ERICSSON B	
+QCOM	QUALCOMM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=XT
+6902.JP&back=XT	DENSO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6902.JP&back=XT
+AMZN	AMAZON COM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=XT
+0700.HK&back=XT	TENCENT HOLDINGS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=0700.HK&back=XT
+NXPI	NXP SEMICONDUCTORS NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=XT
+BLK	BLACKROCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=XT
+	NICE LTD	
+	STMICROELECTRONICS NV	
+SSNC	SS AND C TECHNOLOGIES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=XT
+6981.JP&back=XT	MURATA MANUFACTURING LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=6981.JP&back=XT
+DD	DUPONT DE NEMOURS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=XT
+TYL	TYLER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=XT
+CCOI	COGENT COMMUNICATIONS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CCOI.US&back=XT
+MELI	MERCADOLIBRE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MELI.US&back=XT
+000660.KS&back=XT	SK HYNIX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=000660.KS&back=XT
+BEAM	BEAM THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BEAM.US&back=XT
+	MERCK	
+FFIV	F5 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=XT
+	NANOSONICS LTD	
+2269.HK&back=XT	WUXI BIOLOGICS CAYMAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=2269.HK&back=XT
+ST	SENSATA TECHNOLOGIES HOLDING PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ST.US&back=XT
+BLKB	BLACKBAUD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLKB.US&back=XT
+1798.HK&back=XT	CHINA DATANG CORPORATION RENEWABLE	/etf/ea/ETZCW.djhtm?c=1&etfid=1798.HK&back=XT
+0836.HK&back=XT	CHINA RESOURCES POWER LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=0836.HK&back=XT
+6506.JP&back=XT	YASKAWA ELECTRIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6506.JP&back=XT
+MU	MICRON TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=XT
+NOW	SERVICENOW INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=XT
+	DASSAULT SYSTEMES	
+INTU	INTUIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=XT
+	BLACKBERRY LTD	
+1548.HK&back=XT	GENSCRIPT BIOTECH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=1548.HK&back=XT
+	SAP	
+	WIPRO LTD	
+	ASM INTERNATIONAL NV	
+SWKS	SKYWORKS SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=XT
+ANSS	ANSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=XT
+INTC	INTEL CORPORATION CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=XT
+GWRE	GUIDEWIRE SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GWRE.US&back=XT
+LRCX	LAM RESEARCH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=XT
+ENV	ENVESTNET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENV.US&back=XT
+	ASML HOLDING NV	
+MDB	MONGODB INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDB.US&back=XT
+ISRG	INTUITIVE SURGICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=XT
+	WARTSILA	
+AMAT	APPLIED MATERIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=XT
+AZPN	ASPEN TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZPN.US&back=XT
+DNLI	DENALI THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DNLI.US&back=XT
+CRM	SALESFORCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=XT
+	SPIRAX-SARCO ENGINEERING PLC	
+AMD	ADVANCED MICRO DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=XT
+8035.JP&back=XT	TOKYO ELECTRON LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=8035.JP&back=XT
+6594.JP&back=XT	NIDEC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6594.JP&back=XT
+2454.TW&back=XT	MEDIATEK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=2454.TW&back=XT
+QRVO	QORVO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=XT
+6268.JP&back=XT	NABTESCO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6268.JP&back=XT
+6976.JP&back=XT	TAIYO YUDEN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=6976.JP&back=XT
+	ADYEN NV	
+APTV	APTIV PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=XT
+ILMN	ILLUMINA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=XT
+DISH	DISH NETWORK CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DISH.US&back=XT
+	INFINEON TECHNOLOGIES AG	
+NTLA	INTELLIA THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTLA.US&back=XT
+GH	GUARDANT HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GH.US&back=XT
+ZS	ZSCALER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=XT
+1801.HK&back=XT	INNOVENT BIOLOGICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=1801.HK&back=XT
+META	META PLATFORMS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=XT
+SNOW	SNOWFLAKE CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=XT
+RKT	ROCKET COMPANIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RKT.US&back=XT
+4755.JP&back=XT	RAKUTEN GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=4755.JP&back=XT
+PYPL	PAYPAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=XT
+NVDA	NVIDIA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=XT
+MRNA	MODERNA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=XT
+MQ	MARQETA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MQ.US&back=XT
+SYNA	SYNAPTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNA.US&back=XT
+PLTR	PALANTIR TECHNOLOGIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTR.US&back=XT
+OKTA	OKTA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=XT
+	OCADO GROUP PLC	
+SQ	BLOCK INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=XT
+SOFI	SOFI TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SOFI.US&back=XT
+COUP	COUPA SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COUP.US&back=XT
+	MEGAPORT LTD	
+TDOC	TELADOC HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=XT
+PEGA	PEGASYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEGA.US&back=XT
+	USD CASH	
+	JPY CASH	
+TWLO	TWILIO INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TWLO.US&back=XT
+	BAUSCH HEALTH COMPANIES INC	
+COIN	COINBASE GLOBAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=XT
+FSLY	FASTLY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLY.US&back=XT
+	EUR CASH	
+	SHOPIFY SUBORDINATE VOTING INC CLA	
+	TWD CASH	
+RNG	RINGCENTRAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RNG.US&back=XT
+3105.TW&back=XT	WIN SEMICONDUCTORS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=3105.TW&back=XT
+IMAB	I MAB ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=IMAB.US&back=XT
+	AUD CASH	
+	CNH CASH	
+	DKK CASH	
+	CLP CASH	
+	KRW CASH	
+	SGD CASH	

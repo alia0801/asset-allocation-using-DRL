@@ -1,0 +1,1941 @@
+ITM
+	State Of California 4 03/01/2036	
+	State Of Maryland 5 03/15/2031	
+	New York City Transitional Finance Auth 4 11/01/2030	
+	State Of New Jersey 5 06/01/2038	
+	State Of California 5 10/01/2029	
+	State Of California 5 04/01/2032	
+	City Of Houston Tx Combined Utility Sys 5 11/15/2033	
+	Black Belt Energy Gas District 4 06/01/2051	
+	New York City Transitional Finance Auth 5 05/01/2037	
+	New York State Urban Development Corp 5 03/15/2036	
+	New York State Urban Development Corp 5 03/15/2032	
+	State Of California 5 10/01/2031	
+	Santa Clara County Financing Authority 5 05/01/2034	
+	Other/Cash	
+	New York State Dormitory Authority 5 03/15/2034	
+	Kansas Development Finance Authority 5 11/15/2054	
+	Los Angeles Unified School District/Ca 5 07/01/2029	
+	New York State Dormitory Authority 5 03/15/2036	
+	New Jersey Educational Facilities Autho 2 03/01/2038	
+	State Of Illinois 5 11/01/2029	
+	State Of Illinois 5 11/01/2028	
+	Tennessee Energy Acquisition Corp 5 05/01/2052	
+	Texas Water Development Board 5 10/15/2032	
+	Washington Metropolitan Area Transit Au 4 07/15/2034	
+	Port Authority Of New York & New Jersey 4 07/15/2037	
+	State Of California 5 10/01/2031	
+	State Of California 5 04/01/2035	
+	County Of Miami-Dade Fl Water & Sewer S 5 10/01/2032	
+	Kentucky State Property & Building Comm 5 05/01/2034	
+	State Of California 4 11/01/2034	
+	State Of Maryland 5 03/15/2032	
+	Louisiana Local Government Environmenta 3.5 11/01/2032	
+	Massachusetts Development Finance Agenc 5 07/15/2033	
+	New York State Dormitory Authority 5 03/15/2030	
+	California Community Choice Financing A 4 02/01/2052	
+	Central Plains Energy Project 5 09/01/2034	
+	Charlotte-Mecklenburg Hospital Authorit 5 01/15/2049	
+	Georgia State Road & Tollway Authority 4 07/15/2035	
+	New York City Transitional Finance Auth 5 11/01/2036	
+	Hudson Yards Infrastructure Corp 5 02/15/2030	
+	State Of Georgia 5 07/01/2030	
+	South Carolina Public Service Authority 5 12/01/2032	
+	Palm Springs Unified School District 1.25 08/01/2030	
+	New Jersey Turnpike Authority 5 01/01/2034	
+	County Of Shelby Tn 4 04/01/2033	
+	Commonwealth Of Massachusetts 5 05/01/2031	
+	Buckeye Tobacco Settlement Financing Au 5 06/01/2034	
+	Denver City & County School District No 4 12/01/2037	
+	Georgia State Road & Tollway Authority 5 06/01/2031	
+	New York City Industrial Development Ag 5 01/01/2031	
+	Michigan Finance Authority 5 11/01/2029	
+	State Of California 5 04/01/2030	
+	State Of California 5 11/01/2031	
+	State Of California 5 08/01/2036	
+	Utility Debt Securitization Authority 5 12/15/2036	
+	Washington Convention & Sports Authorit 5 10/01/2030	
+	State Of California 5 11/01/2037	
+	State Of California 5 11/01/2028	
+	State Of California 4 09/01/2032	
+	Port Authority Of New York & New Jersey 5 11/15/2033	
+	State Of Georgia 5 08/01/2029	
+	State Of Connecticut Special Tax Revenu 5 05/01/2037	
+	State Of Illinois Sales Tax Revenue 3 06/15/2032	
+	State Of North Carolina 5 03/01/2030	
+	New Jersey Transportation Trust Fund Au 4 12/15/2031	
+	New York State Dormitory Authority 4 03/15/2038	
+	Illinois Finance Authority 5 07/01/2036	
+	Illinois State Toll Highway Authority 5 01/01/2031	
+	Louisville/Jefferson County Metropolita 4 10/01/2036	
+	County Of Prince George's Md 5 07/15/2036	
+	Board Of Regents Of The University Of T 5 08/15/2030	
+	Brevard County Health Facilities Author 5 04/01/2039	
+	District Of Columbia 5 06/01/2034	
+	County Of Fulton Ga Water & Sewerage Re 3 01/01/2037	
+	Metropolitan Transportation Authority 5 11/15/2033	
+	New York State Dormitory Authority 3 03/15/2038	
+	New York State Dormitory Authority 5 03/15/2034	
+	State Of New Jersey 2 06/01/2030	
+	Port Authority Of New York & New Jersey 4 07/15/2036	
+	State Of California 5 08/01/2029	
+	State Of California 5 10/01/2030	
+	Salt River Project Agricultural Improve 5 01/01/2032	
+	Tobacco Settlement Financing Corp 5 06/01/2032	
+	Virginia College Building Authority 3 02/01/2036	
+	Public Finance Authority 4 10/01/2041	
+	Ohio State University/The 5 12/01/2029	
+	State Of Washington 5 02/01/2035	
+	State Of Hawaii State Highway Fund 5 01/01/2036	
+	New York State Dormitory Authority 5 02/15/2037	
+	New York City Transitional Finance Auth 5 11/01/2030	
+	Kern High School District 2 08/01/2032	
+	Indiana Finance Authority 4 10/01/2035	
+	District Of Columbia 5 12/01/2034	
+	California Statewide Communities Develo 1.75 09/01/2029	
+	California Statewide Communities Develo 5 05/01/2033	
+	Central Puget Sound Regional Transit Au 5 11/01/2033	
+	California Health Facilities Financing 5 06/01/2041	
+	Board Of Regents Of The University Of T 5 08/15/2029	
+	Alabama Public School And College Autho 5 11/01/2034	
+	City Of New York Ny 5 08/01/2030	
+	East Side Union High School District 3 08/01/2035	
+	Georgia State Road & Tollway Authority 5 06/01/2032	
+	Commonwealth Of Massachusetts 5 09/01/2028	
+	Connecticut State Health & Educational 5 07/01/2032	
+	Massachusetts Water Resources Authority 5 08/01/2031	
+	Massachusetts Water Resources Authority 5.25 08/01/2030	
+	Los Angeles County Metropolitan Transpo 5 07/01/2038	
+	New York City Industrial Development Ag 5 03/01/2030	
+	New York State Dormitory Authority 5 03/15/2029	
+	New York State Dormitory Authority 5 03/15/2034	
+	New York State Thruway Authority 5 03/15/2034	
+	State Of Illinois 5 05/01/2035	
+	State Of Colorado 5 12/15/2034	
+	State Of New Jersey 2 06/01/2034	
+	Palm Springs Unified School District 1.5 08/01/2033	
+	Palm Springs Unified School District 1.75 08/01/2034	
+	Pittsburgh Water & Sewer Authority 5 09/01/2032	
+	Pittsburgh Water & Sewer Authority 5 09/01/2033	
+	San Diego County Regional Airport Autho 5 07/01/2034	
+	State Of California 5 10/01/2030	
+	State Of California 5 12/01/2036	
+	Texas Municipal Gas Acquisition & Suppl 5 12/15/2029	
+	Weld County School District No 6 Greele 5 12/01/2036	
+	Washington Metropolitan Area Transit Au 5 07/15/2037	
+	Texas Water Development Board 4 10/15/2031	
+	Virginia College Building Authority 5 02/01/2035	
+	Washington Health Care Facilities Autho 5 08/15/2037	
+	State Of California 4 03/01/2029	
+	State Of California 4 10/01/2034	
+	San Diego County Water Authority 4 05/01/2035	
+	Regional Transportation District Sales 5 11/01/2034	
+	Palm Beach County School District 5 08/01/2029	
+	Ohio Water Development Authority Water 5 12/01/2037	
+	State Of New Jersey 2 06/01/2036	
+	State Of Michigan Trunk Line Revenue 5 11/15/2035	
+	State Of Minnesota 5 08/01/2036	
+	State Of Minnesota 5 08/01/2037	
+	State Of Connecticut 3 01/15/2032	
+	North Texas Tollway Authority 4 01/01/2038	
+	New York State Dormitory Authority 5 03/15/2035	
+	New York State Dormitory Authority 5 03/15/2035	
+	New York State Dormitory Authority 5 02/15/2031	
+	New York State Dormitory Authority 5 02/15/2033	
+	New York City Municipal Water Finance A 5 06/15/2031	
+	New York City Municipal Water Finance A 5.25 06/15/2037	
+	New Jersey Turnpike Authority 4 01/01/2033	
+	Maryland State Transportation Authority 5 07/01/2030	
+	Commonwealth Of Pennsylvania 4 05/15/2032	
+	Commonwealth Of Massachusetts 5 07/01/2038	
+	Frisco Independent School District 5 08/15/2036	
+	Geisinger Authority 5 02/15/2032	
+	Geisinger Authority 5 04/01/2043	
+	Energy Northwest 5 07/01/2033	
+	County Of Miami-Dade Fl 5 10/01/2034	
+	City Of New York Ny 5 04/01/2034	
+	City Of New York Ny 0 09/01/2037	
+	City Of Chicago Il 5 01/01/2030	
+	City & County Of Honolulu Hi 5 03/01/2031	
+	Buckeye Tobacco Settlement Financing Au 5 06/01/2033	
+	California State Public Works Board 5 10/01/2028	
+	California State Public Works Board 4 05/01/2037	
+	California Statewide Communities Develo 5 04/01/2045	
+	Chicago O'Hare International Airport 4 01/01/2037	
+	Alabama Public School And College Autho 4 11/01/2036	
+	Alabama Public School And College Autho 5 11/01/2033	
+	Board Of Water Commissioners City & Cou 5 12/15/2029	
+	City Of Houston Tx 4 03/01/2037	
+	City Of New York Ny 4 04/01/2036	
+	City Of New York Ny 5 08/01/2030	
+	City Of Portland Or Sewer System Revenu 3 03/01/2037	
+	Deschutes Public Library District 4 06/01/2038	
+	Cypress-Fairbanks Independent School Di 5 02/15/2031	
+	Dallas Area Rapid Transit 5 12/01/2033	
+	Florida Development Finance Corp 4 11/15/2035	
+	Commonwealth Of Massachusetts 5 07/01/2034	
+	Commonwealth Of Massachusetts 4 11/01/2037	
+	County Of Fairfax Va 5 10/01/2032	
+	County Of Arlington Va 4 06/15/2035	
+	County Of Baltimore Md 4 03/01/2034	
+	County Of Butler Oh 5 11/15/2032	
+	Metropolitan Transportation Authority 4 11/15/2032	
+	Los Angeles Unified School District/Ca 4 07/01/2036	
+	Louisville And Jefferson County Metropo 4 05/15/2036	
+	Los Angeles Unified School District/Ca 5 07/01/2030	
+	Illinois Municipal Electric Agency 4 02/01/2035	
+	Indianapolis Local Public Improvement B 5 02/01/2031	
+	Intermountain Power Agency 4 07/01/2036	
+	New York City Housing Development Corp 3.7 11/15/2034	
+	New York State Dormitory Authority 4 03/15/2037	
+	New York State Dormitory Authority 5 08/01/2031	
+	North Texas Tollway Authority 4 01/01/2036	
+	North Texas Tollway Authority 4 01/01/2033	
+	State Of Connecticut Special Tax Revenu 5 05/01/2031	
+	State Of Florida 3 06/01/2030	
+	State Of Maryland Department Of Transpo 2.125 10/01/2031	
+	State Of Maryland 3.25 08/01/2030	
+	Tennergy Corp/Tn 4 12/01/2051	
+	Ohio Turnpike & Infrastructure Commissi 5 02/15/2030	
+	Palm Springs Unified School District 1.5 08/01/2032	
+	San Francisco Unified School District 4 06/15/2034	
+	Salem-Keizer School District No 24j 4 06/15/2038	
+	State Of California 5 03/01/2035	
+	State Of California 5 04/01/2029	
+	State Of California 4 03/01/2037	
+	State Of California 3 10/01/2033	
+	State Of California 5 10/01/2028	
+	Virginia Commonwealth Transportation Bo 4 05/15/2031	
+	Texas Water Development Board 4 10/15/2037	
+	Washington Health Care Facilities Autho 4 10/01/2034	
+	State Of California 5 11/01/2034	
+	San Diego County Regional Airport Autho 5 07/01/2032	
+	State Public School Building Authority 5 06/01/2032	
+	State Of Oregon Department Of Transport 5 11/15/2036	
+	State Of Connecticut 5 09/15/2030	
+	State Of Colorado 4 12/15/2036	
+	State Of Connecticut 4 01/15/2031	
+	New York State Urban Development Corp 5 03/15/2032	
+	New Jersey Turnpike Authority 5 01/01/2030	
+	New York City Transitional Finance Auth 5 07/15/2033	
+	Hudson Yards Infrastructure Corp 5 02/15/2032	
+	Los Angeles Department Of Water & Power 5 07/01/2035	
+	Metropolitan Transportation Authority 5 11/15/2033	
+	County Of Jefferson Al 4 09/15/2036	
+	California Statewide Communities Develo 5 04/01/2038	
+	California Health Facilities Financing 5 11/15/2035	
+	Board Of Water Commissioners City & Cou 5 12/15/2033	
+	Alabama Public School And College Autho 5 11/01/2032	
+	City Of Richmond Va Public Utility Reve 5 01/15/2030	
+	City Of Philadelphia Pa Airport Revenue 5 07/01/2029	
+	City Of New York Ny 5 03/01/2037	
+	City Of New York Ny 5.25 03/01/2031	
+	City Of Philadelphia Pa 5 02/01/2037	
+	County Of Miami-Dade Fl 4 07/01/2036	
+	County Of Suffolk Ny 4 10/15/2028	
+	County Of Suffolk Ny 5 09/01/2035	
+	Curators Of The University Of Missouri/ 5 11/01/2030	
+	Metropolitan Transportation Authority 5 11/15/2032	
+	Metropolitan Transportation Authority 5 11/15/2030	
+	Metropolitan Transportation Authority 4 11/15/2035	
+	Massachusetts Water Resources Authority 5 08/01/2037	
+	Los Angeles Department Of Water & Power 5 07/01/2036	
+	Los Angeles Unified School District/Ca 3 07/01/2035	
+	Los Angeles Unified School District/Ca 4 07/01/2033	
+	New York City Transitional Finance Auth 5 02/01/2031	
+	New York City Transitional Finance Auth 5 05/01/2033	
+	New York City Transitional Finance Auth 3 11/01/2037	
+	New York City Transitional Finance Auth 4 05/01/2039	
+	New Jersey Health Care Facilities Finan 4 07/01/2032	
+	Nassau County Interim Finance Authority 5 11/15/2035	
+	New York State Urban Development Corp 5 03/15/2037	
+	New York State Thruway Authority 5 01/01/2032	
+	New York State Dormitory Authority 5 02/15/2030	
+	State Of Connecticut Special Tax Revenu 5 05/01/2035	
+	State Of Connecticut Special Tax Revenu 5 10/01/2028	
+	State Of Illinois Sales Tax Revenue 5 06/15/2031	
+	State Of Maryland 5 08/01/2033	
+	State Of Washington 5 08/01/2038	
+	State Of Wisconsin 4 05/01/2038	
+	Pittsburgh Water & Sewer Authority 5 09/01/2031	
+	Washington Health Care Facilities Autho 4 10/01/2042	
+	Utility Debt Securitization Authority 5 12/15/2033	
+	University Of Houston 5 02/15/2035	
+	Triborough Bridge & Tunnel Authority 5 11/15/2031	
+	University Of California 5 05/15/2036	
+	West Virginia Parkways Authority 5 06/01/2035	
+	West Virginia Parkways Authority 5 06/01/2036	
+	West Palm Beach Community Redevelopment 5 03/01/2032	
+	Wisconsin Health & Educational Faciliti 4 11/15/2035	
+	Washington State Housing Finance Commis 3.5 12/20/2035	
+	Washington Metropolitan Area Transit Au 5 07/15/2037	
+	Triborough Bridge & Tunnel Authority 5 11/15/2030	
+	Texas Municipal Gas Acquisition & Suppl 5 12/15/2031	
+	University Of Utah/The 5 08/01/2038	
+	Virginia College Building Authority 4 02/01/2036	
+	Pennsylvania Housing Finance Agency 3.45 10/01/2032	
+	San Diego County Regional Airport Autho 5 07/01/2037	
+	South Carolina Public Service Authority 5 12/01/2037	
+	South Carolina Transportation Infrastru 5 10/01/2029	
+	Santa Clara County Financing Authority 4 05/15/2032	
+	Santa Clara Unified School District 3 07/01/2035	
+	Springfield School District No R-12 4 03/01/2035	
+	State Of California 4 09/01/2034	
+	State Of California 3.125 04/01/2035	
+	State Of Utah 5 07/01/2029	
+	State Of Washington 5 08/01/2030	
+	State Of Ohio 5 12/15/2031	
+	State Of Maryland 5 03/15/2029	
+	State Of Maryland Department Of Transpo 2.125 10/01/2036	
+	State Of Connecticut Special Tax Revenu 4 05/01/2038	
+	New York State Dormitory Authority 5 02/15/2029	
+	New York State Dormitory Authority 4 03/15/2038	
+	New York State Dormitory Authority 3.25 03/15/2035	
+	New York State Dormitory Authority 4 02/15/2037	
+	New York State Dormitory Authority 5 10/01/2030	
+	New York State Thruway Authority 5 01/01/2033	
+	New York State Dormitory Authority 5.25 03/15/2038	
+	New York State Environmental Facilities 4 06/15/2037	
+	Northern Illinois Municipal Power Agenc 4 12/01/2036	
+	New Jersey Transportation Trust Fund Au 5 06/15/2029	
+	New Jersey Transportation Trust Fund Au 5 12/15/2033	
+	New Jersey Educational Facilities Autho 2 03/01/2037	
+	New York City Industrial Development Ag 4 03/01/2032	
+	New York City Housing Development Corp 2.1 11/01/2036	
+	Los Angeles Unified School District/Ca 4 07/01/2037	
+	Los Angeles Unified School District/Ca 5 07/01/2035	
+	Massachusetts Development Finance Agenc 4 07/01/2035	
+	Massachusetts Development Finance Agenc 5 07/01/2038	
+	Metropolitan Transportation Authority 5 11/15/2031	
+	Hudson Yards Infrastructure Corp 5 02/15/2031	
+	Illinois Finance Authority 5 08/15/2032	
+	Illinois Finance Authority 5 07/01/2034	
+	Illinois State Toll Highway Authority 5 01/01/2037	
+	Kentucky State Property & Building Comm 5 04/01/2031	
+	Cypress-Fairbanks Independent School Di 4 02/15/2037	
+	County Of Miami-Dade Fl Water & Sewer S 4 10/01/2037	
+	Frisco Independent School District 4 02/15/2032	
+	Energy Northwest 5 07/01/2036	
+	County Of Hudson Nj 2 11/15/2034	
+	City Of New York Ny 5 04/01/2039	
+	City Of Houston Tx Combined Utility Sys 4 11/15/2036	
+	City Of Los Angeles Department Of Airpo 5 05/15/2037	
+	City Of Chicago Il 5 01/01/2035	
+	City Of Atlanta Ga Water & Wastewater R 4 11/01/2038	
+	City Of Chicago Il Waterworks Revenue 5 11/01/2029	
+	City Of Columbus Oh 5 04/01/2031	
+	Benton & Linn Counties Consolidated Sch 5 06/15/2035	
+	California State Public Works Board 4 05/01/2038	
+	California Statewide Communities Develo 4 04/01/2038	
+	Central Plains Energy Project 5 09/01/2032	
+	Bexar County Hospital District 5 02/15/2030	
+	City Of Chicago Il 5 01/01/2036	
+	City Of Memphis Tn 5 05/01/2032	
+	City Of Houston Tx 5 03/01/2030	
+	City Of New York Ny 5 08/01/2033	
+	City Of New York Ny 5 10/01/2032	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2034	
+	County Of Fulton Ga Water & Sewerage Re 5 01/01/2032	
+	County Of Allen Oh Hospital Facilities 5 12/01/2029	
+	County Of Clark Nv Passenger Facility C 5 07/01/2033	
+	Clark County School District 3 06/15/2038	
+	Frisco Independent School District 4 02/15/2036	
+	Foothill-De Anza Community College Dist 3 08/01/2038	
+	County Of Prince George's Md 5 07/15/2029	
+	Cypress-Fairbanks Independent School Di 4 02/15/2038	
+	County Of Wake Nc 3 03/01/2035	
+	Jefferson County School District R-1 5 12/15/2030	
+	Indiana Finance Authority 5 02/01/2036	
+	Kern High School District 2 08/01/2031	
+	Kitsap County School District No 401 Ce 4 12/01/2033	
+	Illinois Finance Authority 5 08/15/2034	
+	Harris County Toll Road Authority/The 5 08/15/2030	
+	Metropolitan Transportation Authority 5 11/15/2033	
+	Metropolitan Transportation Authority 5 11/15/2028	
+	Loudoun County Economic Development Aut 3 12/01/2036	
+	Lower Colorado River Authority 5 05/15/2037	
+	Los Angeles Department Of Water & Power 5 07/01/2034	
+	New Memphis Arena Public Building Autho 0 04/01/2038	
+	New York City Transitional Finance Auth 4 07/15/2036	
+	New York City Transitional Finance Auth 5 02/01/2030	
+	New Jersey Transportation Trust Fund Au 5 06/15/2038	
+	New Jersey Health Care Facilities Finan 5.25 07/01/2035	
+	New Jersey Economic Development Authori 4 06/15/2029	
+	New Jersey Economic Development Authori 5 06/15/2036	
+	Michigan State Housing Development Auth 3.1 12/01/2031	
+	Northern Illinois Municipal Power Agenc 4 12/01/2032	
+	New York State Environmental Facilities 5 06/15/2036	
+	New York Transportation Development Cor 5 12/01/2030	
+	New York State Dormitory Authority 5 10/01/2032	
+	New York State Dormitory Authority 5 07/01/2034	
+	New York State Dormitory Authority 5 03/15/2038	
+	State Of Georgia 5 02/01/2033	
+	State Of Maryland 4 03/15/2030	
+	State Of Illinois 5.25 12/01/2030	
+	State Of Hawaii 5 01/01/2029	
+	State Of Hawaii 5 01/01/2031	
+	State Of North Carolina 5 06/01/2030	
+	State Of North Carolina 5 06/01/2031	
+	State Of Maryland 5 08/01/2033	
+	State Of Washington 5 08/01/2037	
+	State Of California 5 03/01/2034	
+	State Of California 5 08/01/2029	
+	Sales Tax Securitization Corp 5 01/01/2030	
+	Ohio Water Development Authority 5 12/01/2037	
+	Omaha Public Power District 5 02/01/2031	
+	University Of Massachusetts Building Au 5 05/01/2034	
+	Texas Private Activity Bond Surface Tra 4 06/30/2036	
+	Triborough Bridge & Tunnel Authority 5 11/15/2033	
+	Tri-County Metropolitan Transportation 5 09/01/2038	
+	University Of California 5 05/15/2036	
+	Washington Metropolitan Area Transit Au 5 07/01/2033	
+	Windy Gap Firming Project Water Activit 5 07/15/2035	
+	Wisconsin Health & Educational Faciliti 5 08/15/2029	
+	Tsasc Inc/Ny 5 06/01/2032	
+	Turlock Irrigation District 5 01/01/2036	
+	Tri-County Metropolitan Transportation 5 09/01/2037	
+	Triborough Bridge & Tunnel Authority 5 11/15/2031	
+	Triborough Bridge & Tunnel Authority 5 11/15/2032	
+	Triborough Bridge & Tunnel Authority 5 11/15/2029	
+	Texas Private Activity Bond Surface Tra 4 06/30/2037	
+	Texas Water Development Board 5 08/01/2030	
+	University Of Massachusetts Building Au 5 11/01/2030	
+	University Of Illinois 5 04/01/2030	
+	University Of Connecticut 5 04/15/2029	
+	University Of Minnesota 5 12/01/2031	
+	University Of North Carolina At Chapel 5 12/01/2037	
+	Utility Debt Securitization Authority 5 12/15/2030	
+	Virginia Public Building Authority 5 08/01/2033	
+	Virginia Public Building Authority 5 08/01/2035	
+	Ohio Water Development Authority Water 5 06/01/2033	
+	Northern Illinois Municipal Power Agenc 5 12/01/2030	
+	Polk County School District 5 10/01/2030	
+	Port Authority Of New York & New Jersey 5 07/15/2034	
+	Port Authority Of New York & New Jersey 5 07/15/2035	
+	Pennsylvania Turnpike Commission 5 12/01/2037	
+	Piedmont Municipal Power Agency 5 01/01/2032	
+	Regional Transportation District Sales 5 11/01/2028	
+	Port Authority Of Houston Of Harris Cou 5 10/01/2034	
+	Port Authority Of New York & New Jersey 5 11/15/2031	
+	Sports & Exhibition Authority Of Pittsb 5 02/01/2030	
+	State Of California 5 12/01/2028	
+	State Of California 5 11/01/2029	
+	State Of California 5 11/01/2030	
+	State Of California 5 11/01/2030	
+	State Of California 5 10/01/2029	
+	State Of California 5 10/01/2029	
+	State Of California 5 09/01/2029	
+	State Of Washington 5 08/01/2038	
+	State Of West Virginia 5 12/01/2031	
+	State Of Washington 5 08/01/2029	
+	State Of Washington 5 02/01/2029	
+	State Of Washington 5 02/01/2035	
+	State Of Washington 5 02/01/2036	
+	State Of Washington 5 02/01/2039	
+	State Of Washington 5 06/01/2031	
+	State Of Washington 5 06/01/2034	
+	State Of Washington 5 06/01/2036	
+	State Of Minnesota 5 08/01/2033	
+	State Of Minnesota 5 08/01/2036	
+	State Of Mississippi 5 10/01/2035	
+	State Of Mississippi Gaming Tax Revenue 5 10/15/2034	
+	State Of New Jersey 4 06/01/2032	
+	State Of New Jersey 5 06/01/2029	
+	State Of North Carolina 5 03/01/2032	
+	State Of North Carolina 5 05/01/2031	
+	State Of Oregon Department Of Transport 5 11/15/2036	
+	State Of Ohio 5 05/01/2033	
+	State Of Hawaii 5 10/01/2031	
+	State Of Illinois 5 11/01/2030	
+	State Of Louisiana 5 03/01/2038	
+	State Of Maryland 5 03/15/2029	
+	State Of Maryland 5 08/01/2035	
+	State Of Illinois Sales Tax Revenue 5 06/15/2030	
+	State Of Maryland 5 08/01/2030	
+	State Of Delaware 5 01/01/2031	
+	State Of Connecticut Clean Water Fund - 5 05/01/2033	
+	State Of Connecticut 4 06/15/2036	
+	State Of Connecticut 5 04/15/2029	
+	State Of Connecticut 5 04/15/2037	
+	New York State Dormitory Authority 5 03/15/2033	
+	New York State Dormitory Authority 4 03/15/2037	
+	New York State Environmental Facilities 5 06/15/2033	
+	New York State Urban Development Corp 5 03/15/2035	
+	North Carolina Municipal Power Agency N 5 01/01/2032	
+	Multnomah County School District No 1 P 3 06/15/2033	
+	Municipal Improvement Corp Of Los Angel 5 11/01/2028	
+	New Jersey Economic Development Authori 5 11/01/2033	
+	New Jersey Transportation Trust Fund Au 5 12/15/2034	
+	New York City Transitional Finance Auth 4 08/01/2039	
+	New York City Transitional Finance Auth 5 07/15/2031	
+	New York City Transitional Finance Auth 5 07/15/2032	
+	New York City Transitional Finance Auth 5 07/15/2035	
+	New York City Transitional Finance Auth 5 08/01/2031	
+	New York City Transitional Finance Auth 5 08/01/2032	
+	New York City Transitional Finance Auth 5 11/01/2032	
+	New York City Transitional Finance Auth 5 11/01/2032	
+	New York City Transitional Finance Auth 5 08/01/2034	
+	New York City Transitional Finance Auth 3 07/15/2038	
+	New York City Municipal Water Finance A 5 06/15/2032	
+	New Jersey Turnpike Authority 5 01/01/2033	
+	Los Angeles Department Of Water & Power 5 07/01/2032	
+	Los Angeles Department Of Water & Power 5 07/01/2032	
+	Los Angeles County Metropolitan Transpo 5 06/01/2035	
+	Los Angeles Department Of Water & Power 5 07/01/2029	
+	Los Angeles County Metropolitan Transpo 5 07/01/2037	
+	Louisville/Jefferson County Metropolita 5 10/01/2047	
+	Lower Colorado River Authority 5 05/15/2030	
+	Lower Colorado River Authority 5 05/15/2032	
+	Maricopa County Pollution Control Corp 2.4 06/01/2035	
+	Maryland Stadium Authority 5 05/01/2033	
+	Louisiana Local Government Environmenta 2.5 04/01/2036	
+	Louisiana Public Facilities Authority 5 04/01/2036	
+	Louisiana Public Facilities Authority 5 04/01/2037	
+	Metropolitan Transportation Authority 5 11/15/2030	
+	Metropolitan Transportation Authority 5 11/15/2030	
+	Massachusetts Clean Water Trust/The 5 08/01/2034	
+	Massachusetts Transportation Trust Fund 5 01/01/2029	
+	Massachusetts Transportation Trust Fund 5 01/01/2032	
+	Metro/Or 5 06/01/2031	
+	Hillsboro School District No 1j 5 06/15/2031	
+	Great Lakes Water Authority Water Suppl 5 07/01/2033	
+	Harris County Toll Road Authority/The 4 08/15/2037	
+	Illinois Finance Authority 5 08/15/2035	
+	Illinois Finance Authority 5 10/01/2033	
+	Indiana Finance Authority 5 02/01/2029	
+	Illinois Finance Authority 5 08/15/2033	
+	Long Island Power Authority 5 09/01/2037	
+	Iowa Finance Authority 5 08/01/2031	
+	Iowa Finance Authority 5 08/01/2037	
+	County Of St Louis Mo 5.25 12/01/2038	
+	County Of Union Nc Enterprise System Re 4 06/01/2032	
+	Denver City & County School District No 5 12/01/2034	
+	District Of Columbia 5 05/01/2036	
+	County Of Montgomery Md 4 10/01/2030	
+	County Of Orange Fl Water Utility Syste 5 10/01/2036	
+	County Of Orange Fl Water Utility Syste 5 10/01/2037	
+	County Of Hennepin Mn Sales Tax Revenue 5 12/15/2031	
+	County Of Miami-Dade Fl Water & Sewer S 5 10/01/2028	
+	Forsyth County School District 5 02/01/2029	
+	Forsyth County School District 5 02/01/2031	
+	Energy Northwest 5 07/01/2034	
+	Energy Northwest 5 07/01/2035	
+	Energy Northwest 5 07/01/2036	
+	Eastern Municipal Water District Financ 5 07/01/2037	
+	Eagle Mountain & Saginaw Independent Sc 4 08/15/2035	
+	District Of Columbia 5 03/01/2036	
+	Clark County School District 5 06/15/2032	
+	Clark County School District 5 06/15/2032	
+	Commonwealth Of Massachusetts 5 05/01/2030	
+	Commonwealth Of Massachusetts 4 05/01/2035	
+	Commonwealth Of Massachusetts 3 11/01/2033	
+	Commonwealth Financing Authority 5 06/01/2029	
+	Commonwealth Of Massachusetts 5 09/01/2037	
+	Commonwealth Of Massachusetts 5 11/01/2032	
+	Connecticut State Health & Educational 5 07/01/2029	
+	County Of Clark Nv 5 06/01/2030	
+	County Of Allen Oh Hospital Facilities 5 12/01/2030	
+	County Of Allen Oh Hospital Facilities 5 08/01/2030	
+	County Of Baltimore Md 4 03/01/2034	
+	County Of Baltimore Md 5 03/01/2030	
+	County Of King Wa 5 01/01/2030	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2038	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2032	
+	City Of Rogers Ar Sales & Use Tax Reven 5 11/01/2035	
+	City Of San Antonio Tx Electric & Gas S 5 02/01/2033	
+	City Of San Antonio Tx Electric & Gas S 5 02/01/2033	
+	City Of New York Ny 5 11/01/2030	
+	City Of New York Ny 5 03/01/2032	
+	City Of New York Ny 5 08/01/2033	
+	City Of New York Ny 5.25 03/01/2034	
+	City Of New York Ny 5 04/01/2030	
+	City Of New York Ny 5 08/01/2029	
+	City Of New Orleans La 5 12/01/2037	
+	City Of Houston Tx 5 03/01/2029	
+	City Of Gainesville Fl Utilities System 5 10/01/2034	
+	City Of Houston Tx 5 03/01/2032	
+	City Of Jacksonville Fl 5 10/01/2032	
+	City Of Kansas City Mo 5 09/01/2028	
+	City Of Houston Tx Combined Utility Sys 5 11/15/2033	
+	City Of Austin Tx Water & Wastewater Sy 5 11/15/2032	
+	City Of Dallas Tx Waterworks & Sewer Sy 5 10/01/2033	
+	City Of Dallas Tx Waterworks & Sewer Sy 5 10/01/2036	
+	City Of Columbus Oh 5 04/01/2030	
+	Bay Area Toll Authority 3.25 04/01/2036	
+	Bay Area Toll Authority 4 04/01/2033	
+	Brighton Area School District/Mi 5 05/01/2029	
+	Allegheny County Hospital Development A 5 04/01/2029	
+	Allegheny County Hospital Development A 5 04/01/2033	
+	American Municipal Power Inc 5 02/15/2029	
+	Arizona Department Of Transportation St 5 07/01/2031	
+	City & County Of Honolulu Hi 5 09/01/2032	
+	Chicago O'Hare International Airport 5 01/01/2035	
+	California State Public Works Board 5 11/01/2030	
+	California Housing Finance Agency 3.5 11/20/2035	
+	California State Public Works Board 5 03/01/2038	
+	California Statewide Communities Develo 4 05/15/2034	
+	California Statewide Communities Develo 5 01/01/2035	
+	City & County Honolulu Hi Wastewater Sy 4 07/01/2033	
+	City & County Honolulu Hi Wastewater Sy 5 07/01/2036	
+	City & County Of San Francisco Ca 4 04/01/2035	
+	Central Texas Regional Mobility Authori 5 01/01/2032	
+	Central Texas Turnpike System 5 08/15/2034	
+	Arlington Independent School District/T 4 02/15/2034	
+	Arapahoe County School District No 5 Ch 5 12/15/2030	
+	Aldine Independent School District 4 02/15/2033	
+	Alaska Housing Finance Corp 4 12/01/2032	
+	Aiken County Consolidated School Distri 4 04/01/2035	
+	Akron Bath Copley Joint Township Hospit 4 11/15/2035	
+	Akron Bath Copley Joint Township Hospit 4 11/15/2036	
+	California Health Facilities Financing 3.75 11/15/2032	
+	California Health Facilities Financing 4 04/01/2037	
+	Board Of Regents Of The University Of T 5 08/15/2031	
+	Board Of Governors Of Colorado State Un 5 03/01/2032	
+	City Of Cincinnati Oh 4 12/01/2028	
+	City Of Denton Tx Utility System Revenu 5 12/01/2031	
+	City Of Denton Tx Utility System Revenu 5 12/01/2035	
+	City Of Concord Ca 2 04/01/2038	
+	City Of Chicago Il 5 01/01/2032	
+	City Of Charlotte Nc Airport Revenue 4 07/01/2038	
+	City Of Los Angeles Department Of Airpo 4 05/15/2036	
+	City Of Houston Tx Airport System Reven 5 07/01/2036	
+	City Of Dallas Tx Waterworks & Sewer Sy 5 10/01/2029	
+	City Of Madison Wi 2 10/01/2029	
+	City Of New York Ny 5.25 10/01/2031	
+	City Of Portland Or Sewer System Revenu 4 03/01/2033	
+	City Of San Antonio Tx Electric & Gas S 4 02/01/2030	
+	City Of San Antonio Tx Electric & Gas S 4 02/01/2033	
+	City Of Philadelphia Pa Airport Revenue 4 07/01/2036	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2034	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2029	
+	County Of Mecklenburg Nc 4 04/01/2029	
+	County Of Mecklenburg Nc 4 04/01/2030	
+	County Of Broward Fl Tourist Developmen 4 09/01/2036	
+	County Of Clark Nv 4 06/01/2035	
+	Commonwealth Of Pennsylvania 3 09/15/2035	
+	Connecticut Housing Finance Authority 1.7 05/15/2034	
+	Commonwealth Of Massachusetts Transport 5 06/01/2035	
+	Collin County Community College Distric 4 08/15/2031	
+	Commonwealth Of Massachusetts 4 04/01/2033	
+	Clark County School District 5 06/15/2034	
+	City Of Seattle Wa Municipal Light & Po 4 01/01/2035	
+	City Of Seattle Wa Municipal Light & Po 4 07/01/2037	
+	County Of Prince George's Md 4 07/15/2030	
+	County Of Shelby Tn 4 04/01/2034	
+	County Of Shelby Tn 4 04/01/2035	
+	Dallas Independent School District 4 02/15/2031	
+	County Of Suffolk Ny 4 09/01/2036	
+	Indiana Finance Authority 5 06/01/2029	
+	Jea Electric System Revenue 5 10/01/2030	
+	Jea Electric System Revenue 5 10/01/2032	
+	Johnson County Unified School District 4 09/01/2036	
+	Los Angeles County Metropolitan Transpo 4 06/01/2035	
+	Los Angeles County Metropolitan Transpo 4 06/01/2037	
+	Kitsap County School District No 401 Ce 4 12/01/2034	
+	King County School District No 412 Shor 4 12/01/2036	
+	King County School District No 414 Lake 5 12/01/2031	
+	King County School District No 210 Fede 4 12/01/2033	
+	Illinois Finance Authority 5 02/15/2032	
+	Illinois Finance Authority 4 07/01/2037	
+	Illinois Finance Authority 4 08/15/2037	
+	Illinois Finance Authority 4 12/01/2037	
+	Harris County Cultural Education Facili 5 11/15/2030	
+	Harris County Flood Control District 4 10/01/2038	
+	Greeneville Health & Educational Facili 5 07/01/2032	
+	Harris County Cultural Education Facili 4 11/15/2032	
+	Massachusetts Development Finance Agenc 4 07/15/2036	
+	Los Angeles Unified School District/Ca 5 07/01/2030	
+	Main Street Natural Gas Inc 5 05/15/2038	
+	Los Angeles Department Of Water & Power 5 07/01/2032	
+	Los Angeles County Metropolitan Transpo 5 07/01/2036	
+	Los Angeles Unified School District/Ca 4 07/01/2037	
+	New Jersey Turnpike Authority 5 01/01/2036	
+	New York City Housing Development Corp 2.1 11/01/2036	
+	New York City Municipal Water Finance A 5 06/15/2038	
+	New York City Transitional Finance Auth 5 11/01/2033	
+	New York City Transitional Finance Auth 5 05/01/2034	
+	New Jersey Transportation Trust Fund Au 5 12/15/2036	
+	New Jersey Health Care Facilities Finan 5 07/01/2031	
+	New Jersey Economic Development Authori 5 06/15/2033	
+	New Jersey Economic Development Authori 4 06/15/2036	
+	Municipal Electric Authority Of Georgia 5 01/01/2038	
+	Municipal Electric Authority Of Georgia 5 01/01/2039	
+	Mount Diablo Unified School District/Ca 4 08/01/2035	
+	North Carolina Turnpike Authority 4 01/01/2033	
+	Northern Illinois Municipal Power Agenc 5 12/01/2029	
+	North Texas Tollway Authority 5 01/01/2038	
+	North Texas Tollway Authority 5 01/01/2039	
+	North Texas Tollway Authority 5 01/01/2029	
+	New York State Thruway Authority 3.5 01/01/2037	
+	New York Transportation Development Cor 5 12/01/2037	
+	New York State Urban Development Corp 4 03/15/2034	
+	New York State Urban Development Corp 4 03/15/2037	
+	New York State Dormitory Authority 4 07/01/2037	
+	New York State Dormitory Authority 4 07/01/2038	
+	New York State Dormitory Authority 4 07/01/2038	
+	New York City Transitional Finance Auth 5 08/01/2033	
+	New York City Transitional Finance Auth 5 11/01/2029	
+	New York State Dormitory Authority 5 02/15/2031	
+	New York State Dormitory Authority 5 02/15/2032	
+	New York State Dormitory Authority 5 08/01/2034	
+	New York State Dormitory Authority 5 08/01/2030	
+	State Of Connecticut 4 04/15/2037	
+	State Of Connecticut 3 06/01/2029	
+	State Of Connecticut 3 01/15/2034	
+	State Of Connecticut Special Tax Revenu 5 09/01/2033	
+	State Of Delaware 5 10/01/2028	
+	State Of Delaware 3 02/01/2033	
+	State Of Hawaii 3 10/01/2029	
+	State Of Hawaii 3.25 05/01/2033	
+	State Of Florida Department Of Transpor 3 07/01/2031	
+	State Of Florida Department Of Transpor 3 07/01/2035	
+	State Of Florida Department Of Transpor 5 07/01/2030	
+	State Of Florida 4 06/01/2033	
+	State Of Georgia 4 08/01/2034	
+	State Of Maryland Department Of Transpo 3 11/01/2028	
+	State Of Maryland 3 08/01/2031	
+	State Of Louisiana 5 03/01/2033	
+	State Of Louisiana 5 03/01/2034	
+	State Of Illinois 5 03/01/2034	
+	State Of Illinois 5 12/01/2035	
+	State Of Illinois 4 03/01/2038	
+	State Of Hawaii Department Of Budget & 6 07/01/2033	
+	State Of North Carolina 5 05/01/2029	
+	State Of North Carolina 3 06/01/2032	
+	State Of Nevada Highway Improvement Rev 4 12/01/2033	
+	State Of Mississippi 5 10/01/2030	
+	State Of Minnesota 3 10/01/2029	
+	State Of Minnesota 3 10/01/2030	
+	State Of Washington 5 08/01/2031	
+	State Of Washington 5 08/01/2032	
+	State Of Washington 5 08/01/2034	
+	State Of Wisconsin 5 05/01/2034	
+	State Of Wisconsin 5 05/01/2035	
+	State Of California 5 08/01/2030	
+	State Of California 5 08/01/2032	
+	State Of California Department Of Water 5 12/01/2031	
+	Salt Verde Financial Corp 5 12/01/2037	
+	School District Of Broward County/Fl 5 07/01/2029	
+	South Dakota Health & Educational Facil 4 09/01/2036	
+	Southeast Energy Authority A Cooperativ 4 11/01/2051	
+	Southeastern Pennsylvania Transportatio 5 06/01/2029	
+	Port Authority Of New York & New Jersey 5 11/15/2029	
+	Philadelphia Gas Works Co 5 10/01/2032	
+	Philadelphia Gas Works Co 4 10/01/2036	
+	Philadelphia Gas Works Co 5 10/01/2030	
+	Pennsylvania Turnpike Commission Oil Fr 5 12/01/2028	
+	Pierce County School District No 3 Puya 5 12/01/2033	
+	Northside Independent School District 5 08/15/2032	
+	Ohio Water Development Authority Water 5 12/01/2031	
+	Pennsylvania Turnpike Commission 5 12/01/2032	
+	Palm Springs Unified School District 1.25 08/01/2031	
+	Pennsylvania Economic Development Finan 3.375 11/15/2033	
+	Virginia Independent School District No 3 02/01/2033	
+	Virginia Public Building Authority 3.125 08/01/2034	
+	Virginia College Building Authority 5 02/01/2030	
+	Texas Water Development Board 4 10/15/2034	
+	Texas Water Development Board 4 10/15/2034	
+	Texas Municipal Gas Acquisition & Suppl 5 12/15/2032	
+	Wisconsin Health & Educational Faciliti 4 11/15/2032	
+	Windy Gap Firming Project Water Activit 4 07/15/2039	
+	Wisconsin Department Of Transportation 5 07/01/2031	
+	Washington Metropolitan Area Transit Au 5 07/01/2034	
+	Virginia Public Building Authority 4 08/01/2035	
+	Washington Metropolitan Area Transit Au 5 07/01/2034	
+	Westmoreland County Municipal Authority 5 08/15/2028	
+	Washington Suburban Sanitary Commission 5 06/01/2034	
+	Texas Water Development Board 3 10/15/2036	
+	Tennessee State School Bond Authority 5 11/01/2029	
+	Trust For Cultural Resources Of The Cit 4 04/01/2029	
+	Trust For Cultural Resources Of The Cit 4 04/01/2031	
+	University Of Alabama/The 3 07/01/2033	
+	Tsasc Inc/Ny 5 06/01/2035	
+	University Of Colorado 3 06/01/2033	
+	University Of Alabama/The 4 07/01/2035	
+	Virginia Commonwealth Transportation Bo 5 05/15/2032	
+	Virginia Public School Authority 5 08/01/2028	
+	Washington Health Care Facilities Autho 5 08/15/2033	
+	Utah Transit Authority 3 12/15/2028	
+	Utah Transit Authority 4 12/15/2029	
+	University Of Massachusetts Building Au 5 11/01/2034	
+	University Of Minnesota 5 12/01/2028	
+	University Of Connecticut 5 11/01/2033	
+	University Of Connecticut 5 01/15/2030	
+	Pennsylvania Higher Educational Facilit 4 06/15/2034	
+	Palm Beach County School District 5 08/01/2029	
+	Pennsylvania Turnpike Commission 5 12/01/2034	
+	Pennsylvania Turnpike Commission Oil Fr 5 12/01/2032	
+	Philadelphia Gas Works Co 5 10/01/2031	
+	Philadelphia Gas Works Co 5 08/01/2038	
+	Port Authority Of Houston Of Harris Cou 5 10/01/2032	
+	Rhode Island Housing And Mortgage Finan 2.05 10/01/2036	
+	Rhode Island Housing And Mortgage Finan 2.1 10/01/2035	
+	Salem-Keizer School District No 24j 4 06/15/2035	
+	San Mateo Union High School District 4 09/01/2033	
+	Santa Clara County Financing Authority 3 05/15/2035	
+	Santa Clara County Financing Authority 4 05/01/2036	
+	San Diego Association Of Governments So 5 07/01/2033	
+	State Of West Virginia 5 12/01/2030	
+	State Of Washington 5 08/01/2033	
+	State Of Washington 5 08/01/2031	
+	State Of Washington 5 06/01/2033	
+	State Of Minnesota 2.25 08/01/2029	
+	State Of Nevada Highway Improvement Rev 4 12/01/2033	
+	State Of Nevada Highway Improvement Rev 5 12/01/2030	
+	State Of Nevada Highway Improvement Rev 4 12/01/2032	
+	State Of North Carolina 3 05/01/2031	
+	State Of Ohio 4 01/01/2034	
+	State Of Ohio 5 04/01/2033	
+	State Of Ohio 5 01/01/2032	
+	State Of Hawaii 5 05/01/2034	
+	State Of Florida 4 06/01/2031	
+	State Of Kansas Department Of Transport 5 09/01/2033	
+	State Of Illinois 5.5 05/01/2030	
+	State Of Louisiana 5 03/01/2032	
+	State Of Maryland Department Of Transpo 3.125 05/01/2031	
+	State Of Maryland Department Of Transpo 4 05/01/2030	
+	State Of Delaware 2 02/01/2035	
+	State Of Delaware 2 02/01/2036	
+	State Of Connecticut 5 04/15/2029	
+	State Of Connecticut Special Tax Revenu 4 09/01/2035	
+	State Of Connecticut 3 01/15/2036	
+	State Of Connecticut 4 06/01/2036	
+	New York State Dormitory Authority 4 07/01/2035	
+	New York State Urban Development Corp 5 03/15/2030	
+	New York Transportation Development Cor 5 12/01/2035	
+	New York State Thruway Authority 4 01/01/2037	
+	New York State Thruway Authority 5 03/15/2035	
+	New York State Environmental Facilities 5 06/15/2030	
+	Northeast Ohio Regional Sewer District 3 11/15/2035	
+	North Carolina Turnpike Authority 4 01/01/2035	
+	North Texas Municipal Water District Wa 5 09/01/2035	
+	Multnomah & Clackamas Counties School D 0 06/15/2032	
+	Michigan Finance Authority 5 10/01/2034	
+	New Jersey Educational Facilities Autho 2 03/01/2036	
+	New Jersey Housing & Mortgage Finance A 3.75 10/01/2035	
+	New Jersey Transportation Trust Fund Au 4.1 06/15/2031	
+	New York City Transitional Finance Auth 5 08/01/2034	
+	New York City Industrial Development Ag 2 01/01/2038	
+	New York City Housing Development Corp 2.35 11/01/2035	
+	New York City Housing Development Corp 2.9 11/01/2037	
+	Los Angeles County Metropolitan Transpo 5 07/01/2031	
+	Maricopa County Pollution Control Corp 2.4 06/01/2035	
+	Maricopa County Industrial Development 5 01/01/2029	
+	Medford Hospital Facilities Authority 5 08/15/2033	
+	Medford Hospital Facilities Authority 5 08/15/2034	
+	Metropolitan Transportation Authority 5 11/15/2034	
+	Metropolitan Water Reclamation District 5 12/01/2029	
+	Greeneville Health & Educational Facili 5 07/01/2033	
+	Hillsboro School District No 1j 4 06/15/2037	
+	Hays Consolidated Independent School Di 4 02/15/2034	
+	Houston Independent School District 5 02/15/2030	
+	Illinois Finance Authority 4 07/01/2035	
+	Illinois Finance Authority 5 07/01/2033	
+	Illinois Finance Authority 5 07/01/2034	
+	King County School District No 401 High 5 12/01/2030	
+	Long Island Power Authority 5 09/01/2033	
+	Los Angeles Community College District/ 4 08/01/2033	
+	Indianapolis Local Public Improvement B 5 02/01/2029	
+	County Of Wake Nc 4 03/01/2034	
+	County Of Miami-Dade Fl Water & Sewer S 5 10/01/2028	
+	County Of Johnson Ks 4 09/01/2034	
+	County Of King Wa 4 07/01/2030	
+	District Of Columbia 5 06/01/2035	
+	Duneland School Building Corp 3 01/15/2038	
+	Energy Northwest 5 07/01/2028	
+	Energy Northwest 5 07/01/2032	
+	Florida Housing Finance Corp 2.1 07/01/2035	
+	Fontana Redevelopment Agency Successor 5 10/01/2032	
+	Georgia Housing & Finance Authority 2.9 12/01/2031	
+	City Of San Francisco Ca Public Utiliti 5 11/01/2034	
+	City Of South Miami Health Facilities A 5 08/15/2029	
+	City Of South Miami Health Facilities A 5 08/15/2032	
+	Commonwealth Financing Authority 5 06/01/2030	
+	Commonwealth Of Massachusetts Transport 5 06/01/2037	
+	Commonwealth Of Pennsylvania 3 05/01/2037	
+	County Of Denton Tx 4 07/15/2029	
+	County Of King Wa 5 01/01/2036	
+	County Of Jefferson Al 5 09/15/2029	
+	County Of Fairfax Va 5 10/01/2031	
+	City Of Philadelphia Pa 5 08/01/2030	
+	City Of Philadelphia Pa 5 08/01/2029	
+	City Of Houston Tx Combined Utility Sys 5 11/15/2035	
+	City Of Chicago Il Wastewater Transmiss 5 01/01/2036	
+	City Of Atlanta Ga Airport Passenger Fa 5 07/01/2035	
+	City Of Columbus Oh 5 04/01/2029	
+	California Health Facilities Financing 5 11/15/2031	
+	Alaska Housing Finance Corp 2.15 06/01/2036	
+	Aldine Independent School District 5 02/15/2029	
+	Allegheny County Hospital Development A 5 07/15/2033	
+	Arizona Department Of Transportation St 5 07/01/2030	
+	City & County Of Honolulu Hi 4 08/01/2036	
+	California Statewide Communities Develo 5 01/01/2033	
+	California Statewide Communities Develo 3 04/01/2037	
+	California Infrastructure & Economic De 5 08/01/2031	
+	California Municipal Finance Authority 5 02/01/2030	
+	Aldine Independent School District 4 02/15/2034	
+	Alaska Housing Finance Corp 5 06/01/2032	
+	Adams & Arapahoe Joint School District 5 12/01/2030	
+	Alabama Public School And College Autho 5 11/01/2031	
+	City Of Austin Tx Electric Utility Reve 5 11/15/2030	
+	City Of Los Angeles Ca Wastewater Syste 5 06/01/2031	
+	City Of Dallas Tx Waterworks & Sewer Sy 5 10/01/2030	
+	City Of Dallas Tx Waterworks & Sewer Sy 5 10/01/2031	
+	City Of Orlando Fl Tourist Development 5 11/01/2037	
+	City Of New York Ny 4 08/01/2038	
+	City Of New York Ny 5 04/01/2032	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2033	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2029	
+	County Of Harris Tx 5 10/01/2029	
+	County Of Harris Tx 5 08/15/2030	
+	County Of Harris Tx 5 08/15/2032	
+	County Of Harris Tx 5 08/15/2033	
+	County Of Jefferson Al 5 09/15/2028	
+	Conroe Independent School District 5 02/15/2030	
+	Commonwealth Of Pennsylvania 4 01/01/2030	
+	Connecticut State Health & Educational 4 07/01/2034	
+	Commonwealth Of Massachusetts 5 07/01/2031	
+	Clark County Water Reclamation District 3 07/01/2028	
+	Clark County School District 5 06/15/2031	
+	Fort Bend Independent School District 5 08/15/2029	
+	Fort Bend Independent School District 4 08/15/2031	
+	District Of Columbia 5 06/01/2033	
+	District Of Columbia 5 04/01/2030	
+	County Of Miami-Dade Fl 5 07/01/2034	
+	County Of Miami-Dade Fl Water & Sewer S 5 10/01/2033	
+	County Of Montgomery Md 3 08/01/2032	
+	County Of Nassau Ny 5 10/01/2031	
+	County Of Union Nj 3 03/01/2029	
+	Denver Convention Center Hotel Authorit 5 12/01/2028	
+	Jea Electric System Revenue 5 10/01/2029	
+	Jefferson Sales Tax District 5 12/01/2033	
+	Little Rock School District 2 02/01/2037	
+	King County School District No 411 Issa 4 12/01/2031	
+	King County School District No 401 High 3.125 12/01/2032	
+	Lee Memorial Health System 5 04/01/2034	
+	Illinois Finance Authority 5 07/01/2029	
+	Houston Independent School District 5 07/15/2032	
+	Indiana Finance Authority 5 02/01/2030	
+	Hillsboro School District No 1j 5 06/15/2035	
+	Great Lakes Water Authority Sewage Disp 5 07/01/2031	
+	Metropolitan Washington Airports Author 5 10/01/2028	
+	Metropolitan Transportation Authority 0 11/15/2033	
+	Metropolitan Government Of Nashville & 4 01/01/2032	
+	Massachusetts Clean Water Trust/The 5 02/01/2038	
+	Maricopa County Industrial Development 5 01/01/2038	
+	Maricopa County Industrial Development 5 09/01/2030	
+	Los Angeles Unified School District/Ca 5 07/01/2030	
+	Los Angeles Unified School District/Ca 5 07/01/2029	
+	Los Angeles Unified School District/Ca 5 07/01/2030	
+	Los Angeles Unified School District/Ca 5 07/01/2032	
+	New York City Transitional Finance Auth 5 08/01/2031	
+	New York City Transitional Finance Auth 5 05/01/2035	
+	New York City Transitional Finance Auth 4 05/01/2031	
+	New Jersey Economic Development Authori 5 06/15/2034	
+	New Jersey Economic Development Authori 3.125 07/01/2031	
+	Michigan Finance Authority 5 12/01/2035	
+	Michigan State Building Authority 5 10/15/2032	
+	Multnomah & Clackamas Counties School D 0 06/15/2033	
+	Municipal Improvement Corp Of Los Angel 5 11/01/2029	
+	Monroe County Industrial Development Co 3 12/01/2037	
+	Montgomery County Higher Education And 5 09/01/2033	
+	North Texas Tollway Authority 5 01/01/2030	
+	North Texas Tollway Authority 5 01/01/2031	
+	New York State Thruway Authority 5 01/01/2033	
+	New York State Thruway Authority 5 01/01/2031	
+	New York State Housing Finance Agency 2.1 11/01/2035	
+	New York State Dormitory Authority 2 07/01/2033	
+	New York State Dormitory Authority 5 02/15/2032	
+	New York State Dormitory Authority 5 10/01/2028	
+	State Of Florida Department Of Transpor 5 07/01/2031	
+	State Of Georgia 5 02/01/2029	
+	State Of Michigan 3 05/15/2036	
+	State Of Kansas Department Of Transport 5 09/01/2032	
+	State Of Louisiana 5 04/01/2030	
+	State Of Louisiana 5 09/01/2031	
+	State Of Illinois Sales Tax Revenue 3 06/15/2032	
+	State Of Illinois Sales Tax Revenue 5 06/15/2029	
+	State Of Illinois 3.5 06/01/2029	
+	State Of Ohio 5 04/01/2031	
+	State Of Ohio 5 04/01/2032	
+	State Of New York Mortgage Agency 3 10/01/2031	
+	State Of Mississippi Gaming Tax Revenue 5 10/15/2036	
+	State Of Washington 5 08/01/2029	
+	San Diego County Regional Airport Autho 5 07/01/2034	
+	Salem-Keizer School District No 24j 5 06/15/2032	
+	Sales Tax Securitization Corp 5 01/01/2029	
+	Sales Tax Securitization Corp 5 01/01/2034	
+	San Diego Unified School District/Ca 5 07/01/2032	
+	San Jose Evergreen Community College Di 3 09/01/2036	
+	School District Of Philadelphia/The 5 09/01/2033	
+	Springfield School District No R-12 4 03/01/2034	
+	State Of Alaska International Airports 5 10/01/2035	
+	State Of California 4 08/01/2033	
+	Riverside County Transportation Commiss 5 06/01/2037	
+	Regional Transportation District Sales 5 11/01/2033	
+	Regents Of The University Of California 5 05/15/2033	
+	Philadelphia Gas Works Co 5 10/01/2033	
+	Pennsylvania Housing Finance Agency 2.8 10/01/2031	
+	Oklahoma Turnpike Authority 5 01/01/2035	
+	Oakland Unified School District/Alameda 5 08/01/2031	
+	University Of California 5 05/15/2030	
+	University Of Kentucky 3 10/01/2035	
+	Utility Debt Securitization Authority 5 12/15/2032	
+	Washington Health Care Facilities Autho 5 10/01/2028	
+	Virginia Public Building Authority 3 08/01/2032	
+	Trinity River Authority Central Regiona 5 08/01/2030	
+	Texas State University System 4 03/15/2036	
+	Texas Water Development Board 5 04/15/2029	
+	Texas Water Development Board 4 10/15/2033	
+	Texas Water Development Board 3 10/15/2035	
+	Wayne County Airport Authority 5 12/01/2029	
+	Washington Suburban Sanitary Commission 5 06/01/2029	
+	Washington Metropolitan Area Transit Au 5 07/01/2033	
+	Washington Metropolitan Area Transit Au 5 07/01/2030	
+	Washington Metropolitan Area Transit Au 5 07/01/2031	
+	Washington Suburban Sanitary Commission 4 12/01/2032	
+	Wisconsin Department Of Transportation 5 07/01/2029	
+	Wisconsin Department Of Transportation 5 07/01/2032	
+	Wisconsin Health & Educational Faciliti 4 08/15/2031	
+	Tobacco Settlement Financing Corp 5 06/01/2031	
+	Texas Water Development Board 4 10/15/2033	
+	Tennessee State School Bond Authority 5 11/01/2034	
+	Texas Water Development Board 3 10/15/2037	
+	Texas Water Development Board 3 10/15/2034	
+	Troy Capital Resource Corp 5 09/01/2037	
+	Triborough Bridge & Tunnel Authority 5 11/15/2028	
+	Tri-County Metropolitan Transportation 3.25 10/01/2034	
+	Tsasc Inc/Ny 5 06/01/2033	
+	Turlock Irrigation District 5 01/01/2038	
+	Virginia Commonwealth Transportation Bo 5 05/15/2028	
+	Virginia College Building Authority 5 02/01/2031	
+	Utility Debt Securitization Authority 5 12/15/2035	
+	University Of Kentucky 4 10/01/2030	
+	University Of Massachusetts Building Au 5 11/01/2032	
+	University Of Massachusetts Building Au 5 11/01/2033	
+	University Of Connecticut 5 11/01/2035	
+	Oakland Unified School District/Alameda 5 08/01/2028	
+	Northside Independent School District 4 08/15/2036	
+	Ohio Turnpike & Infrastructure Commissi 5 02/15/2031	
+	Ohio Turnpike & Infrastructure Commissi 5 02/15/2032	
+	Orange County School Board 5 08/01/2033	
+	Orange County Convention Center/Orlando 5 10/01/2030	
+	Orange County Health Facilities Authori 5 08/01/2031	
+	Pennsylvania Turnpike Commission 5 06/01/2027	
+	Pennsylvania Turnpike Commission 5 06/01/2034	
+	Pennsylvania Turnpike Commission 5 12/01/2030	
+	Pennsylvania Economic Development Finan 5 03/15/2030	
+	Port Authority Of New York & New Jersey 5 07/15/2036	
+	Port Authority Of New York & New Jersey 5 09/01/2034	
+	Port Authority Of New York & New Jersey 5 11/01/2036	
+	Pierce County School District No 403 Be 5 12/01/2032	
+	Regional Transportation Authority 5 07/01/2029	
+	Pueblo City Schools 3 12/15/2037	
+	Private Colleges & Universities Authori 5 09/01/2032	
+	Roseville Independent School District N 5 02/01/2030	
+	Springfield School District No R-12 5 03/01/2036	
+	State Of California 5 04/01/2031	
+	State Of California 5 10/01/2033	
+	State Of California 5 11/01/2028	
+	State Of California 5 08/01/2035	
+	School District Of Philadelphia/The 5 09/01/2031	
+	School District Of Philadelphia/The 5 09/01/2032	
+	San Marcos Unified School District 5 08/01/2030	
+	San Francisco County Transportation Aut 3 02/01/2034	
+	San Antonio Independent School District 4 08/15/2034	
+	San Antonio Water System 5 05/15/2031	
+	San Antonio Water System 5 05/15/2033	
+	San Diego Association Of Governments So 5 07/01/2031	
+	State Of Washington 5 08/01/2031	
+	State Of Washington 5 08/01/2031	
+	State Of Washington 5 08/01/2032	
+	State Of Washington 5 08/01/2034	
+	State Of Texas 5 10/01/2032	
+	State Of Wisconsin 4 05/01/2029	
+	State Of West Virginia 5 06/01/2036	
+	State Of Wisconsin 5 11/01/2031	
+	State Of Wisconsin 5 11/01/2031	
+	State Of Wisconsin 5 11/01/2032	
+	Sun Prairie Area School District/Wi 4 03/01/2030	
+	State Of Mississippi 5 10/01/2029	
+	State Of Minnesota 5 10/01/2028	
+	State Of Minnesota 5 08/01/2029	
+	State Of New York Mortgage Agency 3.125 10/01/2032	
+	State Of North Carolina 2.125 06/01/2036	
+	State Of Mississippi Gaming Tax Revenue 5 10/15/2032	
+	State Of Ohio 5 03/15/2032	
+	State Of Ohio 5 01/01/2029	
+	State Of Oregon 4 08/01/2034	
+	State Of Texas 5 04/01/2030	
+	State Of Texas 5 04/01/2031	
+	State Of Illinois 5 03/01/2031	
+	State Of Hawaii 5 10/01/2030	
+	State Of Hawaii 5 01/01/2032	
+	State Of Louisiana 5 03/01/2037	
+	State Of Maryland 4 08/01/2032	
+	State Of Maryland Department Of Transpo 3 11/01/2030	
+	State Of Maryland Department Of Transpo 3 09/01/2031	
+	State Of Delaware 3.125 03/01/2033	
+	State Of Delaware 4 03/01/2030	
+	State Of Florida 2.375 06/01/2031	
+	State Of Delaware 5 02/01/2030	
+	State Of Florida 3 06/01/2035	
+	State Of Florida 3 07/01/2030	
+	State Of Florida 4 06/01/2030	
+	State Of Colorado 5 03/15/2031	
+	State Of Connecticut Special Tax Revenu 5 09/01/2032	
+	State Of Delaware 2 01/01/2036	
+	New York State Dormitory Authority 5 07/01/2030	
+	New York State Dormitory Authority 5 07/01/2032	
+	New York State Dormitory Authority 5 03/15/2031	
+	New York State Dormitory Authority 5 03/15/2031	
+	New York State Dormitory Authority 5 07/01/2029	
+	New York State Dormitory Authority 4 02/15/2035	
+	New York City Transitional Finance Auth 5.25 07/15/2035	
+	New York State Dormitory Authority 4 07/01/2033	
+	New York State Dormitory Authority 4 07/01/2034	
+	New York State Environmental Facilities 5 06/15/2032	
+	New York State Environmental Facilities 5 06/15/2034	
+	New York State Environmental Facilities 5 06/15/2029	
+	New York State Environmental Facilities 3 06/15/2032	
+	Norman Regional Hospital Authority 3.25 09/01/2038	
+	North Texas Tollway Authority 5 01/01/2033	
+	North Texas Tollway Authority 5 01/01/2029	
+	North Texas Tollway Authority 5 01/01/2030	
+	North Texas Municipal Water District Wa 5 09/01/2032	
+	North Texas Tollway Authority 4 01/01/2035	
+	North Texas Municipal Water District Wa 5 09/01/2030	
+	North Carolina Turnpike Authority 5 01/01/2032	
+	North Carolina Turnpike Authority 5 01/01/2032	
+	Minneapolis-St Paul Metropolitan Airpor 5 01/01/2030	
+	Michigan Finance Authority 5 06/01/2033	
+	New Jersey Transportation Trust Fund Au 5 06/15/2030	
+	New Jersey Transportation Trust Fund Au 5 06/15/2033	
+	New Jersey Transportation Trust Fund Au 5 12/15/2028	
+	New Jersey Educational Facilities Autho 5 07/01/2032	
+	New York City Transitional Finance Auth 5 05/01/2033	
+	New York City Transitional Finance Auth 5 07/15/2033	
+	New York City Transitional Finance Auth 5 08/01/2032	
+	New York City Transitional Finance Auth 5 08/01/2029	
+	New York City Housing Development Corp 3.1 11/01/2032	
+	New York City Industrial Development Ag 4 01/01/2032	
+	New York City Municipal Water Finance A 5 06/15/2033	
+	Los Angeles Department Of Water & Power 5 07/01/2032	
+	Los Angeles County Public Works Financi 5 12/01/2036	
+	Los Angeles Department Of Water & Power 5 07/01/2033	
+	Massachusetts Development Finance Agenc 5 07/01/2035	
+	Massachusetts Development Finance Agenc 5 07/15/2034	
+	Mesa County Valley School District No 5 5 12/01/2029	
+	Mesa County Valley School District No 5 5 12/01/2030	
+	Metropolitan Government Of Nashville & 4 01/01/2031	
+	Metropolitan Transportation Authority 5 11/15/2029	
+	Metropolitan Transportation Authority 5 11/15/2033	
+	Greeneville Health & Educational Facili 5 07/01/2029	
+	Greeneville Health & Educational Facili 5 07/01/2031	
+	Harris County Flood Control District 5 10/01/2028	
+	Harris County Flood Control District 5 10/01/2029	
+	Hays Consolidated Independent School Di 4 02/15/2033	
+	Houston Independent School District 5 02/15/2034	
+	Hudson Yards Infrastructure Corp 5 02/15/2033	
+	Illinois Housing Development Authority 3.45 10/01/2033	
+	Illinois Finance Authority 5 07/01/2027	
+	King County School District No 405 Bell 5 12/01/2029	
+	Lone Star College System 5 02/15/2033	
+	Long Island Power Authority 5 09/01/2032	
+	Jefferson Sales Tax District 4 12/01/2035	
+	Illinois State Toll Highway Authority 5 01/01/2033	
+	Jea Electric System Revenue 3.375 10/01/2034	
+	Iowa Finance Authority 5 08/01/2036	
+	Cypress-Fairbanks Independent School Di 3 02/15/2034	
+	County Of Wake Nc 5 12/01/2029	
+	County Of Ward Nd 5 06/01/2034	
+	Cuyahoga Community College District 4 12/01/2032	
+	County Of Santa Clara Ca 5 08/01/2033	
+	County Of San Joaquin Ca 5 11/15/2028	
+	County Of San Joaquin Ca 5 11/15/2029	
+	County Of Miami-Dade Fl Aviation Revenu 5 10/01/2028	
+	County Of Miami-Dade Fl 5 10/01/2029	
+	County Of Miami-Dade Fl 5 07/01/2030	
+	District Of Columbia 5 06/01/2032	
+	Energy Northwest 5 07/01/2033	
+	Energy Northwest 5 07/01/2038	
+	District Of Columbia 4 06/01/2033	
+	Florida Department Of Management Servic 5 11/01/2033	
+	Frisco Independent School District 4 08/15/2032	
+	Florida Department Of Management Servic 5 09/01/2028	
+	Great Lakes Water Authority Sewage Disp 5 07/01/2030	
+	Grand River Dam Authority 5 06/01/2031	
+	City Of Tampa Fl 0 09/01/2038	
+	Commonwealth Financing Authority 5 06/01/2033	
+	Collin County Community College Distric 3.25 08/15/2033	
+	Commonwealth Of Pennsylvania 3 01/01/2031	
+	Commonwealth Of Massachusetts 5 12/01/2033	
+	Commonwealth Of Massachusetts Transport 4 06/01/2036	
+	Connecticut State Health & Educational 4 07/01/2035	
+	Commonwealth Of Pennsylvania 5 09/15/2028	
+	County Of Allen Oh Hospital Facilities 5 08/01/2028	
+	County Of Clark Nv Passenger Facility C 5 07/01/2032	
+	County Of Miami-Dade Fl 5 04/01/2028	
+	County Of Harris Tx 5 10/01/2028	
+	County Of Hudson Nj 2 11/15/2035	
+	County Of Fort Bend Tx 4 03/01/2030	
+	City Of New York Ny 5 08/01/2030	
+	City Of New York Ny 5 08/01/2030	
+	City Of New York Ny 4 08/01/2034	
+	City Of New York Ny 5 10/01/2031	
+	City Of New York Ny 5 12/01/2030	
+	City Of Houston Tx 5 03/01/2030	
+	City Of Houston Tx 5 03/01/2031	
+	City Of Houston Tx 5 03/01/2032	
+	City Of Los Angeles Ca Solid Waste Reso 4 02/01/2032	
+	City Of Los Angeles Department Of Airpo 5 05/15/2035	
+	City Of Dallas Tx 3 02/15/2036	
+	City Of Dallas Tx 4 02/15/2035	
+	Aiken County Consolidated School Distri 4 04/01/2036	
+	Alachua County Health Facilities Author 5 12/01/2034	
+	Arlington Independent School District/T 4 02/15/2035	
+	California Health Facilities Financing 5 11/15/2032	
+	California Health Facilities Financing 4 04/01/2038	
+	California Health Facilities Financing 4 04/01/2036	
+	Buckeye Tobacco Settlement Financing Au 5 06/01/2032	
+	Butler County Unified School District N 4 09/01/2030	
+	Board Of Governors Of Colorado State Un 5 03/01/2029	
+	California State Public Works Board 3 09/01/2031	
+	California State Public Works Board 5 04/01/2029	
+	California State Public Works Board 4 11/01/2032	
+	California State University 5 11/01/2028	
+	California State University 5 11/01/2032	
+	City & County Honolulu Hi Wastewater Sy 5 07/01/2031	
+	Chicago O'Hare International Airport 5 01/01/2033	
+	Central Florida Expressway Authority 3 07/01/2034	
+	Canadian County Educational Facilities 3 09/01/2029	
+	Central Utah Water Conservancy District 4 10/01/2034	
+	Chicago Board Of Education 5.75 04/01/2034	
+	Chicago O'Hare International Airport 5 01/01/2034	
+	City Of Arlington Tx Special Tax Revenu 5 02/15/2029	
+	City & County Of Honolulu Hi 5 03/01/2030	
+	City & County Of San Francisco Ca 3 04/01/2031	
+	California Statewide Communities Develo 5 01/01/2032	
+	California State Public Works Board 5 05/01/2027	
+	California State Public Works Board 5 09/01/2025	
+	California State Public Works Board 5 10/01/2029	
+	California State Public Works Board 3 09/01/2032	
+	Bexar County Hospital District 4 02/15/2036	
+	Butler County Unified School District N 4 09/01/2031	
+	California Health Facilities Financing 3 08/15/2034	
+	California Health Facilities Financing 5 08/15/2031	
+	Anaheim Housing & Public Improvements A 5 10/01/2033	
+	Allegheny County Hospital Development A 5 07/15/2030	
+	Alabama Federal Aid Highway Finance Aut 5 09/01/2032	
+	City Of Dallas Tx 3 02/15/2036	
+	City Of Austin Tx Water & Wastewater Sy 5 11/15/2028	
+	City Of Austin Tx Water & Wastewater Sy 5 11/15/2031	
+	City Of Chicago Il 4 01/01/2030	
+	City Of Baltimore Md 5 10/15/2028	
+	City Of Jacksonville Fl 5 10/01/2029	
+	City Of Houston Tx Airport System Reven 5 07/01/2030	
+	City Of Fayetteville Ar 2 11/01/2029	
+	City Of Fort Smith Ar Water & Sewer Rev 5 10/01/2034	
+	City Of Philadelphia Pa 5 02/01/2030	
+	City Of Philadelphia Pa 5 08/01/2030	
+	City Of New York Ny 4 12/01/2036	
+	City Of New York Ny 5 04/01/2034	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2034	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2030	
+	City Of San Antonio Tx 5 08/01/2031	
+	City Of San Francisco Ca Public Utiliti 5 11/01/2028	
+	County Of Miami-Dade Fl 0 10/01/2031	
+	County Of Miami-Dade Fl 0 10/01/2032	
+	County Of King Wa 5 07/01/2029	
+	County Of Dallas Tx 5 08/15/2027	
+	County Of Fairfax Va 2 10/01/2034	
+	County Of Cook Il 5 11/15/2029	
+	County Of Cook Il 5 11/15/2031	
+	County Of Butler Oh 4 11/15/2035	
+	County Of Clark Nv 4 11/01/2032	
+	County Of Clark Nv 5 11/01/2030	
+	Corpus Christi Independent School Distr 4 08/15/2032	
+	County Of Baltimore Md 5 03/01/2031	
+	County Of Bexar Tx 5 06/15/2031	
+	County Of Clark Department Of Aviation 5 07/01/2032	
+	County Of Clark Nv 3 07/01/2033	
+	County Of Clark Nv 3 07/01/2035	
+	Connecticut State Health & Educational 5 07/01/2034	
+	Commonwealth Of Pennsylvania 3 09/15/2033	
+	Commonwealth Of Massachusetts 5 07/01/2036	
+	Commonwealth Of Massachusetts 5 05/01/2034	
+	Commonwealth Of Massachusetts 3 02/01/2031	
+	Commonwealth Financing Authority 5 06/01/2031	
+	Commonwealth Financing Authority 5 06/01/2031	
+	City Of Shreveport La Water & Sewer Rev 4 12/01/2033	
+	Clarke County Hospital Authority 5 07/01/2030	
+	Great Lakes Water Authority Sewage Disp 5 07/01/2030	
+	Great Lakes Water Authority Sewage Disp 5 07/01/2031	
+	Grapevine-Colleyville Independent Schoo 5 08/15/2031	
+	El Dorado Irrigation District 5 03/01/2035	
+	El Paso County School District No 20 Ac 5 12/15/2031	
+	District Of Columbia 5 06/01/2032	
+	District Of Columbia 5 05/01/2030	
+	District Of Columbia 5 06/01/2033	
+	Eagle Mountain & Saginaw Independent Sc 4 08/15/2032	
+	County Of Miami-Dade Fl 5 07/01/2033	
+	County Of Miami-Dade Fl Transit System 4 07/01/2034	
+	County Of Miami-Dade Fl Water & Sewer S 3 10/01/2034	
+	County Of Sacramento Ca Airport System 5 07/01/2027	
+	Cypress-Fairbanks Independent School Di 3 02/15/2030	
+	Cuyahoga Community College District 4 12/01/2031	
+	Indiana Municipal Power Agency 5 01/01/2033	
+	Indiana Finance Authority 5 11/01/2027	
+	Indiana Finance Authority 5 06/01/2028	
+	Kane Cook & Dupage Counties School Dist 5 01/01/2028	
+	Long Island Power Authority 5 09/01/2031	
+	Long Island Power Authority 3 09/01/2036	
+	Los Angeles Community College District/ 4 08/01/2032	
+	Lancaster County School District/Sc 3.25 03/01/2032	
+	Illinois Finance Authority 5 12/01/2033	
+	Health & Educational Facilities Authori 5 06/01/2031	
+	Harris County Toll Road Authority/The 5 08/15/2033	
+	Harris County Flood Control District 5 10/01/2029	
+	Harris County Flood Control District 5 10/01/2028	
+	Great Lakes Water Authority Sewage Disp 5 07/01/2033	
+	Harris County Cultural Education Facili 5 10/01/2029	
+	Harris County Cultural Education Facili 5 11/15/2029	
+	Metropolitan Transportation Authority 5 11/15/2028	
+	Metropolitan Transportation Authority 5 11/15/2028	
+	Metropolitan Transportation Authority 5 11/15/2027	
+	Metropolitan Transportation Authority 4 11/15/2032	
+	Metropolitan Transportation Authority 4 11/15/2033	
+	Metropolitan Transportation Authority 4 11/15/2034	
+	Metropolitan Government Of Nashville & 4 07/01/2033	
+	Metropolitan Government Of Nashville & 5 01/01/2031	
+	Massachusetts Development Finance Agenc 5 07/01/2035	
+	Louisville/Jefferson County Metropolita 5 10/01/2031	
+	Los Angeles Department Of Water & Power 5 07/01/2033	
+	Los Angeles Unified School District/Ca 4 07/01/2035	
+	Los Angeles Department Of Water & Power 5 07/01/2025	
+	Los Angeles County Metropolitan Transpo 5 07/01/2028	
+	Los Angeles County Metropolitan Transpo 5 06/01/2030	
+	Los Angeles Unified School District/Ca 5 07/01/2035	
+	Maryland Stadium Authority 5 05/01/2033	
+	Maricopa County Special Health Care Dis 5 07/01/2026	
+	Maricopa County Special Health Care Dis 5 07/01/2027	
+	Maricopa County Union High School Distr 5 07/01/2033	
+	Lower Colorado River Authority 5 05/15/2027	
+	New York City Municipal Water Finance A 5 06/15/2032	
+	New Jersey Turnpike Authority 5 01/01/2034	
+	New York City Transitional Finance Auth 5 08/01/2029	
+	New York City Transitional Finance Auth 5 05/01/2029	
+	New York City Transitional Finance Auth 5 08/01/2034	
+	New Jersey Health Care Facilities Finan 3.375 07/01/2034	
+	New Jersey Economic Development Authori 4 06/01/2032	
+	New Jersey Economic Development Authori 5 06/15/2027	
+	New Hope Cultural Education Facilities 5 08/15/2030	
+	New Jersey Economic Development Authori 5.5 06/15/2030	
+	New Jersey Economic Development Authori 5.5 06/15/2033	
+	New Jersey Economic Development Authori 5 06/15/2033	
+	New Jersey Economic Development Authori 5 11/01/2032	
+	Michigan State University 5 02/15/2033	
+	Middleton-Cross Plains Area School Dist 3.25 03/01/2036	
+	Minneapolis-St Paul Metropolitan Airpor 5 01/01/2031	
+	North Carolina Turnpike Authority 4 01/01/2034	
+	North Harris County Regional Water Auth 5 12/15/2027	
+	North Harris County Regional Water Auth 5 12/15/2030	
+	North Texas Tollway Authority 5 01/01/2029	
+	Norman Y Mineta San Jose International 4 03/01/2034	
+	New York State Urban Development Corp 5 03/15/2031	
+	New York State Urban Development Corp 5 03/15/2035	
+	New York State Urban Development Corp 5 03/15/2032	
+	New York State Dormitory Authority 5 02/15/2029	
+	New York State Dormitory Authority 5 03/15/2030	
+	New York State Dormitory Authority 5 03/15/2030	
+	New York State Dormitory Authority 5 03/15/2030	
+	New York State Dormitory Authority 5 07/01/2028	
+	New York State Dormitory Authority 5 07/01/2032	
+	New York State Dormitory Authority 5 07/01/2031	
+	New York State Dormitory Authority 5 07/01/2036	
+	State Of Connecticut Special Tax Revenu 5 09/01/2027	
+	State Of Connecticut Special Tax Revenu 5 09/01/2028	
+	State Of Connecticut Clean Water Fund - 5 05/01/2034	
+	State Of Connecticut Clean Water Fund - 5 02/01/2035	
+	State Of California Department Of Water 5 12/01/2034	
+	State Of Connecticut 3 10/15/2032	
+	State Of Georgia 5 02/01/2029	
+	State Of Hawaii 4 01/01/2032	
+	State Of Michigan 3 05/01/2030	
+	State Of Maryland 3.125 03/15/2033	
+	State Of Hawaii 5 01/01/2029	
+	State Of Illinois 4.125 11/01/2031	
+	State Of Illinois Sales Tax Revenue 3 06/15/2034	
+	State Of Illinois 5 11/01/2034	
+	State Of Illinois 5 06/01/2028	
+	State Of Rhode Island 5 08/01/2031	
+	State Of Rhode Island 3 04/01/2033	
+	State Of North Carolina 3 06/01/2034	
+	State Of Mississippi 4 10/01/2036	
+	State Of Nevada Highway Improvement Rev 3.375 12/01/2034	
+	State Of Wisconsin 5 11/01/2028	
+	State Of Wisconsin 5 11/01/2029	
+	State Public School Building Authority 5 06/01/2033	
+	State Of Wisconsin 5 11/01/2026	
+	State Of Utah 5 07/01/2033	
+	State Of Texas 5 10/01/2033	
+	State Of Washington 5 07/01/2028	
+	State Of Washington 5 08/01/2030	
+	Salt River Project Agricultural Improve 5 01/01/2034	
+	Sales Tax Securitization Corp 5 01/01/2032	
+	Sales Tax Securitization Corp 5 01/01/2033	
+	San Diego Redevelopment Agency Successo 5 09/01/2026	
+	San Marcos Unified School District 5 08/01/2031	
+	San Marcos Unified School District 5 08/01/2034	
+	San Francisco County Transportation Aut 4 02/01/2029	
+	San Marcos Unified School District 4 08/01/2033	
+	Santa Clara County Financing Authority 4 05/15/2033	
+	School District Of Philadelphia/The 5 09/01/2030	
+	South Dakota Health & Educational Facil 5 09/01/2030	
+	State Of California 5 09/01/2027	
+	State Of California 5 10/01/2029	
+	State Of California 5 08/01/2030	
+	State Of Alaska 5 08/01/2028	
+	State Of Alaska International Airports 5 10/01/2031	
+	State Of California 3 10/01/2036	
+	Richmond County Hospital Authority 3 01/01/2033	
+	Rhode Island Commerce Corp 5 06/15/2027	
+	Rhode Island Commerce Corp 5 06/15/2029	
+	Private Colleges & Universities Authori 4 09/01/2036	
+	Placentia-Yorba Linda Unified School Di 4 10/01/2030	
+	Pennsylvania Turnpike Commission Oil Fr 5 12/01/2030	
+	Palm Beach County School District 5 08/01/2034	
+	Palm Beach County Health Facilities Aut 5 11/15/2032	
+	Pennsylvania Turnpike Commission 5 12/01/2033	
+	Pennsylvania Turnpike Commission 5 12/01/2032	
+	Pennsylvania Housing Finance Agency 3.65 10/01/2032	
+	Pennsylvania Housing Finance Agency 3.2 10/01/2031	
+	Pennsylvania Housing Finance Agency 3.2 10/01/2032	
+	Pennsylvania Higher Educational Facilit 5 08/15/2030	
+	Pennsylvania Higher Educational Facilit 5 08/15/2033	
+	Orange County School Board 5 08/01/2031	
+	Orange County Convention Center/Orlando 5 10/01/2029	
+	Oklahoma Turnpike Authority 5 01/01/2030	
+	University Of Hawaii 5 10/01/2030	
+	University Of Hawaii 5 10/01/2031	
+	University Of California 5 05/15/2033	
+	University Of Utah/The 5 08/01/2031	
+	Virginia Public Building Authority 3 08/01/2033	
+	Virginia Public Building Authority 4 08/01/2031	
+	Virginia Public School Authority 5 08/01/2026	
+	Washington Health Care Facilities Autho 5 10/01/2030	
+	University Of Alabama/The 3 07/01/2036	
+	Tsasc Inc/Ny 5 06/01/2029	
+	University Of California 5 05/15/2029	
+	Truckee Meadows Water Authority 5 07/01/2033	
+	Tennessee State School Bond Authority 5 11/01/2032	
+	Texas Water Development Board 5 04/15/2030	
+	Tobacco Settlement Financing Corp 5 06/01/2033	
+	Wayne State University 5 11/15/2029	
+	West Virginia Commissioner Of Highways 5 09/01/2029	
+	Washington Metropolitan Area Transit Au 5 07/01/2032	
+	Volusia County School Board 5 08/01/2026	
+	Washington Metropolitan Area Transit Au 5 07/01/2027	
+	Washington Metropolitan Area Transit Au 5 07/01/2027	
+	Washington Metropolitan Area Transit Au 5 07/01/2028	
+	Washington Clackamas & Yamhill Counties 5 06/15/2033	
+	Washington Metropolitan Area Transit Au 5 07/01/2031	
+	West Basin Municipal Water District/Ca 5 08/01/2028	
+	Wisconsin Health & Educational Faciliti 5 04/01/2034	
+	Wisconsin Department Of Transportation 5 07/01/2030	
+	Wisconsin Health & Educational Faciliti 5 11/15/2029	
+	Tobacco Settlement Financing Corp 5 06/01/2035	
+	Texas Water Development Board 5 10/15/2028	
+	Texas Water Development Board 5 10/15/2031	
+	Tobacco Settlement Financing Corp 5 06/01/2030	
+	Texas Water Development Board 4 10/15/2035	
+	Texas Water Development Board 4 10/15/2036	
+	Texas A&M University 4 05/15/2027	
+	Texas State University System 5 03/15/2026	
+	Texas State University System 5 03/15/2029	
+	Texas A&M University 5 05/15/2029	
+	Tsasc Inc/Ny 5 06/01/2028	
+	University Of California 5 05/15/2028	
+	University Of Colorado 5 06/01/2028	
+	Uab Medicine Finance Authority 5 09/01/2032	
+	Tuolumne Wind Project Authority 5 01/01/2027	
+	Washington Health Care Facilities Autho 5 10/01/2033	
+	Virginia College Building Authority 5 02/01/2026	
+	Virginia College Building Authority 5 02/01/2027	
+	Virginia College Building Authority 5 02/01/2029	
+	Virginia Commonwealth Transportation Bo 5 05/15/2031	
+	Virginia Commonwealth Transportation Bo 5 05/15/2027	
+	Virginia Commonwealth Transportation Bo 4 05/15/2034	
+	University Of North Texas System 5 04/15/2032	
+	Utah Transit Authority 0 12/15/2032	
+	Via Metropolitan Transit 5 07/15/2028	
+	Village Of Bluffton Oh 4 12/01/2033	
+	Virginia College Building Authority 3 02/01/2032	
+	Oklahoma Capitol Improvement Authority 4 07/01/2034	
+	Oklahoma Turnpike Authority 5 01/01/2028	
+	Omaha Public Power District 5 02/01/2035	
+	Orange County Convention Center/Orlando 5 10/01/2026	
+	Orange County Convention Center/Orlando 5 10/01/2031	
+	Orlando Utilities Commission 5 10/01/2032	
+	Ohio Water Development Authority 5 06/01/2028	
+	Northwest Independent School District 5 02/15/2027	
+	Oakland Unified School District/Alameda 5 08/01/2029	
+	Ohio Higher Educational Facility Commis 3.25 12/01/2035	
+	Pennsylvania Turnpike Commission 5 06/01/2031	
+	Pennsylvania Turnpike Commission 5 12/01/2030	
+	Pennsylvania Turnpike Commission 5 12/01/2028	
+	Palm Beach County School District 5 08/01/2027	
+	Palm Springs Unified School District 3 08/01/2030	
+	Park Hill School District Of Platte Cou 3 03/01/2032	
+	Park Hill School District Of Platte Cou 3 03/01/2033	
+	Pennsylvania Higher Educational Facilit 3.125 08/15/2032	
+	Pennsylvania Higher Educational Facilit 5 05/01/2033	
+	Pennsylvania Economic Development Finan 4 03/15/2036	
+	Pennsylvania Economic Development Finan 4 11/15/2034	
+	Pennsylvania Turnpike Commission Oil Fr 5 12/01/2027	
+	Permanent University Fund - University 5 07/01/2027	
+	Philadelphia Authority For Industrial D 4 07/01/2035	
+	Pierce County School District No 3 Puya 5 12/01/2030	
+	Plano Independent School District 5 02/15/2028	
+	Pierce County School District No 403 Be 5 12/01/2036	
+	Pierce County School District No 416 Wh 4 12/01/2031	
+	Polk County School District 5 10/01/2031	
+	Port Of Seattle Wa 5 02/01/2028	
+	Reedy Creek Improvement District 5 06/01/2029	
+	Public Finance Authority 5 03/01/2030	
+	Public Finance Authority 5 03/01/2031	
+	Rhode Island Health And Educational Bui 5 05/15/2027	
+	Riverside Community College District 5 08/01/2031	
+	Sacramento City Financing Authority 5 12/01/2026	
+	Sacramento City Financing Authority 5 12/01/2028	
+	Sacramento County Sanitation Districts 5 12/01/2026	
+	Riverside Redevelopment Agency Successo 5 09/01/2026	
+	State Of California 4 08/01/2034	
+	State Of Alaska 5 08/01/2031	
+	Springfield School District No R-12 4 03/01/2029	
+	State Of California 5 08/01/2028	
+	State Of California 5 04/01/2032	
+	State Of California 4 11/01/2031	
+	State Of California 5 09/01/2028	
+	State Of California 5 09/01/2030	
+	State Of California 5 08/01/2036	
+	State Of California Department Of Water 5 12/01/2032	
+	South Dakota Health & Educational Facil 5 09/01/2031	
+	School District Of The City Of Erie/The 5 04/01/2034	
+	Seward County Unified School District N 5 09/01/2029	
+	Southern California Public Power Author 5 07/01/2029	
+	South Carolina Transportation Infrastru 5 10/01/2032	
+	Santa Clara Unified School District 3 07/01/2034	
+	School Board Of Miami-Dade County/The 3.25 03/15/2033	
+	School Board Of Miami-Dade County/The 5 02/01/2026	
+	San Jose Redevelopment Agency Successor 5 08/01/2034	
+	San Diego Public Facilities Financing A 5 05/15/2027	
+	San Diego Public Facilities Financing A 5 10/15/2027	
+	San Francisco County Transportation Aut 4 02/01/2027	
+	San Joaquin County Transportation Autho 5 03/01/2032	
+	San Francisco Bay Area Rapid Transit Di 5 08/01/2032	
+	San Francisco Bay Area Rapid Transit Di 5 08/01/2035	
+	San Francisco Community College Distric 5 06/15/2025	
+	San Francisco County Transportation Aut 3 02/01/2031	
+	Sales Tax Securitization Corp 5 01/01/2037	
+	State Of Washington 5 08/01/2034	
+	State Of Washington 5 08/01/2030	
+	State Of Washington 5 08/01/2030	
+	State Of Washington 5 07/01/2028	
+	State Of Washington 5 08/01/2028	
+	State Of Washington 5 02/01/2030	
+	State Of Washington 5 02/01/2033	
+	State Of Washington 5 02/01/2027	
+	State Of Texas 5 10/01/2033	
+	State Of Wisconsin 4 05/01/2034	
+	State Of Wisconsin 5 05/01/2031	
+	State Of West Virginia 5 06/01/2032	
+	State Of Wisconsin 5 05/01/2026	
+	Stockton Unified School District 5 08/01/2028	
+	Stockton Unified School District 5 08/01/2031	
+	State Of Wisconsin Environmental Improv 5 06/01/2030	
+	State Of Wisconsin 5 11/01/2029	
+	Tarrant County Cultural Education Facil 5 07/01/2028	
+	Tarrant County Cultural Education Facil 5 11/15/2029	
+	State Of Wisconsin 5 11/01/2028	
+	State Of Mississippi 5 12/01/2033	
+	State Of Minnesota 3 10/01/2028	
+	State Of New Jersey 3 06/01/2032	
+	State Of Rhode Island 5 08/01/2027	
+	State Of Ohio 5 12/01/2029	
+	State Of Ohio 5 12/15/2027	
+	State Of Ohio 5 12/15/2030	
+	State Of Texas 5 10/01/2030	
+	State Of Texas 5 04/01/2031	
+	State Of Ohio 5 01/01/2030	
+	State Of Ohio 5 01/01/2031	
+	State Of North Carolina 5 05/01/2027	
+	State Of Ohio 5 01/01/2033	
+	State Of Kansas Department Of Transport 5 09/01/2034	
+	State Of Louisiana 3 09/01/2030	
+	State Of Louisiana 3.5 04/01/2032	
+	State Of Hawaii Department Of Budget & 5 07/01/2025	
+	State Of Hawaii 5 05/01/2033	
+	State Of Hawaii 5 10/01/2028	
+	State Of Louisiana 5 10/01/2027	
+	State Of Louisiana 5 08/01/2027	
+	State Of Louisiana 5 08/01/2029	
+	State Of Louisiana 5 09/01/2029	
+	State Of Louisiana 5 03/01/2032	
+	State Of Maryland 5 08/01/2027	
+	State Of Georgia 5 02/01/2030	
+	State Of Georgia 5 07/01/2027	
+	State Of Florida Department Of Transpor 5 07/01/2032	
+	State Of Georgia 5 02/01/2026	
+	State Of Florida 5 06/01/2028	
+	State Of Florida 5 06/01/2028	
+	State Of Florida 5 06/01/2030	
+	State Of Connecticut 5 04/15/2027	
+	State Of Colorado 5 03/15/2030	
+	State Of Connecticut Special Tax Revenu 5 01/01/2033	
+	State Of Connecticut Special Tax Revenu 5 09/01/2034	
+	New York State Dormitory Authority 5 07/01/2033	
+	New York State Dormitory Authority 5 07/01/2033	
+	New York State Dormitory Authority 5 10/01/2028	
+	New York State Dormitory Authority 5 10/01/2028	
+	New York State Dormitory Authority 5 03/15/2031	
+	New York State Dormitory Authority 5 03/15/2031	
+	New York State Dormitory Authority 5 03/15/2034	
+	New York State Dormitory Authority 5 03/15/2030	
+	New York State Dormitory Authority 5 03/15/2029	
+	New York State Dormitory Authority 5 03/15/2026	
+	New York State Dormitory Authority 5 03/15/2027	
+	New York State Dormitory Authority 5 02/15/2032	
+	North Carolina Capital Facilities Finan 5 01/01/2028	
+	New York State Environmental Facilities 5 06/15/2035	
+	North Texas Tollway Authority 5 01/01/2027	
+	North Harris County Regional Water Auth 5 12/15/2028	
+	North Dakota Housing Finance Agency 3.55 07/01/2033	
+	North Dakota Housing Finance Agency 3.55 07/01/2033	
+	Minneapolis-St Paul Metropolitan Airpor 5 01/01/2033	
+	Montgomery Independent School District 5 02/15/2027	
+	Montana Facility Finance Authority 5 01/01/2029	
+	Municipal Electric Authority Of Georgia 5 01/01/2028	
+	Michigan State Housing Development Auth 3.35 12/01/2034	
+	Michigan State Building Authority 5 10/15/2033	
+	Michigan State Hospital Finance Authori 5 12/01/2027	
+	Michigan Finance Authority 5 11/15/2027	
+	Michigan Finance Authority 5 10/01/2025	
+	Michigan Finance Authority 5 10/01/2026	
+	Michigan Finance Authority 3 11/15/2033	
+	Michigan State Building Authority 5 04/15/2035	
+	New Hope Cultural Education Facilities 4 08/15/2033	
+	New Jersey Educational Facilities Autho 5 06/15/2028	
+	New York City Transitional Finance Auth 5 08/01/2029	
+	New York City Transitional Finance Auth 5 07/15/2031	
+	New York City Transitional Finance Auth 5 07/15/2026	
+	New York City Transitional Finance Auth 5 02/01/2034	
+	New Jersey Turnpike Authority 5 01/01/2032	
+	New Jersey Turnpike Authority 5 01/01/2032	
+	New Jersey Turnpike Authority 4 01/01/2035	
+	New Jersey Turnpike Authority 5 01/01/2029	
+	New York City Municipal Water Finance A 5 06/15/2033	
+	New York City Transitional Finance Auth 4 08/01/2035	
+	New York City Transitional Finance Auth 3.5 11/01/2034	
+	Manatee County School District 5 10/01/2029	
+	Maricopa County Special Health Care Dis 5 07/01/2025	
+	Louisiana Local Government Environmenta 3.25 10/01/2032	
+	Los Angeles County Metropolitan Transpo 5 06/01/2031	
+	Los Angeles Department Of Water & Power 5 07/01/2025	
+	Los Angeles Department Of Water & Power 5 07/01/2027	
+	Los Angeles Department Of Water & Power 5 07/01/2027	
+	Los Angeles Department Of Water & Power 5 07/01/2028	
+	Los Angeles Department Of Water & Power 5 07/01/2028	
+	Los Angeles Unified School District/Ca 5 07/01/2026	
+	Los Angeles Unified School District/Ca 5 07/01/2026	
+	Los Angeles Department Of Water & Power 5 07/01/2032	
+	Los Angeles Department Of Water & Power 5 07/01/2034	
+	Los Angeles Unified School District/Ca 2 07/01/2029	
+	Massachusetts Bay Transportation Author 0 07/01/2030	
+	Massachusetts Development Finance Agenc 5 07/01/2028	
+	Massachusetts Development Finance Agenc 5 07/01/2034	
+	Massachusetts Housing Finance Agency 2.75 12/01/2034	
+	Massachusetts School Building Authority 5 11/15/2033	
+	Metropolitan Transit Authority Of Harri 5 11/01/2027	
+	Mesa County Valley School District No 5 5.25 12/01/2033	
+	Metropolitan Government Nashville & Dav 5 07/01/2035	
+	Memphis-Shelby County Industrial Develo 5 11/01/2030	
+	Metropolitan Transportation Authority 4 11/15/2034	
+	Metropolitan Transportation Authority 3.125 11/15/2035	
+	Metropolitan Transportation Authority 5 11/15/2027	
+	Metropolitan Transportation Authority 5 11/15/2027	
+	Metropolitan Transportation Authority 5 11/15/2031	
+	Metropolitan Water District Of Southern 5 01/01/2032	
+	Metropolitan Water Reclamation District 5 12/01/2027	
+	Metropolitan Washington Airports Author 4 10/01/2035	
+	Metropolitan Washington Airports Author 4 10/01/2036	
+	Great Lakes Water Authority Water Suppl 5 07/01/2031	
+	Harris County Flood Control District 5 10/01/2033	
+	Illinois Finance Authority 4 07/01/2026	
+	Illinois Finance Authority 4 07/01/2030	
+	Illinois State Toll Highway Authority 5 01/01/2029	
+	Illinois Finance Authority 5 11/15/2030	
+	Illinois Finance Authority 5 12/01/2027	
+	Indiana Finance Authority 5 02/01/2033	
+	Indiana Finance Authority 5 02/01/2033	
+	Indiana Finance Authority 5 02/01/2035	
+	Indiana Finance Authority 5 02/01/2036	
+	Indiana Finance Authority 5 02/01/2027	
+	Indiana Finance Authority 5 02/01/2027	
+	Indiana Finance Authority 5 02/01/2029	
+	Illinois Finance Authority 5 01/01/2026	
+	Illinois Finance Authority 5 01/01/2030	
+	Illinois Finance Authority 4 12/01/2030	
+	Illinois Finance Authority 4 12/01/2031	
+	Las Vegas Valley Water District 5 06/01/2027	
+	Lewisville Independent School District 5 08/15/2026	
+	Lexington County Health Services Distri 5 11/01/2029	
+	Lamar Consolidated Independent School D 5 02/15/2027	
+	Kentucky Municipal Power Agency 5 09/01/2026	
+	Los Angeles County Metropolitan Transpo 5 06/01/2028	
+	Los Angeles Community College District/ 4 08/01/2034	
+	Los Angeles Community College District/ 5 08/01/2028	
+	Los Angeles Community College District/ 4 08/01/2027	
+	Kane Cook & Dupage Counties School Dist 5 01/01/2029	
+	Kane Cook & Dupage Counties School Dist 5 01/01/2031	
+	Kane Cook & Dupage Counties School Dist 5 01/01/2033	
+	Kane Mchenry Cook & De Kalb Counties Un 5 01/01/2028	
+	Kentucky State Property & Building Comm 5 05/01/2028	
+	Katy Independent School District 5 02/15/2031	
+	Johnson & Miami Counties Unified School 4 09/01/2034	
+	Indiana Finance Authority 5 06/01/2027	
+	Indiana University 5 06/01/2027	
+	Indianapolis Local Public Improvement B 4 01/01/2034	
+	Iowa Finance Authority 5 08/01/2026	
+	County Of York Sc 5 04/01/2027	
+	County Of Wake Nc 3.125 08/01/2034	
+	Delaware State Health Facilities Author 3 07/01/2032	
+	Cypress-Fairbanks Independent School Di 5 02/15/2029	
+	Dallas Area Rapid Transit 5 12/01/2028	
+	Dallas Area Rapid Transit 5 12/01/2029	
+	Desert Community College District 5 08/01/2033	
+	District Of Columbia 5 06/01/2027	
+	District Of Columbia 5 06/01/2029	
+	District Of Columbia 5 06/01/2029	
+	County Of Sacramento Ca Airport System 5 07/01/2033	
+	County Of Santa Clara Ca 3 08/01/2036	
+	County Of Santa Clara Ca 5 08/01/2029	
+	County Of Scioto Oh 3.375 02/15/2035	
+	County Of Miami-Dade Fl Aviation Revenu 5 10/01/2027	
+	East Bay Municipal Utility District Wat 5 06/01/2028	
+	East Bay Municipal Utility District Wat 5 06/01/2031	
+	District Of Columbia 5 06/01/2032	
+	El Paso Independent School District 5 08/15/2031	
+	Energy Northwest 5 07/01/2027	
+	Energy Northwest 5 07/01/2028	
+	El Paso County Hospital District 4 08/15/2036	
+	Eastern Municipal Water District Financ 5 07/01/2031	
+	Florida Department Of Environmental Pro 5 07/01/2027	
+	Florida Department Of Management Servic 5 08/01/2025	
+	Grant & Douglas Counties School Distric 4 12/01/2035	
+	Gainesville & Hall County Hospital Auth 5 02/15/2036	
+	Garland Independent School District 4 02/15/2031	
+	Garland Independent School District 5 02/15/2029	
+	Golden State Tobacco Securitization Cor 5 06/01/2032	
+	Grand Parkway Transportation Corp 5 10/01/2030	
+	Grand River Dam Authority 5 06/01/2030	
+	Florida Department Of Management Servic 5 11/01/2027	
+	Florida Housing Finance Corp 3.2 07/01/2036	
+	Florida Housing Finance Corp 3.25 07/01/2032	
+	Florida Housing Finance Corp 3.6 07/01/2037	
+	Florida Municipal Power Agency 5 10/01/2031	
+	Fontana Redevelopment Agency Successor 5 10/01/2026	
+	Fort Bend Independent School District 5 02/15/2026	
+	Fort Bend Independent School District 5 08/15/2028	
+	City Of San Jose Ca 5 09/01/2032	
+	City Of Seattle Wa Water System Revenue 4 08/01/2031	
+	Colorado Health Facilities Authority 5 08/01/2036	
+	Colorado Higher Education 5 11/01/2026	
+	Colorado River Municipal Water District 5 01/01/2028	
+	Commonwealth Of Massachusetts 5 07/01/2029	
+	Commonwealth Of Massachusetts 5 05/01/2032	
+	Commonwealth Of Massachusetts 5 11/01/2031	
+	Connecticut Housing Finance Authority 2.05 05/15/2037	
+	Connecticut Housing Finance Authority 3.05 11/15/2031	
+	Connecticut Housing Finance Authority 3.2 11/15/2032	
+	Connecticut Housing Finance Authority 3.65 11/15/2032	
+	Connecticut State Health & Educational 4 07/01/2030	
+	Commonwealth Of Pennsylvania 4 09/15/2034	
+	County Of Bexar Tx 4 06/15/2033	
+	Conroe Independent School District 5 02/15/2033	
+	County Of Clark Nv 5 06/01/2034	
+	County Of Clark Nv 4 11/01/2031	
+	County Of Cuyahoga Oh 5 02/15/2030	
+	County Of Mecklenburg Nc 2 12/01/2030	
+	County Of Jefferson Al 5 09/15/2034	
+	County Of Miami-Dade Fl 3.125 04/01/2037	
+	County Of Miami-Dade Fl 5 07/01/2027	
+	County Of Miami-Dade Fl 5 07/01/2030	
+	County Of Franklin Oh 5 11/01/2030	
+	County Of Franklin Oh 5 11/01/2031	
+	County Of Franklin Oh 5 11/01/2032	
+	County Of Harris Tx 5 08/15/2026	
+	County Of Harris Tx 5 08/15/2027	
+	County Of Harris Tx 5 08/15/2029	
+	County Of Hudson Nj 2.125 11/15/2036	
+	County Of Harris Tx 5 08/15/2031	
+	City Of San Antonio Tx Electric & Gas S 5 02/01/2034	
+	City Of San Francisco Ca Public Utiliti 4 11/01/2030	
+	City Of San Francisco Ca Public Utiliti 5 11/01/2026	
+	City Of San Francisco Ca Public Utiliti 5 11/01/2027	
+	City Of San Antonio Tx 5 08/01/2032	
+	City Of San Antonio Tx Electric & Gas S 5 02/01/2029	
+	City Of San Antonio Tx Electric & Gas S 5 02/01/2031	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2031	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2032	
+	City Of Philadelphia Pa 5 08/01/2032	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2029	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2033	
+	City Of New York Ny 5 08/01/2027	
+	City Of New York Ny 5 04/01/2028	
+	City Of Philadelphia Pa 5 02/01/2034	
+	City Of Ocean City Nj 2.25 09/15/2033	
+	City Of New York Ny 5 10/01/2035	
+	City Of Gainesville Fl Utilities System 5 10/01/2032	
+	City Of Houston Tx 5 03/01/2031	
+	City Of Houston Tx Airport System Reven 5 07/01/2031	
+	City Of Houston Tx Combined Utility Sys 5 11/15/2030	
+	City Of Jacksonville Fl 5 10/01/2029	
+	City Of Lubbock Tx 5 02/15/2027	
+	City Of Milwaukee Wi 5 04/01/2026	
+	City Of Milwaukee Wi 5 04/01/2027	
+	City Of Minneapolis Mn 5 11/15/2033	
+	City Of Boston Ma 5 03/01/2029	
+	City Of Cape Coral Fl Water & Sewer Rev 5 10/01/2031	
+	City Of Chicago Il 5 01/01/2029	
+	City Of Atlanta Ga Water & Wastewater R 4 11/01/2035	
+	City Of El Paso Tx 4 08/15/2032	
+	City Of El Paso Tx 5 08/15/2026	
+	City Of Chicago Il Waterworks Revenue 5.25 11/01/2034	
+	City Of Colorado Springs Co Utilities S 5 11/15/2029	
+	City Of Colorado Springs Co Utilities S 5 11/15/2030	
+	City Of Colorado Springs Co Utilities S 5 11/15/2031	
+	City Of Columbus Oh 4 04/01/2030	
+	Alabama Federal Aid Highway Finance Aut 5 09/01/2027	
+	Alaska Housing Finance Corp 4 12/01/2031	
+	Allegheny County Sanitary Authority 4 12/01/2033	
+	Aldine Independent School District 5 02/15/2027	
+	California Health Facilities Financing 5 11/15/2034	
+	Austin Independent School District 4 08/01/2032	
+	Bexar County Hospital District 4 02/15/2032	
+	Board Of Regents Of The University Of T 5 08/15/2025	
+	Board Of Regents Of The University Of T 5 08/15/2025	
+	California Infrastructure & Economic De 5 10/01/2033	
+	California Infrastructure & Economic De 5 10/01/2025	
+	California Infrastructure & Economic De 5 10/01/2025	
+	California Infrastructure & Economic De 5 10/01/2026	
+	California State University 5 11/01/2026	
+	California State University 5 11/01/2034	
+	City Of Arlington Tx Special Tax Revenu 5 02/15/2027	
+	City & County Honolulu Hi Wastewater Sy 4 07/01/2034	
+	City & County Of Denver Co Dedicated Ex 0 08/01/2034	
+	City & County Of Denver Co Dedicated Ex 5 08/01/2027	
+	City & County Of Honolulu Hi 4 08/01/2035	
+	Chicago O'Hare International Airport 5 01/01/2030	
+	Chicago O'Hare International Airport 5 01/01/2032	
+	Chicago Board Of Education 5.75 04/01/2033	
+	Central Puget Sound Regional Transit Au 5 11/01/2027	
+	Central Puget Sound Regional Transit Au 5 11/01/2029	
+	Chabot-Las Positas Community College Di 4 08/01/2035	
+	Carmel Local Public Improvement Bond Ba 5 07/15/2030	
+	California State University 5 11/01/2031	
+	California State University 5 11/01/2031	
+	California State Public Works Board 5 11/01/2030	
+	California Infrastructure & Economic De 5 10/01/2029	
+	California State Public Works Board 5 11/01/2028	
+	California State Public Works Board 5 11/01/2029	
+	Board Of Regents Of The University Of T 5 08/15/2027	
+	Auburn University 5 06/01/2028	
+	Auburn University 5 06/01/2029	
+	Alabama Federal Aid Highway Finance Aut 5 09/01/2033	
+	City Of Austin Tx 5 09/01/2026	
+	City Of Bakersfield Ca Wastewater Reven 5 09/15/2029	
+	City Of San Francisco Ca Public Utiliti 5 11/01/2033	
+	County Of Fort Bend Tx 5 03/01/2028	
+	Contra Costa Transportation Authority S 5 03/01/2031	
+	Commonwealth Of Massachusetts 5 12/01/2027	
+	Commonwealth Of Massachusetts Transport 5 06/01/2027	
+	City Of Seattle Wa Water System Revenue 5 08/01/2026	
+	City Of Springfield Il Electric Revenue 5 03/01/2034	
+	Eastern Municipal Water District Financ 5 07/01/2031	
+	Eagle Mountain & Saginaw Independent Sc 5 08/15/2030	
+	County Of Montgomery Md 5 12/01/2027	
+	District Of Columbia 5 06/01/2030	
+	District Of Columbia 5 06/01/2031	
+	District Of Columbia 5 06/01/2031	
+	Dauphin County General Authority 4 06/01/2031	
+	Indiana Housing & Community Development 2.85 07/01/2031	
+	Kent State University 5 05/01/2027	
+	Los Angeles County Metropolitan Transpo 4 07/01/2030	
+	Long Island Power Authority 5 09/01/2027	
+	Los Angeles Community College District/ 4 08/01/2026	
+	Kitsap County School District No 401 Ce 4 12/01/2028	
+	Great Lakes Water Authority Water Suppl 5 07/01/2029	
+	Miami-Dade County Expressway Authority 5 07/01/2033	
+	Metropolitan Transportation Authority 5 11/15/2029	
+	Los Angeles Unified School District/Ca 5 07/01/2028	
+	Los Angeles Department Of Water & Power 5 07/01/2027	
+	Louisville/Jefferson County Metropolita 5 10/01/2029	
+	Maricopa County Industrial Development 3.125 01/01/2033	
+	New York City Transitional Finance Auth 5 11/01/2026	
+	Michigan State Building Authority 5 04/15/2031	
+	Michigan State Building Authority 5 04/15/2032	
+	Michigan State Building Authority 5 04/15/2032	
+	Michigan Finance Authority 5 12/01/2031	
+	Missouri Joint Municipal Electric Utili 4 12/01/2032	
+	North Texas Municipal Water District Wa 5 09/01/2031	
+	Northern California Transmission Agency 5 05/01/2027	
+	Northern California Transmission Agency 5 05/01/2028	
+	New York State Dormitory Authority 5 03/15/2033	
+	New York State Dormitory Authority 5 07/01/2030	
+	New York State Dormitory Authority 5 10/01/2027	
+	State Of Florida 5 07/01/2027	
+	State Of Florida 5 06/01/2028	
+	State Of Michigan 5 12/01/2027	
+	State Of Hawaii 5 10/01/2028	
+	State Of Ohio 5 03/15/2033	
+	State Of Oregon 5 05/01/2029	
+	State Of Texas 5 04/01/2032	
+	State Of Texas 5 10/01/2026	
+	Tennessee Housing Development Agency 3.5 07/01/2033	
+	Tennessee Housing Development Agency 3.7 07/01/2036	
+	Suffolk County Water Authority 4 06/01/2031	
+	State Of Wisconsin 5 05/01/2030	
+	State Of Wisconsin 5 05/01/2031	
+	State Of Wisconsin 5 11/01/2026	
+	State Of Washington 5 08/01/2033	
+	San Diego Community College District 5 08/01/2029	
+	San Joaquin Delta Community College Dis 5 08/01/2029	
+	San Diego Unified School District/Ca 4 07/01/2029	
+	San Diego County Water Authority 5 05/01/2028	
+	Santa Clara Valley Water District 5 06/01/2031	
+	South Central Connecticut Regional Wate 5 08/01/2029	
+	South Dakota Housing Development Author 3.7 11/01/2036	
+	State Of California Department Of Water 5 12/01/2031	
+	State Of California 5 09/01/2027	
+	State Of California 3.75 12/01/2034	
+	Spring Independent School District 5 08/15/2029	
+	Port Of Seattle Wa 5 02/01/2030	
+	Philadelphia Authority For Industrial D 5 04/01/2031	
+	Pennsylvania Turnpike Commission 5 12/01/2032	
+	Pennsylvania State University/The 5 09/01/2030	
+	Ohio Water Development Authority Water 5 12/01/2026	
+	Ohio Water Development Authority Water 5 12/01/2027	
+	Paducah Electric Plant Board 5 10/01/2026	
+	University Of North Texas System 5 04/15/2029	
+	University Of California 5 05/15/2031	
+	Virginia Commonwealth Transportation Bo 5 03/15/2029	
+	Virginia College Building Authority 5 09/01/2027	
+	Virginia College Building Authority 5 09/01/2028	
+	Virginia Public School Authority 5 08/01/2029	
+	Truckee Meadows Water Authority 5 07/01/2031	
+	Triborough Bridge & Tunnel Authority 5 11/15/2029	
+	Texas Water Development Board 4 10/15/2032	
+	Texas A&M University 4 05/15/2029	
+	Wisconsin Health & Educational Faciliti 5 11/15/2028	
+	West Contra Costa Unified School Distri 5 08/01/2031	

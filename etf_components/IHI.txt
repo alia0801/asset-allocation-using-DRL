@@ -1,0 +1,69 @@
+IHI
+TMO	THERMO FISHER SCIENTIFIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=IHI
+ABT	ABBOTT LABORATORIES	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=IHI
+MDT	MEDTRONIC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=IHI
+BSX	BOSTON SCIENTIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BSX.US&back=IHI
+BDX	BECTON DICKINSON	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=IHI
+ISRG	INTUITIVE SURGICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=IHI
+EW	EDWARDS LIFESCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=IHI
+SYK	STRYKER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SYK.US&back=IHI
+DXCM	DEXCOM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=IHI
+RMD	RESMED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=IHI
+IDXX	IDEXX LABORATORIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=IHI
+BAX	BAXTER INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=IHI
+ZBH	ZIMMER BIOMET HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=IHI
+STE	STERIS	/etf/ea/ETZCW.djhtm?c=1&etfid=STE.US&back=IHI
+WAT	WATERS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=IHI
+PODD	INSULET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PODD.US&back=IHI
+HOLX	HOLOGIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=IHI
+ABMD	ABIOMED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABMD.US&back=IHI
+SWAV	SHOCKWAVE MEDICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWAV.US&back=IHI
+TFX	TELEFLEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=IHI
+BIO	BIO RAD LABORATORIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BIO.US&back=IHI
+MASI	MASIMO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MASI.US&back=IHI
+NVCR	NOVOCURE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NVCR.US&back=IHI
+NVST	ENVISTA HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVST.US&back=IHI
+PEN	PENUMBRA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEN.US&back=IHI
+BRKR	BRUKER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BRKR.US&back=IHI
+GMED	GLOBUS MEDICAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GMED.US&back=IHI
+STAA	STAAR SURGICAL	/etf/ea/ETZCW.djhtm?c=1&etfid=STAA.US&back=IHI
+OMCL	OMNICELL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OMCL.US&back=IHI
+IRTC	IRHYTHM TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IRTC.US&back=IHI
+QDEL	QUIDELORTHO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=QDEL.US&back=IHI
+IART	INTEGRA LIFESCIENCES HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=IART.US&back=IHI
+AXNX	AXONICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AXNX.US&back=IHI
+LIVN	LIVANOVA PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=LIVN.US&back=IHI
+TNDM	TANDEM DIABETES CARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TNDM.US&back=IHI
+CNMD	CONMED CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNMD.US&back=IHI
+ENOV	ENOVIS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ENOV.US&back=IHI
+NARI	INARI MEDICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NARI.US&back=IHI
+GKOS	GLAUKOS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GKOS.US&back=IHI
+NUVA	NUVASIVE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NUVA.US&back=IHI
+ATRC	ATRICURE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATRC.US&back=IHI
+ITGR	INTEGER HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ITGR.US&back=IHI
+	BLK CSH FND TREASURY SL AGENCY	
+CYRX	CRYOPORT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CYRX.US&back=IHI
+NVRO	NEVRO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVRO.US&back=IHI
+TMDX	TRANSMEDICS GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMDX.US&back=IHI
+HSKA	HESKA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HSKA.US&back=IHI
+LMAT	LEMAITRE VASCULAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LMAT.US&back=IHI
+AORT	ARTIVION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AORT.US&back=IHI
+MLAB	MESA LABORATORIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MLAB.US&back=IHI
+ANGO	ANGIODYNAMICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANGO.US&back=IHI
+VREX	VAREX IMAGING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VREX.US&back=IHI
+BFLY	BUTTERFLY NETWORK INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BFLY.US&back=IHI
+OM	OUTSET MEDICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OM.US&back=IHI
+SENS	SENSEONICS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SENS.US&back=IHI
+NSTG	NANOSTRING TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NSTG.US&back=IHI
+INGN	INOGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INGN.US&back=IHI
+CSII	CARDIOVASCULAR SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSII.US&back=IHI
+VRAY	VIEWRAY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRAY.US&back=IHI
+SRDX	SURMODICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SRDX.US&back=IHI
+SIBN	SI BONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SIBN.US&back=IHI
+OFIX	ORTHOFIX MEDICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OFIX.US&back=IHI
+AXGN	AXOGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AXGN.US&back=IHI
+ZIMV	ZIMVIE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZIMV.US&back=IHI
+SPNE	SEASPINE HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SPNE.US&back=IHI
+	CASH COLLATERAL USD WFFUT	
+	E-MINI HEALTH CARE SECTOR SEP 22	
+	EMINI TECHNOLOGY SELECT SECTOR SEP	

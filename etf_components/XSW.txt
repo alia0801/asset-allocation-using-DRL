@@ -1,0 +1,200 @@
+XSW
+MARA	Marathon Digital Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MARA.US&back=XSW
+EVOP	EVO Payments Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EVOP.US&back=XSW
+PING	Ping Identity Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PING.US&back=XSW
+PAYO	Payoneer Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYO.US&back=XSW
+BTRS	BTRS Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BTRS.US&back=XSW
+EPAM	EPAM Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=XSW
+PCTY	Paylocity Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PCTY.US&back=XSW
+RIOT	Riot Blockchain Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RIOT.US&back=XSW
+BILL	Bill.com Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BILL.US&back=XSW
+IOT	Samsara Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=IOT.US&back=XSW
+GTLB	Gitlab Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GTLB.US&back=XSW
+CFLT	Confluent Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CFLT.US&back=XSW
+NEWR	New Relic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWR.US&back=XSW
+AGYS	Agilysys Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGYS.US&back=XSW
+TTD	Trade Desk Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TTD.US&back=XSW
+TOST	Toast Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TOST.US&back=XSW
+MODN	Model N Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MODN.US&back=XSW
+CCSI	Consensus Cloud Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCSI.US&back=XSW
+AYX	Alteryx Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AYX.US&back=XSW
+BR	Broadridge Financial Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=XSW
+QLYS	Qualys Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QLYS.US&back=XSW
+S	SentinelOne Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=S.US&back=XSW
+NTNX	Nutanix Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=NTNX.US&back=XSW
+PAYC	Paycom Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=XSW
+MANH	Manhattan Associates Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MANH.US&back=XSW
+INFA	Informatica Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=INFA.US&back=XSW
+ESTC	Elastic NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTC.US&back=XSW
+PYCR	Paycor HCM Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYCR.US&back=XSW
+ZEN	Zendesk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZEN.US&back=XSW
+SPT	Sprout Social Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SPT.US&back=XSW
+PYPL	PayPal Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=XSW
+HCP	HashiCorp Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=HCP.US&back=XSW
+GDYN	Grid Dynamics Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GDYN.US&back=XSW
+SPSC	SPS Commerce Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPSC.US&back=XSW
+IMXI	International Money Express Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IMXI.US&back=XSW
+CDNS	Cadence Design Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=XSW
+U	Unity Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=U.US&back=XSW
+EXLS	ExlService Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXLS.US&back=XSW
+ADP	Automatic Data Processing Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=XSW
+IT	Gartner Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=XSW
+AVLR	Avalara Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVLR.US&back=XSW
+SUMO	Sumo Logic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SUMO.US&back=XSW
+FOUR	Shift4 Payments Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOUR.US&back=XSW
+AFRM	Affirm Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AFRM.US&back=XSW
+MITK	Mitek Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MITK.US&back=XSW
+CDAY	Ceridian HCM Holding Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDAY.US&back=XSW
+MSTR	MicroStrategy Incorporated Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSTR.US&back=XSW
+TLS	Telos Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TLS.US&back=XSW
+EVBG	Everbridge Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVBG.US&back=XSW
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=XSW
+SNPS	Synopsys Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=XSW
+CWAN	Clearwater Analytics Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CWAN.US&back=XSW
+PANW	Palo Alto Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=XSW
+PAYA	Paya Holdings Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYA.US&back=XSW
+FICO	Fair Isaac Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FICO.US&back=XSW
+BSY	Bentley Systems Incorporated Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BSY.US&back=XSW
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=XSW
+WDAY	Workday Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=XSW
+FRSH	Freshworks Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FRSH.US&back=XSW
+KNBE	KnowBe4 Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=KNBE.US&back=XSW
+TYL	Tyler Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=XSW
+MTTR	Matterport Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MTTR.US&back=XSW
+DDOG	Datadog Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=XSW
+G	Genpact Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=G.US&back=XSW
+ALRM	Alarm.com Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALRM.US&back=XSW
+APPF	AppFolio Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APPF.US&back=XSW
+CCCS	CCC Intelligent Solutions Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCCS.US&back=XSW
+CXM	Sprinklr Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CXM.US&back=XSW
+ADSK	Autodesk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=XSW
+CRWD	CrowdStrike Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=XSW
+AZPN	Aspen Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZPN.US&back=XSW
+APPS	Digital Turbine Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APPS.US&back=XSW
+FISV	Fiserv Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=XSW
+JKHY	Jack Henry & Associates Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=XSW
+KD	Kyndryl Holdings Incorporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KD.US&back=XSW
+ECOM	Channeladvisor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ECOM.US&back=XSW
+GPN	Global Payments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=XSW
+MGI	MoneyGram International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MGI.US&back=XSW
+	Mandiant Inc.	
+PTC	PTC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=XSW
+	Citrix Systems Inc.	
+SABR	Sabre Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SABR.US&back=XSW
+HCKT	Hackett Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HCKT.US&back=XSW
+PD	PagerDuty Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PD.US&back=XSW
+FIVN	Five9 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIVN.US&back=XSW
+ZS	Zscaler Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=XSW
+HUBS	HubSpot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBS.US&back=XSW
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=XSW
+ROP	Roper Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=XSW
+ANSS	ANSYS Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=XSW
+ATVI	Activision Blizzard Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=XSW
+SMAR	Smartsheet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SMAR.US&back=XSW
+PAYX	Paychex Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=XSW
+XPER	Xperi Holding Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XPER.US&back=XSW
+VRNT	Verint Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNT.US&back=XSW
+EBIX	Ebix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBIX.US&back=XSW
+MMS	MAXIMUS Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMS.US&back=XSW
+APPN	Appian Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APPN.US&back=XSW
+ACN	Accenture Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=XSW
+AI	C3.ai Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AI.US&back=XSW
+IIIV	i3 Verticals Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=IIIV.US&back=XSW
+VRRM	Verra Mobility Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VRRM.US&back=XSW
+WK	Workiva Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WK.US&back=XSW
+BOX	Box Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BOX.US&back=XSW
+CSGS	CSG Systems International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGS.US&back=XSW
+ALTR	Altair Engineering Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ALTR.US&back=XSW
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=XSW
+BKI	Black Knight Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKI.US&back=XSW
+PRGS	Progress Software Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGS.US&back=XSW
+YOU	Clear Secure Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=YOU.US&back=XSW
+QTWO	Q2 Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QTWO.US&back=XSW
+DLB	Dolby Laboratories Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DLB.US&back=XSW
+NLOK	NortonLifeLock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=XSW
+NABL	N-able Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NABL.US&back=XSW
+NCR	NCR Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NCR.US&back=XSW
+DBX	Dropbox Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=XSW
+MA	Mastercard Incorporated Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=XSW
+COUP	Coupa Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COUP.US&back=XSW
+SQ	Block Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=XSW
+TTWO	Take-Two Interactive Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=XSW
+JAMF	Jamf Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=JAMF.US&back=XSW
+ATEN	A10 Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATEN.US&back=XSW
+ASAN	Asana Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ASAN.US&back=XSW
+FORG	ForgeRock Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FORG.US&back=XSW
+GWRE	Guidewire Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GWRE.US&back=XSW
+NCNO	nCino Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NCNO.US&back=XSW
+EA	Electronic Arts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=XSW
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=XSW
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=XSW
+PLTR	Palantir Technologies Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTR.US&back=XSW
+XM	Qualtrics International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=XM.US&back=XSW
+FIS	Fidelity National Information Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=XSW
+BL	BlackLine Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BL.US&back=XSW
+OSPN	OneSpan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OSPN.US&back=XSW
+VMW	VMware Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=XSW
+DT	Dynatrace Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DT.US&back=XSW
+SSNC	SS&C Technologies Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=XSW
+EVTC	EVERTEC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVTC.US&back=XSW
+NOW	ServiceNow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=XSW
+SPLK	Splunk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=XSW
+AMPL	Amplitude Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AMPL.US&back=XSW
+CTSH	Cognizant Technology Solutions Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=XSW
+WEX	WEX Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WEX.US&back=XSW
+FLT	FLEETCOR Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=XSW
+ETWO	E2open Parent Holdings Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ETWO.US&back=XSW
+TDC	Teradata Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TDC.US&back=XSW
+DOCU	DocuSign Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCU.US&back=XSW
+CVLT	CommVault Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVLT.US&back=XSW
+ENV	Envestnet Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENV.US&back=XSW
+ACIW	ACI Worldwide Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACIW.US&back=XSW
+CRM	Salesforce Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=XSW
+PATH	UiPath Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=XSW
+BLKB	Blackbaud Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLKB.US&back=XSW
+SCPL	SciPlay Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SCPL.US&back=XSW
+WU	Western Union Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=XSW
+VRNS	Varonis Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNS.US&back=XSW
+AVPT	AvePoint Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AVPT.US&back=XSW
+TENB	Tenable Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TENB.US&back=XSW
+TWKS	Thoughtworks Holding Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TWKS.US&back=XSW
+RPD	Rapid7 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RPD.US&back=XSW
+FTNT	Fortinet Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=XSW
+LPSN	LivePerson Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LPSN.US&back=XSW
+SKLZ	Skillz Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SKLZ.US&back=XSW
+CNXC	Concentrix Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=XSW
+ZUO	Zuora Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZUO.US&back=XSW
+CNDT	Conduent Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNDT.US&back=XSW
+PRFT	Perficient Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRFT.US&back=XSW
+BFH	Bread Financial Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BFH.US&back=XSW
+MQ	Marqeta Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MQ.US&back=XSW
+EEFT	Euronet Worldwide Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EEFT.US&back=XSW
+TTEC	TTEC Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTEC.US&back=XSW
+EGHT	8x8 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EGHT.US&back=XSW
+PLTK	Playtika Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTK.US&back=XSW
+RNG	RingCentral Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RNG.US&back=XSW
+YEXT	Yext Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YEXT.US&back=XSW
+RPAY	Repay Holdings Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RPAY.US&back=XSW
+OLO	Olo Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=OLO.US&back=XSW
+UIS	Unisys Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UIS.US&back=XSW
+IDCC	InterDigital Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDCC.US&back=XSW
+VERX	Vertex Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VERX.US&back=XSW
+TASK	TaskUs Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TASK.US&back=XSW
+DXC	DXC Technology Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=XSW
+RAMP	LiveRamp Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RAMP.US&back=XSW
+UPLD	Upland Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UPLD.US&back=XSW
+PEGA	Pegasystems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEGA.US&back=XSW
+PRO	PROS Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRO.US&back=XSW
+CASS	Cass Information Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CASS.US&back=XSW
+ZM	Zoom Video Communications Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=XSW
+LAW	CS Disco Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LAW.US&back=XSW
+CRNC	Cerence Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRNC.US&back=XSW
+DOMO	Domo Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=DOMO.US&back=XSW
+APP	AppLovin Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APP.US&back=XSW
+MNTV	Momentive Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MNTV.US&back=XSW
+DCT	Duck Creek Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DCT.US&back=XSW
+AMSWA	American Software Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AMSWA.US&back=XSW
+CTLP	Cantaloupe Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLP.US&back=XSW
+MYPS	PLAYSTUDIOS Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MYPS.US&back=XSW
+AVYA	Avaya Holdings Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVYA.US&back=XSW
+	STATE STREET INSTITUTIONAL LIQ STATE STR	

@@ -1,0 +1,27 @@
+RTH
+AMZN	Amazon.Com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=RTH
+HD	Home Depot Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=RTH
+COST	Costco Wholesale Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=RTH
+WMT	Walmart Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=RTH
+LOW	Lowe's Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=RTH
+CVS	Cvs Health Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=RTH
+TGT	Target Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=RTH
+TJX	Tjx Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=RTH
+JD	Jd.Com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JD.US&back=RTH
+MCK	Mckesson Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=RTH
+ORLY	O'Reilly Automotive Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=RTH
+DG	Dollar General Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=RTH
+SYY	Sysco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=RTH
+AZO	Autozone Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=RTH
+LULU	Lululemon Athletica Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=RTH
+KR	Kroger Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=RTH
+ROST	Ross Stores Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=RTH
+DLTR	Dollar Tree Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=RTH
+WBA	Walgreens Boots Alliance Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=RTH
+ULTA	Ulta Beauty Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=RTH
+ABC	Amerisourcebergen Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=RTH
+CAH	Cardinal Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=RTH
+BBY	Best Buy Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=RTH
+BBWI	Bath & Body Works Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=RTH
+W	Wayfair Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=W.US&back=RTH
+	Other/Cash	

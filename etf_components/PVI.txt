@@ -1,0 +1,42 @@
+PVI
+	California Health Facilities Financing Authority 2 03/01/2047	
+	Massachusetts Transportation Trust Fund Metropolitan Highway 2.5 01/01/2037	
+	North Carolina Medical Care Commission 2.2 11/01/2034	
+	New York City Health and Hospitals Corp 2.31 02/15/2031	
+	Emmaus General Authority 1.93 12/01/2028	
+	Geneva Industrial Development Agency 2.53 12/01/2037	
+	Illinois Finance Authority 2.55 08/15/2052	
+	City of Indianapolis IN 2.45 05/15/2038	
+	Build NYC Resource Corp 2.56 04/01/2045	
+	Washington Suburban Sanitary Commission 2.55 06/01/2023	
+	Chelan County Public Utility District No 1 2.55 07/01/2032	
+	Los Angeles Department of Water & Power 2.13 07/01/2034	
+	City of Houston TX Combined Utility System Revenue 2.46 05/15/2034	
+	New York City Municipal Water Finance Authority 2.57 06/15/2041	
+	Metropolitan Transportation Authority 2.44 11/01/2026	
+	Louisiana Offshore Terminal Authority 2.3 09/01/2033	
+	Pasadena Independent School District 2.55 02/01/2035	
+	San Mateo Joint Powers Financing Authority 2.3 04/01/2039	
+	Battery Park City Authority 2.57 11/01/2038	
+	City of Austin TX Water & Wastewater System Revenue 2.49 05/15/2031	
+	State of Texas 2.35 06/01/2046	
+	San Diego County Regional Transportation Commission 2.15 04/01/2038	
+	City of Rochester MN 2.45 11/15/2038	
+	Bay Area Toll Authority 2.05 04/01/2053	
+	City of West Palm Beach FL Utility System Revenue 2.55 10/01/2038	
+	Florida Keys Aqueduct Authority 2.52 09/01/2035	
+	San Diego County Regional Transportation Commission 2.13 04/01/2038	
+	District of Columbia 2.45 04/01/2041	
+	Connecticut Housing Finance Authority 2.5 11/15/2050	
+	New York City Housing Development Corp 2.2 10/15/2041	
+	New York State Dormitory Authority 2.4 07/01/2039	
+	Wisconsin Housing & Economic Development Authority Home Owne 2.5 03/01/2031	
+	District of Columbia 2.53 08/15/2038	
+	County of Clark Department of Aviation 2.55 07/01/2029	
+	City of New York NY 2.95 08/01/2044	
+	New York State Housing Finance Agency 2.33 11/01/2044	
+	Modesto Public Financing Authority/CA 2.46 09/01/2033	
+	Louisiana Public Facilities Authority 2.41 07/01/2047	
+	City of Kansas City MO 2.56 04/15/2025	
+	Wisconsin Health & Educational Facilities Authority 2.55 08/15/2034	
+	Cash/Receivables/Payables 0	

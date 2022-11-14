@@ -1,0 +1,550 @@
+FTSM
+	U.S. Treasury Note, 0.125%, due 11/30/2022	
+	U.S. Treasury Note, 2.50%, due 08/15/2023	
+	U.S. Treasury Note, 1.625%, due 11/15/2022	
+	U.S. Treasury Note, 1.75%, due 05/15/2023	
+	U.S. Treasury Note, 2.50%, due 03/31/2023	
+	U.S. Treasury Note, 1.875%, due 10/31/2022	
+	U.S. Treasury Note, 2%, due 02/15/2023	
+	ENERGY TRANSFER LP 0%, due 09/01/2022	
+	FMC CORP 0%, due 09/01/2022	
+	AETNA INC 2.80%, due 06/15/2023	
+	CIGNA CORP 3.75%, due 07/15/2023	
+	ENTERPRISE PRODUCTS OPER 3.35%, due 03/15/2023	
+	FHLMC Multifamily Structured Pass Through Certs. Series K034, Class A2, Variable rate, due 07/25/2023	
+	DH EUROPE FINANCE II 2.05%, due 11/15/2022	
+	ZOETIS INC 3.25%, due 02/01/2023	
+	L3HARRIS TECH INC 3.85%, due 06/15/2023	
+	ABBVIE INC 2.90%, due 11/06/2022	
+	FHLMC Multifamily Structured Pass Through Certs. Series K032, Class A2, Variable rate, due 05/25/2023	
+	ENERGY TRANSFER LP 3.60%, due 02/01/2023	
+	FISERV INC 0%, due 09/15/2022	
+	AUST & NZ BANKING GROUP Variable rate, due 12/19/2022	
+	MET TOWER GLOBAL FUNDING N/C, Variable rate, due 01/17/2023	
+	NASDAQ INC 0.445%, due 12/21/2022	
+	NEW YORK LIFE GLOBAL FDG N/C, Variable rate, due 01/10/2023	
+	PLAINS ALL AMER PIPELINE 2.85%, due 01/31/2023	
+	TORONTO DOMINION BANK NY Variable rate, due 11/21/2022	
+	U.S. Treasury Note, 2.875%, due 10/31/2023	
+	U.S. Treasury Note, 3%, due 07/31/2024	
+	SKYWORKS SOLUTIONS INC 0.90%, due 06/01/2023	
+	BANK OF NOVA SCOTIA N/C, Variable rate, due 04/15/2024	
+	FHLMC Multifamily Structured Pass Through Certs. Series K031, Class A2, Variable rate, due 04/25/2023	
+	HUMANA INC 0.65%, due 08/03/2023	
+	REPUBLIC SERVICES INC 4.75%, due 05/15/2023	
+	LLOYDS BANKING GROUP PLC Variable rate, due 11/07/2023	
+	UNION PACIFIC CORP 3.50%, due 06/08/2023	
+	WASTE MANAGEMENT INC 2.40%, due 05/15/2023	
+	GEORGIA POWER CO 2.10%, due 07/30/2023	
+	AUTODESK INC 3.60%, due 12/15/2022	
+	VOLKSWAGEN GROUP AMERICA 2.70%, due 09/26/2022	
+	VERISK ANALYTICS INC 4.125%, due 09/12/2022	
+	NEXTERA ENERGY CAPITAL N/C, 0.65%, due 03/01/2023	
+	Verizon Master Trust Series 2022-3, Class A, 3.25%, due 05/20/2027	
+	VULCAN MATERIALS CO 0%, due 09/16/2022	
+	VERIZON COMMUNICATIONS 0%, due 09/20/2022	
+	WILLIAMS COMPANIES INC 3.70%, due 01/15/2023	
+	TRANSCANADA PIPELINES 0%, due 09/23/2022	
+	NEXTERA ENERGY CAP HLDGS 0%, due 09/19/2022	
+	NASDAQ INC 0%, due 09/26/2022	
+	REPUBLIC SERVICES INC 0%, due 09/22/2022	
+	RYDER SYSTEM INC 2.50%, due 09/01/2022	
+	NUTRIEN LTD 0%, due 09/16/2022	
+	ONEOK INC 0%, due 09/07/2022	
+	ONEOK INC 0%, due 09/09/2022	
+	AMERICAN HONDA FINANCE Variable rate, due 05/10/2023	
+	AON CORP 0%, due 09/14/2022	
+	DOMINION ENERGY INC 0%, due 09/13/2022	
+	CROWN CASTLE INC. 0%, due 09/22/2022	
+	CROWN CASTLE INC. 0%, due 10/04/2022	
+	CONSTELLATION BRANDS INC 0%, due 09/14/2022	
+	FMC CORP 0%, due 09/06/2022	
+	DUKE ENERGY CORPORATION 0%, due 09/20/2022	
+	ENBRIDGE US INC 0%, due 10/07/2022	
+	ASTRAZENECA FINANCE LLC 0.70%, due 05/28/2024	
+	BALTIMORE GAS & ELECTRIC 3.35%, due 07/01/2023	
+	NORTHROP GRUMMAN CORP 3.25%, due 08/01/2023	
+	MCKESSON CORP 2.70%, due 12/15/2022	
+	INFOR INC 1.45%, due 07/15/2023	
+	THERMO FISHER SCIENTIFIC 0.797%, due 10/18/2023	
+	ROYAL BANK OF CANADA N/C, Variable rate, due 01/19/2024	
+	COOPERATIEVE RABOBANK UA N/C, 3.875%, due 09/26/2023	
+	CONAGRA BRANDS INC 0%, due 09/01/2022	
+	CANADIAN IMPERIAL BANK N/C, Variable rate, due 03/17/2023	
+	CREDIT SUISSE GROUP FUNDING (GUERNSEY) LTD N/C, 3.80%, due 09/15/2022	
+	BAYER US FINANCE II LLC 3.875%, due 12/15/2023	
+	ABBVIE INC 2.85%, due 05/14/2023	
+	HUMANA INC 0%, due 09/08/2022	
+	JPMORGAN CHASE & CO Variable rate, due 04/23/2024	
+	MIZUHO FLOATER/RESIDUAL TRUST VARIOUS STATES TAXABLE, Variable rate, due 09/01/2026	
+	TARGA RESOURCES CORP 0%, due 09/09/2022	
+	TARGA RESOURCES CORP 0%, due 09/12/2022	
+	NUTRIEN LTD 1.90%, due 05/13/2023	
+	ORACLE CORP 2.50%, due 10/15/2022	
+	ELEVANCE HEALTH INC 2.95%, due 12/01/2022	
+	Avis Budget Rental Car Funding Series 2017-2A, Class A, 2.97%, due 03/20/2024	
+	CONSTELLATION BRANDS INC 0%, due 09/09/2022	
+	CENTERPOINT ENERGY RES 0.70%, due 03/02/2023	
+	MICROCHIP TECHNOLOGY INC 4.333%, due 06/01/2023	
+	NORFOLK SOUTHERN CORP 2.903%, due 02/15/2023	
+	PERKINELMER INC 0.55%, due 09/15/2023	
+	BMW Vehicle Owner Trust Series 2022-A, Class A2A, 2.98%, due 12/26/2024	
+	BARCLAYS PLC Variable rate, due 05/16/2024	
+	BAT INTL FINANCE PLC 0%, due 09/06/2022	
+	BARCLAYS BANK PLC NY N/C, Variable rate, due 12/01/2022	
+	BAT INTL FINANCE PLC 0%, due 09/16/2022	
+	BAXTER INTERNATIONAL 0%, due 10/03/2022	
+	BECTON DICKINSON & CO 0%, due 09/26/2022	
+	BECTON DICKINSON & CO 0%, due 09/27/2022	
+	BANK OF MONTREAL CHICAGO N/C, Variable rate, due 07/03/2023	
+	BANK OF AMERICA CORP Variable rate, due 05/28/2024	
+	ALIMENTATION COUCHE-TARD 0%, due 10/03/2022	
+	ALLSTATE CORP 3.15%, due 06/15/2023	
+	AMERICAN HONDA FINANCE 0%, due 09/09/2022	
+	AMERICAN HONDA FINANCE 0%, due 09/22/2022	
+	AMERICAN ELEC POWER CO 0%, due 09/26/2022	
+	AMERICAN ELEC POWER CO 0%, due 10/11/2022	
+	AON CORP 0%, due 09/15/2022	
+	AT&T INC 0%, due 09/13/2022	
+	AT&T INC 0%, due 09/27/2022	
+	CANADIAN NATL RESOURCES 2.95%, due 01/15/2023	
+	CANADIAN NATURAL RESOURCES 0%, due 09/20/2022	
+	CANADIAN IMP BK COMM NY 0.35%, due 11/03/2022	
+	CONSTELLATION BRANDS INC 0%, due 10/04/2022	
+	CREDIT SUISSE NEW YORK N/C, Variable rate, due 08/09/2023	
+	CROWN CASTLE INC. 0%, due 09/13/2022	
+	CROWN CASTLE INC. 0%, due 09/23/2022	
+	DOW CHEMICAL COMPANY 0%, due 09/13/2022	
+	ENTERGY CORP 0%, due 09/01/2022	
+	ENTERGY CORP 0%, due 10/11/2022	
+	FHLMC Multifamily Structured Pass Through Certs. Series K035, Class A2, Variable rate, due 08/25/2023	
+	HARLEY-DAVIDSON FINL SER 0%, due 09/12/2022	
+	GENERAL MOTORS FINL CO N/C, Variable rate, due 03/08/2024	
+	FMC CORP 0%, due 09/19/2022	
+	FISERV INC 0%, due 09/19/2022	
+	FISERV INC 0%, due 09/07/2022	
+	FORTUNE BRANDS HOME & SECURITY 0%, due 09/01/2022	
+	GLENCORE FUNDING LLC 0%, due 09/15/2022	
+	RAYTHEON TECH CORP 0%, due 09/26/2022	
+	RAYTHEON TECH CORP 0%, due 10/14/2022	
+	ROYAL BANK OF CANADA NY N/C, Variable rate, due 03/16/2023	
+	ROYAL BANK OF CANADA Variable rate, due 03/24/2023	
+	REPUBLIC SERVICES INC 0%, due 10/18/2022	
+	PUBLIC STORAGE Variable rate, due 04/23/2024	
+	OKLAHOMA G&E CO 0.553%, due 05/26/2023	
+	NUTRIEN LTD 0%, due 10/05/2022	
+	ONEOK INC 0%, due 09/14/2022	
+	NASDAQ INC 0%, due 09/14/2022	
+	NATWEST MARKETS PLC Variable rate, due 08/12/2024	
+	HUMANA INC 0%, due 09/22/2022	
+	MCCORMICK & COMPANY INC 0%, due 10/03/2022	
+	LOWE'S COMPANIES INC 0%, due 09/07/2022	
+	JPMORGAN CHASE & CO Variable rate, due 07/23/2024	
+	SUNCOR ENERGY INC 0%, due 10/31/2022	
+	SUNCOR ENERGY INC 0%, due 09/06/2022	
+	SOUTHERN CAL EDISON N/C, Variable rate, due 04/03/2023	
+	SOUTHWEST AIRLINES CO 2.75%, due 11/16/2022	
+	SKANDINAVISKA ENSKILDA BANK Variable rate, due 11/21/2022	
+	TELUS CORP 0%, due 10/20/2022	
+	TRANSCANADA PIPELINES 0%, due 10/03/2022	
+	TORONTO DOMINION BANK NY Variable rate, due 02/27/2023	
+	World Omni Auto Receivables Trust Series 2022-B, Class A2A, 2.77%, due 10/15/2025	
+	World Omni Auto Receivables Trust Series 2022-C, Class A2, 4.21%, due 03/16/2026	
+	WESTPAC BANKING CORP NY 0.30%, due 10/26/2022	
+	VERIZON COMMUNICATIONS 0%, due 09/26/2022	
+	VERIZON COMMUNICATIONS 0%, due 09/12/2022	
+	WELLTOWER OP LLC 0%, due 09/16/2022	
+	WELLTOWER OP LLC 0%, due 09/27/2022	
+	VIATRIS INC 0%, due 09/08/2022	
+	TRANSCANADA PIPELINES 0%, due 10/24/2022	
+	MORGAN STANLEY Variable rate, due 01/22/2025	
+	ROCKWELL AUTOMATION 0.35%, due 08/15/2023	
+	Honda Auto Receivables Owner Trust Series 2022-2, Class A2, 3.81%, due 03/18/2025	
+	ELEVANCE HEALTH INC 3.30%, due 01/15/2023	
+	CONSOLIDATED EDISON CO 0%, due 09/15/2022	
+	ABBVIE INC Variable rate, due 11/21/2022	
+	O'REILLY AUTOMOTIVE INC 3.85%, due 06/15/2023	
+	NORDEA BANK ABP N/C, 4.25%, due 09/21/2022	
+	Verizon Master Trust Series 2022-5, Class A1A, Variable rate, due 07/20/2027	
+	PRINCIPAL LIFE GLOBAL FUNDING II N/C, Variable rate, due 04/12/2024	
+	AMERISOURCEBERGEN CORP 0.737%, due 03/15/2023	
+	BANK OF AMERICA CORP Variable rate, due 03/05/2024	
+	Chase Auto Owner Trust Series 2022-AA, Class A2, 4.21%, due 10/27/2025	
+	FIDELITY NATL INFO SERV 0%, due 09/08/2022	
+	ELEVANCE HEALTH INC 0.45%, due 03/15/2023	
+	HYUNDAI CAPITAL AMERICA 2.375%, due 02/10/2023	
+	VMWARE INC 0.60%, due 08/15/2023	
+	SOUTHERN NATURAL GAS 0.625%, due 04/28/2023	
+	TRUIST FINANCIAL CORP Variable rate, due 06/09/2025	
+	JPMORGAN CHASE & CO Variable rate, due 03/16/2024	
+	NORTHERN STATES PWR-MINN 2.60%, due 05/15/2023	
+	ENERGY TRANSFER LP 3.45%, due 01/15/2023	
+	GOLDMAN SACHS GROUP INC Variable rate, due 09/10/2024	
+	BAT INTL FINANCE PLC 0%, due 09/07/2022	
+	ASTRAZENECA PLC 3.50%, due 08/17/2023	
+	CHARTER COMM OPT LLC/CAP Variable rate, due 02/01/2024	
+	GLENCORE FINANCE CANADA 4.25%, due 10/25/2022	
+	FHLMC Multifamily Structured Pass Through Certs. Series K041, Class A1, 2.72%, due 08/25/2024	
+	LOWE'S COMPANIES INC 0%, due 09/12/2022	
+	LLOYDS BANKING GROUP PLC N/C, 4.05%, due 08/16/2023	
+	THE BOEING CO 2.20%, due 10/30/2022	
+	VERIZON COMMUNICATIONS Variable rate, due 03/22/2024	
+	WEC ENERGY GROUP INC 0%, due 09/15/2022	
+	JPMORGAN CHASE & CO N/C, 3.375%, due 05/01/2023	
+	Morgan Stanley Capital I Trust Series 2017-CLS, Class A, Variable rate, due 11/15/2034	
+	MITSUBISHI UFJ FIN GRP N/C, Variable rate, due 03/02/2023	
+	ONEOK INC 0%, due 09/22/2022	
+	PUBLIC SERVICE ENTERPRISE 0.841%, due 11/08/2023	
+	REPUBLIC SERVICES INC 0%, due 10/20/2022	
+	GILEAD SCIENCES INC 0.75%, due 09/29/2023	
+	CIGNA CORP 3%, due 07/15/2023	
+	AT&T INC N/C, Variable rate, due 06/12/2024	
+	HUMANA INC 0%, due 09/20/2022	
+	FIFTH THIRD BANCORP 1.625%, due 05/05/2023	
+	ENBRIDGE US INC 0%, due 10/26/2022	
+	OSCAR US Funding Trust Series 2021-2A, Class A2, 0.39%, due 08/12/2024	
+	MYLAN INC 3.125%, due 01/15/2023	
+	JDE PEET'S NV 0.80%, due 09/24/2024	
+	VOLKSWAGEN GROUP AMERICA 3.125%, due 05/12/2023	
+	VIATRIS INC 0%, due 09/16/2022	
+	WELLTOWER OP LLC 0%, due 09/26/2022	
+	VERIZON COMMUNICATIONS 0%, due 09/13/2022	
+	UBS AG LONDON Variable rate, due 03/08/2023	
+	WELLTOWER OP LLC 0%, due 09/14/2022	
+	THERMO FISHER SCIENTIFIC Variable rate, due 10/18/2023	
+	TORONTO DOMINION BANK Variable rate, due 03/06/2023	
+	TORONTO DOMINION BANK NY 3.95%, due 07/19/2023	
+	TORONTO-DOMINION BANK N/C, Variable rate, due 03/08/2024	
+	TOYOTA MOTOR CREDIT CORP N/C, Variable rate, due 09/13/2024	
+	TRANSCANADA PIPELINES 0%, due 09/20/2022	
+	TRANSCANADA PIPELINES 0%, due 09/21/2022	
+	U.S. Treasury Note, 2.75%, due 04/30/2023	
+	SUMITOMO MITSUI TRUST BANK LTD N/C, Variable rate, due 09/16/2024	
+	SUNCOR ENERGY INC 0%, due 10/04/2022	
+	SVENSKA HANDELSBANKEN AB Variable rate, due 03/01/2023	
+	SVENSKA HANDELSBANKEN NY N/C, Variable rate, due 01/27/2023	
+	SUNCOR ENERGY INC 0%, due 10/12/2022	
+	HYUNDAI CAPITAL AMERICA 1.15%, due 11/10/2022	
+	JPMORGAN CHASE & CO Variable rate, due 06/01/2025	
+	MACQUARIE GROUP LTD Variable rate, due 11/28/2023	
+	MARVELL TECHNOLOGY INC 4.20%, due 06/22/2023	
+	LOWE'S COMPANIES INC 0%, due 09/13/2022	
+	MACQUARIE BANK LIMITED Variable rate, due 03/02/2023	
+	MONDELEZ INTERNATIONAL 0%, due 09/20/2022	
+	NEXTERA ENERGY CAP HLDGS 0%, due 09/21/2022	
+	NEXTERA ENERGY CAP HLDGS 0%, due 09/27/2022	
+	OSCAR US Funding Trust Series 2022-1A, Class A2, 1.60%, due 03/10/2025	
+	NORDEA BANK ABP NEW YORK N/C, Variable rate, due 12/07/2022	
+	NEXTERA ENERGY CAPITAL Variable rate, due 11/03/2023	
+	NUTRIEN LTD 0%, due 10/18/2022	
+	NUTRIEN LTD 0%, due 09/19/2022	
+	ONEOK INC 0%, due 09/08/2022	
+	ROYAL BANK OF CANADA NY 3.91%, due 07/19/2023	
+	RAYTHEON TECH CORP 0%, due 12/01/2022	
+	PARKER-HANNIFIN CORP 0%, due 09/08/2022	
+	PARKER-HANNIFIN CORP 0%, due 09/16/2022	
+	DUKE ENERGY CORPORATION 0%, due 09/21/2022	
+	ENTERGY CORP 0%, due 09/08/2022	
+	ENBRIDGE US INC 0%, due 09/07/2022	
+	ENBRIDGE US INC 0%, due 09/12/2022	
+	ENBRIDGE US INC 0%, due 09/19/2022	
+	ENBRIDGE US INC 0%, due 09/21/2022	
+	DOMINION ENERGY INC 0%, due 09/09/2022	
+	DOMINION ENERGY SOUTH 0%, due 09/22/2022	
+	HYUNDAI CAPITAL AMERICA 0%, due 10/11/2022	
+	HARLEY-DAVIDSON FINL SER 0%, due 09/08/2022	
+	HARLEY-DAVIDSON FINL SER 0%, due 09/09/2022	
+	GENERAL MOTORS FINL CO 0%, due 10/12/2022	
+	GLENCORE FUNDING LLC 0%, due 10/06/2022	
+	GLENCORE FUNDING LLC 0%, due 10/07/2022	
+	GLENCORE FUNDING LLC 0%, due 10/13/2022	
+	GENERAL MOTORS FINL CO 0%, due 09/01/2022	
+	GENERAL MOTORS FINL CO 0%, due 09/16/2022	
+	GENERAL MOTORS FINL CO 0%, due 09/23/2022	
+	FISERV INC 0%, due 09/06/2022	
+	FMC CORP 0%, due 09/20/2022	
+	AT&T INC Variable rate, due 03/25/2024	
+	AT&T INC 0%, due 09/28/2022	
+	AT&T INC 0%, due 09/14/2022	
+	ARROW ELECTRONICS INC 0%, due 09/02/2022	
+	ARROW ELECTRONICS INC 0%, due 09/07/2022	
+	ARROW ELECTRONICS INC 0%, due 09/08/2022	
+	ARROW ELECTRONICS INC 0%, due 09/14/2022	
+	AMGEN INC 2.25%, due 08/19/2023	
+	AMERICAN HONDA FINANCE 0%, due 11/07/2022	
+	AMERICAN ELEC POWER CO 0%, due 10/24/2022	
+	ABN AMRO FUNDING USA LLC 0%, due 10/25/2022	
+	ALIMENTATION COUCHE-TARD 0%, due 09/13/2022	
+	BANK OF MONTREAL N/C, Variable rate, due 07/09/2024	
+	BAT INTL FINANCE PLC 0%, due 09/19/2022	
+	BAXTER INTERNATIONAL 0%, due 09/01/2022	
+	BELL CANADA 0%, due 09/14/2022	
+	BELL CANADA 0%, due 09/23/2022	
+	BANK OF AMERICA CORP Variable rate, due 04/22/2025	
+	BANK OF AMERICA CORP Variable rate, due 07/23/2024	
+	BANK OF AMERICA CORP Variable rate, due 12/20/2023	
+	BANK OF MONTREAL CHICAGO N/C, Variable rate, due 03/03/2023	
+	CONSTELLATION BRANDS INC 0%, due 09/07/2022	
+	CONAGRA BRANDS INC 0.50%, due 08/11/2023	
+	BAXTER INTERNATIONAL INC N/C, Variable rate, due 11/29/2024	
+	BAXTER INTERNATIONAL INC N/C, Variable rate, due 12/01/2023	
+	DOMINION ENERGY INC 2.75%, due 09/15/2022	
+	DEUTSCHE BANK NY N/C, Variable rate, due 11/08/2023	
+	COMMONWEALTH BK AUSTRALIA Variable rate, due 01/23/2023	
+	CONSTELLATION BRANDS INC 0%, due 09/12/2022	
+	BRISTOL-MYERS SQUIBB CO 3.25%, due 11/01/2023	
+	CANADIAN PACIFIC RAILWAY 4.45%, due 03/15/2023	
+	BP CAP MARKETS AMERICA Variable rate, due 09/19/2022	
+	HEINEKEN NV 2.75%, due 04/01/2023	
+	RECKITT BENCKISER TSY 0%, due 09/28/2022	
+	PARKER-HANNIFIN CORP 0%, due 10/03/2022	
+	MORGAN STANLEY Variable rate, due 01/25/2024	
+	ILLUMINA INC 0.55%, due 03/23/2023	
+	TELEDYNE TECHNOLOGIES INC 0.65%, due 04/01/2023	
+	SUNCOR ENERGY INC 0%, due 10/05/2022	
+	Westlake Automobile Receivables Trust Series 2021-3A, Class A2, 0.57%, due 09/16/2024	
+	VIRGINIA ELEC & POWER CO 2.75%, due 03/15/2023	
+	SCHLUMBERGER HLDGS CORP 3.625%, due 12/21/2022	
+	ERAC USA FINANCE LLC 3.30%, due 10/15/2022	
+	FHLMC Multifamily Structured Pass Through Certs. Series K027, Class A2, 2.637%, due 01/25/2023	
+	AMERICAN ELECTRIC POWER 2.95%, due 12/15/2022	
+	CANADIAN IMPERIAL BANK N/C, Variable rate, due 06/22/2023	
+	CAPITAL ONE FINANCIAL CORP Variable rate, due 12/06/2024	
+	CVS HEALTH CORP 2.75%, due 12/01/2022	
+	ALIMENTATION COUCHE-TARD 0%, due 09/15/2022	
+	BANK OF NOVA SCOTIA N/C, Variable rate, due 07/31/2024	
+	DTE ENERGY CO 2.25%, due 11/01/2022	
+	WESTPAC BANKING CORP N/C, Variable rate, due 01/13/2023	
+	MERCEDES-BENZ FINANCE NA LLC 3.35%, due 02/22/2023	
+	NISOURCE INC 0%, due 10/05/2022	
+	ROYAL BANK OF CANADA N/C, Variable rate, due 07/29/2024	
+	NATWEST GROUP PLC Variable rate, due 05/22/2024	
+	SOUTHERN CO Variable rate, due 05/10/2023	
+	Toyota Auto Receivables Owner Trust Series 2022-C, Class A2A, 4.19%, due 08/15/2025	
+	THERMO FISHER SCIENTIFIC Variable rate, due 04/18/2023	
+	DT Auto Owner Trust Series 2022-1A, Class A, 1.58%, due 04/15/2026	
+	BAXTER INTERNATIONAL INC 0.868%, due 12/01/2023	
+	AMERICAN ELECTRIC POWER Variable rate, due 11/01/2023	
+	AMERICAN EXPRESS CO 3.70%, due 08/03/2023	
+	BRAVO Residential Funding Trust Series 2021-NQM1, Class A1, Variable rate, due 02/25/2049	
+	BANK OF MONTREAL CHICAGO N/C, Variable rate, due 12/02/2022	
+	DOMINION ENERGY INC Variable rate, due 09/15/2023	
+	CONAGRA BRANDS INC 3.20%, due 01/25/2023	
+	CENTERPOINT ENERGY INC Variable rate, due 05/13/2024	
+	HYATT HOTELS CORP Variable rate, due 10/01/2023	
+	GM Financial Securitized Term Auto Receivables Tr Series 2022-2, Class A2, 2.52%, due 05/16/2025	
+	GOLDMAN SACHS GROUP INC 1.217%, due 12/06/2023	
+	Flagship Credit Auto Trust Series 2021-3, Class A, 0.36%, due 07/15/2027	
+	GENERAL DYNAMICS CORP 3.375%, due 05/15/2023	
+	GENERAL MOTORS FINL CO 3.25%, due 01/05/2023	
+	THE BOEING CO 1.167%, due 02/04/2023	
+	SEMPRA ENERGY 0%, due 09/07/2022	
+	MET LIFE GLOBAL FUNDING I N/C, Variable rate, due 09/27/2024	
+	MOODY'S CORPORATION 2.625%, due 01/15/2023	
+	MORGAN STANLEY Variable rate, due 04/24/2024	
+	INTL FLAVORS & FRAGRANCES 3.20%, due 05/01/2023	
+	PUBLIC SERVICE ENTERPRISE GROUP 2.65%, due 11/15/2022	
+	PARKER-HANNIFIN CORP 0%, due 09/21/2022	
+	Westlake Automobile Receivables Trust Series 2021-2A, Class A2A, 0.32%, due 04/15/2025	
+	Freddie Mac Series 4671, Class CA, 3.50%, due 08/15/2043	
+	Hyundai Auto Receivables Trust Series 2022-A, Class A2A, 1.81%, due 02/18/2025	
+	HYUNDAI CAPITAL AMERICA 1%, due 09/17/2024	
+	HUMANA INC 0%, due 09/07/2022	
+	Exeter Automobile Receivables Trust Series 2020-3A, Class C, 1.32%, due 07/15/2025	
+	Exeter Automobile Receivables Trust Series 2022-1A, Class A2, 1.10%, due 06/17/2024	
+	FED CAISSES DESJARDINS Variable rate, due 05/21/2024	
+	BMW US CAPITAL LLC Variable rate, due 04/01/2024	
+	American Credit Acceptance Receivables Trust Series 2022-1, Class A, 0.99%, due 12/15/2025	
+	CENTERPOINT ENERGY RES Variable rate, due 03/02/2023	
+	DNB BANK ASA N/C, Variable rate, due 12/02/2022	
+	HUMANA INC 0%, due 09/19/2022	
+	GLOBAL PAYMENTS INC 4%, due 06/01/2023	
+	GENERAL MOTORS FINL CO 0%, due 10/03/2022	
+	Ford Credit Auto Owner Trust Series 2022-B, Class A2A, 3.44%, due 02/15/2025	
+	Westlake Automobile Receivables Trust Series 2022-1A, Class A3, 2.30%, due 07/15/2025	
+	PUB SVC ELEC & GAS 2.375%, due 05/15/2023	
+	S&P GLOBAL INC 0%, due 09/13/2022	
+	PACIFIC GAS & ELECTRIC N/C, Variable rate, due 11/14/2022	
+	O'REILLY AUTOMOTIVE INC 3.80%, due 09/01/2022	
+	ING GROEP NV N/C, Variable rate, due 10/02/2023	
+	KINDER MORGAN INC 3.15%, due 01/15/2023	
+	MORGAN STANLEY 3.125%, due 01/23/2023	
+	NATWEST MARKETS PLC N/C, 3.625%, due 09/29/2022	
+	NATIONAL BANK OF CANADA N/C, Variable rate, due 08/06/2024	
+	NEXTERA ENERGY CAPITAL N/C, Variable rate, due 03/01/2023	
+	NEW YORK LIFE GLOBAL FDG N/C, Variable rate, due 06/06/2024	
+	MICROCHIP TECHNOLOGY INC 0.983%, due 09/01/2024	
+	MORGAN STANLEY N/C, 4.10%, due 05/22/2023	
+	L3HARRIS TECH INC 0%, due 09/09/2022	
+	MACQUARIE GROUP LTD Variable rate, due 10/14/2025	
+	MARSH & MCLENNAN COS INC 3.30%, due 03/14/2023	
+	PARKER-HANNIFIN CORP 0%, due 10/18/2022	
+	PARKER-HANNIFIN CORP 3.65%, due 06/15/2024	
+	PENSKE TRUCK LEASING/PTL 4.25%, due 01/17/2023	
+	PRINCIPAL LIFE GLOBAL FUNDING II N/C, Variable rate, due 08/23/2024	
+	SHIRE ACQ INV IRELAND DA 2.875%, due 09/23/2023	
+	SOUTHERN CALIF GAS CO Variable rate, due 09/14/2023	
+	SUNCOR ENERGY INC 0%, due 09/20/2022	
+	THE WALT DISNEY COMPANY N/C, Variable rate, due 09/01/2022	
+	UBS AG LONDON N/C, Variable rate, due 08/09/2024	
+	GLS Auto Receivables Trust Series 2021-3A, Class A, 0.42%, due 01/15/2025	
+	GLS Auto Receivables Trust Series 2021-4A, Class A, 0.92%, due 07/15/2025	
+	FHLMC Multifamily Structured Pass Through Certs. Series K046, Class A1, 2.697%, due 01/25/2025	
+	ENTERPRISE PRODUCTS OPER 3.90%, due 02/15/2024	
+	DT Auto Owner Trust Series 2021-4A, Class A, 0.56%, due 09/15/2025	
+	ENBRIDGE INC 0.55%, due 10/04/2023	
+	DEUTSCHE BANK NY N/C, 3.95%, due 02/27/2023	
+	DAIMLER TRUCKS FINANCE NA N/C, Variable rate, due 12/14/2023	
+	CONSTELLATION BRANDS INC 0%, due 09/23/2022	
+	CREDIT SUISSE GROUP AG Variable rate, due 12/14/2023	
+	Credit Suisse Mortgage Trust Series 2020-NQM1, Class A1, Variable rate, due 05/25/2065	
+	CIM Trust Series 2019-INV3, Class A11, Variable rate, due 08/25/2049	
+	CAMPBELL SOUP COMPANY 0%, due 09/07/2022	
+	ASTRAZENECA PLC 0%, due 09/07/2022	
+	ATHENE GLOBAL FUNDING N/C, Variable rate, due 05/24/2024	
+	BANQUE FEDERATIVE DU CREDIT MUTUEL N/C, Variable rate, due 02/04/2025	
+	AUTOZONE INC 2.875%, due 01/15/2023	
+	CANADIAN PACIFIC RAILWAY 1.35%, due 12/02/2024	
+	CREDIT SUISSE NEW YORK N/C, 0.52%, due 08/09/2023	
+	Credit Suisse Mortgage Trust Series 2019-AFC1, Class A1, Variable rate, due 07/25/2049	
+	DANSKE BANK A/S 0.976%, due 09/10/2025	
+	Drive Auto Receivables Trust Series 2021-3, Class A2, 0.52%, due 01/15/2025	
+	SUMITOMO MITSUI FINL GRP N/C, 3.102%, due 01/17/2023	
+	Sierra Receivables Funding Co LLC Series 2018-2A, Class A, 3.50%, due 06/20/2035	
+	UNITEDHEALTH GROUP INC 3.50%, due 06/15/2023	
+	MARTIN MARIETTA MATERIALS 0.65%, due 07/15/2023	
+	NASDAQ INC 0%, due 09/01/2022	
+	NATIONAL AUSTRALIA BANK N/C, Variable rate, due 12/13/2022	
+	KNDL Mortgage Trust Series 2019-KNSQ, Class A, Variable rate, due 05/15/2036	
+	PPL ELECTRIC UTILITIES CORP Variable rate, due 06/24/2024	
+	UNILEVER CAPITAL CORP 3.125%, due 03/22/2023	
+	SKANDINAVISKA ENSKILDA N/C, Variable rate, due 12/12/2022	
+	SOUTHERN CAL EDISON 0.70%, due 08/01/2023	
+	TAKEDA PHARMACEUTICAL 4.40%, due 11/26/2023	
+	Fannie Mae Series 2017-18, Class VB, 3%, due 05/25/2040	
+	FHLMC Multifamily Structured Pass Through Certs. Series KJ12, Class A2, 3.035%, due 08/25/2024	
+	GLS Auto Receivables Trust Series 2022-1A, Class A, 1.98%, due 08/15/2025	
+	GS Mortgage Securities Trust Series 2013-GC10, Class A5, 2.943%, due 02/10/2046	
+	GOLDMAN SACHS GROUP INC Variable rate, due 10/21/2024	
+	GENERAL MOTORS FINL CO 4.15%, due 06/19/2023	
+	DAIMLER TRUCKS FINANCE NA 1.125%, due 12/14/2023	
+	DEUTSCHE BANK NY N/C, 3.30%, due 11/16/2022	
+	DISCOVER BANK 3.35%, due 02/06/2023	
+	CAPITAL ONE FINANCIAL CORP 3.20%, due 01/30/2023	
+	CADENCE DESIGN SYS INC 4.375%, due 10/15/2024	
+	CITIGROUP INC Variable rate, due 05/15/2024	
+	BMW US CAPITAL LLC 3.80%, due 04/06/2023	
+	AUST & NZ BANKING GROUP N/C, Variable rate, due 11/21/2022	
+	AMERICAN EXPRESS CO N/C, 3.375%, due 05/03/2024	
+	American Credit Acceptance Receivables Trust Series 2021-4, Class A, 0.66%, due 09/15/2025	
+	COLT Funding LLC Series 2020-2R, Class A1, Variable rate, due 10/26/2065	
+	BROADCOM CRP / CAYMN FI 2.65%, due 01/15/2023	
+	Foursight Capital Automobile Receivables Trust Series 2022-1, Class A2, 0%, due 09/15/2025	
+	UNION PACIFIC CORP 2.75%, due 04/15/2023	
+	PHILLIPS 66 3.70%, due 04/06/2023	
+	JP Morgan Mortgage Trust Series 2019-7 Class A11, Variable rate, due 02/25/2050	
+	JP Morgan Mortgage Trust Series 2019-INV1, Class A11, Variable rate, due 10/25/2049	
+	JP Morgan Mortgage Trust Series 2020-2, Class A11, Variable rate, due 07/25/2050	
+	MIZUHO FINANCIAL GROUP Variable rate, due 09/08/2024	
+	ROPER TECHNOLOGIES INC 3.65%, due 09/15/2023	
+	PAYPAL HOLDINGS INC 1.35%, due 06/01/2023	
+	NISSAN MOTOR ACCEPTANCE N/C, Variable rate, due 03/08/2024	
+	UNITED PARCEL SERVICE 2.50%, due 04/01/2023	
+	Verizon Master Trust Series 2022-1, Class A, Variable rate, due 01/20/2027	
+	VIRGINIA ELEC & POWER CO 3.45%, due 02/15/2024	
+	VMWARE INC 1%, due 08/15/2024	
+	WESTLAKE CORP 0.875%, due 08/15/2024	
+	STRYKER CORP 0.60%, due 12/01/2023	
+	Santander Retail Auto Lease Trust Series 2021-B, Class A2, 0.53%, due 01/22/2024	
+	TRUIST BANK Variable rate, due 03/09/2023	
+	TORONTO-DOMINION BANK 2.35%, due 03/08/2024	
+	Foursight Capital Automobile Receivabkes Trust Series 2021-2, Class A2, 0.40%, due 04/15/2025	
+	Flagship Credit Auto Trust Series 2020-4, Class A, 0.53%, due 04/15/2025	
+	GCAT Series 2020-NQM1, Class A1, Variable rate, due 01/25/2060	
+	GOLDMAN SACHS GROUP INC Variable rate, due 11/17/2023	
+	GOLDMAN SACHS GROUP INC 0.523%, due 03/08/2023	
+	HYATT HOTELS CORP 1.30%, due 10/01/2023	
+	FIFTH THIRD BANCORP 3.65%, due 01/25/2024	
+	First Investors Auto Owner Trust Series 2021-1A, Class A, 0.45%, due 03/16/2026	
+	DUKE ENERGY CORP Variable rate, due 06/10/2023	
+	ENBRIDGE INC N/C, Variable rate, due 02/16/2024	
+	CVS HEALTH CORPORATION 4%, due 12/05/2023	
+	BRIGHTHSE FIN GLBL FUND N/C, Variable rate, due 04/12/2024	
+	AUTOZONE INC 3.125%, due 07/15/2023	
+	CROWN CASTLE INC 3.15%, due 07/15/2023	
+	COMM Mortgage Trust Series 2013-CR9, Class ASB, 3.834%, due 07/10/2045	
+	Fannie Mae Series 2014-20, Class NA, 3%, due 06/25/2033	
+	Fannie Mae Series 2015-28, Class GC, 2.50%, due 06/25/2034	
+	GS Mortgage Securities Trust Series 2012-TMSQ, Class A, 3.007%, due 12/10/2030	
+	GLOBAL PAYMENTS INC 3.75%, due 06/01/2023	
+	THE BOEING CO 4.508%, due 05/01/2023	
+	Tricolor Auto Securitization Trust Series 2021-1A, Class A, 1.10%, due 04/15/2024	
+	SKY LTD 3.125%, due 11/26/2022	
+	WELLS FARGO & COMPANY Variable rate, due 06/02/2024	
+	UBS GROUP AG Variable rate, due 07/30/2024	
+	OSCAR US Funding Trust Series 2018-2A, Class A4, 3.63%, due 09/10/2025	
+	NATWEST MARKETS PLC N/C, Variable rate, due 09/29/2022	
+	MVW Owner Trust Series 2018-1A, Class A, 3.45%, due 01/21/2036	
+	MORGAN STANLEY Variable rate, due 04/05/2024	
+	MET LIFE GLOB FUNDING I N/C, Variable rate, due 01/13/2023	
+	QORVO INC 1.75%, due 12/15/2024	
+	Onslow Bay Financial LLC Series 2020-INV1, Class A11, Variable rate, due 12/25/2049	
+	ORACLE CORP 2.625%, due 02/15/2023	
+	Verus Securitization Trust Series 2019-4, Class A2, Variable rate, due 11/25/2059	
+	VOLKSWAGEN GROUP AMERICA 0.75%, due 11/23/2022	
+	GLS Auto Receivables Trust Series 2021-2A, Class A, 0.54%, due 11/15/2024	
+	HP INC 4.05%, due 09/15/2022	
+	FHLMC Multifamily Structured Pass Through Certs. Series K036, Class A1, 2.777%, due 04/25/2023	
+	ENBRIDGE INC Variable rate, due 02/17/2023	
+	CIM Trust Series 2019-INV1, Class A2, Variable rate, due 02/25/2049	
+	Carvana Auto Receivables Trust Series 2021-P2, Class A2, 0.30%, due 07/10/2024	
+	DANSKE BANK A/S Variable rate, due 12/08/2023	
+	DOLLAR GENERAL CORP 3.25%, due 04/15/2023	
+	BANK OF AMERICA CORP Variable rate, due 03/05/2024	
+	FHLMC Multifamily Structured Pass Through Certs. Series K032, Class A1, 3.016%, due 02/25/2023	
+	FHLMC Multifamily Structured Pass Through Certs. Series KSMC, Class A1, 1.954%, due 01/25/2023	
+	Verus Securitization Trust Series 2019-INV2, Class A2, Variable rate, due 07/25/2059	
+	Verus Securitization Trust Series 2020-4, Class A2, Variable rate, due 05/25/2065	
+	Santander Consumer Auto Receivables Trust Series 2020-BA, Class A3, 1.09%, due 08/15/2024	
+	Santander Drive Auto Receivables Trust Series 2021-4, Class A2, 0.62%, due 08/15/2024	
+	Starwood Mortgage Residential Trust Series 2020-1, Class A1, Variable rate, due 02/25/2050	
+	SUNCOR ENERGY INC 0%, due 09/08/2022	
+	THERMO FISHER SCIENTIFIC Variable rate, due 10/18/2024	
+	TOYOTA MOTOR CREDIT CORP N/C, 2.50%, due 03/22/2024	
+	NISSAN MOTOR ACCEPTANCE 2.60%, due 09/28/2022	
+	NETAPP INC 3.25%, due 12/15/2022	
+	JP Morgan Mortgage Trust Series 2020-LTV1, Class A11, Variable rate, due 06/25/2050	
+	JP Morgan Mortgage Trust Series 2019-LTV2, Class A11, Variable rate, due 12/25/2049	
+	JP Morgan Mortgage Trust Series 2019-LTV3, Class A, Variable rate, due 03/25/2050	
+	OSCAR US Funding Trust Series 2018-1A, Class A4, 3.50%, due 05/12/2025	
+	Residential Mortgage Loan Trust Series 2019-3, Class A2, Variable rate, due 09/25/2059	
+	FHLMC Multifamily Structured Pass Through Certs. Series K034, Class A1, 2.669%, due 02/25/2023	
+	Fannie Mae Series 2013-74, Class EL, 3%, due 04/25/2041	
+	FREDDIE MAC Series 2783, Class YB, 5%, due 04/15/2024	
+	American Credit Acceptance Receivables Trust Series 2021-3, Class A, 0.73%, due 06/13/2025	
+	CONSTELLATION BRANDS INC 3.60%, due 05/09/2024	
+	CIM Trust Series 2019-INV2, Class A11, Variable rate, due 05/25/2049	
+	Freddie Mac Series 4387, Class DE, 2%, due 01/15/2032	
+	Freddie Mac FG G13204, 6%, due 11/01/2022	
+	Freddie Mac FG G15435, 5%, due 11/01/2024	
+	Freddie Mac FG G15821, 5%, due 07/01/2025	
+	Freddie Mac FG G15874, 5%, due 06/01/2026	
+	FREDDIE MAC Series 2723, Class KN, 5%, due 12/15/2023	
+	GNMA GN 783524, 5%, due 09/15/2024	
+	GSAA Home Equity Trust Series 2005-MTR1, Class A4, Variable rate, due 10/25/2035	
+	Fannie Mae FN 890403, 6%, due 05/01/2023	
+	Fannie Mae FN 962078, 4.50%, due 03/01/2023	
+	Fannie Mae FN AE0237, 5.50%, due 11/01/2023	
+	Fannie Mae FN AE0812, 5%, due 07/01/2025	
+	Fannie Mae FN AL5764, 5%, due 09/01/2025	
+	Fannie Mae FN AL5812, 5.50%, due 05/01/2025	
+	Fannie Mae FN AL6212, 4.50%, due 01/01/2027	
+	Fannie Mae FN AL6798, 5%, due 09/01/2025	
+	Fannie Mae FN AL8539, 4.50%, due 01/01/2027	
+	Fannie Mae FN BM1299, 5%, due 03/01/2027	
+	FANNIE MAE Series 2009-14, Class EB, 4.50%, due 03/25/2024	
+	FANNIE MAE Series 2009-52, Class AJ, 4%, due 07/25/2024	
+	FANNIE MAE Series 2011-15, Class HT, 5.50%, due 03/25/2026	
+	Santander Consumer Auto Receivables Trust Series 2020-AA, Class A, 1.37%, due 10/15/2024	
+	Onslow Bay Financial LLC Series 2020-EXP1, Class 2A1A, Variable rate, due 02/25/2060	
+	JP Morgan Mortgage Trust Series 2019-8, Class A11, Variable rate, due 03/25/2050	

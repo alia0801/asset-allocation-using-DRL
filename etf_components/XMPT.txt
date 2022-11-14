@@ -1,0 +1,62 @@
+XMPT
+NEA	Nuveen AMT-Free Quality Municipal Incom	/etf/ea/ETZCW.djhtm?c=1&etfid=NEA.US&back=XMPT
+NAD	Nuveen Quality Municipal Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=NAD.US&back=XMPT
+NVG	Nuveen AMT-Free Municipal Credit Income	/etf/ea/ETZCW.djhtm?c=1&etfid=NVG.US&back=XMPT
+NZF	Nuveen Municipal Credit Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=NZF.US&back=XMPT
+NUV	Nuveen Municipal Value Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NUV.US&back=XMPT
+BTT	Blackrock Municipal 2030 Target Term Tr	/etf/ea/ETZCW.djhtm?c=1&etfid=BTT.US&back=XMPT
+MQY	Blackrock Muniyield Quality Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MQY.US&back=XMPT
+MUI	Blackrock Municipal Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MUI.US&back=XMPT
+MYI	Blackrock Muniyield Quality Fund Iii In	/etf/ea/ETZCW.djhtm?c=1&etfid=MYI.US&back=XMPT
+EIM	Eaton Vance Municipal Bond Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=EIM.US&back=XMPT
+NMZ	Nuveen Municipal High Income Opportunit	/etf/ea/ETZCW.djhtm?c=1&etfid=NMZ.US&back=XMPT
+VMO	Invesco Municipal Opportunity Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VMO.US&back=XMPT
+MHD	Blackrock Muniholdings Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MHD.US&back=XMPT
+MVF	Blackrock Munivest Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MVF.US&back=XMPT
+IIM	Invesco Value Municipal Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=IIM.US&back=XMPT
+VKQ	Invesco Municipal Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VKQ.US&back=XMPT
+VGM	Invesco Trust For Investment Grade Muni	/etf/ea/ETZCW.djhtm?c=1&etfid=VGM.US&back=XMPT
+NDMO	Nuveen Dynamic Municipal Opportunities	/etf/ea/ETZCW.djhtm?c=1&etfid=NDMO.US&back=XMPT
+BLE	Blackrock Municipal Income Trust Ii	/etf/ea/ETZCW.djhtm?c=1&etfid=BLE.US&back=XMPT
+IQI	Invesco Quality Municipal Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=IQI.US&back=XMPT
+MYD	Blackrock Muniyield Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MYD.US&back=XMPT
+NMCO	Nuveen Municipal Credit Opportunities F	/etf/ea/ETZCW.djhtm?c=1&etfid=NMCO.US&back=XMPT
+NXP	Nuveen Select Tax-Free Income Portfolio	/etf/ea/ETZCW.djhtm?c=1&etfid=NXP.US&back=XMPT
+MMU	Western Asset Managed Municipals Fund I	/etf/ea/ETZCW.djhtm?c=1&etfid=MMU.US&back=XMPT
+EVN	Eaton Vance Municipal Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=EVN.US&back=XMPT
+NID	Nuveen Intermediate Duration Municipal	/etf/ea/ETZCW.djhtm?c=1&etfid=NID.US&back=XMPT
+LEO	Bny Mellon Strategic Municipals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LEO.US&back=XMPT
+KTF	Dws Municipal Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=KTF.US&back=XMPT
+VKI	Invesco Advantage Municipal Income Trus	/etf/ea/ETZCW.djhtm?c=1&etfid=VKI.US&back=XMPT
+AFB	Alliancebernstein National Municipal In	/etf/ea/ETZCW.djhtm?c=1&etfid=AFB.US&back=XMPT
+PML	Pimco Municipal Income Fund Ii	/etf/ea/ETZCW.djhtm?c=1&etfid=PML.US&back=XMPT
+RFM	Rivernorth Flexible Municipal Income Fu	/etf/ea/ETZCW.djhtm?c=1&etfid=RFM.US&back=XMPT
+BFK	Blackrock Municipal Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BFK.US&back=XMPT
+MUA	Blackrock Muniassets Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MUA.US&back=XMPT
+MMD	Mainstay Mackay Definedterm Municipal O	/etf/ea/ETZCW.djhtm?c=1&etfid=MMD.US&back=XMPT
+BYM	Blackrock Municipal Income Quality Trus	/etf/ea/ETZCW.djhtm?c=1&etfid=BYM.US&back=XMPT
+DSM	Bny Mellon Strategic Municipal Bond Fun	/etf/ea/ETZCW.djhtm?c=1&etfid=DSM.US&back=XMPT
+PMO	Putnam Municipal Opportunities Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PMO.US&back=XMPT
+EOT	Eaton Vance National Municipal Opportun	/etf/ea/ETZCW.djhtm?c=1&etfid=EOT.US&back=XMPT
+MFM	Mfs Municipal Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=MFM.US&back=XMPT
+MUE	Blackrock Muniholdings Quality Fund Ii	/etf/ea/ETZCW.djhtm?c=1&etfid=MUE.US&back=XMPT
+VFL	Delaware Investments National Municipal	/etf/ea/ETZCW.djhtm?c=1&etfid=VFL.US&back=XMPT
+MIO	Pioneer Municipal High Income Opportuni	/etf/ea/ETZCW.djhtm?c=1&etfid=MIO.US&back=XMPT
+MHI	Pioneer Municipal High Income Fund Trus	/etf/ea/ETZCW.djhtm?c=1&etfid=MHI.US&back=XMPT
+NUW	Nuveen AMT-Free Municipal Value Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=NUW.US&back=XMPT
+PMM	Putnam Managed Municipal Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PMM.US&back=XMPT
+MAV	Pioneer Municipal High Income Advantage	/etf/ea/ETZCW.djhtm?c=1&etfid=MAV.US&back=XMPT
+OIA	Invesco Municipal Income Opportunities	/etf/ea/ETZCW.djhtm?c=1&etfid=OIA.US&back=XMPT
+DMB	Bny Mellon Municipal Bond Infrastructur	/etf/ea/ETZCW.djhtm?c=1&etfid=DMB.US&back=XMPT
+MQT	Blackrock Muniyield Quality Fund Ii Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MQT.US&back=XMPT
+MVT	Blackrock Munivest Fund Ii Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MVT.US&back=XMPT
+NBH	Neuberger Berman Municipal Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NBH.US&back=XMPT
+PMX	Pimco Municipal Income Fund Iii	/etf/ea/ETZCW.djhtm?c=1&etfid=PMX.US&back=XMPT
+PMF	Pimco Municipal Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=PMF.US&back=XMPT
+DMF	Bny Mellon Municipal Income Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DMF.US&back=XMPT
+BKN	Blackrock Investment Quality Municipal	/etf/ea/ETZCW.djhtm?c=1&etfid=BKN.US&back=XMPT
+CXE	Mfs High Income Municipal Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=CXE.US&back=XMPT
+ETX	Eaton Vance Municipal Income 2028 Term	/etf/ea/ETZCW.djhtm?c=1&etfid=ETX.US&back=XMPT
+NIQ	Nuveen Intermediate Duration Quality Mu	/etf/ea/ETZCW.djhtm?c=1&etfid=NIQ.US&back=XMPT
+BTA	Blackrock Long-Term Municipal Advantage	/etf/ea/ETZCW.djhtm?c=1&etfid=BTA.US&back=XMPT
+	Other/Cash	

@@ -1,0 +1,165 @@
+DGT
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=DGT
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=DGT
+CVX	Chevron Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=DGT
+	Nutrien Ltd.	
+SLB	Schlumberger NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=DGT
+WMB	Williams Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=DGT
+UNH	UnitedHealth Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=DGT
+	BP p.l.c.	
+	HSBC Holdings Plc	
+	BAE Systems plc	
+CVS	CVS Health Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=DGT
+	TotalEnergies SE	
+MRK	Merck & Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=DGT
+HWM	Howmet Aerospace Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=DGT
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=DGT
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=DGT
+KO	Coca-Cola Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=DGT
+	AstraZeneca PLC	
+UNP	Union Pacific Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=DGT
+RTX	Raytheon Technologies Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=DGT
+0857.HK&back=DGT	PetroChina Company Limited Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=0857.HK&back=DGT
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=DGT
+MCD	McDonald's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=DGT
+TRV	Travelers Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=DGT
+DUK	Duke Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=DGT
+MDLZ	Mondelez International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=DGT
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=DGT
+BRK.B	Berkshire Hathaway Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=DGT
+	BHP Group Ltd	
+8031.JP&back=DGT	Mitsui & Co.Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8031.JP&back=DGT
+CL	Colgate-Palmolive Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=DGT
+8058.JP&back=DGT	Mitsubishi Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8058.JP&back=DGT
+UPS	United Parcel Service Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=DGT
+DE	Deere & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=DGT
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=DGT
+NEE	NextEra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=DGT
+	National Australia Bank Limited	
+WFC	Wells Fargo & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=DGT
+	National Grid plc	
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=DGT
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=DGT
+7751.JP&back=DGT	Canon Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=7751.JP&back=DGT
+PG	Procter & Gamble Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=DGT
+	UBS Group AG	
+AXP	American Express Company	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=DGT
+0386.HK&back=DGT	China Petroleum & Chemical Corporation Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=0386.HK&back=DGT
+AIG	American International Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=DGT
+	Nestle S.A.	
+	Novartis AG	
+QCOM	Qualcomm Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=DGT
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=DGT
+	Carrefour SA	
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=DGT
+	Royal Bank of Canada	
+CAT	Caterpillar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=DGT
+8306.JP&back=DGT	Mitsubishi UFJ Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8306.JP&back=DGT
+	America Movil SAB de CV Class L	
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=DGT
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=DGT
+GILD	Gilead Sciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=DGT
+	VINCI SA	
+1398.HK&back=DGT	Industrial and Commercial Bank of China Limited Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=1398.HK&back=DGT
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=DGT
+0002.HK&back=DGT	CLP Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0002.HK&back=DGT
+7267.JP&back=DGT	Honda Motor Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7267.JP&back=DGT
+	Roche Holding Ltd Dividend Right Cert.	
+HON	Honeywell International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=DGT
+	Sampo Oyj Class A	
+	ENGIE SA.	
+3382.JP&back=DGT	Seven & I Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3382.JP&back=DGT
+ACN	Accenture Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=DGT
+	Naspers Limited Class N	
+	Telefonica SA	
+7203.JP&back=DGT	Toyota Motor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=7203.JP&back=DGT
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=DGT
+	Anheuser-Busch InBev SA/NV	
+	Vodafone Group Plc	
+FDX	FedEx Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=DGT
+	MTN Group Limited	
+	Mercedes-Benz Group AG	
+GS	Goldman Sachs Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=DGT
+0939.HK&back=DGT	China Construction Bank Corporation Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=0939.HK&back=DGT
+BAC	Bank of America Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=DGT
+	Tesco PLC	
+6301.JP&back=DGT	Komatsu Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6301.JP&back=DGT
+	LVMH Moet Hennessy Louis Vuitton SE	
+INFY	Infosys Limited Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=INFY.US&back=DGT
+BKNG	Booking Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=DGT
+4502.JP&back=DGT	Takeda Pharmaceutical Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4502.JP&back=DGT
+	Reliance Industries Limited	
+SPG	Simon Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=DGT
+5108.JP&back=DGT	Bridgestone Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=5108.JP&back=DGT
+	GSK plc	
+BK	Bank of New York Mellon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=DGT
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=DGT
+DD	DuPont de Nemours Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=DGT
+	Air Liquide SA	
+8411.JP&back=DGT	Mizuho Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8411.JP&back=DGT
+LUV	Southwest Airlines Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUV.US&back=DGT
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=DGT
+	UniCredit S.p.A.	
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=DGT
+	Anglo American plc	
+	Rio Tinto plc	
+5401.JP&back=DGT	NIPPON STEEL CORP.	/etf/ea/ETZCW.djhtm?c=1&etfid=5401.JP&back=DGT
+BA	Boeing Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=DGT
+	BNP Paribas S.A. Class A	
+	ABB Ltd.	
+	Allianz SE	
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=DGT
+TSM	Taiwan Semiconductor Manufacturing Co. Ltd. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=DGT
+GE	General Electric Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=DGT
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=DGT
+6758.JP&back=DGT	Sony Group Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6758.JP&back=DGT
+	Assicurazioni Generali S.p.A.	
+PBR.A	Petroleo Brasileiro SA Sponsored ADR Pfd	/etf/ea/ETZCW.djhtm?c=1&etfid=PBR.A.US&back=DGT
+BAX	Baxter International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=DGT
+	Societe Generale S.A. Class A	
+	ArcelorMittal SA	
+SBUX	Starbucks Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=DGT
+	Banco Bilbao Vizcaya Argentaria S.A.	
+MMM	3M Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=DGT
+	Shell PLC	
+MDT	Medtronic Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=DGT
+	Banco Santander S.A.	
+0700.HK&back=DGT	Tencent Holdings Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=0700.HK&back=DGT
+	E.ON SE	
+	Deutsche Bank Aktiengesellschaft	
+NKE	NIKE Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=DGT
+	Vestas Wind Systems A/S	
+	Telefonaktiebolaget LM Ericsson Class B	
+6752.JP&back=DGT	Panasonic Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6752.JP&back=DGT
+9984.JP&back=DGT	SoftBank Group Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=9984.JP&back=DGT
+DIS	Walt Disney Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=DGT
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=DGT
+	Petroleo Brasileiro SA Pfd	
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=DGT
+	Samsung Electronics Co. Ltd. Sponsored GDR	
+	SAP SE	
+	Siemens AG	
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=DGT
+BABA	Alibaba Group Holding Ltd. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BABA.US&back=DGT
+	Compagnie de Saint-Gobain SA	
+	BASF SE	
+	Credit Suisse Group AG	
+META	Meta Platforms Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=DGT
+CCL	Carnival Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CCL.US&back=DGT
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=DGT
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=DGT
+NFLX	Netflix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=DGT
+PYPL	PayPal Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=DGT
+	SSGA FDS/USA STIF USD	
+	Reliance Industries Limited Sponsored GDR 144A	
+005930.KS&back=DGT	Samsung Electronics Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=005930.KS&back=DGT
+	Brazilian Real	
+	British Pounds	
+	U.S. Dollar	
+	Euro	
+	Japanese Yen	
+	Shell PLC	
+	Australian Dollar	
+	Mexican Peso	
+	Hong Kong Dollar	
+	Canadian Dollar	

@@ -1,0 +1,40 @@
+CIBR
+CRWD	CrowdStrike Holdings,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=CIBR
+NET	Cloudflare,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=CIBR
+PANW	Palo Alto Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=CIBR
+ZS	Zscaler,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=CIBR
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=CIBR
+S	SentinelOne,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=S.US&back=CIBR
+BAH	Booz Allen Hamilton Holding Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=CIBR
+OKTA	Okta,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=CIBR
+VRSN	VeriSign,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=CIBR
+CYBR	CyberArk Software Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=CYBR.US&back=CIBR
+	Thales S.A.	
+FFIV	F5 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=CIBR
+CHKP	Check Point Software Technologies Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHKP.US&back=CIBR
+INFY	Infosys Limited (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=INFY.US&back=CIBR
+JNPR	Juniper Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=CIBR
+NLOK	NortonLifeLock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=CIBR
+LDOS	Leidos Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=CIBR
+VMW	VMware,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=CIBR
+AKAM	Akamai Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=CIBR
+SPLK	Splunk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=CIBR
+FTNT	Fortinet,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=CIBR
+QLYS	Qualys,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QLYS.US&back=CIBR
+TENB	Tenable Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TENB.US&back=CIBR
+4704.JP&back=CIBR	Trend Micro Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=4704.JP&back=CIBR
+RPD	Rapid7,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RPD.US&back=CIBR
+VRNS	Varonis Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNS.US&back=CIBR
+PING	Ping Identity Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PING.US&back=CIBR
+053800.KS&back=CIBR	AhnLab,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=053800.KS&back=CIBR
+	ManTech International Corporation	
+SAIC	Science Applications International Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=CIBR
+	Darktrace Plc	
+KNBE	KnowBe4,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=KNBE.US&back=CIBR
+ATEN	A10 Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATEN.US&back=CIBR
+	US Dollar	
+RDWR	Radware Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=RDWR.US&back=CIBR
+TLS	Telos Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TLS.US&back=CIBR
+OSPN	OneSpan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OSPN.US&back=CIBR
+ARQQ	Arqit Quantum Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARQQ.US&back=CIBR
+RBBN	Ribbon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RBBN.US&back=CIBR

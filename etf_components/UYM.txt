@@ -1,0 +1,45 @@
+UYM
+	DJ U.S. BASIC MATERIALS INDEX SWAP GOLDMAN SACHS INTERNATIONAL	
+	DJ U.S. BASIC MATERIALS INDEX SWAP CITIBANK NA	
+	DJ U.S. BASIC MATERIALS INDEX SWAP SOCIETE GENERALE	
+	DJ U.S. BASIC MATERIALS INDEX SWAP UBS AG	
+LIN	LINDE PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=UYM
+	DJ U.S. BASIC MATERIALS INDEX SWAP BANK OF AMERICA NA	
+APD	AIR PRODUCTS & CHEMICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=UYM
+CTVA	CORTEVA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=UYM
+FCX	FREEPORT-MCMORAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=UYM
+ECL	ECOLAB INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=UYM
+NEM	NEWMONT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=UYM
+DOW	DOW INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=UYM
+ALB	ALBEMARLE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=UYM
+NUE	NUCOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=UYM
+PPG	PPG INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PPG.US&back=UYM
+DD	DUPONT DE NEMOURS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=UYM
+IFF	INTL FLAVORS & FRAGRANCES	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=UYM
+CF	CF INDUSTRIES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=UYM
+LYB	LYONDELLBASELL INDU-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=UYM
+MOS	MOSAIC CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=UYM
+FMC	FMC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=UYM
+STLD	STEEL DYNAMICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=UYM
+RPM	RPM INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RPM.US&back=UYM
+RS	RELIANCE STEEL & ALUMINUM	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=UYM
+CE	CELANESE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=UYM
+EMN	EASTMAN CHEMICAL CO	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=UYM
+CLF	CLEVELAND-CLIFFS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=UYM
+RGLD	ROYAL GOLD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=UYM
+AA	ALCOA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=UYM
+OLN	OLIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OLN.US&back=UYM
+ASH	ASHLAND INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ASH.US&back=UYM
+AXTA	AXALTA COATING SYSTEMS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=AXTA.US&back=UYM
+HUN	HUNTSMAN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HUN.US&back=UYM
+VVV	VALVOLINE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VVV.US&back=UYM
+X	UNITED STATES STEEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=UYM
+CMC	COMMERCIAL METALS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CMC.US&back=UYM
+CC	CHEMOURS CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=CC.US&back=UYM
+ESI	ELEMENT SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ESI.US&back=UYM
+WLK	WESTLAKE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=UYM
+MP	MP MATERIALS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MP.US&back=UYM
+DNA	GINKGO BIOWORKS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DNA.US&back=UYM
+	DJ U.S. BASIC MATERIALS INDEX SWAP MORGAN STANLEY & CO. INTERNATIONAL PLC	
+NEU	NEWMARKET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NEU.US&back=UYM
+SMG	SCOTTS MIRACLE-GRO CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SMG.US&back=UYM

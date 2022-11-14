@@ -1,0 +1,294 @@
+IGM
+AAPL	APPLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=IGM
+AMZN	AMAZON COM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=IGM
+MSFT	MICROSOFT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=IGM
+GOOGL	ALPHABET INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=IGM
+GOOG	ALPHABET INC CLASS C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=IGM
+NVDA	NVIDIA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=IGM
+META	META PLATFORMS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=IGM
+V	VISA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=IGM
+MA	MASTERCARD INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=IGM
+AVGO	BROADCOM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=IGM
+CSCO	CISCO SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=IGM
+ACN	ACCENTURE PLC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=IGM
+ADBE	ADOBE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=IGM
+CRM	SALESFORCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=IGM
+TXN	TEXAS INSTRUMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=IGM
+QCOM	QUALCOMM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=IGM
+AMD	ADVANCED MICRO DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=IGM
+INTC	INTEL CORPORATION CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=IGM
+INTU	INTUIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=IGM
+ORCL	ORACLE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=IGM
+IBM	INTERNATIONAL BUSINESS MACHINES CO	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=IGM
+PYPL	PAYPAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=IGM
+ADP	AUTOMATIC DATA PROCESSING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=IGM
+NFLX	NETFLIX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=IGM
+NOW	SERVICENOW INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=IGM
+AMAT	APPLIED MATERIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=IGM
+ADI	ANALOG DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=IGM
+MU	MICRON TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=IGM
+ATVI	ACTIVISION BLIZZARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=IGM
+LRCX	LAM RESEARCH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=IGM
+FISV	FISERV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=IGM
+FIS	FIDELITY NATIONAL INFORMATION SERV	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=IGM
+PANW	PALO ALTO NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=IGM
+SNPS	SYNOPSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=IGM
+KLAC	KLA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=IGM
+CDNS	CADENCE DESIGN SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=IGM
+ADSK	AUTODESK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=IGM
+APH	AMPHENOL CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=IGM
+SNOW	SNOWFLAKE CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=IGM
+NXPI	NXP SEMICONDUCTORS NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=IGM
+ROP	ROPER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=IGM
+MSI	MOTOROLA SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=IGM
+TEL	TE CONNECTIVITY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=IGM
+MRVL	MARVELL TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=IGM
+PAYX	PAYCHEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=IGM
+CRWD	CROWDSTRIKE HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=IGM
+ENPH	ENPHASE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=IGM
+MCHP	MICROCHIP TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=IGM
+SHOP	SHOPIFY SUBORDINATE VOTING INC CLA	/etf/ea/ETZCW.djhtm?c=1&etfid=SHOP.US&back=IGM
+EA	ELECTRONIC ARTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=IGM
+GPN	GLOBAL PAYMENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=IGM
+SQ	BLOCK INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=IGM
+CTSH	COGNIZANT TECHNOLOGY SOLUTIONS COR	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=IGM
+WDAY	WORKDAY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=IGM
+FTNT	FORTINET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=IGM
+HPQ	HP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=IGM
+ON	ON SEMICONDUCTOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=IGM
+KEYS	KEYSIGHT TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=IGM
+TWTR	TWITTER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=IGM
+TTD	TRADE DESK INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TTD.US&back=IGM
+DDOG	DATADOG INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=IGM
+ANET	ARISTA NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=IGM
+GLW	CORNING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=IGM
+EBAY	EBAY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=IGM
+EPAM	EPAM SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=IGM
+VMW	VMWARE CLASS A INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=IGM
+CDW	CDW CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=IGM
+IT	GARTNER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=IGM
+MDB	MONGODB INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDB.US&back=IGM
+ANSS	ANSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=IGM
+BR	BROADRIDGE FINANCIAL SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=IGM
+MPWR	MONOLITHIC POWER SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=IGM
+TTWO	TAKE TWO INTERACTIVE SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=IGM
+ZM	ZOOM VIDEO COMMUNICATIONS INC CLAS	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=IGM
+HPE	HEWLETT PACKARD ENTERPRISE	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=IGM
+NET	CLOUDFLARE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=IGM
+VRSN	VERISIGN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=IGM
+TDY	TELEDYNE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=IGM
+PAYC	PAYCOM SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=IGM
+GIB	CGI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GIB.US&back=IGM
+FLT	FLEETCOR TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=IGM
+NTAP	NETAPP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=IGM
+MTCH	MATCH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MTCH.US&back=IGM
+SWKS	SKYWORKS SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=IGM
+ZBRA	ZEBRA TECHNOLOGIES CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBRA.US&back=IGM
+TRMB	TRIMBLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=IGM
+TYL	TYLER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=IGM
+SEDG	SOLAREDGE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=IGM
+HUBS	HUBSPOT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBS.US&back=IGM
+BILL	BILL COM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BILL.US&back=IGM
+AKAM	AKAMAI TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=IGM
+SPLK	SPLUNK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=IGM
+ENTG	ENTEGRIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENTG.US&back=IGM
+JKHY	JACK HENRY AND ASSOCIATES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=IGM
+WOLF	WOLFSPEED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WOLF.US&back=IGM
+OKTA	OKTA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=IGM
+ZI	ZOOMINFO TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZI.US&back=IGM
+TER	TERADYNE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=IGM
+ETSY	ETSY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=IGM
+WDC	WESTERN DIGITAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=IGM
+STX	SEAGATE TECHNOLOGY HOLDINGS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=IGM
+PINS	PINTEREST INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PINS.US&back=IGM
+NLOK	NORTONLIFELOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=IGM
+ZS	ZSCALER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=IGM
+	CITRIX SYSTEMS INC	
+FSLR	FIRST SOLAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=IGM
+PLTR	PALANTIR TECHNOLOGIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTR.US&back=IGM
+SSNC	SS AND C TECHNOLOGIES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=IGM
+GDDY	GODADDY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GDDY.US&back=IGM
+PTC	PTC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=IGM
+TWLO	TWILIO INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TWLO.US&back=IGM
+SNAP	SNAP INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNAP.US&back=IGM
+DOCU	DOCUSIGN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCU.US&back=IGM
+FICO	FAIR ISAAC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FICO.US&back=IGM
+	BLK CSH FND TREASURY SL AGENCY	
+DELL	DELL TECHNOLOGIES INC CLASS C	/etf/ea/ETZCW.djhtm?c=1&etfid=DELL.US&back=IGM
+BKI	BLACK KNIGHT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BKI.US&back=IGM
+DASH	DOORDASH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DASH.US&back=IGM
+QRVO	QORVO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=IGM
+PCTY	PAYLOCITY HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PCTY.US&back=IGM
+FFIV	F5 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=IGM
+ZEN	ZENDESK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZEN.US&back=IGM
+JNPR	JUNIPER NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=IGM
+MANH	MANHATTAN ASSOCIATES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MANH.US&back=IGM
+JBL	JABIL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=IGM
+OTEX	OPEN TEXT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OTEX.US&back=IGM
+CDAY	CERIDIAN HCM HOLDING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDAY.US&back=IGM
+PSTG	PURE STORAGE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PSTG.US&back=IGM
+AVLR	AVALARA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVLR.US&back=IGM
+	USD CASH	
+G	GENPACT LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=G.US&back=IGM
+CIEN	CIENA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=IGM
+DT	DYNATRACE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DT.US&back=IGM
+LSCC	LATTICE SEMICONDUCTOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=IGM
+CGNX	COGNEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CGNX.US&back=IGM
+U	UNITY SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=U.US&back=IGM
+BSY	BENTLEY SYSTEMS INC CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=BSY.US&back=IGM
+ARW	ARROW ELECTRONICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=IGM
+WEX	WEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WEX.US&back=IGM
+FIVN	FIVE9 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FIVN.US&back=IGM
+ESTC	ELASTIC NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTC.US&back=IGM
+	II VI INC	
+GWRE	GUIDEWIRE SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GWRE.US&back=IGM
+DXC	DXC TECHNOLOGY	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=IGM
+DSGX	DESCARTES SYSTEMS GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DSGX.US&back=IGM
+LFUS	LITTELFUSE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LFUS.US&back=IGM
+AZPN	ASPEN TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZPN.US&back=IGM
+MKSI	MKS INSTRUMENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MKSI.US&back=IGM
+LITE	LUMENTUM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=IGM
+DBX	DROPBOX INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=IGM
+WU	WESTERN UNION	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=IGM
+EXLS	EXLSERVICE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXLS.US&back=IGM
+	MANDIANT INC	
+CNXC	CONCENTRIX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=IGM
+IAC	IAC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IAC.US&back=IGM
+NATI	NATIONAL INSTRUMENTS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NATI.US&back=IGM
+QLYS	QUALYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QLYS.US&back=IGM
+S	SENTINELONE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=S.US&back=IGM
+OLED	UNIVERSAL DISPLAY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OLED.US&back=IGM
+NOVT	NOVANTA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOVT.US&back=IGM
+SWCH	SWITCH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SWCH.US&back=IGM
+DLB	DOLBY LABORATORIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DLB.US&back=IGM
+ROG	ROGERS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ROG.US&back=IGM
+SYNA	SYNAPTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNA.US&back=IGM
+SLAB	SILICON LABORATORIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SLAB.US&back=IGM
+PATH	UIPATH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=IGM
+EEFT	EURONET WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EEFT.US&back=IGM
+CRUS	CIRRUS LOGIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRUS.US&back=IGM
+SPSC	SPS COMMERCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPSC.US&back=IGM
+COUP	COUPA SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COUP.US&back=IGM
+AVT	AVNET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVT.US&back=IGM
+SMAR	SMARTSHEET INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SMAR.US&back=IGM
+NCR	NCR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NCR.US&back=IGM
+W	WAYFAIR INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=W.US&back=IGM
+POWI	POWER INTEGRATIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=POWI.US&back=IGM
+SNX	TD SYNNEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SNX.US&back=IGM
+NTNX	NUTANIX INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NTNX.US&back=IGM
+FN	FABRINET	/etf/ea/ETZCW.djhtm?c=1&etfid=FN.US&back=IGM
+AFRM	AFFIRM HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AFRM.US&back=IGM
+AYX	ALTERYX INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AYX.US&back=IGM
+TENB	TENABLE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TENB.US&back=IGM
+MMS	MAXIMUS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MMS.US&back=IGM
+BOX	BOX INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BOX.US&back=IGM
+BL	BLACKLINE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BL.US&back=IGM
+NEWR	NEW RELIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWR.US&back=IGM
+RNG	RINGCENTRAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RNG.US&back=IGM
+ZD	ZIFF DAVIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZD.US&back=IGM
+ONTO	ONTO INNOVATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ONTO.US&back=IGM
+VNT	VONTIER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VNT.US&back=IGM
+TDC	TERADATA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TDC.US&back=IGM
+AEIS	ADVANCED ENERGY INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AEIS.US&back=IGM
+RPD	RAPID7 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RPD.US&back=IGM
+CALX	CALIX NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CALX.US&back=IGM
+WK	WORKIVA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=WK.US&back=IGM
+DIOD	DIODES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DIOD.US&back=IGM
+VIAV	VIAVI SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VIAV.US&back=IGM
+CFLT	CONFLUENT INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CFLT.US&back=IGM
+NSIT	INSIGHT ENTERPRISES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NSIT.US&back=IGM
+IPGP	IPG PHOTONICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=IPGP.US&back=IGM
+VRNT	VERINT SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNT.US&back=IGM
+BB	BLACKBERRY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=BB.US&back=IGM
+CHWY	CHEWY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHWY.US&back=IGM
+ALRM	ALARM.COM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALRM.US&back=IGM
+VRNS	VARONIS SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNS.US&back=IGM
+SANM	SANMINA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SANM.US&back=IGM
+SMTC	SEMTECH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SMTC.US&back=IGM
+SMCI	SUPER MICRO COMPUTER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SMCI.US&back=IGM
+BDC	BELDEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BDC.US&back=IGM
+VSAT	VIASAT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VSAT.US&back=IGM
+RMBS	RAMBUS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RMBS.US&back=IGM
+MQ	MARQETA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MQ.US&back=IGM
+SPT	SPROUT SOCIAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SPT.US&back=IGM
+BMI	BADGER METER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BMI.US&back=IGM
+MTSI	MACOM TECHNOLOGY SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MTSI.US&back=IGM
+PRFT	PERFICIENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRFT.US&back=IGM
+ACIW	ACI WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACIW.US&back=IGM
+ALTR	ALTAIR ENGINEERING INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ALTR.US&back=IGM
+AMBA	AMBARELLA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMBA.US&back=IGM
+LSPD	LIGHTSPEED COMMERCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LSPD.US&back=IGM
+MXL	MAXLINEAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MXL.US&back=IGM
+VSH	VISHAY INTERTECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VSH.US&back=IGM
+PLXS	PLEXUS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PLXS.US&back=IGM
+FOUR	SHIFT4 PAYMENTS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOUR.US&back=IGM
+KLIC	KULICKE AND SOFFA INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KLIC.US&back=IGM
+CVLT	COMMVAULT SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVLT.US&back=IGM
+TRIP	TRIPADVISOR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRIP.US&back=IGM
+NTCT	NETSCOUT SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTCT.US&back=IGM
+BLKB	BLACKBAUD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLKB.US&back=IGM
+SABR	SABRE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SABR.US&back=IGM
+COMM	COMMSCOPE HOLDING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COMM.US&back=IGM
+QTWO	Q2 HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QTWO.US&back=IGM
+ACLS	AXCELIS TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACLS.US&back=IGM
+FORM	FORMFACTOR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FORM.US&back=IGM
+YELP	YELP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=YELP.US&back=IGM
+EVTC	EVERTEC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVTC.US&back=IGM
+MSTR	MICROSTRATEGY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSTR.US&back=IGM
+PRGS	PROGRESS SOFTWARE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGS.US&back=IGM
+ITRI	ITRON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ITRI.US&back=IGM
+VRRM	VERRA MOBILITY CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=VRRM.US&back=IGM
+SPWR	SUNPOWER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SPWR.US&back=IGM
+AMKR	AMKOR TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMKR.US&back=IGM
+ENV	ENVESTNET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENV.US&back=IGM
+PD	PAGERDUTY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PD.US&back=IGM
+APPF	APPFOLIO INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=APPF.US&back=IGM
+BFH	BREAD FINANCIAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BFH.US&back=IGM
+XRX	XEROX HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XRX.US&back=IGM
+NVEI	NUVEI SUBORDINATE VOTING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVEI.US&back=IGM
+KD	KYNDRYL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KD.US&back=IGM
+EXTR	EXTREME NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXTR.US&back=IGM
+APPN	APPIAN CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=APPN.US&back=IGM
+TIXT	TELUS INTERNATIONAL CDA SUBORDINAT	/etf/ea/ETZCW.djhtm?c=1&etfid=TIXT.US&back=IGM
+UI	UBIQUITI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UI.US&back=IGM
+BMBL	BUMBLE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BMBL.US&back=IGM
+NCNO	NCINO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NCNO.US&back=IGM
+PING	PING IDENTITY HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PING.US&back=IGM
+PI	IMPINJ INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PI.US&back=IGM
+ADTN	ADTRAN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADTN.US&back=IGM
+CSGS	CSG SYSTEMS INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGS.US&back=IGM
+SITM	SITIME CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SITM.US&back=IGM
+CARG	CARGURUS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CARG.US&back=IGM
+APPS	DIGITAL TURBINE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=APPS.US&back=IGM
+XPER	XPERI HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XPER.US&back=IGM
+ASAN	ASANA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ASAN.US&back=IGM
+EVBG	EVERBRIDGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVBG.US&back=IGM
+IDCC	INTERDIGITAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDCC.US&back=IGM
+TTMI	TTM TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TTMI.US&back=IGM
+PEGA	PEGASYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEGA.US&back=IGM
+MEI	METHODE ELECTRONICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MEI.US&back=IGM
+KN	KNOWLES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KN.US&back=IGM
+PAYO	PAYONEER GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYO.US&back=IGM
+OSIS	OSI SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OSIS.US&back=IGM
+RAMP	LIVERAMP HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RAMP.US&back=IGM
+JAMF	JAMF HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=JAMF.US&back=IGM
+AI	C3 AI INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AI.US&back=IGM
+UCTT	ULTRA CLEAN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UCTT.US&back=IGM
+SSTK	SHUTTERSTOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SSTK.US&back=IGM
+DDD	3D SYSTEMS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DDD.US&back=IGM
+CLFD	CLEARFIELD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLFD.US&back=IGM
+PLUS	EPLUS	/etf/ea/ETZCW.djhtm?c=1&etfid=PLUS.US&back=IGM
+XM	QUALTRICS INTERNATIONAL CLASS A IN	/etf/ea/ETZCW.djhtm?c=1&etfid=XM.US&back=IGM
+COHU	COHU INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COHU.US&back=IGM
+ETWO	E2OPEN PARENT HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ETWO.US&back=IGM
+ALGM	ALLEGRO MICROSYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGM.US&back=IGM
+MARA	MARATHON DIGITAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MARA.US&back=IGM
+HLIT	HARMONIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HLIT.US&back=IGM
+OSTK	OVERSTOCK COM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OSTK.US&back=IGM
+DGII	DIGI INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DGII.US&back=IGM
+INFN	INFINERA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INFN.US&back=IGM
+PLTK	PLAYTIKA HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTK.US&back=IGM
+CLS	CELESTICA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLS.US&back=IGM
+	CASH COLLATERAL USD WFFUT	
+FSLY	FASTLY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLY.US&back=IGM
+BIGC	BIGCOMMERCE HOLDINGS INC SERIES	/etf/ea/ETZCW.djhtm?c=1&etfid=BIGC.US&back=IGM

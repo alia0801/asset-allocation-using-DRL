@@ -1,0 +1,9 @@
+AOK
+IUSB	ISHARES CORE TOTAL USD BOND MARKET	/etf/ea/ETZCW.djhtm?c=1&etfid=IUSB.US&back=AOK
+IVV	ISHARES CORE S&P 500 ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=IVV.US&back=AOK
+IAGG	iShares Core Intl Aggregate Bnd ET	/etf/ea/ETZCW.djhtm?c=1&etfid=IAGG.US&back=AOK
+IDEV	ISHARES CORE MSCI INT DEVEL ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=IDEV.US&back=AOK
+IEMG	ISHARES CORE MSCI EMERGING MARKETS	/etf/ea/ETZCW.djhtm?c=1&etfid=IEMG.US&back=AOK
+IJH	ISHARES CORE S&P MID-CAP ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=IJH.US&back=AOK
+IJR	ISHARES CORE S&P SMALL-CAP ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=IJR.US&back=AOK
+	BLK CSH FND TREASURY SL AGENCY 2.55	

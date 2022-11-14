@@ -1,0 +1,74 @@
+RGI
+NLSN	Nielsen Holdings PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLSN.US&back=RGI
+ROL	Rollins Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROL.US&back=RGI
+NOC	Northrop Grumman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=RGI
+RHI	Robert Half International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RHI.US&back=RGI
+IEX	IDEX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=RGI
+PCAR	PACCAR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=RGI
+HII	Huntington Ingalls Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HII.US&back=RGI
+CMI	Cummins Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=RGI
+RTX	Raytheon Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=RGI
+ODFL	Old Dominion Freight Line Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=RGI
+WM	Waste Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=RGI
+RSG	Republic Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=RGI
+LMT	Lockheed Martin Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=RGI
+CPRT	Copart Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRT.US&back=RGI
+GD	General Dynamics Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=RGI
+ETN	Eaton Corp PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=RGI
+LDOS	Leidos Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=RGI
+NDSN	Nordson Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NDSN.US&back=RGI
+XYL	Xylem Inc/NY	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=RGI
+SNA	Snap-on Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNA.US&back=RGI
+AME	AMETEK Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AME.US&back=RGI
+ALLE	Allegion plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLE.US&back=RGI
+CTAS	Cintas Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=RGI
+FAST	Fastenal Co	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=RGI
+DOV	Dover Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=RGI
+JBHT	JB Hunt Transport Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JBHT.US&back=RGI
+MMM	3M Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=RGI
+DE	Deere & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=RGI
+MAS	Masco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=RGI
+WAB	Westinghouse Air Brake Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WAB.US&back=RGI
+CSGP	CoStar Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGP.US&back=RGI
+VRSK	Verisk Analytics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=RGI
+TT	Trane Technologies PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=RGI
+TXT	Textron Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TXT.US&back=RGI
+FTV	Fortive Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FTV.US&back=RGI
+LHX	L3Harris Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=RGI
+ITW	Illinois Tool Works Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=RGI
+HON	Honeywell International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=RGI
+EFX	Equifax Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EFX.US&back=RGI
+J	Jacobs Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=J.US&back=RGI
+PH	Parker-Hannifin Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=RGI
+OTIS	Otis Worldwide Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=RGI
+URI	United Rentals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=URI.US&back=RGI
+PWR	Quanta Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=RGI
+CAT	Caterpillar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=RGI
+AOS	A O Smith Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=RGI
+EMR	Emerson Electric Co	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=RGI
+IR	Ingersoll Rand Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IR.US&back=RGI
+PNR	Pentair PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=RGI
+DAL	Delta Air Lines Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DAL.US&back=RGI
+GWW	WW Grainger Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=RGI
+EXPD	Expeditors International of Washington Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=RGI
+HWM	Howmet Aerospace Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=RGI
+AAL	American Airlines Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAL.US&back=RGI
+JCI	Johnson Controls International plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JCI.US&back=RGI
+TDG	TransDigm Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=RGI
+CARR	Carrier Global Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=RGI
+CHRW	CH Robinson Worldwide Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=RGI
+ROK	Rockwell Automation Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROK.US&back=RGI
+ALK	Alaska Air Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALK.US&back=RGI
+SWK	Stanley Black & Decker Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=RGI
+UNP	Union Pacific Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=RGI
+NSC	Norfolk Southern Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=RGI
+GE	General Electric Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=RGI
+FBHS	Fortune Brands Home & Security Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=RGI
+UAL	United Airlines Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UAL.US&back=RGI
+CSX	CSX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=RGI
+UPS	United Parcel Service Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=RGI
+LUV	Southwest Airlines Co	/etf/ea/ETZCW.djhtm?c=1&etfid=LUV.US&back=RGI
+BA	Boeing Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=RGI
+GNRC	Generac Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GNRC.US&back=RGI
+FDX	FedEx Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=RGI
+	Invesco Government & Agency Portfolio	

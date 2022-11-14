@@ -1,0 +1,21 @@
+VONG
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=VONG
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=VONG
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=VONG
+TSLA	Tesla Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=VONG
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=VONG
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=VONG
+UNH	UnitedHealth Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=VONG
+NVDA	NVIDIA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=VONG
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=VONG
+MA	Mastercard Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=VONG
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=VONG
+COST	Costco Wholesale Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=VONG
+LLY	Eli Lilly & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=VONG
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=VONG
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=VONG
+ACN	Accenture plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=VONG
+KO	Coca-Cola Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=VONG
+ADBE	Adobe Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=VONG
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=VONG
+QCOM	QUALCOMM Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=VONG

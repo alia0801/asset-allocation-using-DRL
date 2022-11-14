@@ -1,0 +1,65 @@
+NOBL
+ALB	ALBEMARLE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=NOBL
+CAH	CARDINAL HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=NOBL
+ADM	ARCHER-DANIELS-MIDLAND CO	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=NOBL
+GPC	GENUINE PARTS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=NOBL
+GWW	WW GRAINGER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=NOBL
+ADP	AUTOMATIC DATA PROCESSING	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=NOBL
+AFL	AFLAC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=NOBL
+XOM	EXXON MOBIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=NOBL
+CVX	CHEVRON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=NOBL
+APD	AIR PRODUCTS & CHEMICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=NOBL
+CB	CHUBB LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=NOBL
+CTAS	CINTAS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=NOBL
+GD	GENERAL DYNAMICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=NOBL
+WMT	WALMART INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=NOBL
+NEE	NEXTERA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=NOBL
+BRO	BROWN & BROWN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=NOBL
+PEP	PEPSICO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=NOBL
+LOW	LOWE'S COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=NOBL
+HRL	HORMEL FOODS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=NOBL
+JNJ	JOHNSON & JOHNSON	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=NOBL
+LIN	LINDE PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=NOBL
+ITW	ILLINOIS TOOL WORKS	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=NOBL
+TGT	TARGET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=NOBL
+BF.B	BROWN-FORMAN CORP-CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=NOBL
+IBM	INTL BUSINESS MACHINES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=NOBL
+ED	CONSOLIDATED EDISON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=NOBL
+BDX	BECTON DICKINSON AND CO	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=NOBL
+CAT	CATERPILLAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=NOBL
+KO	COCA-COLA CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=NOBL
+MCD	MCDONALD'S CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=NOBL
+ABBV	ABBVIE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=NOBL
+DOV	DOVER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=NOBL
+CL	COLGATE-PALMOLIVE CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=NOBL
+ATO	ATMOS ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=NOBL
+NUE	NUCOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=NOBL
+MDT	MEDTRONIC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=NOBL
+ABT	ABBOTT LABORATORIES	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=NOBL
+ECL	ECOLAB INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=NOBL
+ESS	ESSEX PROPERTY TRUST INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=NOBL
+EMR	EMERSON ELECTRIC CO	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=NOBL
+PG	PROCTER & GAMBLE CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=NOBL
+ROP	ROPER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=NOBL
+EXPD	EXPEDITORS INTL WASH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=NOBL
+FRT	FEDERAL REALTY INVS TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT.US&back=NOBL
+CLX	CLOROX COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=NOBL
+TROW	T ROWE PRICE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=NOBL
+PNR	PENTAIR PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=NOBL
+PPG	PPG INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PPG.US&back=NOBL
+KMB	KIMBERLY-CLARK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=NOBL
+AMCR	AMCOR PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=NOBL
+BEN	FRANKLIN RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=NOBL
+MKC	MCCORMICK & CO-NON VTG SHRS	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=NOBL
+SPGI	S&P GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=NOBL
+MMM	3M CO	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=NOBL
+AOS	SMITH (A.O.) CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=NOBL
+O	REALTY INCOME CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=NOBL
+SYY	SYSCO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=NOBL
+WBA	WALGREENS BOOTS ALLIANCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=NOBL
+CINF	CINCINNATI FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=NOBL
+SHW	SHERWIN-WILLIAMS CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=NOBL
+WST	WEST PHARMACEUTICAL SERVICES	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=NOBL
+CHD	CHURCH & DWIGHT CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=NOBL
+SWK	STANLEY BLACK & DECKER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=NOBL
+VFC	VF CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=NOBL

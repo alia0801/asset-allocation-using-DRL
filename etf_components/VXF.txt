@@ -1,0 +1,21 @@
+VXF
+BX	Blackstone Group LP	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=VXF
+PANW	Palo Alto Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=VXF
+UBER	Uber Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=VXF
+SNOW	Snowflake Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=VXF
+ABNB	Airbnb Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=VXF
+MRVL	Marvell Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=VXF
+CRWD	Crowdstrike Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=VXF
+LNG	Cheniere Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=VXF
+LULU	Lululemon Athletica Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=VXF
+SQ	Square Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=VXF
+WDAY	Workday Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=VXF
+KKR	KKR & Co. Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=KKR.US&back=VXF
+VEEV	Veeva Systems Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=VXF
+TTD	Trade Desk Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TTD.US&back=VXF
+CSGP	CoStar Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGP.US&back=VXF
+DDOG	Datadog Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=VXF
+ALNY	Alnylam Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALNY.US&back=VXF
+VMW	VMware Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=VXF
+MDB	MongoDB Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDB.US&back=VXF
+INVH	Invitation Homes Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INVH.US&back=VXF

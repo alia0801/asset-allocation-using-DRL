@@ -1,0 +1,27 @@
+SMH
+TSM	Taiwan Semiconductor Manufacturing Co L	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=SMH
+NVDA	Nvidia Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=SMH
+TXN	Texas Instruments Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=SMH
+QCOM	Qualcomm Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=SMH
+AVGO	Broadcom Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=SMH
+ASML	Asml Holding Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=SMH
+AMD	Advanced Micro Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=SMH
+KLAC	Kla Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=SMH
+ADI	Analog Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=SMH
+SNPS	Synopsys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=SMH
+INTC	Intel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=SMH
+LRCX	Lam Research Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=SMH
+AMAT	Applied Materials Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=SMH
+MU	Micron Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=SMH
+CDNS	Cadence Design Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=SMH
+NXPI	Nxp Semiconductors Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=SMH
+MRVL	Marvell Technology Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=SMH
+MCHP	Microchip Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=SMH
+ON	On Semiconductor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=SMH
+STM	Stmicroelectronics Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=STM.US&back=SMH
+MPWR	Monolithic Power Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=SMH
+SWKS	Skyworks Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=SMH
+TER	Teradyne Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=SMH
+QRVO	Qorvo Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=SMH
+OLED	Universal Display Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OLED.US&back=SMH
+	Other/Cash	

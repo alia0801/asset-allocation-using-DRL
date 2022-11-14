@@ -1,0 +1,1025 @@
+IWB
+AAPL	APPLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=IWB
+MSFT	MICROSOFT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=IWB
+AMZN	AMAZON COM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=IWB
+TSLA	TESLA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=IWB
+GOOGL	ALPHABET INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=IWB
+GOOG	ALPHABET INC CLASS C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=IWB
+BRK.B	BERKSHIRE HATHAWAY INC CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=IWB
+UNH	UNITEDHEALTH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=IWB
+JNJ	JOHNSON & JOHNSON	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=IWB
+XOM	EXXON MOBIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=IWB
+META	META PLATFORMS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=IWB
+NVDA	NVIDIA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=IWB
+JPM	JPMORGAN CHASE & CO	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=IWB
+PG	PROCTER & GAMBLE	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=IWB
+V	VISA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=IWB
+CVX	CHEVRON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=IWB
+HD	HOME DEPOT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=IWB
+MA	MASTERCARD INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=IWB
+PFE	PFIZER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=IWB
+LLY	ELI LILLY	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=IWB
+KO	COCA-COLA	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=IWB
+PEP	PEPSICO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=IWB
+ABBV	ABBVIE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=IWB
+BAC	BANK OF AMERICA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=IWB
+COST	COSTCO WHOLESALE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=IWB
+MRK	MERCK & CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=IWB
+TMO	THERMO FISHER SCIENTIFIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=IWB
+DIS	WALT DISNEY	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=IWB
+AVGO	BROADCOM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=IWB
+WMT	WALMART INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=IWB
+MCD	MCDONALDS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=IWB
+CSCO	CISCO SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=IWB
+ACN	ACCENTURE PLC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=IWB
+ADBE	ADOBE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=IWB
+ABT	ABBOTT LABORATORIES	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=IWB
+VZ	VERIZON COMMUNICATIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=IWB
+DHR	DANAHER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=IWB
+NEE	NEXTERA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=IWB
+WFC	WELLS FARGO	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=IWB
+CMCSA	COMCAST CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=IWB
+TXN	TEXAS INSTRUMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=IWB
+CRM	SALESFORCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=IWB
+QCOM	QUALCOMM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=IWB
+PM	PHILIP MORRIS INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=IWB
+BMY	BRISTOL MYERS SQUIBB	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=IWB
+UPS	UNITED PARCEL SERVICE INC CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=IWB
+LIN	LINDE PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=IWB
+COP	CONOCOPHILLIPS	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=IWB
+UNP	UNION PACIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=IWB
+AMD	ADVANCED MICRO DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=IWB
+RTX	RAYTHEON TECHNOLOGIES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=IWB
+INTC	INTEL CORPORATION CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=IWB
+NKE	NIKE INC CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=IWB
+HON	HONEYWELL INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=IWB
+CVS	CVS HEALTH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=IWB
+LOW	LOWES COMPANIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=IWB
+AMGN	AMGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=IWB
+T	AT&T INC	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=IWB
+SPGI	S&P GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=IWB
+INTU	INTUIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=IWB
+AMT	AMERICAN TOWER REIT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=IWB
+MDT	MEDTRONIC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=IWB
+ELV	ELEVANCE HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=IWB
+IBM	INTERNATIONAL BUSINESS MACHINES CO	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=IWB
+ORCL	ORACLE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=IWB
+GS	GOLDMAN SACHS GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=IWB
+MS	MORGAN STANLEY	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=IWB
+PYPL	PAYPAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=IWB
+SCHW	CHARLES SCHWAB CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=IWB
+DE	DEERE	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=IWB
+ADP	AUTOMATIC DATA PROCESSING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=IWB
+BLK	BLACKROCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=IWB
+LMT	LOCKHEED MARTIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=IWB
+CAT	CATERPILLAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=IWB
+NFLX	NETFLIX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=IWB
+C	CITIGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=IWB
+SBUX	STARBUCKS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=IWB
+PLD	PROLOGIS REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=IWB
+AXP	AMERICAN EXPRESS	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=IWB
+CI	CIGNA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=IWB
+BA	BOEING	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=IWB
+NOW	SERVICENOW INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=IWB
+MDLZ	MONDELEZ INTERNATIONAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=IWB
+TMUS	T MOBILE US INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=IWB
+AMAT	APPLIED MATERIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=IWB
+DUK	DUKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=IWB
+MO	ALTRIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=IWB
+SO	SOUTHERN	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=IWB
+MMC	MARSH & MCLENNAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=IWB
+GE	GENERAL ELECTRIC	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=IWB
+CB	CHUBB LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=IWB
+GILD	GILEAD SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=IWB
+ADI	ANALOG DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=IWB
+BKNG	BOOKING HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=IWB
+TGT	TARGET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=IWB
+ZTS	ZOETIS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=IWB
+CCI	CROWN CASTLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=IWB
+ISRG	INTUITIVE SURGICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=IWB
+TJX	TJX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=IWB
+SYK	STRYKER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SYK.US&back=IWB
+VRTX	VERTEX PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=IWB
+BDX	BECTON DICKINSON	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=IWB
+PGR	PROGRESSIVE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=IWB
+EOG	EOG RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=IWB
+MMM	3M	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=IWB
+CME	CME GROUP INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CME.US&back=IWB
+WM	WASTE MANAGEMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=IWB
+NOC	NORTHROP GRUMMAN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=IWB
+CSX	CSX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=IWB
+D	DOMINION ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=IWB
+BX	BLACKSTONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=IWB
+PNC	PNC FINANCIAL SERVICES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=IWB
+CL	COLGATE-PALMOLIVE	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=IWB
+MU	MICRON TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=IWB
+TFC	TRUIST FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=IWB
+USB	US BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=IWB
+ATVI	ACTIVISION BLIZZARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=IWB
+LRCX	LAM RESEARCH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=IWB
+PXD	PIONEER NATURAL RESOURCE	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=IWB
+HUM	HUMANA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=IWB
+F	FORD MOTOR CO	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=IWB
+ITW	ILLINOIS TOOL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=IWB
+REGN	REGENERON PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=IWB
+FISV	FISERV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=IWB
+EQIX	EQUINIX REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=IWB
+AON	AON PLC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=IWB
+EL	ESTEE LAUDER INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=IWB
+OXY	OCCIDENTAL PETROLEUM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=IWB
+NSC	NORFOLK SOUTHERN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=IWB
+BSX	BOSTON SCIENTIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BSX.US&back=IWB
+GD	GENERAL DYNAMICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=IWB
+APD	AIR PRODUCTS AND CHEMICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=IWB
+FIS	FIDELITY NATIONAL INFORMATION SERV	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=IWB
+SHW	SHERWIN WILLIAMS	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=IWB
+ICE	INTERCONTINENTAL EXCHANGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=IWB
+EW	EDWARDS LIFESCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=IWB
+GM	GENERAL MOTORS	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=IWB
+ETN	EATON PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=IWB
+MPC	MARATHON PETROLEUM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=IWB
+UBER	UBER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=IWB
+DG	DOLLAR GENERAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=IWB
+SLB	SCHLUMBERGER NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=IWB
+PANW	PALO ALTO NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=IWB
+MCK	MCKESSON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=IWB
+SNPS	SYNOPSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=IWB
+CNC	CENTENE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=IWB
+SRE	SEMPRA	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=IWB
+PSA	PUBLIC STORAGE REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=IWB
+	USD CASH	
+AEP	AMERICAN ELECTRIC POWER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=IWB
+KLAC	KLA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=IWB
+	BLK CSH FND TREASURY SL AGENCY	
+FDX	FEDEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=IWB
+ADM	ARCHER DANIELS MIDLAND	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=IWB
+EMR	EMERSON ELECTRIC	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=IWB
+VLO	VALERO ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=IWB
+CHTR	CHARTER COMMUNICATIONS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=IWB
+CDNS	CADENCE DESIGN SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=IWB
+DVN	DEVON ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=IWB
+GIS	GENERAL MILLS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=IWB
+MRNA	MODERNA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=IWB
+ORLY	OREILLY AUTOMOTIVE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=IWB
+MCO	MOODYS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCO.US&back=IWB
+HCA	HCA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=IWB
+CTVA	CORTEVA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=IWB
+CMG	CHIPOTLE MEXICAN GRILL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CMG.US&back=IWB
+MET	METLIFE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=IWB
+LHX	L3HARRIS TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=IWB
+ADSK	AUTODESK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=IWB
+APH	AMPHENOL CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=IWB
+EXC	EXELON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=IWB
+PSX	PHILLIPS 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=IWB
+KMB	KIMBERLY CLARK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=IWB
+ROP	ROPER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=IWB
+FCX	FREEPORT MCMORAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=IWB
+MAR	MARRIOTT INTERNATIONAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=IWB
+ABNB	AIRBNB INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=IWB
+AZO	AUTOZONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=IWB
+COF	CAPITAL ONE FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=IWB
+SYY	SYSCO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=IWB
+WMB	WILLIAMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=IWB
+O	REALTY INCOME REIT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=IWB
+AIG	AMERICAN INTERNATIONAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=IWB
+ECL	ECOLAB INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=IWB
+XEL	XCEL ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=IWB
+LNG	CHENIERE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=IWB
+PAYX	PAYCHEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=IWB
+MSI	MOTOROLA SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=IWB
+IQV	IQVIA HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=IWB
+MRVL	MARVELL TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=IWB
+TRV	TRAVELERS COMPANIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=IWB
+A	AGILENT TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=IWB
+CRWD	CROWDSTRIKE HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=IWB
+STZ	CONSTELLATION BRANDS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=STZ.US&back=IWB
+AFL	AFLAC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=IWB
+AJG	ARTHUR J GALLAGHER	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=IWB
+JCI	JOHNSON CONTROLS INTERNATIONAL PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JCI.US&back=IWB
+ENPH	ENPHASE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=IWB
+DOW	DOW INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=IWB
+KMI	KINDER MORGAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=IWB
+TT	TRANE TECHNOLOGIES PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=IWB
+PRU	PRUDENTIAL FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=IWB
+EA	ELECTRONIC ARTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=IWB
+CTAS	CINTAS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=IWB
+SQ	BLOCK INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=IWB
+SNOW	SNOWFLAKE CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=IWB
+MSCI	MSCI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSCI.US&back=IWB
+NUE	NUCOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=IWB
+DLR	DIGITAL REALTY TRUST REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=IWB
+HLT	HILTON WORLDWIDE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HLT.US&back=IWB
+MCHP	MICROCHIP TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=IWB
+WELL	WELLTOWER	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=IWB
+ED	CONSOLIDATED EDISON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=IWB
+GPN	GLOBAL PAYMENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=IWB
+SBAC	SBA COMMUNICATIONS REIT CORP CLASS	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=IWB
+HES	HESS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=IWB
+PH	PARKER-HANNIFIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=IWB
+TEAM	ATLASSIAN PLC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TEAM.US&back=IWB
+LULU	LULULEMON ATHLETICA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=IWB
+SPG	SIMON PROPERTY GROUP REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=IWB
+MNST	MONSTER BEVERAGE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=IWB
+CARR	CARRIER GLOBAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=IWB
+HSY	HERSHEY FOODS	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=IWB
+ALL	ALLSTATE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=IWB
+CTSH	COGNIZANT TECHNOLOGY SOLUTIONS COR	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=IWB
+NEM	NEWMONT	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=IWB
+WEC	WEC ENERGY GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=IWB
+KDP	KEURIG DR PEPPER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=IWB
+MTB	M&T BANK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=IWB
+DXCM	DEXCOM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=IWB
+WDAY	WORKDAY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=IWB
+RMD	RESMED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=IWB
+PEG	PUBLIC SERVICE ENTERPRISE GROUP IN	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=IWB
+FTNT	FORTINET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=IWB
+YUM	YUM BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=IWB
+VICI	VICI PPTYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=IWB
+ILMN	ILLUMINA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=IWB
+KR	KROGER	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=IWB
+TDG	TRANSDIGM GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=IWB
+ALB	ALBEMARLE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=IWB
+WBD	WARNER BROS. DISCOVERY INC SERIES	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=IWB
+ES	EVERSOURCE ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=IWB
+OTIS	OTIS WORLDWIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=IWB
+BK	BANK OF NEW YORK MELLON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=IWB
+CMI	CUMMINS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=IWB
+HPQ	HP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=IWB
+PCAR	PACCAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=IWB
+PPG	PPG INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PPG.US&back=IWB
+ANET	ARISTA NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=IWB
+ON	ON SEMICONDUCTOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=IWB
+ROST	ROSS STORES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=IWB
+KEYS	KEYSIGHT TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=IWB
+RSG	REPUBLIC SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=IWB
+AMP	AMERIPRISE FINANCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=IWB
+FAST	FASTENAL	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=IWB
+VRSK	VERISK ANALYTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=IWB
+IDXX	IDEXX LABORATORIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=IWB
+BAX	BAXTER INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=IWB
+KKR	KKR AND CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KKR.US&back=IWB
+TWTR	TWITTER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=IWB
+DLTR	DOLLAR TREE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=IWB
+BIIB	BIOGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=IWB
+AVB	AVALONBAY COMMUNITIES REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=IWB
+DD	DUPONT DE NEMOURS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=IWB
+IFF	INTERNATIONAL FLAVORS & FRAGRANCES	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=IWB
+DFS	DISCOVER FINANCIAL SERVICES	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=IWB
+ROK	ROCKWELL AUTOMATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROK.US&back=IWB
+ODFL	OLD DOMINION FREIGHT LINE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=IWB
+VEEV	VEEVA SYSTEMS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=IWB
+AME	AMETEK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AME.US&back=IWB
+TTD	TRADE DESK INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TTD.US&back=IWB
+CSGP	COSTAR GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGP.US&back=IWB
+DDOG	DATADOG INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=IWB
+AWK	AMERICAN WATER WORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=IWB
+HAL	HALLIBURTON	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=IWB
+EQR	EQUITY RESIDENTIAL REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=IWB
+MTD	METTLER TOLEDO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MTD.US&back=IWB
+OKE	ONEOK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=IWB
+FRC	FIRST REPUBLIC BANK	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC.US&back=IWB
+TROW	T ROWE PRICE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=IWB
+CEG	CONSTELLATION ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=IWB
+EXR	EXTRA SPACE STORAGE REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=IWB
+KHC	KRAFT HEINZ	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=IWB
+CBRE	CBRE GROUP INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=IWB
+GLW	CORNING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=IWB
+EIX	EDISON INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=IWB
+APO	APOLLO GLOBAL MANAGEMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=APO.US&back=IWB
+CPRT	COPART INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRT.US&back=IWB
+DTE	DTE ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=IWB
+STT	STATE STREET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=IWB
+WY	WEYERHAEUSER REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=IWB
+GWW	WW GRAINGER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=IWB
+WBA	WALGREEN BOOTS ALLIANCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=IWB
+APTV	APTIV PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=IWB
+ALNY	ALNYLAM PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALNY.US&back=IWB
+ARE	ALEXANDRIA REAL ESTATE EQUITIES RE	/etf/ea/ETZCW.djhtm?c=1&etfid=ARE.US&back=IWB
+EBAY	EBAY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=IWB
+CTRA	COTERRA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=IWB
+VMW	VMWARE CLASS A INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=IWB
+AEE	AMEREN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=IWB
+SIVB	SVB FINANCIAL GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVB.US&back=IWB
+ETR	ENTERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=IWB
+FANG	DIAMONDBACK ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=IWB
+EPAM	EPAM SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=IWB
+BKR	BAKER HUGHES CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=IWB
+FITB	FIFTH THIRD BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=IWB
+EFX	EQUIFAX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EFX.US&back=IWB
+CDW	CDW CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=IWB
+DHI	D R HORTON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=IWB
+WTW	WILLIS TOWERS WATSON PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTW.US&back=IWB
+	DUKE REALTY REIT CORP	
+FTV	FORTIVE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FTV.US&back=IWB
+INVH	INVITATION HOMES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INVH.US&back=IWB
+IT	GARTNER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=IWB
+ABC	AMERISOURCEBERGEN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=IWB
+WST	WEST PHARMACEUTICAL SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=IWB
+LUV	SOUTHWEST AIRLINES	/etf/ea/ETZCW.djhtm?c=1&etfid=LUV.US&back=IWB
+ZBH	ZIMMER BIOMET HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=IWB
+MLM	MARTIN MARIETTA MATERIALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MLM.US&back=IWB
+VMC	VULCAN MATERIALS	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=IWB
+ANSS	ANSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=IWB
+GPC	GENUINE PARTS	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=IWB
+ULTA	ULTA BEAUTY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=IWB
+CF	CF INDUSTRIES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=IWB
+TSN	TYSON FOODS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=IWB
+PPL	PPL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=IWB
+MKC	MCCORMICK & CO NON-VOTING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=IWB
+FE	FIRSTENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=IWB
+LYB	LYONDELLBASELL INDUSTRIES NV CLASS	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=IWB
+HIG	HARTFORD FINANCIAL SERVICES GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=IWB
+URI	UNITED RENTALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=URI.US&back=IWB
+LH	LABORATORY CORPORATION OF AMERICA	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=IWB
+SGEN	SEAGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=IWB
+TSCO	TRACTOR SUPPLY	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=IWB
+MPWR	MONOLITHIC POWER SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=IWB
+RJF	RAYMOND JAMES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=IWB
+NDAQ	NASDAQ INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NDAQ.US&back=IWB
+BR	BROADRIDGE FINANCIAL SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=IWB
+ZM	ZOOM VIDEO COMMUNICATIONS INC CLAS	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=IWB
+RF	REGIONS FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=IWB
+MDB	MONGODB INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDB.US&back=IWB
+PWR	QUANTA SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=IWB
+CHD	CHURCH AND DWIGHT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=IWB
+DAL	DELTA AIR LINES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DAL.US&back=IWB
+CNP	CENTERPOINT ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CNP.US&back=IWB
+TTWO	TAKE TWO INTERACTIVE SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=IWB
+LEN	LENNAR A CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=IWB
+NTRS	NORTHERN TRUST CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=IWB
+CMS	CMS ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=IWB
+MOS	MOSAIC	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=IWB
+MOH	MOLINA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=IWB
+VTR	VENTAS REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=IWB
+IR	INGERSOLL RAND INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IR.US&back=IWB
+PCG	PG&E CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=IWB
+CAH	CARDINAL HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=IWB
+HBAN	HUNTINGTON BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=IWB
+MAA	MID AMERICA APARTMENT COMMUNITIES	/etf/ea/ETZCW.djhtm?c=1&etfid=MAA.US&back=IWB
+ALGN	ALIGN TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=IWB
+PFG	PRINCIPAL FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=IWB
+SUI	SUN COMMUNITIES REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SUI.US&back=IWB
+DOV	DOVER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=IWB
+K	KELLOGG	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=IWB
+MRO	MARATHON OIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=IWB
+LPLA	LPL FINANCIAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LPLA.US&back=IWB
+PAYC	PAYCOM SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=IWB
+AMCR	AMCOR PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=IWB
+WAT	WATERS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=IWB
+CFG	CITIZENS FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=IWB
+HPE	HEWLETT PACKARD ENTERPRISE	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=IWB
+EQT	EQT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=IWB
+PODD	INSULET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PODD.US&back=IWB
+ESS	ESSEX PROPERTY TRUST REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=IWB
+BALL	BALL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BALL.US&back=IWB
+CLX	CLOROX	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=IWB
+NET	CLOUDFLARE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=IWB
+VRSN	VERISIGN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=IWB
+RBLX	ROBLOX CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=IWB
+EXPD	EXPEDITORS INTERNATIONAL OF WASHIN	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=IWB
+PKI	PERKINELMER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PKI.US&back=IWB
+STE	STERIS	/etf/ea/ETZCW.djhtm?c=1&etfid=STE.US&back=IWB
+TDY	TELEDYNE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=IWB
+FDS	FACTSET RESEARCH SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=IWB
+AES	AES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=IWB
+XYL	XYLEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=IWB
+BMRN	BIOMARIN PHARMACEUTICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BMRN.US&back=IWB
+CAG	CONAGRA BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=IWB
+ACGL	ARCH CAPITAL GROUP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGL.US&back=IWB
+HOLX	HOLOGIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=IWB
+SYF	SYNCHRONY FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=IWB
+KEY	KEYCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=IWB
+WAB	WESTINGHOUSE AIR BRAKE TECHNOLOGIE	/etf/ea/ETZCW.djhtm?c=1&etfid=WAB.US&back=IWB
+FLT	FLEETCOR TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=IWB
+J	JACOBS SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=J.US&back=IWB
+MTCH	MATCH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MTCH.US&back=IWB
+MKL	MARKEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=IWB
+NTAP	NETAPP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=IWB
+SWKS	SKYWORKS SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=IWB
+BILL	BILL COM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BILL.US&back=IWB
+ATO	ATMOS ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=IWB
+WPC	W. P. CAREY REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=IWB
+TRMB	TRIMBLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=IWB
+HUBS	HUBSPOT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBS.US&back=IWB
+ZBRA	ZEBRA TECHNOLOGIES CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBRA.US&back=IWB
+TYL	TYLER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=IWB
+EXPE	EXPEDIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=IWB
+SPOT	SPOTIFY TECHNOLOGY SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SPOT.US&back=IWB
+IP	INTERNATIONAL PAPER	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=IWB
+RPRX	ROYALTY PHARMA PLC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RPRX.US&back=IWB
+CSL	CARLISLE COMPANIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=IWB
+IRM	IRON MOUNTAIN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=IWB
+EVRG	EVERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=IWB
+BRO	BROWN & BROWN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=IWB
+DRI	DARDEN RESTAURANTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DRI.US&back=IWB
+IEX	IDEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=IWB
+CINF	CINCINNATI FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=IWB
+LNT	ALLIANT ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=IWB
+TRGP	TARGA RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=IWB
+CTLT	CATALENTINC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLT.US&back=IWB
+AVTR	AVANTOR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVTR.US&back=IWB
+DASH	DOORDASH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DASH.US&back=IWB
+AVY	AVERY DENNISON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=IWB
+SJM	JM SMUCKER	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=IWB
+DGX	QUEST DIAGNOSTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=IWB
+HRL	HORMEL FOODS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=IWB
+PLUG	PLUG POWER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PLUG.US&back=IWB
+SPLK	SPLUNK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=IWB
+VFC	VF CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=IWB
+STLD	STEEL DYNAMICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=IWB
+JBHT	JB HUNT TRANSPORT SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JBHT.US&back=IWB
+CHRW	CH ROBINSON WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=IWB
+TRU	TRANSUNION	/etf/ea/ETZCW.djhtm?c=1&etfid=TRU.US&back=IWB
+COO	COOPER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COO.US&back=IWB
+AKAM	AKAMAI TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=IWB
+BBY	BEST BUY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=IWB
+KMX	CARMAX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=IWB
+BG	BUNGE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=IWB
+ENTG	ENTEGRIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENTG.US&back=IWB
+PEAK	HEALTHPEAK PROPERTIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=IWB
+GNRC	GENERAC HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GNRC.US&back=IWB
+JKHY	JACK HENRY AND ASSOCIATES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=IWB
+LKQ	LKQ CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=IWB
+UDR	UDR REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UDR.US&back=IWB
+PLTR	PALANTIR TECHNOLOGIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTR.US&back=IWB
+LYV	LIVE NATION ENTERTAINMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LYV.US&back=IWB
+GRMN	GARMIN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=IWB
+FSLR	FIRST SOLAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=IWB
+ETSY	ETSY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=IWB
+OVV	OVINTIV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=IWB
+FMC	FMC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=IWB
+WDC	WESTERN DIGITAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=IWB
+TER	TERADYNE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=IWB
+NDSN	NORDSON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NDSN.US&back=IWB
+BF.B	BROWN FORMAN CORP CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=IWB
+TXT	TEXTRON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXT.US&back=IWB
+PARA	PARAMOUNT GLOBAL CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=IWB
+DPZ	DOMINOS PIZZA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DPZ.US&back=IWB
+OMC	OMNICOM GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=IWB
+WRB	WR BERKLEY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=IWB
+CPT	CAMDEN PROPERTY TRUST REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=IWB
+HZNP	HORIZON THERAPEUTICS PUBLIC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=HZNP.US&back=IWB
+SWK	STANLEY BLACK & DECKER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=IWB
+POOL	POOL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=POOL.US&back=IWB
+	CITRIX SYSTEMS INC	
+ZS	ZSCALER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=IWB
+HWM	HOWMET AEROSPACE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=IWB
+APA	APA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=IWB
+LBRDK	LIBERTY BROADBAND CORP SERIES C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDK.US&back=IWB
+PINS	PINTEREST INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PINS.US&back=IWB
+FWONK	LIBERTY MEDIA FORMULA ONE CORP SER	/etf/ea/ETZCW.djhtm?c=1&etfid=FWONK.US&back=IWB
+LDOS	LEIDOS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=IWB
+TECH	BIO TECHNE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TECH.US&back=IWB
+WOLF	WOLFSPEED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WOLF.US&back=IWB
+INCY	INCYTE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=IWB
+NLOK	NORTONLIFELOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=IWB
+CHK	CHESAPEAKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=IWB
+KIM	KIMCO REALTY REIT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=IWB
+BAH	BOOZ ALLEN HAMILTON HOLDING CORP C	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=IWB
+HST	HOST HOTELS & RESORTS REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HST.US&back=IWB
+PKG	PACKAGING CORP OF AMERICA	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=IWB
+CBOE	CBOE GLOBAL MARKETS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CBOE.US&back=IWB
+SSNC	SS AND C TECHNOLOGIES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=IWB
+LVS	LAS VEGAS SANDS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LVS.US&back=IWB
+ZI	ZOOMINFO TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZI.US&back=IWB
+NVR	NVR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=IWB
+GDDY	GODADDY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GDDY.US&back=IWB
+BXP	BOSTON PROPERTIES REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BXP.US&back=IWB
+ELS	EQUITY LIFESTYLE PROPERTIES REIT I	/etf/ea/ETZCW.djhtm?c=1&etfid=ELS.US&back=IWB
+RGEN	REPLIGEN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RGEN.US&back=IWB
+DAR	DARLING INGREDIENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DAR.US&back=IWB
+PTC	PTC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=IWB
+FHN	FIRST HORIZON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN.US&back=IWB
+MAS	MASCO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=IWB
+NI	NISOURCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=IWB
+RPM	RPM INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RPM.US&back=IWB
+TWLO	TWILIO INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TWLO.US&back=IWB
+CE	CELANESE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=IWB
+AR	ANTERO RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=IWB
+UAL	UNITED AIRLINES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UAL.US&back=IWB
+EMN	EASTMAN CHEMICAL	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=IWB
+MGM	MGM RESORTS INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=MGM.US&back=IWB
+DOCU	DOCUSIGN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCU.US&back=IWB
+ABMD	ABIOMED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABMD.US&back=IWB
+RS	RELIANCE STEEL & ALUMINUM	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=IWB
+VTRS	VIATRIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=IWB
+SNA	SNAP ON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNA.US&back=IWB
+EQH	EQUITABLE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH.US&back=IWB
+WTRG	ESSENTIAL UTILITIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=IWB
+GLPI	GAMING AND LEISURE PROPERTIES REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=IWB
+L	LOEWS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=IWB
+ARES	ARES MANAGEMENT CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ARES.US&back=IWB
+LW	LAMB WESTON HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LW.US&back=IWB
+OKTA	OKTA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=IWB
+IPG	INTERPUBLIC GROUP OF COMPANIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=IWB
+FICO	FAIR ISAAC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FICO.US&back=IWB
+SBNY	SIGNATURE BANK	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNY.US&back=IWB
+Y	ALLEGHANYCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=Y.US&back=IWB
+AMH	AMERICAN HOMESRENT REIT CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AMH.US&back=IWB
+HUBB	HUBBELL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=IWB
+LSI	LIFE STORAGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=IWB
+GGG	GRACO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GGG.US&back=IWB
+RE	EVEREST RE GROUP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RE.US&back=IWB
+ALLY	ALLY FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=IWB
+NLY	ANNALY CAPITAL MANAGEMENT REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=IWB
+CCK	CROWN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CCK.US&back=IWB
+TFX	TELEFLEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=IWB
+QGEN	QIAGEN NV	/etf/ea/ETZCW.djhtm?c=1&etfid=QGEN.US&back=IWB
+HAS	HASBRO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HAS.US&back=IWB
+VST	VISTRA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=IWB
+CRL	CHARLES RIVER LABORATORIES INTERNA	/etf/ea/ETZCW.djhtm?c=1&etfid=CRL.US&back=IWB
+CUBE	CUBESMART REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBE.US&back=IWB
+REXR	REXFORD INDUSTRIAL REALTY REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=REXR.US&back=IWB
+TPL	TEXAS PACIFIC LAND CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=IWB
+BIO	BIO RAD LABORATORIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BIO.US&back=IWB
+COIN	COINBASE GLOBAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=IWB
+FOXA	FOX CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=IWB
+WSM	WILLIAMS SONOMA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSM.US&back=IWB
+CMA	COMERICA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=IWB
+FNF	FIDELITY NATIONAL FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=IWB
+AAP	ADVANCE AUTO PARTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=IWB
+DOX	AMDOCS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=IWB
+LUMN	LUMEN TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=IWB
+UTHR	UNITED THERAPEUTICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=IWB
+REG	REGENCY CENTERS REIT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=REG.US&back=IWB
+BLDR	BUILDERS FIRSTSOURCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDR.US&back=IWB
+DELL	DELL TECHNOLOGIES INC CLASS C	/etf/ea/ETZCW.djhtm?c=1&etfid=DELL.US&back=IWB
+HSIC	HENRY SCHEIN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HSIC.US&back=IWB
+WRK	WESTROCK	/etf/ea/ETZCW.djhtm?c=1&etfid=WRK.US&back=IWB
+BKI	BLACK KNIGHT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BKI.US&back=IWB
+ACM	AECOM	/etf/ea/ETZCW.djhtm?c=1&etfid=ACM.US&back=IWB
+NLSN	NIELSEN HOLDINGS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLSN.US&back=IWB
+BJ	BJS WHOLESALE CLUB HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BJ.US&back=IWB
+NBIX	NEUROCRINE BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NBIX.US&back=IWB
+EWBC	EAST WEST BANCORP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EWBC.US&back=IWB
+FCNCA	FIRST CITIZENS BANCSHARES INC CLAS	/etf/ea/ETZCW.djhtm?c=1&etfid=FCNCA.US&back=IWB
+HEI.A	HEICO CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.A.US&back=IWB
+NRG	NRG ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=IWB
+SRPT	SAREPTA THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SRPT.US&back=IWB
+PHM	PULTEGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=IWB
+CPB	CAMPBELL SOUP	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=IWB
+SCI	SERVICE	/etf/ea/ETZCW.djhtm?c=1&etfid=SCI.US&back=IWB
+PCTY	PAYLOCITY HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PCTY.US&back=IWB
+JAZZ	JAZZ PHARMACEUTICALS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JAZZ.US&back=IWB
+QRVO	QORVO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=IWB
+AA	ALCOA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=IWB
+MTN	VAIL RESORTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MTN.US&back=IWB
+ZEN	ZENDESK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZEN.US&back=IWB
+FFIV	F5 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=IWB
+RRX	REGAL REXNORD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RRX.US&back=IWB
+BBWI	BATH AND BODY WORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=IWB
+HR	HEALTHCARE REALTY TRUST INC CLASS	/etf/ea/ETZCW.djhtm?c=1&etfid=HR.US&back=IWB
+JNPR	JUNIPER NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=IWB
+MANH	MANHATTAN ASSOCIATES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MANH.US&back=IWB
+HII	HUNTINGTON INGALLS INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HII.US&back=IWB
+CCL	CARNIVAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CCL.US&back=IWB
+BURL	BURLINGTON STORES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BURL.US&back=IWB
+MKTX	MARKETAXESS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MKTX.US&back=IWB
+RCL	ROYAL CARIBBEAN GROUP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RCL.US&back=IWB
+BWA	BORGWARNER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BWA.US&back=IWB
+DECK	DECKERS OUTDOOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DECK.US&back=IWB
+WSO	WATSCO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSO.US&back=IWB
+CLF	CLEVELAND CLIFFS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=IWB
+GLOB	GLOBANT SA	/etf/ea/ETZCW.djhtm?c=1&etfid=GLOB.US&back=IWB
+U	UNITY SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=U.US&back=IWB
+NVCR	NOVOCURE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NVCR.US&back=IWB
+TPR	TAPESTRY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=IWB
+TAP	MOLSON COORS BREWINGCLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=IWB
+GL	GLOBE LIFE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GL.US&back=IWB
+G	GENPACT LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=G.US&back=IWB
+WSC	WILLSCOT MOBILE MINI HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WSC.US&back=IWB
+MPW	MEDICAL PROPERTIES TRUST REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=IWB
+CZR	CAESARS ENTERTAINMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CZR.US&back=IWB
+RRC	RANGE RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=IWB
+WHR	WHIRLPOOL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=IWB
+WBS	WEBSTER FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WBS.US&back=IWB
+ZION	ZIONS BANCORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=ZION.US&back=IWB
+AIZ	ASSURANT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=IWB
+JLL	JONES LANG LASALLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JLL.US&back=IWB
+FND	FLOOR DECOR HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=FND.US&back=IWB
+OGE	OGE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=IWB
+AFG	AMERICAN FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=IWB
+AAL	AMERICAN AIRLINES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAL.US&back=IWB
+TTC	TORO	/etf/ea/ETZCW.djhtm?c=1&etfid=TTC.US&back=IWB
+WMS	ADVANCED DRAINAGE SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMS.US&back=IWB
+SWN	SOUTHWESTERN ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=IWB
+ARMK	ARAMARK	/etf/ea/ETZCW.djhtm?c=1&etfid=ARMK.US&back=IWB
+RHI	ROBERT HALF	/etf/ea/ETZCW.djhtm?c=1&etfid=RHI.US&back=IWB
+ALLE	ALLEGION PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLE.US&back=IWB
+PNW	PINNACLE WEST CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=IWB
+CDAY	CERIDIAN HCM HOLDING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDAY.US&back=IWB
+LCID	LUCID GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LCID.US&back=IWB
+LEA	LEAR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LEA.US&back=IWB
+ROKU	ROKU INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ROKU.US&back=IWB
+ROL	ROLLINS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROL.US&back=IWB
+LAMR	LAMAR ADVERTISING COMPANYCLAS	/etf/ea/ETZCW.djhtm?c=1&etfid=LAMR.US&back=IWB
+JBL	JABIL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=IWB
+COLD	AMERICOLD REALTY INC TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=COLD.US&back=IWB
+MAT	MATTEL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MAT.US&back=IWB
+RGA	REINSURANCE GROUP OF AMERICA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RGA.US&back=IWB
+CIEN	CIENA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=IWB
+AVLR	AVALARA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVLR.US&back=IWB
+KNX	KNIGHT-SWIFT TRANSPORTATION HOLDIN	/etf/ea/ETZCW.djhtm?c=1&etfid=KNX.US&back=IWB
+FBHS	FORTUNE BRANDS HOME AND SECURITY I	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=IWB
+OHI	OMEGA HEALTHCARE INVESTORS REIT IN	/etf/ea/ETZCW.djhtm?c=1&etfid=OHI.US&back=IWB
+FRT	FEDERAL REALTY INVESTMENT TRUST RE	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT.US&back=IWB
+UGI	UGI CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=IWB
+CASY	CASEYS GENERAL STORES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=IWB
+DINO	HF SINCLAIR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=IWB
+WAL	WESTERN ALLIANCE	/etf/ea/ETZCW.djhtm?c=1&etfid=WAL.US&back=IWB
+LNC	LINCOLN NATIONAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=IWB
+AXON	AXON ENTERPRISE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AXON.US&back=IWB
+NNN	NATIONAL RETAIL PROPERTIES REIT IN	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=IWB
+PSTG	PURE STORAGE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PSTG.US&back=IWB
+MIDD	MIDDLEBY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MIDD.US&back=IWB
+OC	OWENS CORNING	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=IWB
+CFR	CULLEN FROST BANKERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CFR.US&back=IWB
+LII	LENNOX INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LII.US&back=IWB
+BEN	FRANKLIN RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=IWB
+HRB	H&R BLOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HRB.US&back=IWB
+GME	GAMESTOP CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GME.US&back=IWB
+SEE	SEALED AIR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SEE.US&back=IWB
+TW	TRADEWEB MARKETS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TW.US&back=IWB
+PFGC	PERFORMANCE FOOD GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=PFGC.US&back=IWB
+ACHC	ACADIA HEALTHCARE COMPANY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHC.US&back=IWB
+DT	DYNATRACE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DT.US&back=IWB
+LAD	LITHIA MOTORS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LAD.US&back=IWB
+CBSH	COMMERCE BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CBSH.US&back=IWB
+CGNX	COGNEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CGNX.US&back=IWB
+LECO	LINCOLN ELECTRIC HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LECO.US&back=IWB
+OLN	OLIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OLN.US&back=IWB
+UNM	UNUM	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=IWB
+LSCC	LATTICE SEMICONDUCTOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=IWB
+OGN	ORGANON	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=IWB
+TTEK	TETRA TECH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TTEK.US&back=IWB
+NXST	NEXSTAR MEDIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=IWB
+MASI	MASIMO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MASI.US&back=IWB
+HEI	HEICO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.US&back=IWB
+CHDN	CHURCHILL DOWNS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHDN.US&back=IWB
+PNR	PENTAIR	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=IWB
+USFD	US FOODS HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=USFD.US&back=IWB
+BERY	BERRY GLOBAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BERY.US&back=IWB
+ATR	APTARGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATR.US&back=IWB
+STWD	STARWOOD PROPERTY TRUST REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STWD.US&back=IWB
+RUN	SUNRUN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RUN.US&back=IWB
+CPRI	CAPRI HOLDINGS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRI.US&back=IWB
+AOS	A O SMITH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=IWB
+XRAY	DENTSPLY SIRONA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XRAY.US&back=IWB
+NWL	NEWELL BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=IWB
+NOV	NOV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOV.US&back=IWB
+WEX	WEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WEX.US&back=IWB
+CHE	CHEMED CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=IWB
+ARW	ARROW ELECTRONICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=IWB
+FR	FIRST INDUSTRIAL REALTY TRUST INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FR.US&back=IWB
+STOR	STORE CAPITAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=STOR.US&back=IWB
+GPK	GRAPHIC PACKAGING HOLDING	/etf/ea/ETZCW.djhtm?c=1&etfid=GPK.US&back=IWB
+FIVN	FIVE9 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FIVN.US&back=IWB
+AGCO	AGCO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AGCO.US&back=IWB
+EGP	EASTGROUP PROPERTIES REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EGP.US&back=IWB
+CABO	CABLE ONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CABO.US&back=IWB
+CG	CARLYLE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CG.US&back=IWB
+ESTC	ELASTIC NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTC.US&back=IWB
+FIVE	FIVE BELOW INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FIVE.US&back=IWB
+KBR	KBR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KBR.US&back=IWB
+PII	POLARIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PII.US&back=IWB
+PB	PROSPERITY BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PB.US&back=IWB
+NWSA	NEWS CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NWSA.US&back=IWB
+CACI	CACI INTERNATIONAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=IWB
+ELAN	ELANCO ANIMAL HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ELAN.US&back=IWB
+JEF	JEFFERIES FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JEF.US&back=IWB
+PDCE	PDC ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=IWB
+SF	STIFEL FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SF.US&back=IWB
+AIRC	APARTMENT INCOME REIT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=IWB
+PNFP	PINNACLE FINANCIAL PARTNERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNFP.US&back=IWB
+BRX	BRIXMOR PROPERTY GROUP REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BRX.US&back=IWB
+UHS	UNIVERSAL HEALTH SERVICES INC CLAS	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=IWB
+NVST	ENVISTA HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVST.US&back=IWB
+SYNH	SYNEOS HEALTH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNH.US&back=IWB
+FYBR	FRONTIER COMMUNICATIONS PARENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FYBR.US&back=IWB
+ST	SENSATA TECHNOLOGIES HOLDING PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ST.US&back=IWB
+LSXMK	LIBERTY MEDIA LIBERTY SIRIUSXM COR	/etf/ea/ETZCW.djhtm?c=1&etfid=LSXMK.US&back=IWB
+WYNN	WYNN RESORTS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=WYNN.US&back=IWB
+EXAS	EXACT SCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXAS.US&back=IWB
+IONS	IONIS PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=IWB
+RGLD	ROYAL GOLD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=IWB
+BSY	BENTLEY SYSTEMS INC CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=BSY.US&back=IWB
+	CHANGE HEALTHCARE INC	
+WH	WYNDHAM HOTELS RESORTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WH.US&back=IWB
+AGNC	AGNC INVESTMENT REIT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=IWB
+IVZ	INVESCO LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=IVZ.US&back=IWB
+DCI	DONALDSON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DCI.US&back=IWB
+VAC	MARRIOTT VACATIONS WORLDWIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VAC.US&back=IWB
+PATH	UIPATH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=IWB
+SON	SONOCO PRODUCTS	/etf/ea/ETZCW.djhtm?c=1&etfid=SON.US&back=IWB
+GNTX	GENTEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GNTX.US&back=IWB
+ORI	OLD REPUBLIC INTERNATIONAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=IWB
+DXC	DXC TECHNOLOGY	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=IWB
+BRKR	BRUKER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BRKR.US&back=IWB
+DKNG	DRAFTKINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DKNG.US&back=IWB
+	II VI INC	
+NFG	NATIONAL FUEL GAS	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=IWB
+PLNT	PLANET FITNESS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PLNT.US&back=IWB
+AZPN	ASPEN TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZPN.US&back=IWB
+THC	TENET HEALTHCARE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=THC.US&back=IWB
+CLH	CLEAN HARBORS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLH.US&back=IWB
+ITT	ITT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ITT.US&back=IWB
+VOYA	VOYA FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=IWB
+DBX	DROPBOX INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=IWB
+RNR	RENAISSANCERE HOLDING LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR.US&back=IWB
+MDU	MDU RESOURCES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDU.US&back=IWB
+GWRE	GUIDEWIRE SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GWRE.US&back=IWB
+X	US STEEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=IWB
+PEN	PENUMBRA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEN.US&back=IWB
+WCC	WESCO INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC.US&back=IWB
+VMI	VALMONT INDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VMI.US&back=IWB
+LFUS	LITTELFUSE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LFUS.US&back=IWB
+DKS	DICKS SPORTING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DKS.US&back=IWB
+RIVN	RIVIAN AUTOMOTIVE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RIVN.US&back=IWB
+SNV	SYNOVUS FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV.US&back=IWB
+EXEL	EXELIXIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=IWB
+MHK	MOHAWK INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MHK.US&back=IWB
+SRC	SPIRIT REALTY CAPITAL REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=IWB
+BPOP	POPULAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BPOP.US&back=IWB
+CLVT	CLARIVATE PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLVT.US&back=IWB
+BLD	TOPBUILD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BLD.US&back=IWB
+Z	ZILLOW GROUP INC CLASS C	/etf/ea/ETZCW.djhtm?c=1&etfid=Z.US&back=IWB
+LITE	LUMENTUM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=IWB
+MKSI	MKS INSTRUMENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MKSI.US&back=IWB
+MORN	MORNINGSTAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MORN.US&back=IWB
+IBKR	INTERACTIVE BROKERS GROUP INC CLAS	/etf/ea/ETZCW.djhtm?c=1&etfid=IBKR.US&back=IWB
+ERIE	ERIE INDEMNITY CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ERIE.US&back=IWB
+AXTA	AXALTA COATING SYSTEMS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=AXTA.US&back=IWB
+ALK	ALASKA AIR GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALK.US&back=IWB
+KRC	KILROY REALTY REIT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KRC.US&back=IWB
+AYI	ACUITY BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AYI.US&back=IWB
+BC	BRUNSWICK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BC.US&back=IWB
+SEIC	SEI INVESTMENTS	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=IWB
+FAF	FIRST AMERICAN FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FAF.US&back=IWB
+CW	CURTISS WRIGHT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CW.US&back=IWB
+APP	APPLOVIN CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=APP.US&back=IWB
+WU	WESTERN UNION	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=IWB
+IDA	IDACORP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDA.US&back=IWB
+INGR	INGREDION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INGR.US&back=IWB
+HUN	HUNTSMAN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HUN.US&back=IWB
+NVT	NVENT ELECTRIC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NVT.US&back=IWB
+NATI	NATIONAL INSTRUMENTS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NATI.US&back=IWB
+XPO	XPO LOGISTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XPO.US&back=IWB
+NCLH	NORWEGIAN CRUISE LINE HOLDINGS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NCLH.US&back=IWB
+TMX	TERMINIX GLOBAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMX.US&back=IWB
+WWD	WOODWARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WWD.US&back=IWB
+SITE	SITEONE LANDSCAPE SUPPLY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SITE.US&back=IWB
+WTFC	WINTRUST FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFC.US&back=IWB
+FCN	FTI CONSULTING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FCN.US&back=IWB
+PENN	PENN ENTERTAINMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PENN.US&back=IWB
+RYN	RAYONIER REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=IWB
+LEG	LEGGETT & PLATT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LEG.US&back=IWB
+SKX	SKECHERS USA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SKX.US&back=IWB
+SAIC	SCIENCE APPLICATIONS INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=IWB
+DTM	DT MIDSTREAM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=IWB
+HOOD	ROBINHOOD MARKETS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=HOOD.US&back=IWB
+TREX	TREX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TREX.US&back=IWB
+LSTR	LANDSTAR SYSTEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LSTR.US&back=IWB
+	MANDIANT INC	
+CNXC	CONCENTRIX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=IWB
+OSK	OSHKOSH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OSK.US&back=IWB
+HOG	HARLEY DAVIDSON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOG.US&back=IWB
+BEPC	BROOKFIELD RENEWABLE SUBORDINATE V	/etf/ea/ETZCW.djhtm?c=1&etfid=BEPC.US&back=IWB
+	CASH COLLATERAL USD UBFUT	
+VVV	VALVOLINE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VVV.US&back=IWB
+IAC	IAC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IAC.US&back=IWB
+FLO	FLOWERS FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=IWB
+TDOC	TELADOC HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=IWB
+EXP	EAGLE MATERIALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXP.US&back=IWB
+OZK	BANK OZK	/etf/ea/ETZCW.djhtm?c=1&etfid=OZK.US&back=IWB
+DVA	DAVITA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=IWB
+CAR	AVIS BUDGET GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAR.US&back=IWB
+SRCL	STERICYCLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SRCL.US&back=IWB
+CC	CHEMOURS	/etf/ea/ETZCW.djhtm?c=1&etfid=CC.US&back=IWB
+NYT	NEW YORK TIMES CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NYT.US&back=IWB
+GH	GUARDANT HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GH.US&back=IWB
+M	MACYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=M.US&back=IWB
+ASH	ASHLAND INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ASH.US&back=IWB
+SWCH	SWITCH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SWCH.US&back=IWB
+OLED	UNIVERSAL DISPLAY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OLED.US&back=IWB
+PRGO	PERRIGO PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGO.US&back=IWB
+TOL	TOLL BROTHERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TOL.US&back=IWB
+GMED	GLOBUS MEDICAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GMED.US&back=IWB
+BWXT	BWX TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BWXT.US&back=IWB
+VNO	VORNADO REALTY TRUST REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=IWB
+H	HYATT HOTELS CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=H.US&back=IWB
+AN	AUTONATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=IWB
+PRI	PRIMERICA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRI.US&back=IWB
+UHAL	AMERCO	/etf/ea/ETZCW.djhtm?c=1&etfid=UHAL.US&back=IWB
+MSA	MSA SAFETY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSA.US&back=IWB
+POST	POST HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=IWB
+AMC	AMC ENTERTAINMENT HOLDINGS INC CLA	/etf/ea/ETZCW.djhtm?c=1&etfid=AMC.US&back=IWB
+SOFI	SOFI TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SOFI.US&back=IWB
+DISH	DISH NETWORK CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DISH.US&back=IWB
+GXO	GXO LOGISTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GXO.US&back=IWB
+EHC	ENCOMPASS HEALTH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EHC.US&back=IWB
+S	SENTINELONE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=S.US&back=IWB
+IAA	IAA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IAA.US&back=IWB
+BYD	BOYD GAMING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BYD.US&back=IWB
+RH	RH	/etf/ea/ETZCW.djhtm?c=1&etfid=RH.US&back=IWB
+AMG	AFFILIATED MANAGERS GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMG.US&back=IWB
+HXL	HEXCEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HXL.US&back=IWB
+LYFT	LYFT INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=LYFT.US&back=IWB
+FOX	FOX CORP CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=FOX.US&back=IWB
+DLB	DOLBY LABORATORIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DLB.US&back=IWB
+CRUS	CIRRUS LOGIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRUS.US&back=IWB
+NYCB	NEW YORK COMMUNITY BANCORP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=IWB
+FNB	FNB CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FNB.US&back=IWB
+MTZ	MASTEC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MTZ.US&back=IWB
+OWL	BLUE OWL CAPITAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=OWL.US&back=IWB
+SMAR	SMARTSHEET INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SMAR.US&back=IWB
+SNX	TD SYNNEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SNX.US&back=IWB
+LPX	LOUISIANA PACIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=IWB
+MTG	MGIC INVESTMENT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MTG.US&back=IWB
+HE	HAWAIIAN ELECTRIC INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=IWB
+THG	HANOVER INSURANCE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=IWB
+ESI	ELEMENT SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ESI.US&back=IWB
+KEX	KIRBY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KEX.US&back=IWB
+SIRI	SIRIUS XM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=IWB
+AVT	AVNET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVT.US&back=IWB
+HTZ	HERTZ GLOBAL HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HTZ.US&back=IWB
+FLS	FLOWSERVE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FLS.US&back=IWB
+ACI	ALBERTSONS COMPANY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=IWB
+NSA	NATIONAL STORAGE AFFILIATES TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=NSA.US&back=IWB
+W	WAYFAIR INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=W.US&back=IWB
+TOST	TOAST INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TOST.US&back=IWB
+CUZ	COUSINS PROPERTIES REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CUZ.US&back=IWB
+EEFT	EURONET WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EEFT.US&back=IWB
+CR	CRANE HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=CR.US&back=IWB
+SCCO	SOUTHERN COPPER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SCCO.US&back=IWB
+AWI	ARMSTRONG WORLD INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AWI.US&back=IWB
+COUP	COUPA SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COUP.US&back=IWB
+RL	RALPH LAUREN CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RL.US&back=IWB
+AL	AIR LEASE CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AL.US&back=IWB
+MAN	MANPOWER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MAN.US&back=IWB
+SLM	SLM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SLM.US&back=IWB
+THO	THOR INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=THO.US&back=IWB
+AFRM	AFFIRM HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AFRM.US&back=IWB
+AZTA	AZENTA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZTA.US&back=IWB
+NTRA	NATERA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRA.US&back=IWB
+OMF	ONEMAIN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OMF.US&back=IWB
+AYX	ALTERYX INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AYX.US&back=IWB
+SLGN	SILGAN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SLGN.US&back=IWB
+TPX	TEMPUR SEALY INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TPX.US&back=IWB
+AXS	AXIS CAPITAL HOLDINGS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=AXS.US&back=IWB
+UNVR	UNIVAR SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UNVR.US&back=IWB
+TKR	TIMKEN	/etf/ea/ETZCW.djhtm?c=1&etfid=TKR.US&back=IWB
+QDEL	QUIDELORTHO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=QDEL.US&back=IWB
+PINC	PREMIER INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PINC.US&back=IWB
+RITM	RITHM CAPITAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=IWB
+AGL	AGILON HEALTH	/etf/ea/ETZCW.djhtm?c=1&etfid=AGL.US&back=IWB
+GO	GROCERY OUTLET HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GO.US&back=IWB
+MRTX	MIRATI THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRTX.US&back=IWB
+BFAM	BRIGHT HORIZONS FAMILY SOLUTIONS I	/etf/ea/ETZCW.djhtm?c=1&etfid=BFAM.US&back=IWB
+RNG	RINGCENTRAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RNG.US&back=IWB
+PCOR	PROCORE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PCOR.US&back=IWB
+AMED	AMEDISYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMED.US&back=IWB
+CHH	CHOICE HOTELS INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHH.US&back=IWB
+GFS	GLOBALFOUNDRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GFS.US&back=IWB
+NCR	NCR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NCR.US&back=IWB
+IART	INTEGRA LIFESCIENCES HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=IART.US&back=IWB
+CACC	CREDIT ACCEPTANCE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CACC.US&back=IWB
+UMPQ	UMPQUA HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UMPQ.US&back=IWB
+WTM	WHITE MOUNTAINS INSURANCE GROUP LT	/etf/ea/ETZCW.djhtm?c=1&etfid=WTM.US&back=IWB
+KSS	KOHLS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KSS.US&back=IWB
+OLLI	OLLIES BARGAIN OUTLET HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OLLI.US&back=IWB
+R	RYDER SYSTEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=R.US&back=IWB
+TNL	TRAVEL LEISURE	/etf/ea/ETZCW.djhtm?c=1&etfid=TNL.US&back=IWB
+DNB	DUN BRADST HLDG INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DNB.US&back=IWB
+EVR	EVERCORE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=EVR.US&back=IWB
+AM	ANTERO MIDSTREAM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AM.US&back=IWB
+PVH	PVH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PVH.US&back=IWB
+NTNX	NUTANIX INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NTNX.US&back=IWB
+BHF	BRIGHTHOUSE FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BHF.US&back=IWB
+AGR	AVANGRID INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=IWB
+RYAN	RYAN SPECIALTY HOLDINGS INC CLASS	/etf/ea/ETZCW.djhtm?c=1&etfid=RYAN.US&back=IWB
+CVNA	CARVANA CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CVNA.US&back=IWB
+MSM	MSC INDUSTRIAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSM.US&back=IWB
+IPGP	IPG PHOTONICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=IPGP.US&back=IWB
+CFLT	CONFLUENT INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CFLT.US&back=IWB
+WIX	WIX.COM LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=WIX.US&back=IWB
+DEI	DOUGLAS EMMETT REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DEI.US&back=IWB
+BOH	BANK OF HAWAII CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH.US&back=IWB
+VNT	VONTIER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VNT.US&back=IWB
+FHB	FIRST HAWAIIAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FHB.US&back=IWB
+RARE	ULTRAGENYX PHARMACEUTICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RARE.US&back=IWB
+ALSN	ALLISON TRANSMISSION HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALSN.US&back=IWB
+WLK	WESTLAKE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=IWB
+YETI	YETI HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=YETI.US&back=IWB
+VRT	VERTIV HOLDINGS CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=VRT.US&back=IWB
+TDC	TERADATA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TDC.US&back=IWB
+LAZ	LAZARD LTD CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=LAZ.US&back=IWB
+PK	PARK HOTELS RESORTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PK.US&back=IWB
+PAG	PENSKE AUTOMOTIVE GROUP VOTING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=IWB
+EPR	EPR PROPERTIES REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=EPR.US&back=IWB
+CHPT	CHARGEPOINT HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHPT.US&back=IWB
+JHG	JANUS HENDERSON GROUP PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JHG.US&back=IWB
+MSGS	MADISON SQUARE GARDEN SPORTS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MSGS.US&back=IWB
+SAM	BOSTON BEER INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SAM.US&back=IWB
+DOCS	DOXIMITY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCS.US&back=IWB
+MP	MP MATERIALS CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MP.US&back=IWB
+HBI	HANESBRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HBI.US&back=IWB
+CRI	CARTERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRI.US&back=IWB
+NEWR	NEW RELIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWR.US&back=IWB
+AGO	ASSURED GUARANTY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=AGO.US&back=IWB
+LSXMA	LIBERTY MEDIA LIBERTY SIRIUSXM COR	/etf/ea/ETZCW.djhtm?c=1&etfid=LSXMA.US&back=IWB
+ICUI	ICU MEDICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ICUI.US&back=IWB
+PACW	PACWEST BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PACW.US&back=IWB
+WEN	WENDYS	/etf/ea/ETZCW.djhtm?c=1&etfid=WEN.US&back=IWB
+PTON	PELOTON INTERACTIVE CLASS A INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTON.US&back=IWB
+OSH	OAK STREET HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OSH.US&back=IWB
+TXG	10X GENOMICS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TXG.US&back=IWB
+HIW	HIGHWOODS PROPERTIES REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HIW.US&back=IWB
+KMPR	KEMPER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KMPR.US&back=IWB
+SPR	SPIRIT AEROSYSTEMS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SPR.US&back=IWB
+TNDM	TANDEM DIABETES CARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TNDM.US&back=IWB
+BF.A	BROWN FORMAN CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.A.US&back=IWB
+COLM	COLUMBIA SPORTSWEAR	/etf/ea/ETZCW.djhtm?c=1&etfid=COLM.US&back=IWB
+SSRM	SSR MINING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=IWB
+WWE	WORLD WRESTLING ENTERTAINMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WWE.US&back=IWB
+JBLU	JETBLUE AIRWAYS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=JBLU.US&back=IWB
+VSCO	VICTORIA S SECRET	/etf/ea/ETZCW.djhtm?c=1&etfid=VSCO.US&back=IWB
+SLG	SL GREEN REALTY REIT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SLG.US&back=IWB
+NFE	NEW FORTRESS ENERGY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NFE.US&back=IWB
+NVAX	NOVAVAX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NVAX.US&back=IWB
+SMG	SCOTTS MIRACLE GRO	/etf/ea/ETZCW.djhtm?c=1&etfid=SMG.US&back=IWB
+MRCY	MERCURY SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRCY.US&back=IWB
+QS	QUANTUMSCAPE CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=QS.US&back=IWB
+SPB	SPECTRUM BRANDS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPB.US&back=IWB
+ENOV	ENOVIS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ENOV.US&back=IWB
+BOKF	BOK FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BOKF.US&back=IWB
+LOPE	GRAND CANYON EDUCATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LOPE.US&back=IWB
+VSAT	VIASAT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VSAT.US&back=IWB
+CLR	CONTINENTAL RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=IWB
+HHC	HOWARD HUGHES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HHC.US&back=IWB
+TRIP	TRIPADVISOR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRIP.US&back=IWB
+MRVI	MARAVAI LIFESCIENCES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVI.US&back=IWB
+FOUR	SHIFT4 PAYMENTS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOUR.US&back=IWB
+NWS	NEWS CORP CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=NWS.US&back=IWB
+JBGS	JBG SMITH PROPERTIES	/etf/ea/ETZCW.djhtm?c=1&etfid=JBGS.US&back=IWB
+COTY	COTY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=COTY.US&back=IWB
+VIRT	VIRTU FINANCIAL INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=VIRT.US&back=IWB
+ESAB	ESAB CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ESAB.US&back=IWB
+FRPT	FRESHPET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FRPT.US&back=IWB
+CPA	COPA HOLDINGS A SA	/etf/ea/ETZCW.djhtm?c=1&etfid=CPA.US&back=IWB
+AZEK	AZEK COMPANY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AZEK.US&back=IWB
+ZG	ZILLOW GROUP INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZG.US&back=IWB
+DNA	GINKGO BIOWORKS HOLDINGS INC CLASS	/etf/ea/ETZCW.djhtm?c=1&etfid=DNA.US&back=IWB
+OPEN	OPENDOOR TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OPEN.US&back=IWB
+EVA	ENVIVA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVA.US&back=IWB
+ATUS	ALTICE USA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ATUS.US&back=IWB
+LBRDA	LIBERTY BROADBAND CORP SERIES A	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDA.US&back=IWB
+LESL	LESLIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LESL.US&back=IWB
+DRVN	DRIVEN BRANDS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DRVN.US&back=IWB
+SGFY	SIGNIFY HEALTH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SGFY.US&back=IWB
+UPST	UPSTART HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UPST.US&back=IWB
+JWN	NORDSTROM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JWN.US&back=IWB
+KD	KYNDRYL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KD.US&back=IWB
+GPS	GAP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GPS.US&back=IWB
+UA	UNDER ARMOUR INC CLASS C	/etf/ea/ETZCW.djhtm?c=1&etfid=UA.US&back=IWB
+HPP	HUDSON PACIFIC PROPERTIES REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HPP.US&back=IWB
+CERT	CERTARA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CERT.US&back=IWB
+CNM	CORE & MAIN INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CNM.US&back=IWB
+SIX	SIX FLAGS ENTERTAINMENT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SIX.US&back=IWB
+SHC	SOTERA HEALTH COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=SHC.US&back=IWB
+OLPX	OLAPLEX HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OLPX.US&back=IWB
+PEGA	PEGASYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEGA.US&back=IWB
+CCCS	CCC INTELLIGENT SOLUTIONS HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=CCCS.US&back=IWB
+REYN	REYNOLDS CONSUMER PRODUCTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=REYN.US&back=IWB
+NCNO	NCINO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NCNO.US&back=IWB
+UI	UBIQUITI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UI.US&back=IWB
+JAMF	JAMF HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=JAMF.US&back=IWB
+ADT	ADT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADT.US&back=IWB
+NEU	NEWMARKET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NEU.US&back=IWB
+PYCR	PAYCOR HCM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PYCR.US&back=IWB
+DV	DOUBLEVERIFY HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DV.US&back=IWB
+PPC	PILGRIMS PRIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=IWB
+GTES	GATES INDUSTRIAL PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=GTES.US&back=IWB
+CNA	CNA FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNA.US&back=IWB
+ALGM	ALLEGRO MICROSYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGM.US&back=IWB
+UAA	UNDER ARMOUR INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=UAA.US&back=IWB
+WOOF	PETCO HEALTH AND WELLNESS COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=WOOF.US&back=IWB
+TWKS	THOUGHTWORKS HOLDING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TWKS.US&back=IWB
+INFA	INFORMATICA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=INFA.US&back=IWB
+PLTK	PLAYTIKA HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTK.US&back=IWB
+SNDR	SCHNEIDER NATIONAL INC CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=SNDR.US&back=IWB
+RKT	ROCKET COMPANIES INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RKT.US&back=IWB
+TFSL	TFS FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TFSL.US&back=IWB
+AMBP	ARDAGH METAL PACKAGING SA	/etf/ea/ETZCW.djhtm?c=1&etfid=AMBP.US&back=IWB
+FWONA	LIBERTY MEDIA FORMULA ONE CORP SER	/etf/ea/ETZCW.djhtm?c=1&etfid=FWONA.US&back=IWB
+EHAB	ENHABIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EHAB.US&back=IWB
+MCW	MISTER CAR WASH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MCW.US&back=IWB
+HAYW	HAYWARD HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HAYW.US&back=IWB
+SEB	SEABOARD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SEB.US&back=IWB
+LEN.B	LENNAR CORP CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.B.US&back=IWB
+WE	WEWORK INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=WE.US&back=IWB
+DH	DEFINITIVE HEALTHCARE CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DH.US&back=IWB
+PARAA	PARAMOUNT GLOBAL CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PARAA.US&back=IWB
+UWMC	UWM HOLDINGS CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=UWMC.US&back=IWB
+	ARDAGH GROUP SA CLASS A	
+	S&P500 EMINI SEP 22	
+	S&P MID 400 EMINI SEP 22	

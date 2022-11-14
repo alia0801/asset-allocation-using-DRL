@@ -1,0 +1,51 @@
+ADRE
+TSM	Taiwan Semiconductor Manufacturing Co Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=ADRE
+BABA	Alibaba Group Holding Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BABA.US&back=ADRE
+HDB	HDFC Bank Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=HDB.US&back=ADRE
+INFY	Infosys Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=INFY.US&back=ADRE
+IBN	ICICI Bank Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=IBN.US&back=ADRE
+VALE	Vale SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=VALE.US&back=ADRE
+JD	JD.com Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=JD.US&back=ADRE
+BIDU	Baidu Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BIDU.US&back=ADRE
+NTES	NetEase Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NTES.US&back=ADRE
+PDD	Pinduoduo Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PDD.US&back=ADRE
+PBR.A	Petroleo Brasileiro SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PBR.A.US&back=ADRE
+ITUB	Itau Unibanco Holding SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ITUB.US&back=ADRE
+PBR	Petroleo Brasileiro SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PBR.US&back=ADRE
+NIO	NIO Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NIO.US&back=ADRE
+BBD	Banco Bradesco SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BBD.US&back=ADRE
+AMX	America Movil SAB de CV ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=AMX.US&back=ADRE
+TLK	Telkom Indonesia Persero Tbk PT ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TLK.US&back=ADRE
+CHT	Chunghwa Telecom Co Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CHT.US&back=ADRE
+TCOM	Trip.com Group Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TCOM.US&back=ADRE
+SQM	Sociedad Quimica y Minera de Chile SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SQM.US&back=ADRE
+UMC	United Microelectronics Corp ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=UMC.US&back=ADRE
+ABEV	Ambev SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ABEV.US&back=ADRE
+SHG	Shinhan Financial Group Co Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SHG.US&back=ADRE
+KB	KB Financial Group Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=KB.US&back=ADRE
+FMX	Fomento Economico Mexicano SAB de CV ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=FMX.US&back=ADRE
+PKX	POSCO Holdings Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PKX.US&back=ADRE
+ZTO	ZTO Express Cayman Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTO.US&back=ADRE
+SSL	Sasol Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SSL.US&back=ADRE
+BEKE	KE Holdings Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BEKE.US&back=ADRE
+EBR	Centrais Eletricas Brasileiras SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=EBR.US&back=ADRE
+TTM	Tata Motors Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TTM.US&back=ADRE
+ASX	ASE Technology Holding Co Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ASX.US&back=ADRE
+GFI	Gold Fields Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=GFI.US&back=ADRE
+BGNE	BeiGene Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BGNE.US&back=ADRE
+WIT	Wipro Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=WIT.US&back=ADRE
+SUZ	Suzano SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SUZ.US&back=ADRE
+RDY	Dr Reddy's Laboratories Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=RDY.US&back=ADRE
+SBSW	Sibanye Stillwater Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SBSW.US&back=ADRE
+AU	AngloGold Ashanti Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=AU.US&back=ADRE
+CX	Cemex SAB de CV ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CX.US&back=ADRE
+GGB	Gerdau SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=GGB.US&back=ADRE
+HTHT	H World Group Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=HTHT.US&back=ADRE
+PAC	Grupo Aeroportuario del Pacifico SAB de CV ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PAC.US&back=ADRE
+WF	Woori Financial Group Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=WF.US&back=ADRE
+ASR	Grupo Aeroportuario del Sureste SAB de CV ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ASR.US&back=ADRE
+BCH	Banco de Chile ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BCH.US&back=ADRE
+SKM	SK Telecom Co Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SKM.US&back=ADRE
+KEP	Korea Electric Power Corp ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=KEP.US&back=ADRE
+BILI	Bilibili Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BILI.US&back=ADRE
+DQ	Daqo New Energy Corp ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=DQ.US&back=ADRE

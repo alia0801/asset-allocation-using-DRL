@@ -1,0 +1,405 @@
+RVNU
+	Pennsylvania Turnpike Commission 5.00 12/01/2050	
+	Triborough Bridge & Tunnel Authority 5.00 05/15/2051	
+	Cash & Cash Equivalents	
+	North Texas Tollway Authority Revenue 5.00 01/01/2048	
+	New York State Power Authority Rev 3.25 11/15/2060	
+	San Diego County Regional Airport Authority 5.00 07/01/2056	
+	San Francisco Calif City & County Airport 5.00 05/01/2044	
+	CHICAGO O'HARE ARPT-B 5 1/1/2048	
+	San Francisco City & County Airport Comm-San Francisco International Airport 5.00 05/01/2045	
+	Los Angeles Department of Water & Power Power System Revenue 5.00 07/01/2049	
+	Michigan St Trunk Line 4.00 11/15/2045	
+	Metropolitan Washington Airports Authority 4.00 10/01/2053	
+	City of Los Angeles Department of Airports 4.00 05/15/2044	
+	Tampa Fla Water & Wastewater Sys Rev 5.00 10/01/205	
+	State of Maryland Department of Transportation 4.00 07/01/2050	
+	Intermountain Power Agency UTAH Power 5.0 07/01/2042	
+	Los Angeles Califonia Department of Water & Power Waterworks Rev 5.00 07/01/2051	
+	San Francisco City & County Airports Comm Intlernational Airport Revenue 5.00 05/01/2037	
+	San Diego County Regional Airport Authority 5.00 07/01/2051	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2035	
+	State of Hawaii Airports System Revenue v 5.00 07/01/2051	
+	County of Miami-Dade FL Aviation Revenue 5.00 10/01/2044	
+	Salt Lake Corp Airport Revenue 5.00 07/01/2048	
+	Illinois State Toll Highway Authority 4.00 01/01/2044	
+	Georgetown Tex Util Sys Rev 4.25 08/15/2047	
+	Central Puget Sound Regional Transit Authority Sales Tax & Motor 4.00 11/01/2046	
+	Metropolitan Transportation Authority N Y Rev 4.75 11/15/2045	
+	Allegheny Co Arprt - A 5  1/1/2051	
+	New Jersey St Turnpike Authority Tpk Rev 4.000 01/01/2043	
+	San Francisco California City & County Airports Commission International Airport 5.00 05/01/2046	
+	San Francisco Calif City and County of Public Utilities Commission 4.00 11/01/2050	
+	Metropolitan Washington Airports Authority 4.00 10/01/2044	
+	Greater Orlando Aviation Authority 4.00 10/01/2052	
+	San Francisco Calif City & County Airport 4.00 05/01/2049	
+	Triborough Bridge & Tunnel Authority 4.00 05/15/2047	
+	North Texas Tollway Authority Revenue 5.00 01/01/2043	
+	San Francisco City & County Airport Comm-San Francisco International Airport 5.25 05/01/2048	
+	Port Portland Ore Airport Rev 4.00 07/01/2050	
+	Metropolitan Transportation Authority New York Revenue 4.00 11/15/2045	
+	Allegheny Cnty Airport Authority 4.00 01/01/2056	
+	Las Vegas Convention & Visitors Authority 5.000 07/01/2043	
+	Metropolitan Washington Airports Authority 5.00 01/10/2046	
+	Metropolitan Washington Airports Authority 3.00 10/01/2050	
+	Puerto Rico Highway & Transportation Authority 5.25 07/01/2036	
+	Metropolitan Nashville Airport Authority 5.00 07/01/2054 - A	
+	Illinois State Toll Highway Authority 5.00 01/01/2044	
+	Illinois State Toll Highway Authority 5.00 01/01/2045	
+	San Francisco Calif Transportation Revenue 5.00 03/01/2051	
+	Ohio State Water Development Authority Water Pollution 5.00 12/01/2050	
+	New Jersey Turnpike Authority 5.00 01/01/2048	
+	Municipal Elec Auth Ga 5.50 07/01/2063	
+	Virginia Small Business Financing Authority 5.00 12/31/2056	
+	Triborough Brdg & Tunl Auth N Y Payroll Mobilitytax 3.00  05/15/2051	
+	Geo L Smith Ii Ga World Congress Ctr Auth Convention Ctr Hot El Rev 4.00 01/01/2054	
+	Riverside Cnty Calif Transn Commn Toll Rev 3.00 01/01/2049	
+	Georgia St Ports Auth Rev 4.00 07/01/2051	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2048	
+	Metropolitan Transportation Authority New York Revenue 5.00 11/15/2050	
+	Chicago III O'Hare International Airport Rev 5.00 01/01/2035	
+	Puerto Rico Highway & Transportation Authority 5.25 07/01/2035	
+	Metropolitan Transportation Authority New York Revenue 4.00 11/15/2046	
+	Metropolitan Transportation Authority New York Revenue 4.00 11/15/2052	
+	City & County of Denver CO Airport System Revenue 4.00 01/08/2051	
+	Los Angeles Califonia Department of Water & Power Waterworks Rev 5.00 07/01/2039	
+	Allegheny Country Airport Authority 4.00 01/01/2046	
+	Hampton Rds Transn Accountability Commn Va Hampton Rds Transn Fd Rev 4.00 07/01/2055	
+	Lansing Board of Water  Light 5.00 07/01/2044	
+	City of Los Angeles Department of Airports 5.00 05/15/2046	
+	Harris County Toll Road Authority 4.00 08/15/2050	
+	Greater Orlando Aviation Authority 5.00 10/01/2052	
+	Pennsylvania Turnpike Commission Oil Franchise Tax Senior Revenue 5.25 12/01/2044	
+	Metropolitan Transportation Authority New York Revenue 5.00 11/15/2048	
+	Southern California Public Power Authority 5.00 11/01/2033	
+	City & County of Denver CO Airport System Revenue 4.00 12/01/2043	
+	Tampa-Hillsborough County Expressway Authority 4.00 07/01/2042	
+	Illinois State Toll Highway Authority Revenue 5.00 11/01/2040	
+	New York City Water & Sewer System 4.00 06/15/2050	
+	District of Columbia 5.00 03/01/2044	
+	Triborough Brdg & Tunl Auth N Y Payroll Mobilitytax 4.00  05/15/2046	
+	Metropolitan Transportation Authority N Y Rev 4.00 11/15/2048	
+	Virginia Small Business Financing Authority 5.00 12/31/2052	
+	Philadelphia PA''s Water and Wastewater Rev 5.00 11/01/2045	
+	New York State Environmental FACS 5.0 06/15/2051	
+	Puerto Rico Highway & Transportation Authority 5.25 07/01/2036	
+	Los Angeles Califonia Department of Water & Power Waterworks Rev 5.00 01/07/2048	
+	Salt River Project Agricultural Improvement & Power District 5.00 01/01/2047	
+	City of Mesa AZ Utility System Revenue 5.00 07/01/2043	
+	South Carolina state Public Service Authority 4.00 12/01/2052	
+	Hampton Rds Transn Accountability Commn Va Hampton Rds Transn Fd Rev 5.00 07/01/2060	
+	Philadelphia PA's Water and Wastewater Revenue 5.00 11/01/2050	
+	City of Houston TX Airport System Revenue  4.00 01/07/2046	
+	Long Island Power Authority 5.00 09/01/2038	
+	Massachusetts Port Authority 5.00 07/01/2051	
+	Massachusetts St Port Auth Rev 5.00 07/01/2046	
+	Port Of Seattle Wash Revenue 5.0 08/01/2047	
+	Pennsylvania Turnpike Commission 5.00 12/01/2047	
+	Chicago O'Hare International Airport 5.00 01/01/2053 - B	
+	Harris County Toll Road Authority 4.00 08/15/2048	
+	Port of Seattle WA 5.00 04/01/2044	
+	San Diego County Regional Airport Authority 5.00 07/01/2051	
+	Metropolitan Washington Airports Authority 5.00 10/01/2047	
+	Municipal Electric Authority of Georgia 5.00 01/01/2062	
+	Metropolitan Nashville Airport Authority 5.00 07/01/2054 - B	
+	Pennsylvania Turnpike Commission Oil Franchise Tax Senior Revenue 5.00 12/01/2048 - A	
+	CHICAGO -A-AMT 5.0 01/01/2055	
+	New York Transportation Development Corp 5.00 01/01/2030	
+	Houston Tex Util Sys Rev 3.00 11/15/2047	
+	Metropolitan Nashville Airport Authority 4.00 07/01/2054	
+	Clark County NV Airport System's Junior Subordinate Lien Revenue 4.00 07/01/2040	
+	County of King WA Sewer Revenue 4.00 01/01/2052	
+	New York City Water and Sewer System 4.00 06/15/2040	
+	Dallas Fort Worth International Airport 4.00 11/01/2045	
+	New York State Power Authority Rev 4.00 11/15/2060	
+	San Diego County Regional Airport Authority 4.00 07/01/2051	
+	Los Angeles County Metropolitan Transportation Authority 5.00 07/01/2044	
+	Country of Broward Fla Port Facs Revenue 4.00 09/01/2044	
+	City of Los Angeles Department of Airports 4.00 05/15/2050	
+	City of Los Angeles Department of Airports 4.00 05/15/2049	
+	Greater Orlando Aviation Authority 4.00 10/01/2049	
+	New York State Power Authority 4.00 11/15/2055	
+	Hillsborough Cnty Aviation Authority 4.00 10/01/2052	
+	Port Portland Ore Airport Rev 4.00 07/01/2047	
+	County of Miami-Dade FL Transit System 4.00 07/01/2049	
+	County of Miami-Dade FL Water & Sewer Revenue 4.00 10/01/2049	
+	New York Liberty Development Corp 2.625 09/15/2069	
+	County of Miami-Dade FL Water & Sewer Revenue 4.00 10/01/2044	
+	Massachusetts Transportation Trust Fund Metropolitan Highway system Revenue 5.00 01/01/2033	
+	South Carolina Ports Authority 4.00 12/01/2042	
+	New York City Water & Sewer System 5.00 06/15/2049	
+	Los Angeles County Metropolitan Transportation Authority 5.00 06/01/2037	
+	Massachusetts Port Authority 5.00 07/01/2044	
+	State of Hawaii Airports System Revenue 5.00 07/01/2043	
+	Salt Lake Corp Airport Revenue 5.00 07/01/2043	
+	City of Gainesville FL Utilities System Revenue 5.00 10/01/2044	
+	Chicago O'Hare International Airport 5.00 01/01/2052	
+	Sacramento California Mun Util Dist Elec Rev 4.00 08/15/2045	
+	Bay Area Toll Authority 3.00 04/01/2054	
+	Metropolitan Transportation Authority New York Revenue 4.00 11/15/2042	
+	New York City Water & Sewer System 4.00 06/15/2042	
+	County of Miami-Dade FL Aviation Revenue 5.00 10/01/2049	
+	County of Miami-Dade FL Water & Sewer Revenue 3.00 10/01/2049	
+	San Francisco California City & County Airports Commission International Airport 5.00 05/01/2050	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2034	
+	County of Miami-Dade FL Aviation Revenue 4.00 10/01/2044	
+	Lubbock Tex Elec LT & Power SYS 2021 4.0 04/15/2051	
+	County of Miami-Dade FL Water & Sewer Revenue  4.00 10/01/2048	
+	Pennsylvania State Turnpike Commission Turnpike Revenue 4.00 12/01/2046	
+	Los Angeles County Metropolitan Transportation Authority 5.00 06/01/2034	
+	Pennsylvania State Turnpike Commission Turnpike Revenue 3.00 12/01/2051	
+	Los Angeles Department of Water 5.00 07/01/2043	
+	Florida St Tpk Auth Tpk Rev 3.00 07/01/2046	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2043	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2038	
+	San Francisco City & County Airport Comm-San Francisco International Airport 5.00 05/01/2043	
+	City of Philadelphia PA Airport Revenue 5.00 07/01/2047	
+	City of Los Angeles Department of Airports 5.00 05/15/2038	
+	Energy Northwest 5.00 07/01/2038 -A	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2036	
+	City of Austin TX Water & Wastewater System Revenue 5.00 11/15/2050	
+	Port of Portland OR Airport Revenue 5.00 07/01/2044	
+	Metropolitan Transportation Authority New York Revenue 4.00 11/15/2054	
+	Burke County Development Authority 4.125 11/01/2045	
+	New York City Water & Sewer System 5.000 06/15/2048	
+	San Antonio Texas Water Revenue 4.00 15/05/2051	
+	Central Texas Regional Mobility Authority Revenue 4.00 01/01/2051	
+	Texas Water Development Board 4.00 10/15/2045	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2032	
+	Ohio State Turnpike Commission Revenue 5.00 02/15/2046	
+	Los Angeles Califonia Department of Water & Power Waterworks Rev 5.00 07/01/2041	
+	New York City Municipal Water Finance Authority & Sewer System Rev 4.00 06/15/2050	
+	Los Angeles Califonia Department of Water & Power Waterworks Rev 5.00 07/01/2040	
+	City of Los Angeles Department of Airports 5.00 05/15/2045	
+	County of Miami-Dade FL Aviation Revenue 5.00 10/01/2040	
+	Pennsylvania Turnpike Commission 4.00 12/01/2049	
+	Chicago III O'Hare International Airport Rev 4.00 01/01/2036	
+	Pennsylvania Turnpike Commission  4.00 12/01/2051	
+	New York City Water & Sewer System 4.00 06/15/2050	
+	City of Los Angeles Department of Airports 5.00 05/15/2048	
+	Metropolitan Washington Airports Authority 4.00 10/01/2049	
+	Las Vegas Convention & Visitors Authority 4.00 07/01/2049	
+	Atlanta GA Water And Wastewater Revenue Refunding Bonds 5.00 11/01/2047	
+	West Virginia Pkwys Authority Turnpike Toll Revenue 5.00 07/01/2047	
+	District of Columbia Water & Sewer Authority 5.00 10/01/2049	
+	Putnam County Development Authority/FL 5.00 03/15/2042 - A	
+	New York City Water & Sewer System 5.00 06/15/2051	
+	Lower Colorado River Authority 5.00 05/15/2047	
+	Hampton Rds Transn Accountability Commn Va Hampton Rds Transn Fd Rev 4.00 07/01/2045	
+	Metropolitan Transportation Authority New York Rev 5.25 11/15/2055	
+	Greater Orlando Aviation Authority 5.00 10/01/2042	
+	Wisconsin Health & Facilities Authority 5.00 04/01/2044	
+	New York Transportation Development Corp 4.00 01/01/2036	
+	San Francisco Calif City and County of Public Utilities Commission 3.00 11/01/2050	
+	Metropolitan Water District Southern California Waterworks 5.00 10/01/2045	
+	Kentucky Economic Development Finance Authority 4.00 12/01/2041	
+	Ohio St Wtr Dev Auth Rev 5.00 06/01/2046	
+	City of Los Angeles Department of Airports 3.00 05/15/2049	
+	Miami Dade County Florida Water And Sewer Refunding System Revenue 4.00 10/01/2015	
+	New York N Y City Mun Wtr Fin Auth Wtr & Swr Sysrev 4.00  06/15/2045	
+	San Antonio TX Electric and Gas Systems revenue and refunding bonds 5.00 02/01/2034	
+	Pennsylvania Turnpike Commission 5.00 12/01/2044	
+	Triborough Brdg & Tunl Auth N Y Payroll Mobilitytax 5.00 05/15/2051	
+	Salt Lake Corp Airport Revenue 5.25 07/01/2048	
+	Pennsylvania State Turnpike Commission Turnpike Revenue 4.00 12/01/2050	
+	Miami Dade County Florida Water And Sewer Refunding System Revenue 4.00 10/01/2046	
+	East Baton Rouge Sewerage Commission 4.00 02/01/2045	
+	County of Broward FL Airport System Revenue 4.00 10/01/2047	
+	Chester County PA 4.00 01/12/2051	
+	New York City Water & Sewer System 3.00 15/06/2051	
+	City of Gainesville FL Utilities System Revenue 5.00 10/01/2047	
+	San Diego County Regional Airport Authority 4.00 07/01/2051	
+	Colorado Bridge Enterprise 4.00 06/30/2051	
+	Los Angeles California Department of Water and Power water Works Rev 5.00 07/01/2050	
+	North Texas Tollway Authority 4.00 01/01/2036	
+	Los Angeles California Department Water And Power Waterworks Revenue 5.00 07/01/2048	
+	New York State Dormitory Authority St Pers Income Tax Rev 4.00 03/15/2037	
+	Metropolitan Transportation Authority New York Revenue 4.00 11/15/2050	
+	Commonwealth of Massachusetts 5.50 01/01/2034	
+	Texas Water Development Board 4.00 04/15/2051	
+	San Diego County Regional Airport Authority 5.00 07/01/2049	
+	City of Los Angeles Department of Airports 5.00 05/15/2044	
+	City of Los Angeles Department of Airports 5.00 05/15/2044	
+	San Francisco Calif City & County Airport 5.00 05/01/2049 - A	
+	Hillsborough County Aviation Authority 5.00 10/01/2048 - F	
+	San Francisco City & County Airport Comm-San Francisco International Airport 5.00 05/01/2047	
+	Long Island Power Authority 5.00 09/01/2042	
+	Massachusetts Bay Transportation Authority Rev 4.00 07/01/2051	
+	New York City Water & Sewer System 4.00 06/15/2049	
+	New York City Water & Sewer System 4.00 06/15/2049	
+	Greater Orlando Aviation Authority 3.25 10/01/2054	
+	New York Liberty Development Corp 2.80 09/15/2069	
+	North Texas Tollway Authority	
+	District Columbia Income Tax Revenue 5.00 05/01/2045	
+	City of Atlanta Department of Aviation 4.00 07/01/2049	
+	New York Transportation Development Corp 5.00 01/01/2031	
+	Metropolitan Washington Airports Authority 5.00 10/01/2048	
+	Greater Orlando Aviation Authority 5.00 10/01/2044	
+	Metropolitan Transportation Authority Dedicated Tax Fund 4.00 11/15/2038	
+	Chicago O'Hare International Airport 4.00 01/01/2044 - B	
+	San Antonio TX Electric and Gas Systems revenue and refunding bonds 5.00 02/01/2047	
+	Houston Tex Util Sys Rev 4.00 11/15/2043	
+	Long Island Power Authority 5.00 09/01/2035	
+	New York N Y City Mun Wtr Fin Auth Wtr & Swr Sysrev 5.00  06/15/2044	
+	Miami Dade County Florida Water And Sewer Refunding System Revenue 5.00 10/01/2044	
+	Los Angeles Department of Water & Power Power System Revenue 5.00 07/01/2043	
+	New York City Municipal Water Finance Authority & Sewer System Rev 5.00 06/15/2050	
+	Metropolitan Transportation Authority Dedicated Tax Fund 4.00 11/15/2037	
+	Los Angeles CNTLos Angeles CNTY Calif Met Transn Auth Sales Tax  Rev 5.00 6/01/2035Y Calif Met Transn Auth Sales Tax Rev 5.00 6/01/2035	
+	Long Is Pwr Auth N Y Elec Sys Rev 4.00  09/01/2033	
+	New York City Water & Sewer System 5.00 06/15/2040	
+	Los Angeles Department of Water & Power Power System Revenue 5.00 07/01/2035	
+	Metropolitan Transportation Authority 4.00 11/15/2046	
+	New Jersey St Turnpike Authority Tpk Rev 5.000 01/01/2034	
+	City of Los Angeles Department of Airports 5.00 05/15/2051	
+	Long Island Power Authority 5.00 09/01/2033	
+	Los Angeles California Department Water And Power Waterworks Revenue 5.00 07/01/2044	
+	County of Broward FL Airport System Revenue 4.00 10/01/2049	
+	Metropolitan Wash D C Arpts Auth Arpt Sys Rev 5.00 10/01/2042	
+	City of Austin TX Electric Utility Revenue 5.00 11/15/2044	
+	New Jersey St Turnpike Authority Tpk Rev 4.000 01/01/2033	
+	City of Austin TX Electric Utility Revenue 5.00 11/15/2049	
+	City of Reno NV 4.00 06/01/2058	
+	Connecticut St Spl Tax Oblig Rev 5.00 05/01/2040	
+	City of Los Angeles Department of Airports 5.00 05/15/2043	
+	Metropolitan Nashville Airport Authority 5.00 07/01/2049	
+	Pennsylvania Turnpike Commission 3.00 12/01/2042	
+	Metropolitan Transportation Authority New York Revenue 4.00 11/15/2049	
+	Pennsylvania Turnpike Commission Oil Franchise Tax Senior Revenue 5.00 12/01/2043	
+	Chicago O'Hare International Airport 4.00 01/01/2053 - B	
+	Sacramento Cnty Calif Santn Dist Fing Auth Rev 5.00 12/01/2032	
+	Connecticut St Spl Tax Oblig Rev 5.00 05/01/2033	
+	City of Los Angeles Department of Airports 5.00 05/15/2034	
+	Metropolitan Transprtation Authority 5.00 11/15/2052 -B	
+	Central Puget Sound Regional Transit Authority Sales Tax & Motor 5.00 11/01/2033	
+	Metropolitan Water District of Southern California 5.00 07/01/2040	
+	Jefferson Sales Tax District 4.00 12/01/2042	
+	San Antonio TX Electric and Gas Systems revenue and refunding bonds 5.00 02/01/2035	
+	District of Columbia 4.00 03/01/2039	
+	Power Authority Of The State Of New York 4.00 11/15/2047	
+	Connecticut St Spl Tax Oblig Rev 5.00 05/01/2037	
+	Metropolitan Washington Airports Authority 5.00 01/10/2032	
+	Connecticut St Spl Tax Oblig Rev 5.00 05/01/2038	
+	New York City Water & Sewer System 5.00 06/15/2040	
+	San Francisco California City & County Airports Commission International Airport 4.00 10/01/2043	
+	Chicago O'Hare International Airport 4.00 01/01/2043 - A	
+	New Jersey St Turnpike Authority Tpk Rev 5.000 01/01/2040	
+	Metropolitan Transportation Authority 5.00 11/15/2044	
+	Dallas Tex Waterworks & Sewer System Rev 4.00 10/01/2049	
+	Central Texas Regional Mobility Authority 5.00 01/01/2045	
+	Pennsylvania State Turnpike Commission Turnpike Revenue 5.00 06/01/2042	
+	District of Columbia 4.00 03/01/2040	
+	City of Los Angeles Department of Airports 5.00 05/15/2049	
+	New York City Water & Sewer System 5.00 06/15/2040	
+	Greater Orlando Aviation Authority 5.00 10/01/2047	
+	Franklin County Convention Facilities Authority 5.00 12/01/2051	
+	New York City Municipal Water Finance Authority & Sewer System Revenue 4.00 06/15/2042	
+	Lansing Board of Water & Light 5.00 07/01/2048	
+	Colorado Springs Colorado Utilities Rev 4.00 11/15/2051	
+	New York City Water & Sewer System 4.00 06/15/2037	
+	County of Broward FL Airport System Revenue 4.00 10/01/2044	
+	Dallas Fort Worth Tex International Airport Rev 4.00 11/01/2035	
+	California State Department Water Res Cent Vy Proj Rev 5.00 12/01/2032	
+	County of Miami-Dade FL Transit System Rev 4.00 07/01/2050	
+	Harris Cnty-Houston Tex Sports Auth Rev 3.125 11/15/2056	
+	Metropolitan Transportation Authority 5.00 11/15/2045	
+	San Francisco City & County Airport Comm-San Francisco International Airport 5.00 05/01/2048	
+	New Jersey St Turnpike Authority Tpk Rev 4.000 01/01/2035	
+	New York City Water & Sewer System 5.25 06/15/2049	
+	North Texas Tollway Authority 5.00 01/01/2038	
+	New York State Power Authority 4.00 11/15/2050	
+	Dallas Fort Worth Tex International Airport Rev 4.00 11/01/2035	
+	Los Angeles Department of Water & Power Power System Revenue 5.00 07/01/2045	
+	Puerto Rico Highway & Transportation Authority 5.25 07/01/2041	
+	Long Island Power Authority 5.00 09/01/2047	
+	Pennsylvania State Turnpike Commission Turnpike Revenue 4.00 12/01/2051	
+	Dallas Fort Worth Tex International Airport Rev 4.00 11/01/2034	
+	City of Los Angeles Department of Airports 5.00 05/15/2040	
+	West Harris County Regional Water Authority 3.00 15/12/2058	
+	State of Oregon Department of Transportation 4.00 11/15/2042	
+	Northeast Ohio Regional Sewer District 4.00 11/15/2043	
+	Central Puget Sound Regional Transit Authority Sales Tax & Motor 5.00 11/01/2032	
+	Pennsylvania St Tpk Commn Tpk Rev 5.00 12/01/2047	
+	Long Island Power Authority 5.00 09/01/2034	
+	Chicago III O'Hare International Airport Rev 4.00 01/01/2035	
+	County of Washoe NV 5.00 02/01/2042	
+	Clark County NV Airport System's Junior Subordinate Lien Revenue 5.00 07/01/2040	
+	San Francisco Calif City & County Airport 5.00 05/01/2039	
+	City of Los Angeles Department of Airports 5.00 05/15/2045	
+	Metropolitan Transportation Authority New York Revenue 5.00 11/15/2034	
+	California State Department Water Res Cent Vy Proj Rev 5.00 12/01/2033	
+	California State Department Water Res Cent Vy Proj Rev 5.00 12/01/2035	
+	City of Philadelphia PA Airport Revenue 5.00 07/01/2042	
+	Houston Tex Util Sys Rev 4.00 11/15/2049	
+	Salt River Project Agricultural Improvement & Power District 3.00 01/01/2049	
+	Los Angeles Department of Water & Power Power System Revenue 5.00 07/01/2034	
+	City of Los Angeles Department of Airports 5.00 05/15/2037	
+	Los Angeles Califonia Department of Water & Power Waterworks Rev 5.00 07/01/2045	
+	Pennsylvania St Tpk Commn Tpk Rev 5.00 12/01/2046	
+	Riverside Cnty Calif Transn Commn Toll Rev 4.00 01/01/2040	
+	County of Broward FL Airport System Revenue 5.00 10/01/2047	
+	Central Florida Expressway Authority Construction company 5.00 01/07/2035	
+	Central Texas Regional Mobility Authority Revenue 5.00 01/01/2046	
+	City of Los Angeles Department of Airports 5.00 05/15/2039	
+	Hampton Rds Transn Accountability Commn Va Hampton Rds Transn Fd Rev 5.00 07/01/2050	
+	Maine Turnpike Authority 5.00 07/01/2047	
+	New Jersey St Turnpike Authority Tpk Rev 5.000 01/01/2037	
+	Putnam County Development Auth 5.00 03/15/2043	
+	New Jersey Turnpike Authority 4.00 01/01/2048	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2048	
+	Los Angeles County Metropolitan Transportation Authority Sales Tax Rev 4.00 06/01/2039	
+	New York City Water & Sewer System 4.00 06/15/2042	
+	City of Los Angeles Department of Airports 5.00 05/15/2036	
+	Salt River Project Agricultural Improvement & Power District 5.00 01/01/2033	
+	New York City Water & Sewer System 5.00 06/15/2039	
+	San Francisco Calif Transportation Revenue 4.00 03/01/2051	
+	Massachusetts Bay Transportation Authority Rev 5.00 07/01/2050	
+	City of Philadelphia PA Water & Wastewater Revenue 5.00 10/01/2048	
+	Greater Orlando Aviation Authority 4.00 10/01/2047	
+	Miami Dade County Florida Water And Sewer Refunding System Revenue 4.00 10/01/2048	
+	Sacramento Cnty Calif Santn Dist Fing Auth Rev 5.00 12/01/2033	
+	Metropolitan Transportation Authority New York Revenue 4.00 11/15/2050	
+	New York State Power Authority 4.00 11/15/2045	
+	Houston Texas Utility System Revenue 5.00 11/15/2043	
+	Illinois State Toll Highway Authority 5.00 01/01/2041	
+	Houston Texas Utility System Revenue 5.00 11/15/2042	
+	Metropolitan Transportation Authority Dedicated Tax Fund 5.00 11/15/2033	
+	Main Street Natural Gas Inc 5.00 05/15/2043	
+	MeMetropolitan Transportation Authority Dedicated Tax Fund 4.00 11/15/2035	
+	New York City Water & Sewer System 4.00 06/15/2040	
+	North Texas Tollway Authority 4.25 01/01/2049	
+	California State Department Water Res Cent Vy Proj Rev 5.00 12/01/2034	
+	Metropolitan Water District of Southern Rev 5.00 07/01/2039	
+	Connecticut St Spl Tax Oblig Rev 5.00 05/01/2034	
+	Los Angeles Califonia Department Airports Rev 5.00 05/15/2035	
+	San Antonio Texas Water Revenue 5.00 15/05/2046	
+	City of Philadelphia PA Water & Wastewater Revenue 5.00 10/01/2043	
+	City of Los Angeles Department of Airports 5.00 05/15/2044	
+	San Francisco City & County Airport Comm-San Francisco International Airport 5.00 05/01/2048	
+	Metropolitan Transportation Authority Dedicated Tax Fund 5.00 11/15/2032	
+	Pennsylvania Turnpike Commission 5.00 12/01/2042	
+	City of Sacramento CA Transient Occupancy & Tax Revenue 5.00 06/01/2048	
+	Charlotte North Carolina Airport Revenue bonds 5.00 07/01/2047	
+	North Texas Tollway Authority 4.00 01/01/2037	
+	Illinois Finance Authority Revenue 4.00 07/01/2038	
+	New York City Water & Sewer System 4.00 06/15/2042	
+	Chicago O'Hare International Airport 4.375 01/01/2053 - A	
+	Greater Orlando Aviation Authority Orlando FLA Airport Facs Revenue 4.00 10/01/2052	
+	Burke County Development Authority 4.125 11/01/2045	
+	North Fort Bend Tex Water Authority Water Supply System Revenue 4.00 12/15/2058	
+	City of Los Angeles Department of Airports 5.00 05/15/2048 - E	
+	City & County of Denver CO Airport System Revenue 5.00 12/01/2037	
+	Central Puget Sound Regional Transit Authority Sales Tax & Motor 4.00 11/01/2040	
+	Pennsylvania Turnpike Commission 4.00 12/01/2046	
+	Salt River Project Agricultural Improvement & Power District 5.00 01/01/2036	
+	Pennsylvania Turnpike Commission 5.00 12/01/2049	
+	Pennsylvania State Turnpike Commission Turnpike Revenue 5.00 01/12/2051	
+	New York City Water & Sewer System 4.00 06/15/2049	
+	Port Authority of New York & New Jersey 4.00 07/15/2051	
+	San Antonio Texas Water Revenue 5.00 02/01/2046	
+	Ohio Turnpike & Infrastructure Commission 4.00 02/15/2046	
+	Central Florida Expressway Authority 4.00 07/01/2041	
+	Riverside Cnty Calif Transn Commn Toll Rev 4.00 01/01/2046	
+	New York Transportation Development Corp 5.00 01/01/2034	
+	East Bay Califormnia Municipal Utility District Water System Revenue 5.00 06/01/2045	
+	Los Angeles County Metropolitan Transportation Authority 5.00 06/01/2032	

@@ -1,0 +1,52 @@
+QMOM
+RXDX	PROMETHEUS BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RXDX.US&back=QMOM
+CALM	CAL MAINE FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CALM.US&back=QMOM
+STNG	SCORPIO TANKERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STNG.US&back=QMOM
+WWE	WORLD WRESTLING ENTMT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WWE.US&back=QMOM
+TWNK	HOSTESS BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TWNK.US&back=QMOM
+VAL	VALARIS LIMITED	/etf/ea/ETZCW.djhtm?c=1&etfid=VAL.US&back=QMOM
+VRTX	VERTEX PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=QMOM
+LPLA	LPL FINL HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LPLA.US&back=QMOM
+CI	CIGNA CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=QMOM
+OPCH	OPTION CARE HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OPCH.US&back=QMOM
+AZO	AUTOZONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=QMOM
+MPC	MARATHON PETE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=QMOM
+COP	CONOCOPHILLIPS	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=QMOM
+PBF	PBF ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=QMOM
+MCK	MCKESSON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=QMOM
+MUSA	MURPHY USA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MUSA.US&back=QMOM
+RYAN	RYAN SPECIALTY HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RYAN.US&back=QMOM
+CSL	CARLISLE COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=QMOM
+BLDR	BUILDERS FIRSTSOURCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDR.US&back=QMOM
+XOM	EXXON MOBIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=QMOM
+CVX	CHEVRON CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=QMOM
+FANG	DIAMONDBACK ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=QMOM
+CEIX	CONSOL ENERGY INC NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=CEIX.US&back=QMOM
+VLO	VALERO ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=QMOM
+MRO	MARATHON OIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=QMOM
+CF	CF INDS HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=QMOM
+GLNG	GOLAR LNG LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=GLNG.US&back=QMOM
+CBT	CABOT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CBT.US&back=QMOM
+TRGP	TARGA RES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=QMOM
+PXD	PIONEER NAT RES CO	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=QMOM
+KBR	KBR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KBR.US&back=QMOM
+LNTH	LANTHEUS HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LNTH.US&back=QMOM
+APA	APA CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=QMOM
+CIVI	CIVITAS RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=QMOM
+CTRA	COTERRA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=QMOM
+NFG	NATIONAL FUEL GAS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=QMOM
+CVI	CVR ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=QMOM
+DVN	DEVON ENERGY CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=QMOM
+EQT	EQT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=QMOM
+DLTR	DOLLAR TREE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=QMOM
+PAG	PENSKE AUTOMOTIVE GRP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=QMOM
+AMR	ALPHA METALLURGICAL RESOUR INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=AMR.US&back=QMOM
+IRTC	IRHYTHM TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IRTC.US&back=QMOM
+CNC	CENTENE CORP DEL	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=QMOM
+MOS	MOSAIC CO NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=QMOM
+WMB	WILLIAMS COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=QMOM
+SLVM	SYLVAMO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SLVM.US&back=QMOM
+AR	ANTERO RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=QMOM
+ARCH	ARCH RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCH.US&back=QMOM
+NFE	NEW FORTRESS ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NFE.US&back=QMOM
+	Cash & Other	

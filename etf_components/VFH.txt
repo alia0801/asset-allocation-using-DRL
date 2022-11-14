@@ -1,0 +1,21 @@
+VFH
+BRK.B	Berkshire Hathaway Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=VFH
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=VFH
+BAC	Bank of America Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=VFH
+WFC	Wells Fargo & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=VFH
+SPGI	S&P Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=VFH
+GS	Goldman Sachs Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=VFH
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=VFH
+SCHW	Charles Schwab Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=VFH
+BLK	BlackRock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=VFH
+AXP	American Express Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=VFH
+C	Citigroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=VFH
+MMC	Marsh & McLennan Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=VFH
+CB	Chubb Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=VFH
+PGR	Progressive Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=VFH
+CME	CME Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CME.US&back=VFH
+BX	Blackstone Group LP	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=VFH
+PNC	PNC Financial Services Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=VFH
+USB	US Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=VFH
+TFC	Truist Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=VFH
+AON	Aon plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=VFH

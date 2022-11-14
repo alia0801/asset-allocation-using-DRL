@@ -1,0 +1,21 @@
+VNQ
+	Vanguard Real Estate II Index Fund Institutional Plus Shares	
+AMT	American Tower Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=VNQ
+PLD	Prologis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=VNQ
+CCI	Crown Castle International Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=VNQ
+EQIX	Equinix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=VNQ
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=VNQ
+O	Realty Income Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=VNQ
+SBAC	SBA Communications Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=VNQ
+WELL	Welltower Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=VNQ
+DLR	Digital Realty Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=VNQ
+SPG	Simon Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=VNQ
+AVB	AvalonBay Communities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=VNQ
+VICI	VICI Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=VNQ
+EXR	Extra Space Storage Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=VNQ
+CBRE	CBRE Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=VNQ
+WY	Weyerhaeuser Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=VNQ
+EQR	Equity Residential	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=VNQ
+ARE	Alexandria Real Estate Equities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARE.US&back=VNQ
+	Duke Realty Corp.	
+INVH	Invitation Homes Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INVH.US&back=VNQ

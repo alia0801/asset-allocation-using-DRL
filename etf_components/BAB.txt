@@ -1,0 +1,654 @@
+BAB
+	State of California 7.55 04/01/2039	
+	City of Fort Lauderdale FL 0.75 01/01/2024	
+	State of California 7.5 04/01/2034	
+	State of California 7.3 10/01/2039	
+	University of California 1.32 05/15/2027	
+	University of California 3.35 07/01/2029	
+	American Municipal Power Inc 8.08 02/15/2050	
+	Texas Transportation Commission State Highway Fund 5.18 04/01/2030	
+	County of Allegheny PA 2.09 11/01/2033	
+	State of California 7.35 11/01/2039	
+	Los Angeles Community College District/CA 0.77 08/01/2025	
+	Municipal Electric Authority of Georgia 7.05 04/01/2057	
+	University of California 4.5 05/15/2052	
+	Board of Regents of the University of Texas System 4.64 08/15/2030	
+	State of Illinois 6.9 03/01/2035	
+	State of California 7.6 11/01/2040	
+	State of California 4.5 04/01/2033	
+	Golden State Tobacco Securitization Corp 3.12 06/01/2038	
+	Metro/OR 3.25 06/01/2028	
+	City of San Antonio TX 0.84 02/01/2025	
+	San Jose Financing Authority 4.86 05/01/2052	
+	City of New York NY 5.97 03/01/2036	
+	City of New York NY 2.63 08/01/2028	
+	City of New York NY 6.27 12/01/2037	
+	City of New York NY 2.13 08/01/2024	
+	American Municipal Power Inc 6.05 02/15/2043	
+	Chicago Transit Authority Sales Tax Receipts Fund 3.6 12/01/2035	
+	Commonwealth Financing Authority 3.66 06/01/2038	
+	County of King WA Sewer Revenue 1.3 01/01/2028	
+	New Jersey Transportation Trust Fund Authority 6.56 12/15/2040	
+	Metropolitan Transportation Authority 6.67 11/15/2039	
+	Commonwealth of Massachusetts 4.91 05/01/2029	
+	City of Chicago IL 6.21 01/01/2036	
+	Public Utility District No. 1 of Cowlitz County WA 6.88 09/01/2032	
+	Denison Independent School District 2.74 08/01/2041	
+	Golden State Tobacco Securitization Corp 3.71 06/01/2041	
+	Municipal Electric Authority of Georgia 6.66 04/01/2057	
+	Metropolitan Transportation Authority 6.81 11/15/2040	
+	State of Texas 5.52 04/01/2039	
+	Los Angeles Department of Water & Power 6.57 07/01/2045	
+	Colorado Bridge Enterprise 0.92 12/31/2023	
+	California State University 2.79 11/01/2041	
+	New Jersey Turnpike Authority 1.05 01/01/2026	
+	Chicago O'Hare International Airport 6.39 01/01/2040	
+	State of Wisconsin 2.38 05/01/2030	
+	Virgin Islands Water & Power Authority - Electric System 6.85 07/01/2035	
+	University of California 0.88 05/15/2025	
+	South Carolina Jobs-Economic Development Authority 2.73 07/01/2030	
+	Missouri Highway & Transportation Commission 5.06 05/01/2024	
+	Chicago O'Hare International Airport 4.47 01/01/2049	
+	Chicago O'Hare International Airport 4.57 01/01/2054	
+	New York State Dormitory Authority 3.03 02/15/2033	
+	City of San Francisco CA Public Utilities Commission Water R 6.95 11/01/2050	
+	University of Michigan 3.6 04/01/2047	
+	University of California 1.61 05/15/2030	
+	South Carolina Public Service Authority 6.45 01/01/2050	
+	Oxnard School District 2.63 08/01/2041	
+	State of Mississippi 1.63 11/01/2031	
+	Missouri Joint Municipal Electric Utility Commission 6.89 01/01/2042	
+	South Jersey Port Corp 7.37 01/01/2040	
+	Chicago O'Hare International Airport 1.37 01/01/2025	
+	State of California 7.62 03/01/2040	
+	Auburn University 2.53 06/01/2040	
+	Louisiana Public Facilities Authority 2.28 06/01/2030	
+	State of California Department of Water Resources 1.77 12/01/2034	
+	Port Authority of New York & New Jersey 4.93 10/01/2051	
+	City of New York NY 2.12 08/01/2033	
+	City of New York NY 5.85 06/01/2040	
+	Dallas Independent School District 6.45 02/15/2035	
+	Massachusetts State College Building Authority 5.83 05/01/2030	
+	County of Baltimore MD 4.45 11/01/2026	
+	City of New York NY 2.22 03/01/2035	
+	City of Montebello CA 4.06 06/01/2039	
+	Regents of the University of California Medical Center Poole 6.58 05/15/2049	
+	University of Delaware 4.07 11/01/2050	
+	County of King WA Sewer Revenue 1.46 01/01/2029	
+	Municipal Electric Authority of Georgia 6.47 07/01/2045	
+	New York City Transitional Finance Authority Future Tax Secu 2.11 11/01/2024	
+	New York City Municipal Water Finance Authority 5.72 06/15/2042	
+	New York State Dormitory Authority 4.85 07/01/2048	
+	Rancho Santiago Community College District 0.96 09/01/2026	
+	City of Richmond CA 5.79 01/15/2044	
+	San Jose Unified School District 2.31 08/01/2039	
+	Sales Tax Securitization Corp 3.41 01/01/2043	
+	Oklahoma Development Finance Authority 4.62 06/01/2044	
+	Oklahoma Development Finance Authority 4.71 05/01/2052	
+	City of Inglewood CA 3.92 09/01/2050	
+	Bay Area Toll Authority 7.04 04/01/2050	
+	District of Columbia 4.91 12/01/2023	
+	Escambia County Health Facilities Authority 3.61 08/15/2040	
+	Chicago O'Hare International Airport 1.7 01/01/2026	
+	City of Chicago IL 6.21 01/01/2032	
+	Hartford County Metropolitan District Clean Water Project Re 2.56 04/01/2039	
+	State of Hawaii 2 08/01/2027	
+	City of Gainesville FL 3.05 10/01/2040	
+	Commonwealth of Massachusetts 4.48 05/01/2024	
+	Regional Transportation District Sales Tax Revenue 5.84 11/01/2050	
+	University of Minnesota 4.05 04/01/2052	
+	Rutgers The State University of New Jersey 2.56 05/01/2040	
+	City & County of San Francisco CA 6.26 06/15/2030	
+	Invesco Government & Agency Portfolio	
+	City of New Britain CT 4.35 03/01/2039	
+	New York City Transitional Finance Authority Building Aid Re 6.83 07/15/2040	
+	New York State Thruway Authority 2.9 01/01/2035	
+	State of Mississippi 1.04 11/01/2027	
+	Health & Educational Facilities Authority of the State of Mi 4.2 10/01/2049	
+	Scottsdale Municipal Property Corp 1.23 07/01/2028	
+	Commonwealth of Pennsylvania 4.65 02/15/2026	
+	Los Angeles Community College District/CA 1.81 08/01/2030	
+	American Municipal Power Inc 7.5 02/15/2050	
+	Commonwealth Financing Authority 3.81 06/01/2041	
+	Utah Transit Authority 1.94 12/15/2029	
+	Metropolitan Transportation Authority 6.69 11/15/2040	
+	South Carolina Student Loan Corp 3.59 12/01/2039	
+	State of Mississippi 0.94 11/01/2026	
+	New York State Urban Development Corp 1.8 03/15/2031	
+	New York State Urban Development Corp 1.9 03/15/2032	
+	Pennsylvania Turnpike Commission 3.42 12/01/2041	
+	State of Hawaii 1.7 08/01/2032	
+	City of Flagstaff AZ 3.01 05/01/2040	
+	Bay Area Toll Authority 6.91 10/01/2050	
+	State of California Department of Water Resources 1.79 12/01/2035	
+	Development Authority for Fulton County 3.47 10/01/2042	
+	Indianapolis Local Public Improvement Bond Bank 5.97 01/15/2030	
+	Illinois Finance Authority 3.51 05/15/2041	
+	City of Pasadena CA 3.24 05/01/2045	
+	Regional Transportation District 7.67 06/01/2040	
+	San Jose Financing Authority 4.76 05/01/2042	
+	New York State Dormitory Authority 3.19 02/15/2043	
+	New York City Housing Development Corp 2.95 11/01/2041	
+	New York State Dormitory Authority 2.77 07/01/2043	
+	State of Texas 5 10/01/2028	
+	State of Texas 1.84 10/01/2030	
+	City & County of San Francisco CA 6.49 11/01/2041	
+	Los Angeles Community College District/CA 6.6 08/01/2042	
+	California Municipal Finance Authority 2.52 10/01/2035	
+	County of Washoe NV Sales Tax Revenue 7.45 02/01/2040	
+	Waco Educational Finance Corp 2.84 03/01/2040	
+	Utah Transit Authority 1.72 12/15/2027	
+	Utah Transit Authority 1.82 12/15/2028	
+	Regents of the University of California Medical Center Poole 3.71 05/15/2120	
+	Auburn University 2.68 06/01/2050	
+	East Bay Municipal Utility District Water System Revenue 5.87 06/01/2040	
+	Rutgers The State University of New Jersey 2.68 05/01/2046	
+	Paramount Unified School District 3.27 08/01/2051	
+	Pepperdine University 3.3 12/01/2059	
+	State of Texas 3 10/01/2029	
+	State of Texas 5 10/01/2027	
+	Ohio University 3.02 12/01/2050	
+	County of Miami-Dade FL Aviation Revenue 3.17 10/01/2028	
+	Napa Valley Unified School District 6.51 08/01/2043	
+	Metropolitan Washington Airports Authority Dulles Toll Road 7.46 10/01/2046	
+	State of Oregon Department of Transportation 1.66 11/15/2031	
+	City of San Francisco CA Public Utilities Commission Water R 5.7 11/01/2027	
+	Oklahoma Development Finance Authority 4.38 11/01/2045	
+	Oregon State University 4.05 04/01/2052	
+	Dallas Convention Center Hotel Development Corp 7.09 01/01/2042	
+	California State University 2.72 11/01/2052	
+	East Bay Municipal Utility District Wastewater System Revenu 5.03 06/01/2032	
+	University of Michigan 3.5 04/01/2052	
+	City of Atlanta GA Water & Wastewater Revenue 2.26 11/01/2035	
+	Dallas Fort Worth International Airport 1.33 11/01/2025	
+	San Francisco Community College District 3.17 06/15/2041	
+	New York State Dormitory Authority 5.97 07/01/2042	
+	City of New York NY 2.17 08/01/2034	
+	Michigan State Building Authority 2.71 10/15/2040	
+	State of Mississippi 5.54 10/01/2029	
+	State of Mississippi 1.73 11/01/2032	
+	City of New Britain CT 3.25 09/01/2042	
+	New Jersey Institute of Technology/NJ 3.42 07/01/2042	
+	New Jersey Educational Facilities Authority 6.19 07/01/2040	
+	New York State Dormitory Authority 5.5 03/15/2030	
+	San Jose Financing Authority 3.42 06/01/2041	
+	State of Texas 5 10/01/2027	
+	Triborough Bridge & Tunnel Authority 5.5 11/15/2039	
+	Rutgers The State University of New Jersey 3.27 05/01/2043	
+	Development Authority for Fulton County 3.13 11/01/2049	
+	Grant County Public Utility District No 2 Priest Rapids Hydr 5.83 01/01/2040	
+	Harris County-Houston Sports Authority 3.71 11/15/2056	
+	Hayward Unified School District 2.87 08/01/2040	
+	Lee Memorial Health System 7.28 04/01/2027	
+	Kansas City Industrial Development Authority 1.4 03/01/2025	
+	Medical Center Educational Building Corp 2.92 06/01/2041	
+	University of Nebraska Facilities Corp 3.04 10/01/2049	
+	University of Massachusetts Building Authority 2.65 11/01/2036	
+	City of Yuma AZ 2.63 07/15/2038	
+	State of Wisconsin 3.95 05/01/2036	
+	Metropolitan Transportation Authority 6.09 11/15/2040	
+	Los Angeles Community College District/CA 2.83 08/01/2039	
+	Kansas City Industrial Development Authority 1.3 03/01/2024	
+	Grant County Public Utility District No 2 Priest Rapids Hydr 5.73 01/01/2030	
+	City of Pomona CA 3.72 08/01/2040	
+	Texas A&M University 2.62 05/15/2029	
+	City of San Francisco CA Public Utilities Commission Water R 6 11/01/2040	
+	City of Tacoma WA Electric System Revenue 5.79 01/01/2032	
+	Santa Clara Valley Water District 4.35 06/01/2046	
+	New York Transportation Development Corp 3.47 07/01/2028	
+	New Mexico Hospital Equipment Loan Council 4.41 08/01/2046	
+	City of Midland TX 4.52 03/01/2042	
+	City of Midland TX 4.67 03/01/2050	
+	County of Miami-Dade FL Transit System 5.53 07/01/2032	
+	City of San Francisco CA Public Utilities Commission Water R 6 11/01/2040	
+	County of Macomb MI 1.67 11/01/2029	
+	Metropolitan Transportation Authority 7.34 11/15/2039	
+	Commonwealth of Massachusetts 1.14 11/01/2027	
+	Chicago Transit Authority Sales Tax Receipts Fund 3.91 12/01/2040	
+	Alameda Corridor Transportation Authority 5.4 10/01/2046	
+	Chicago O'Hare International Airport 2.35 01/01/2030	
+	City of Carson CA 3.7 01/15/2044	
+	State of Louisiana 1.86 06/01/2032	
+	Los Angeles Department of Water & Power Water System Revenue 6.01 07/01/2039	
+	Jurupa Community Services District 7.19 09/01/2040	
+	Triborough Bridge & Tunnel Authority 5.45 11/15/2032	
+	County of Miami-Dade FL Aviation Revenue 3.27 10/01/2029	
+	New York City Industrial Development Agency 2.73 03/01/2034	
+	New York City Industrial Development Agency 2.78 03/01/2035	
+	New York State Dormitory Authority 4.01 07/01/2049	
+	Western Michigan University 2.88 11/15/2043	
+	State of Wisconsin 1.88 05/01/2025	
+	Western Minnesota Municipal Power Agency 3.23 01/01/2046	
+	City of New York NY 2.22 08/01/2035	
+	City of New York NY 2.42 08/01/2036	
+	New York City Educational Construction Fund 6 04/01/2035	
+	New Hampshire Business Finance Authority 3.3 04/01/2032	
+	Texas A&M University 4.2 05/15/2048	
+	Southern California Public Power Authority 5.92 07/01/2035	
+	South Central Connecticut Regional Water Authority 6.24 08/01/2030	
+	Pennsylvania Turnpike Commission 3.44 12/01/2043	
+	Erie City Water Authority 3.46 06/01/2060	
+	City of Fresno CA Water System Revenue 6.5 06/01/2030	
+	American Municipal Power Inc 6.27 02/15/2050	
+	Arizona Department of Transportation State Highway Fund Reve 2.46 07/01/2030	
+	American Municipal Power Inc 6.45 02/15/2044	
+	City of Chicago IL 7.38 01/01/2033	
+	Dallas Fort Worth International Airport 4.51 11/01/2051	
+	Dallas Fort Worth International Airport 1.65 11/01/2026	
+	Commonwealth Financing Authority 5.59 06/01/2030	
+	County of Alameda CA 4.54 08/01/2042	
+	Bay Area Toll Authority 6.79 04/01/2030	
+	Central Puget Sound Regional Transit Authority 5.49 11/01/2039	
+	Channelview Independent School District 5.93 08/15/2035	
+	California State University 2.98 11/01/2051	
+	City of Chicago IL 7.52 01/01/2040	
+	County of Kauai HI 5.76 08/01/2033	
+	Los Angeles Department of Water & Power 6.6 07/01/2050	
+	State of Louisiana Gasoline & Fuels Tax Revenue 2.53 05/01/2041	
+	Louisiana Local Government Environmental Facilities & Commun 2.59 02/01/2043	
+	Commonwealth of Massachusetts 1.37 11/01/2028	
+	Massachusetts Bay Transportation Authority Sales Tax Revenue 5.87 07/01/2040	
+	Sales Tax Securitization Corp 2.96 01/01/2032	
+	City of Tempe AZ 2.59 07/01/2037	
+	Texas Transportation Commission State Highway Fund 5.03 04/01/2026	
+	New Hampshire Business Finance Authority 3.28 10/01/2037	
+	New Jersey Transportation Trust Fund Authority 5.75 12/15/2028	
+	New York State Dormitory Authority 5 03/15/2024	
+	New York State Urban Development Corp 5.84 03/15/2040	
+	State of Oregon 5.89 06/01/2027	
+	North Texas Tollway Authority 6.72 01/01/2049	
+	State of Washington 5.09 08/01/2033	
+	University of Pittsburgh-of the Commonwealth System of Highe 3 09/15/2041	
+	County of Tulare CA 4.45 06/01/2037	
+	Utah Transit Authority 5.94 06/15/2039	
+	Oklahoma Turnpike Authority 0.8 01/01/2024	
+	Monroe County Industrial Development Corp/NY 2.85 07/01/2050	
+	South Central Connecticut Regional Water Authority 6.39 08/01/2040	
+	San Jose Redevelopment Agency Successor Agency 3.08 08/01/2025	
+	San Luis Unit/Westlands Water District Financing Authority 3.74 09/01/2050	
+	San Diego County Water Authority 0.59 05/01/2024	
+	City of San Antonio TX 4.53 02/01/2042	
+	Commonwealth of Massachusetts 4.5 08/01/2031	
+	Metropolitan Transportation Authority 6.65 11/15/2039	
+	Maricopa County Industrial Development Authority 3.17 09/01/2051	
+	State of Illinois 6.75 03/01/2028	
+	State of Hawaii Airports System Revenue 2.23 07/01/2029	
+	Harris County-Houston Sports Authority 3.86 11/15/2040	
+	City of Chicago IL 6.26 01/01/2040	
+	County of Clark NV 6.75 07/01/2038	
+	City of Deltona FL Utility System Revenue 2.84 10/01/2050	
+	Dallas Fort Worth International Airport 1.01 11/01/2024	
+	Connecticut State Health & Educational Facilities Authority 3.54 07/01/2051	
+	Douglas County Public Utility District No 1 Wells Hydroelect 5.25 09/01/2030	
+	Dallas Fort Worth International Airport 2.84 11/01/2046	
+	Dallas Fort Worth International Airport 2.04 11/01/2029	
+	City of Chicago IL 7.78 01/01/2035	
+	City of Austin TX Rental Car Special Facility Revenue 2.86 11/15/2042	
+	State of Hawaii 0.85 10/01/2025	
+	Indiana Finance Authority 4.31 03/01/2052	
+	City of Huntington Beach CA 1.07 06/15/2025	
+	Lehigh County Authority 3.63 12/01/2059	
+	Metropolitan Government Nashville & Davidson County Health & 3.23 07/01/2052	
+	Commonwealth of Massachusetts 0.69 11/01/2025	
+	San Diego County Water Authority 0.74 05/01/2025	
+	San Diego Public Facilities Financing Authority 4.23 10/15/2038	
+	City of Riverside CA 3.86 06/01/2045	
+	Reedy Creek Improvement District 2.73 06/01/2038	
+	State of Texas 5 10/01/2028	
+	State of Texas 4 10/01/2029	
+	City of Monterey Park CA 3.02 06/01/2043	
+	County of Miami-Dade FL Aviation Revenue 3.27 10/01/2041	
+	Michigan Finance Authority 5.02 11/01/2043	
+	Omaha Public Facilities Corp 4.35 02/01/2047	
+	New York Transportation Development Corp 3.57 07/01/2029	
+	New York State Dormitory Authority 5.39 03/15/2040	
+	New York State Dormitory Authority 1.26 03/15/2026	
+	State of Utah 3.54 07/01/2025	
+	Washington Biomedical Research Facilities 3 6.42 07/01/2030	
+	State of Wisconsin 2.5 05/01/2032	
+	Wisconsin Center District 4.17 12/15/2050	
+	University of Massachusetts Building Authority 4.55 11/01/2025	
+	New York City Transitional Finance Authority Future Tax Secu 5.51 08/01/2037	
+	New York City Industrial Development Agency 2.68 03/01/2033	
+	City of New York NY 1.92 08/01/2031	
+	City of New York NY 2.02 08/01/2032	
+	City of New York NY 5.99 12/01/2036	
+	New York State Dormitory Authority 3.14 07/01/2043	
+	New Jersey Educational Facilities Authority 4.43 07/01/2051	
+	State of Texas 5 10/01/2026	
+	State of Texas 5 10/01/2026	
+	Trustees of Dartmouth College 3.47 06/01/2046	
+	St Johns County Industrial Development Authority 2.54 10/01/2030	
+	City & County of San Francisco CA 6.26 06/15/2030	
+	Pennsylvania Turnpike Commission 6.11 12/01/2039	
+	Port of Morrow OR 2.99 09/01/2036	
+	Commonwealth of Massachusetts 1.67 11/01/2031	
+	State of Kansas Department of Transportation 4.6 09/01/2035	
+	JobsOhio Beverage System 2.83 01/01/2038	
+	Chicago O'Hare International Airport 2.45 01/01/2031	
+	Chicago O'Hare International Airport 2.55 01/01/2032	
+	California Statewide Communities Development Authority 4.82 08/01/2045	
+	Dallas Fort Worth International Airport 2.74 11/01/2035	
+	Dallas Fort Worth International Airport 0.63 11/01/2023	
+	City & County of Denver CO Airport System Revenue 2.52 11/15/2032	
+	County of Clark NV 6.55 07/01/2030	
+	Dallas Fort Worth International Airport 2.14 11/01/2030	
+	City of Baltimore MD 0.84 07/01/2025	
+	City of Huntington Beach CA 0.62 06/15/2024	
+	JEA Water & Sewer System Revenue 6.21 10/01/2033	
+	Great Lakes Water Authority Sewage Disposal System Revenue 2.62 07/01/2036	
+	Commonwealth of Massachusetts 1.87 11/01/2033	
+	State of Louisiana Gasoline & Fuels Tax Revenue 2.23 05/01/2036	
+	Port Authority of New York & New Jersey 3.14 02/15/2051	
+	Pocono Mountains Industrial Park Authority 5.05 08/15/2049	
+	Central Texas Turnpike System 3.03 08/15/2041	
+	State of Texas 1.84 10/01/2030	
+	San Francisco City & County Airport Comm-San Francisco Inter 3.35 05/01/2051	
+	City of Scottsdale AZ 0.61 07/01/2025	
+	New Hampshire Business Finance Authority 3.18 01/01/2036	
+	New York State Dormitory Authority 5.29 03/15/2033	
+	State of Mississippi 1.78 11/01/2033	
+	Michigan Strategic Fund 3.23 09/01/2047	
+	County of Miami-Dade FL Aviation Revenue 1.23 10/01/2025	
+	Oklahoma Turnpike Authority 0.9 01/01/2025	
+	City of Tucson AZ 2.86 07/01/2047	
+	State of Wisconsin 0.65 05/01/2025	
+	Virginia Commonwealth Transportation Board 4.7 05/15/2024	
+	University of Washington 2.62 04/01/2042	
+	City of Tucson AZ Water System Revenue 5.79 07/01/2026	
+	University of California 4.77 05/15/2115	
+	University of California 3.55 05/15/2039	
+	University of California 3.07 05/15/2051	
+	Northern California Power Agency 7.31 06/01/2040	
+	New Jersey Turnpike Authority 7.1 01/01/2041	
+	South Carolina Public Service Authority 2.39 12/01/2023	
+	State of Texas 1.94 10/01/2031	
+	State of Texas 2.04 10/01/2032	
+	Public Finance Authority 3.09 06/01/2050	
+	Maryland Economic Development Corp 4.75 06/01/2042	
+	Kentucky Public Transportation Infrastructure Authority 3.12 07/01/2049	
+	Kentucky Public Transportation Infrastructure Authority 3.22 07/01/2053	
+	Maryland State Transportation Authority 5.6 07/01/2030	
+	Colorado Mesa University 5.8 05/15/2040	
+	Franklin County Convention Facilities Authority 6.54 12/01/2036	
+	Iowa Student Loan Liquidity Corp 5.08 12/01/2039	
+	Jurupa Community Services District 6.6 09/01/2027	
+	Jurupa Community Services District 6.7 09/01/2028	
+	City of Aurora CO Water Revenue 2.72 08/01/2046	
+	California Statewide Communities Development Authority 2.68 02/01/2039	
+	County of Cuyahoga OH 8.22 02/15/2040	
+	City & County of Denver CO Airport System Revenue 2.62 11/15/2033	
+	Dallas Fort Worth International Airport 4.09 11/01/2051	
+	Dallas Fort Worth International Airport 2.87 11/01/2037	
+	Board of Governors of Colorado State University System 5.96 03/01/2033	
+	City of Columbia SC Waterworks & Sewer System Revenue 3.01 02/01/2049	
+	Cleveland Department of Public Utilities Division of Public 5.5 11/15/2038	
+	City of Baltimore MD 0.69 07/01/2024	
+	American Municipal Power Inc 5.94 02/15/2047	
+	California Infrastructure & Economic Development Bank 6.49 05/15/2049	
+	Jurupa Community Services District 6.35 09/01/2025	
+	Jurupa Community Services District 6.5 09/01/2026	
+	Indianapolis Local Public Improvement Bond Bank 5.85 01/15/2030	
+	Franklin County Convention Facilities Authority 6.39 12/01/2030	
+	City of El Segundo CA 3.06 07/01/2040	
+	State of Hawaii Airports System Revenue 3.89 07/01/2037	
+	State of Hawaii 5.53 02/01/2030	
+	Commonwealth of Massachusetts 3.28 06/01/2046	
+	Louisiana Energy & Power Authority 3.17 06/01/2040	
+	City of San Antonio TX 2.93 02/01/2046	
+	City of Pomona CA 3.82 08/01/2046	
+	School District of Philadelphia/The 6.62 06/01/2030	
+	Pennsylvania Higher Educational Facilities Authority 6.14 04/01/2030	
+	State of Texas 5 10/01/2025	
+	State of Texas 5 10/01/2025	
+	Santa Monica Community College District 2.8 08/01/2044	
+	City of Tacoma WA Water Revenue 5.37 12/01/2030	
+	City of Santa Ana CA 3.1 08/01/2044	
+	Santa Clara Valley Transportation Authority 5.88 04/01/2032	
+	New Jersey Educational Facilities Authority 3.96 07/01/2048	
+	State of Mississippi 5.25 11/01/2034	
+	Missouri Joint Municipal Electric Utility Commission 7.6 01/01/2032	
+	State of Oregon Department of Transportation 5.83 11/15/2034	
+	City of New York NY 5.65 06/01/2027	
+	New York State Environmental Facilities Corp 5.71 06/15/2030	
+	University of Southern California 3.23 10/01/2120	
+	Board of Regents of the University of Texas System 5.13 08/15/2042	
+	Board of Regents of the University of Texas System 4.79 08/15/2046	
+	University of Michigan 3.5 04/01/2052	
+	Uptown Development Authority 3.46 09/01/2040	
+	State of Wisconsin 0.8 05/01/2026	
+	State of Wisconsin 0.36 05/01/2024	
+	University of California 0.87 05/15/2026	
+	New York State Dormitory Authority 0.49 03/15/2024	
+	New York State Dormitory Authority 0.89 03/15/2025	
+	New York State Dormitory Authority 1.19 03/15/2026	
+	New York State Dormitory Authority 1.54 03/15/2027	
+	City of New Orleans LA Sewerage Service Revenue 2.84 06/01/2041	
+	City of New Orleans LA Water System Revenue 2.89 12/01/2041	
+	Oklahoma City Water Utilities Trust 4.64 07/01/2042	
+	Ohio Water Development Authority Water Pollution Control Loa 4.88 12/01/2034	
+	County of Miami-Dade FL Aviation Revenue 3.13 10/01/2027	
+	Michigan Strategic Fund 0.54 09/01/2023	
+	New Hampshire Business Finance Authority 3.78 01/01/2036	
+	Montana Facility Finance Authority 3.25 08/15/2051	
+	Montana Facility Finance Authority 3 08/15/2051	
+	Missouri Highway & Transportation Commission 5.02 05/01/2025	
+	City & County of San Francisco CA 2.83 06/15/2050	
+	Santa Monica Community College District 2.7 08/01/2040	
+	State of Texas 0.51 10/01/2023	
+	State of Texas 0.79 10/01/2024	
+	Tennessee State School Bond Authority 0.17 11/01/2022	
+	State of Texas 0.51 10/01/2023	
+	Passaic County Improvement Authority/The 6.54 08/01/2031	
+	Rutgers The State University of New Jersey 5.54 05/01/2029	
+	Municipal Improvement Corp of Los Angeles 0.42 11/01/2023	
+	Municipal Improvement Corp of Los Angeles 0.68 11/01/2024	
+	Municipal Improvement Corp of Los Angeles 0.95 11/01/2025	
+	Maryland Health & Higher Educational Facilities Authority 4.67 07/01/2036	
+	Massachusetts Clean Water Trust/The 5.19 08/01/2040	
+	Metropolitan Government Nashville & Davidson County Health & 4.05 07/01/2026	
+	State of Hawaii 0.89 08/01/2026	
+	City of Fort Worth TX 4.09 03/01/2037	
+	State of Georgia 4.31 10/01/2026	
+	State of Illinois 5.1 06/01/2033	
+	Kansas Development Finance Authority 4.93 04/15/2045	
+	Kansas Development Finance Authority 2.77 05/01/2051	
+	Kenton County Airport Board 4.69 01/01/2049	
+	City of Baltimore MD 2.86 07/01/2043	
+	City of Baltimore MD 0.84 07/01/2025	
+	City of Baltimore MD 0.69 07/01/2024	
+	California State Public Works Board 7.8 03/01/2035	
+	California State University 6.48 11/01/2041	
+	Colorado Health Facilities Authority 3.7 11/01/2039	
+	Dallas Independent School District 4 08/15/2028	
+	Colony Local Development Corp 4.88 10/01/2047	
+	Dallas Fort Worth International Airport 1.29 11/01/2025	
+	Dallas Fort Worth International Airport 1.52 11/01/2026	
+	Dallas Independent School District 4 08/15/2024	
+	Dallas Independent School District 4 08/15/2026	
+	City of El Paso TX 5.18 08/15/2034	
+	City & County of Denver CO Dedicated Excise Tax Revenue 3.82 08/01/2032	
+	Florida Development Finance Corp 3.22 02/01/2032	
+	State Board of Administration Finance Corp 2.15 07/01/2030	
+	Dallas Fort Worth International Airport 1.73 11/01/2027	
+	Commonwealth Financing Authority 3.53 06/01/2042	
+	Columbus Regional Airport Authority Customer Facility Charge 4.2 12/15/2048	
+	Dallas Independent School District 1.94 08/15/2030	
+	Dallas Independent School District 2.01 08/15/2031	
+	Coast Community College District 2.98 08/01/2039	
+	Charleston Educational Excellence Finance Corp 1.42 12/01/2027	
+	City of Baltimore MD 2.81 07/01/2040	
+	City of Baltimore MD 1.34 07/01/2027	
+	California Infrastructure & Economic Development Bank 1.24 10/01/2027	
+	California Infrastructure & Economic Development Bank 1.47 10/01/2028	
+	California Infrastructure & Economic Development Bank 1.6 10/01/2029	
+	California Infrastructure & Economic Development Bank 1.69 10/01/2030	
+	California Infrastructure & Economic Development Bank 2.72 10/01/2040	
+	Public Utility District No. 1 of Benton County 6.55 11/01/2030	
+	Water Works Board of the City of Birmingham/The 2.61 01/01/2037	
+	Water Works Board of the City of Birmingham/The 2.71 01/01/2038	
+	Illinois Finance Authority 3.94 08/15/2047	
+	City & County Honolulu HI Wastewater System Revenue 1.62 07/01/2031	
+	City of Houston TX 3.96 03/01/2047	
+	City of Houston TX Airport System Revenue 1.82 07/01/2027	
+	Golden State Tobacco Securitization Corp 3.49 06/01/2036	
+	State of Hawaii 1.86 08/01/2033	
+	Metropolitan Government Nashville & Davidson County Health & 3.44 10/01/2046	
+	Massachusetts Water Resources Authority 3.1 08/01/2039	
+	Commonwealth of Massachusetts 0.99 11/01/2026	
+	Massachusetts Port Authority 2.72 07/01/2042	
+	Massachusetts School Building Authority 2.95 05/15/2043	
+	State of Maryland Department of Transportation 1.25 08/01/2027	
+	State of Maryland Department of Transportation 1.3 08/01/2028	
+	State of Maryland Department of Transportation 1.64 08/01/2029	
+	Louisiana State Transportation Authority 3.08 08/15/2043	
+	Lehigh County Authority 3.48 12/01/2055	
+	Sales Tax Securitization Corp 3.24 01/01/2042	
+	Port of Portland OR Airport Revenue 4.24 07/01/2049	
+	Sales Tax Securitization Corp 3.59 01/01/2043	
+	Pennsylvania Economic Development Financing Authority 2.85 06/15/2036	
+	Pennsylvania Economic Development Financing Authority 3.14 06/15/2042	
+	Port of Oakland 1.67 05/01/2027	
+	Port of Oakland 2.05 05/01/2029	
+	Texas A&M University 2.81 05/15/2041	
+	State of Texas 2.14 10/01/2033	
+	State of Texas 1.94 10/01/2031	
+	City of Tucson AZ 1.31 07/01/2027	
+	South Dakota Health & Educational Facilities Authority 3.69 07/01/2042	
+	New Jersey Transportation Trust Fund Authority 4.13 06/15/2042	
+	County of Miami-Dade FL Transit System 2.6 07/01/2042	
+	County of Miami-Dade FL 2.74 10/01/2036	
+	Michigan Strategic Fund 2.03 09/01/2030	
+	Michigan Strategic Fund 1.68 09/01/2028	
+	North Texas Tollway Authority 3.01 01/01/2043	
+	State of Ohio 3.7 01/01/2043	
+	Ohio State University/The 3.8 12/01/2046	
+	Oregon State Facilities Authority 4.1 10/01/2041	
+	Oklahoma Municipal Power Authority 2.8 01/01/2041	
+	New Jersey Turnpike Authority 2.78 01/01/2040	
+	New York State Dormitory Authority 1.75 03/15/2028	
+	New York State Dormitory Authority 1.95 03/15/2029	
+	New York State Dormitory Authority 2.05 03/15/2030	
+	New York State Dormitory Authority 2.15 03/15/2031	
+	New York State Dormitory Authority 2.25 03/15/2032	
+	New York State Dormitory Authority 2.2 03/15/2034	
+	University of California 1.27 05/15/2027	
+	University of California 1.37 05/15/2028	
+	University of California 1.7 05/15/2029	
+	University of California 1.9 05/15/2030	
+	University of California 2 05/15/2031	
+	University of California 2.05 05/15/2032	
+	University of California 2.15 05/15/2033	
+	University of California 2.25 05/15/2034	
+	University of California 2.35 05/15/2035	
+	University of California 2.45 05/15/2036	
+	University of Michigan 4.45 04/01/2122	
+	State of Wisconsin 2.35 05/01/2031	
+	University of Michigan 1.67 04/01/2030	
+	Western Nassau County Water Authority 6.7 04/01/2040	
+	University of North Carolina at Chapel Hill 3.33 12/01/2036	
+	City of Tucson AZ 0.83 07/01/2025	
+	City of New Orleans LA Sewerage Service Revenue 2.94 06/01/2045	
+	City & County of San Francisco CA 3.08 06/15/2060	
+	Tarrant County Cultural Education Facilities Finance Corp 3.42 09/01/2050	
+	Port of Oakland 1.95 05/01/2028	
+	City of Phoenix Civic Improvement Corp 2.97 07/01/2044	
+	Philadelphia Authority for Industrial Development 0.94 04/15/2024	
+	Passaic Valley Water Commission 7.57 12/15/2029	
+	Passaic Valley Water Commission 7.82 12/15/2039	
+	City of Riverside CA Water Revenue 6.35 10/01/2039	
+	Port of Oakland 2.3 05/01/2032	
+	Rancho Water District Financing Authority 2.6 08/01/2040	
+	San Bernardino Community College District 2.69 08/01/2041	
+	San Bernardino Community College District 2.79 08/01/2045	
+	San Bernardino Community College District 2.86 08/01/2049	
+	Louisiana Energy & Power Authority 3.25 06/01/2044	
+	Maine Health & Higher Educational Facilities Authority 3.12 07/01/2043	
+	Louisiana Local Government Environmental Facilities & Commun 2.64 02/01/2048	
+	State of Maryland Department of Transportation 0.91 08/01/2026	
+	State of Hawaii 2.29 08/01/2040	
+	Idaho Housing & Finance Association 6.35 07/15/2028	
+	JEA Electric System Revenue 6.41 10/01/2034	
+	Lehigh County Authority 3.23 12/01/2050	
+	City of Baltimore MD 1.14 07/01/2026	
+	City of Chula Vista CA 2.81 06/01/2045	
+	Commonwealth Financing Authority 2.99 06/01/2042	
+	State of Connecticut 2.09 06/01/2031	
+	Dallas Fort Worth International Airport 2.92 11/01/2050	
+	Dallas Fort Worth International Airport 1.93 11/01/2028	
+	Dallas Area Rapid Transit 2.61 12/01/2048	
+	Denver City & County School District No 1 5.66 12/01/2033	
+	City of Downey CA 2.85 06/01/2040	
+	State of Connecticut 1.99 06/01/2030	
+	State of Connecticut 0.51 06/01/2024	
+	Dallas Independent School District 4 08/15/2029	
+	City of Baltimore MD 1.57 07/01/2028	
+	Camden County Improvement Authority/The 6.18 01/15/2027	
+	City & County Honolulu HI Wastewater System Revenue 1.47 07/01/2030	
+	Massachusetts School Building Authority 5.71 08/15/2039	
+	State of Maryland Department of Transportation 0.36 08/01/2023	
+	State of Maryland Department of Transportation 0.53 08/01/2024	
+	State of Maryland Department of Transportation 0.81 08/01/2025	
+	Los Angeles Unified School District/CA 5.98 05/01/2027	
+	Los Angeles Department of Water & Power Water System Revenue 5.38 07/01/2024	
+	Salt Lake County Municipal Building Authority 5.82 12/01/2029	
+	Port of Seattle WA 3.75 05/01/2036	
+	Philadelphia Authority for Industrial Development 1.43 04/15/2025	
+	Port of Oakland 2.1 05/01/2030	
+	Port of Oakland 1.08 05/01/2024	
+	Port of Oakland 1.18 05/01/2025	
+	Port of Oakland 1.52 05/01/2026	
+	City of Tucson AZ 1.7 07/01/2029	
+	City of Tucson AZ 0.46 07/01/2024	
+	City of New Orleans LA Water System Revenue 2.99 12/01/2045	
+	New York State Dormitory Authority 0.58 03/15/2024	
+	New York State Dormitory Authority 1.06 03/15/2025	
+	Michigan Strategic Fund 1.88 09/01/2029	
+	Michigan Strategic Fund 1.27 09/01/2026	
+	Michigan Strategic Fund 1.53 09/01/2027	
+	County of Miami-Dade FL 2.29 10/01/2031	
+	Michigan Strategic Fund 0.8 09/01/2024	
+	New Jersey Turnpike Authority 1.81 01/01/2030	
+	New Jersey Turnpike Authority 1.28 01/01/2027	
+	New Jersey Turnpike Authority 0.9 01/01/2025	
+	Regents of the University of California Medical Center Poole 6.46 05/15/2029	
+	University of Michigan 5.51 04/01/2030	
+	State of Utah 4.55 07/01/2024	
+	New Hampshire State Turnpike System 6.01 11/01/2039	
+	New Jersey Turnpike Authority 1.86 01/01/2031	
+	County of Miami-Dade FL 2.44 10/01/2032	
+	County of Miami-Dade FL 2.54 10/01/2033	
+	County of Miami-Dade FL 2.79 10/01/2037	
+	North Texas Tollway Authority 3.08 01/01/2042	
+	San Francisco Municipal Transportation Agency 2.8 03/01/2044	
+	Tarrant County Cultural Education Facilities Finance Corp 3.29 09/01/2040	
+	Port of Oakland 2.2 05/01/2031	
+	State of Maryland Department of Transportation 1.69 08/01/2030	
+	Massachusetts Port Authority 2.87 07/01/2051	
+	Metropolitan Transportation Authority 5.87 11/15/2039	
+	Indiana Finance Authority 3.05 01/01/2051	
+	State of Connecticut 1.12 06/01/2026	
+	State of Connecticut 1.5 06/01/2027	
+	State of Connecticut 1.65 06/01/2028	
+	State of Connecticut 1.89 06/01/2029	
+	Dallas Fort Worth International Airport 1.94 11/01/2023	
+	City of Downey CA 3 06/01/2044	
+	Dallas Independent School District 4 08/15/2025	
+	Dallas Independent School District 4 08/15/2027	
+	State of Connecticut 0.92 06/01/2025	
+	Dallas Independent School District 2.08 08/15/2032	
+	Dallas Independent School District 2.19 08/15/2034	
+	Alaska Municipal Bond Bank Authority 3.03 12/01/2041	
+	City & County Honolulu HI Wastewater System Revenue 0.55 07/01/2024	
+	Metropolitan Government of Nashville & Davidson County TN 1.59 07/01/2032	
+	Metropolitan Government of Nashville & Davidson County TN 1.79 07/01/2034	
+	Metropolitan Government of Nashville & Davidson County TN 1.39 07/01/2030	
+	Louisville/Jefferson County Metropolitan Government 5.45 11/15/2027	
+	New York State Dormitory Authority 5.29 03/15/2025	
+	Northern Illinois Municipal Power Agency 7.62 01/01/2030	
+	Michigan Strategic Fund 1.12 09/01/2025	
+	New Jersey Turnpike Authority 1.48 01/01/2028	
+	New Jersey Turnpike Authority 1.71 01/01/2029	
+	University of Arkansas 3.1 12/01/2041	
+	City of New Britain CT 4.35 03/01/2039	
+	Metropolitan Government of Nashville & Davidson County TN 1.49 07/01/2031	

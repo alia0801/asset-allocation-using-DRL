@@ -1,0 +1,27 @@
+BIZD
+ARCC	Ares Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCC.US&back=BIZD
+FSK	Fs Kkr Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FSK.US&back=BIZD
+ORCC	Owl Rock Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCC.US&back=BIZD
+MAIN	Main Street Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MAIN.US&back=BIZD
+GBDC	Golub Capital Bdc Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GBDC.US&back=BIZD
+PSEC	Prospect Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PSEC.US&back=BIZD
+BXSL	Blackstone Secured Lending Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=BXSL.US&back=BIZD
+HTGC	Hercules Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HTGC.US&back=BIZD
+GSBD	Goldman Sachs Bdc Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GSBD.US&back=BIZD
+TSLX	Sixth Street Specialty Lending Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLX.US&back=BIZD
+NMFC	New Mountain Finance Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NMFC.US&back=BIZD
+OCSL	Oaktree Specialty Lending Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OCSL.US&back=BIZD
+BBDC	Barings Bdc Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBDC.US&back=BIZD
+MFIC	Midcap Financial Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MFIC.US&back=BIZD
+TCPC	Blackrock Tcp Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TCPC.US&back=BIZD
+BCSF	Bain Capital Specialty Finance Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BCSF.US&back=BIZD
+SLRC	Slr Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SLRC.US&back=BIZD
+CGBD	Tcg Bdc Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CGBD.US&back=BIZD
+NEWT	Newtek Business Services Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWT.US&back=BIZD
+CSWC	Capital Southwest Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CSWC.US&back=BIZD
+GAIN	Gladstone Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GAIN.US&back=BIZD
+PFLT	Pennantpark Floating Rate Capital Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=PFLT.US&back=BIZD
+FDUS	Fidus Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FDUS.US&back=BIZD
+PNNT	Pennantpark Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PNNT.US&back=BIZD
+TPVG	Triplepoint Venture Growth Bdc Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TPVG.US&back=BIZD
+	Other/Cash	

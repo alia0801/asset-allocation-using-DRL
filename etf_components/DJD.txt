@@ -1,0 +1,28 @@
+DJD
+VZ	Verizon Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=DJD
+DOW	Dow Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=DJD
+WBA	Walgreens Boots Alliance Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=DJD
+IBM	International Business Machines Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=DJD
+MMM	3M Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=DJD
+INTC	Intel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=DJD
+CVX	Chevron Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=DJD
+MRK	Merck & Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=DJD
+JPM	JPMorgan Chase & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=DJD
+CSCO	Cisco Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=DJD
+AMGN	Amgen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=DJD
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=DJD
+GS	Goldman Sachs Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=DJD
+KO	Coca-Cola Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=DJD
+HD	Home Depot Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=DJD
+PG	Procter & Gamble Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=DJD
+CAT	Caterpillar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=DJD
+TRV	Travelers Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=DJD
+MCD	McDonald's Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=DJD
+HON	Honeywell International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=DJD
+WMT	Walmart Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=DJD
+UNH	UnitedHealth Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=DJD
+AXP	American Express Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=DJD
+NKE	NIKE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=DJD
+MSFT	Microsoft Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=DJD
+V	Visa Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=DJD
+AAPL	Apple Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=DJD

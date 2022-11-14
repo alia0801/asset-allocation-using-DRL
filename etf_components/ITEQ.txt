@@ -1,0 +1,68 @@
+ITEQ
+NICE	NICE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NICE.US&back=ITEQ
+SEDG	SOLAREDGE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=ITEQ
+DOX	AMDOCS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=ITEQ
+CHKP	CHECK POINT SOFTWARE TECH LTD ORD	/etf/ea/ETZCW.djhtm?c=1&etfid=CHKP.US&back=ITEQ
+CYBR	CYBERARK SOFTWARE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CYBR.US&back=ITEQ
+ESLT	ELBIT SYS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=ESLT.US&back=ITEQ
+S	SENTINELONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=S.US&back=ITEQ
+TSEM	TOWER SEMICONDUCTOR LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TSEM.US&back=ITEQ
+NVCR	NOVOCURE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NVCR.US&back=ITEQ
+	ORMAT TECHNOLOGIES	
+WIX	WIX COM LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=WIX.US&back=ITEQ
+INMD	INMODE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=INMD.US&back=ITEQ
+NVMI	NOVA LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NVMI.US&back=ITEQ
+IS	IRONSOURCE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=IS.US&back=ITEQ
+VRNS	VARONIS SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNS.US&back=ITEQ
+	PLUS500 LTD	
+VRNT	VERINT SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNT.US&back=ITEQ
+MNDY	MONDAY COM LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=MNDY.US&back=ITEQ
+	Cash & Other	
+KRNT	KORNIT DIGITAL LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=KRNT.US&back=ITEQ
+FROG	JFROG LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=FROG.US&back=ITEQ
+	ENLIGHT RENEWABLE	
+FVRR	FIVERR INTL LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=FVRR.US&back=ITEQ
+PAYO	PAYONEER GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYO.US&back=ITEQ
+	ENERGIXS-RENEWABLE	
+PERI	PERION NETWORK LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=PERI.US&back=ITEQ
+SSYS	STRATASYS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=SSYS.US&back=ITEQ
+LMND	LEMONADE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LMND.US&back=ITEQ
+CAMT	CAMTEK LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CAMT.US&back=ITEQ
+RDWR	RADWARE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RDWR.US&back=ITEQ
+NNOX	NANO X IMAGING LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NNOX.US&back=ITEQ
+NNDM	NANO DIMENSION LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NNDM.US&back=ITEQ
+	MATRIX IT LTD	
+PLTK	PLAYTIKA HLDG CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTK.US&back=ITEQ
+INVZ	INNOVIZ TECHNOLOGIES LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=INVZ.US&back=ITEQ
+	HILAN LTD	
+	MAYTRONICS LTD	
+ORMP	ORAMED PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ORMP.US&back=ITEQ
+AUDC	AUDIOCODES LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=AUDC.US&back=ITEQ
+CEVA	CEVA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CEVA.US&back=ITEQ
+DRTS	ALPHA TAU MEDICAL LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=DRTS.US&back=ITEQ
+	ONE SOFTWARE TECHN	
+SPNS	SAPIENS INTL CORP N V	/etf/ea/ETZCW.djhtm?c=1&etfid=SPNS.US&back=ITEQ
+	FORMULA SYST(1985)	
+LPSN	LIVEPERSON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LPSN.US&back=ITEQ
+	888 HOLDINGS	
+RADA	RADA ELECTR INDS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RADA.US&back=ITEQ
+VPG	VISHAY PRECISION GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VPG.US&back=ITEQ
+TBLA	TABOOLA.COM LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TBLA.US&back=ITEQ
+	O.Y. NOFAR ENERGY	
+GILT	GILAT SATELLITE NETWORKS LTD SHS NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=GILT.US&back=ITEQ
+WKME	WALKME LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=WKME.US&back=ITEQ
+SILC	SILICOM LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=SILC.US&back=ITEQ
+RSKD	RISKIFIED LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RSKD.US&back=ITEQ
+CGNT	COGNYTE SOFTWARE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CGNT.US&back=ITEQ
+CRNT	CERAGON NETWORKS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CRNT.US&back=ITEQ
+LCTX	LINEAGE CELL THERAPEUTICS INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=LCTX.US&back=ITEQ
+ITRN	ITURAN LOCATION AND CONTROL	/etf/ea/ETZCW.djhtm?c=1&etfid=ITRN.US&back=ITEQ
+1696.HK&back=ITEQ	SISRAM MEDICAL LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=1696.HK&back=ITEQ
+	MAGIC SOFTWARE ENT	
+CLBT	CELLEBRITE DI LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CLBT.US&back=ITEQ
+SMWB	SIMILARWEB LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=SMWB.US&back=ITEQ
+REE	REE AUTOMOTIVE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=REE.US&back=ITEQ
+ARBE	ARBE ROBOTICS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=ARBE.US&back=ITEQ
+	TREMOR INTL LTD	
+CGEN	COMPUGEN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CGEN.US&back=ITEQ
+	KAMADA LTD	

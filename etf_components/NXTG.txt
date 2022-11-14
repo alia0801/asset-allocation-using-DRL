@@ -1,0 +1,103 @@
+NXTG
+ANET	Arista Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=NXTG
+KEYS	Keysight Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=NXTG
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=NXTG
+CIEN	Ciena Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=NXTG
+2308.TW&back=NXTG	Delta Electronics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=2308.TW&back=NXTG
+NOK	Nokia Corporation (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=NOK.US&back=NXTG
+0788.HK&back=NXTG	China Tower Corporation Limited (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=0788.HK&back=NXTG
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=NXTG
+DOX	Amdocs Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=NXTG
+EQIX	Equinix,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=NXTG
+9434.JP&back=NXTG	SoftBank Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=9434.JP&back=NXTG
+LITE	Lumentum Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=NXTG
+MCHP	Microchip Technology Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=NXTG
+6971.JP&back=NXTG	Kyocera Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6971.JP&back=NXTG
+0763.HK&back=NXTG	ZTE Corporation (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=0763.HK&back=NXTG
+AMT	American Tower Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=NXTG
+SBAC	SBA Communications Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=NXTG
+QCOM	QUALCOMM Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=NXTG
+INFY	Infosys Limited (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=INFY.US&back=NXTG
+FFIV	F5 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=NXTG
+JNPR	Juniper Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=NXTG
+CCI	Crown Castle Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=NXTG
+SWKS	Skyworks Solutions,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=NXTG
+	Elisa Oyj	
+ADI	Analog Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=NXTG
+1810.HK&back=NXTG	Xiaomi Corporation (Class B)	/etf/ea/ETZCW.djhtm?c=1&etfid=1810.HK&back=NXTG
+9432.JP&back=NXTG	Nippon Telegraph and Telephone Corporation (NTT)	/etf/ea/ETZCW.djhtm?c=1&etfid=9432.JP&back=NXTG
+DLR	Digital Realty Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=NXTG
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=NXTG
+HPE	Hewlett Packard Enterprise Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=NXTG
+6701.JP&back=NXTG	NEC Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6701.JP&back=NXTG
+6503.JP&back=NXTG	Mitsubishi Electric Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6503.JP&back=NXTG
+066570.KS&back=NXTG	LG Electronics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=066570.KS&back=NXTG
+TSM	Taiwan Semiconductor Manufacturing Company Ltd. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=NXTG
+VMW	VMware,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=NXTG
+	Tata Consultancy Services Limited	
+	Tech Mahindra Ltd.	
+	STMicroelectronics NV	
+	Telefonaktiebolaget LM Ericsson (Class B)	
+3045.TW&back=NXTG	Taiwan Mobile Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3045.TW&back=NXTG
+2395.TW&back=NXTG	Advantech Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2395.TW&back=NXTG
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=NXTG
+NXPI	NXP Semiconductors N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=NXTG
+	HCL Technologies Limited	
+6723.JP&back=NXTG	Renesas Electronics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6723.JP&back=NXTG
+6758.JP&back=NXTG	Sony Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6758.JP&back=NXTG
+GDS	GDS Holdings Limited (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=GDS.US&back=NXTG
+MU	Micron Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=NXTG
+	Infrastrutture Wireless Italiane SpA	
+005930.KS&back=NXTG	Samsung Electronics Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=005930.KS&back=NXTG
+AMD	Advanced Micro Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=NXTG
+QRVO	Qorvo,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=NXTG
+WIT	Wipro Limited (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=WIT.US&back=NXTG
+0992.HK&back=NXTG	Lenovo Group Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0992.HK&back=NXTG
+6702.JP&back=NXTG	Fujitsu Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=6702.JP&back=NXTG
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=NXTG
+	Infineon Technologies AG	
+MRVL	Marvell Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=NXTG
+018260.KS&back=NXTG	Samsung SDS Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=018260.KS&back=NXTG
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=NXTG
+3711.TW&back=NXTG	Ase Technology Holding Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3711.TW&back=NXTG
+	BT Group Plc	
+2303.TW&back=NXTG	United Microelectronics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=2303.TW&back=NXTG
+2454.TW&back=NXTG	MediaTek Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=2454.TW&back=NXTG
+	Ooredoo Q.S.C.	
+	Digi.Com Berhad	
+	Spark New Zealand Limited	
+TMUS	T-Mobile US,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=NXTG
+	Bharti Airtel Ltd.	
+	Singapore Telecommunications Limited	
+	Telstra Corporation Limited	
+	Deutsche Telekom AG	
+	Emirates Telecommunications Group Company PJSC	
+2412.TW&back=NXTG	Chunghwa Telecom Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2412.TW&back=NXTG
+	TELUS Corporation	
+	Swisscom AG	
+9433.JP&back=NXTG	KDDI Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=9433.JP&back=NXTG
+KT	KT Corporation (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=KT.US&back=NXTG
+	Telefonica Deutschland Holding AG	
+	Koninklijke (Royal) KPN N.V.	
+	BCE Inc.	
+4904.TW&back=NXTG	Far EasTone Telecommunications Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4904.TW&back=NXTG
+017670.KS&back=NXTG	SK Telecom Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=017670.KS&back=NXTG
+	Orange	
+	Cellnex Telecom,S.A.	
+	Rogers Communications Inc. (Class B)	
+	Tele2 AB (Class B)	
+	Telia Company AB	
+	America Movil,S.A.B. de C.V. (Class L)	
+	Advanced Info Service Pcl (Foreign)	
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=NXTG
+	Telefonica,S.A.	
+	Vodafone Group Plc	
+VIV	Telefonica Brasil,S.A. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=VIV.US&back=NXTG
+	Vodacom Group Limited	
+	Globe Telecom,Inc.	
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=NXTG
+	Telenor ASA	
+	MTN Group Limited	
+	Telecom Italia SpA	
+	US Dollar	
+	Mobile TeleSystems Public Joint Stock Company (ADR)	

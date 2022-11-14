@@ -1,0 +1,42 @@
+FXG
+MCK	McKesson Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=FXG
+PFGC	Performance Food Group Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PFGC.US&back=FXG
+ABC	AmerisourceBergen Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=FXG
+DAR	Darling Ingredients Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DAR.US&back=FXG
+SYY	Sysco Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=FXG
+GO	Grocery Outlet Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=GO.US&back=FXG
+WBA	Walgreens Boots Alliance,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=FXG
+PPC	Pilgrim's Pride Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=FXG
+TSN	Tyson Foods,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=FXG
+BG	Bunge Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=FXG
+POST	Post Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=FXG
+PEP	PepsiCo,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=FXG
+K	Kellogg Company	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=FXG
+INGR	Ingredion Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=INGR.US&back=FXG
+KO	The Coca-Cola Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=FXG
+TAP	Molson Coors Beverage Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=FXG
+ADM	Archer-Daniels-Midland Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=FXG
+LW	Lamb Weston Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LW.US&back=FXG
+CVS	CVS Health Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=FXG
+HSY	The Hershey Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=FXG
+ACI	Albertsons Companies,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=FXG
+CAG	Conagra Brands,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=FXG
+MNST	Monster Beverage Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=FXG
+KMB	Kimberly-Clark Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=FXG
+CASY	Casey's General Stores,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=FXG
+CTVA	Corteva Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=FXG
+SJM	The J.M. Smucker Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=FXG
+BF.B	Brown-Forman Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=FXG
+KR	The Kroger Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=FXG
+CL	Colgate-Palmolive Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=FXG
+PG	The Procter & Gamble Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=FXG
+CHD	Church & Dwight Co.,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=FXG
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=FXG
+CPB	Campbell Soup Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=FXG
+FLO	Flowers Foods,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=FXG
+CLX	The Clorox Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=FXG
+REYN	Reynolds Consumer Products Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REYN.US&back=FXG
+MDLZ	Mondelez International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=FXG
+USFD	US Foods Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=USFD.US&back=FXG
+KHC	The Kraft Heinz Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=FXG
+	US Dollar	

@@ -1,0 +1,63 @@
+IAK
+CB	CHUBB LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=IAK
+PGR	PROGRESSIVE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=IAK
+MET	METLIFE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=IAK
+AIG	AMERICAN INTERNATIONAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=IAK
+TRV	TRAVELERS COMPANIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=IAK
+AJG	ARTHUR J GALLAGHER	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=IAK
+AFL	AFLAC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=IAK
+ALL	ALLSTATE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=IAK
+PRU	PRUDENTIAL FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=IAK
+HIG	HARTFORD FINANCIAL SERVICES GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=IAK
+PFG	PRINCIPAL FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=IAK
+ACGL	ARCH CAPITAL GROUP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGL.US&back=IAK
+MKL	MARKEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=IAK
+BRO	BROWN & BROWN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=IAK
+CINF	CINCINNATI FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=IAK
+WRB	WR BERKLEY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=IAK
+Y	ALLEGHANYCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=Y.US&back=IAK
+L	LOEWS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=IAK
+GL	GLOBE LIFE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GL.US&back=IAK
+AFG	AMERICAN FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=IAK
+AIZ	ASSURANT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=IAK
+LNC	LINCOLN NATIONAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=IAK
+UNM	UNUM	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=IAK
+ORI	OLD REPUBLIC INTERNATIONAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=IAK
+FAF	FIRST AMERICAN FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FAF.US&back=IAK
+ERIE	ERIE INDEMNITY CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ERIE.US&back=IAK
+KNSL	KINSALE CAPITAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KNSL.US&back=IAK
+PRI	PRIMERICA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRI.US&back=IAK
+SIGI	SELECTIVE INSURANCE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SIGI.US&back=IAK
+THG	HANOVER INSURANCE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=IAK
+RLI	RLI CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RLI.US&back=IAK
+AXS	AXIS CAPITAL HOLDINGS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=AXS.US&back=IAK
+WTM	WHITE MOUNTAINS INSURANCE GROUP LT	/etf/ea/ETZCW.djhtm?c=1&etfid=WTM.US&back=IAK
+BHF	BRIGHTHOUSE FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BHF.US&back=IAK
+AGO	ASSURED GUARANTY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=AGO.US&back=IAK
+AEL	AMERICAN EQUITY INVESTMENT LIFE HO	/etf/ea/ETZCW.djhtm?c=1&etfid=AEL.US&back=IAK
+KMPR	KEMPER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KMPR.US&back=IAK
+VOYA	VOYA FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=IAK
+TRUP	TRUPANION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRUP.US&back=IAK
+CNO	CNO FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CNO.US&back=IAK
+PLMR	PALOMAR HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PLMR.US&back=IAK
+GNW	GENWORTH FINANCIAL A INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GNW.US&back=IAK
+	USD CASH	
+CNA	CNA FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNA.US&back=IAK
+SAFT	SAFETY INSURANCE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SAFT.US&back=IAK
+HMN	HORACE MANN EDUCATORS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HMN.US&back=IAK
+MCY	MERCURY GENERAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCY.US&back=IAK
+AMSF	AMERISAFE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMSF.US&back=IAK
+	BLK CSH FND TREASURY SL AGENCY	
+LMND	LEMONADE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LMND.US&back=IAK
+PRA	PROASSURANCE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PRA.US&back=IAK
+EIG	EMPLOYERS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EIG.US&back=IAK
+JRVR	JAMES RIVER GROUP HOLDINGS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=JRVR.US&back=IAK
+AMBC	AMBAC FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMBC.US&back=IAK
+ARGO	ARGO GROUP INTERNATIONAL HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=ARGO.US&back=IAK
+NWLI	NATIONAL WESTERN LIFE GROUP INC CL	/etf/ea/ETZCW.djhtm?c=1&etfid=NWLI.US&back=IAK
+UFCS	UNITED FIRE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UFCS.US&back=IAK
+MBI	MBIA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MBI.US&back=IAK
+EHTH	EHEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EHTH.US&back=IAK
+	CASH COLLATERAL USD WFFUT	
+	S&P MID 400 EMINI SEP 22	
+	EMINI FINANCIAL SELECT SECTOR SEP	

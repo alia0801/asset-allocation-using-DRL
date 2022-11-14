@@ -1,0 +1,13 @@
+EQL
+XLV	Health Care Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLV.US&back=EQL
+XLP	Consumer Staples Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLP.US&back=EQL
+XLB	Materials Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLB.US&back=EQL
+XLI	Industrial Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLI.US&back=EQL
+XLK	Technology Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLK.US&back=EQL
+XLC	Communication Services Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLC.US&back=EQL
+XLE	Energy Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLE.US&back=EQL
+XLF	Financial Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLF.US&back=EQL
+XLY	Consumer Discretionary Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLY.US&back=EQL
+XLRE	Real Estate Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLRE.US&back=EQL
+XLU	Utilities Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLU.US&back=EQL
+	Cash and Equivalents	

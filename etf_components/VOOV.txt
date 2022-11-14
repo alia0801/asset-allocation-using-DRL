@@ -1,0 +1,21 @@
+VOOV
+BRK.B	Berkshire Hathaway Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=VOOV
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=VOOV
+XOM	Exxon Mobil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=VOOV
+PG	Procter & Gamble Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=VOOV
+CVX	Chevron Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=VOOV
+UNH	UnitedHealth Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=VOOV
+KO	Coca-Cola Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=VOOV
+MRK	Merck & Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=VOOV
+DIS	Walt Disney Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=VOOV
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=VOOV
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=VOOV
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=VOOV
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=VOOV
+NEE	NextEra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=VOOV
+WFC	Wells Fargo & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=VOOV
+CMCSA	Comcast Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=VOOV
+MA	Mastercard Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=VOOV
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=VOOV
+BMY	Bristol-Myers Squibb Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=VOOV
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=VOOV

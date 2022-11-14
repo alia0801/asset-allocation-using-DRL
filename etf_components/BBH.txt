@@ -1,0 +1,26 @@
+BBH
+AMGN	Amgen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=BBH
+GILD	Gilead Sciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=BBH
+VRTX	Vertex Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=BBH
+REGN	Regeneron Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=BBH
+MRNA	Moderna Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=BBH
+ALNY	Alnylam Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALNY.US&back=BBH
+IQV	Iqvia Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=BBH
+SGEN	Seagen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=BBH
+ILMN	Illumina Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=BBH
+BIIB	Biogen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=BBH
+REGN	Icon Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=BBH
+BNTX	Biontech Se	/etf/ea/ETZCW.djhtm?c=1&etfid=BNTX.US&back=BBH
+BGNE	Beigene Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=BGNE.US&back=BBH
+TECH	Bio-Techne Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TECH.US&back=BBH
+BMRN	Biomarin Pharmaceutical Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BMRN.US&back=BBH
+INCY	Incyte Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=BBH
+QGEN	Qiagen Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=QGEN.US&back=BBH
+CRL	Charles River Laboratories Internationa	/etf/ea/ETZCW.djhtm?c=1&etfid=CRL.US&back=BBH
+CRSP	Crispr Therapeutics Ag	/etf/ea/ETZCW.djhtm?c=1&etfid=CRSP.US&back=BBH
+EXAS	Exact Sciences Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EXAS.US&back=BBH
+NTRA	Natera Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRA.US&back=BBH
+NTLA	Intellia Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTLA.US&back=BBH
+GH	Guardant Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GH.US&back=BBH
+NVAX	Novavax Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NVAX.US&back=BBH
+TXG	10x Genomics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TXG.US&back=BBH

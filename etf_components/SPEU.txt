@@ -1,0 +1,899 @@
+SPEU
+	Nestle S.A.	
+	Roche Holding Ltd Dividend Right Cert.	
+	ASML Holding NV	
+	Novartis AG	
+	AstraZeneca PLC	
+	Novo Nordisk A/S Class B	
+	LVMH Moet Hennessy Louis Vuitton SE	
+	Linde plc	
+	TotalEnergies SE	
+	HSBC Holdings Plc	
+	Unilever PLC	
+	Shell PLC	
+	Diageo plc	
+	BP p.l.c.	
+	Sanofi	
+	SAP SE	
+	L'Oreal S.A.	
+	British American Tobacco p.l.c.	
+	Shell PLC	
+	Siemens AG	
+	Allianz SE	
+	Schneider Electric SE	
+	Zurich Insurance Group Ltd	
+	Air Liquide SA	
+	Deutsche Telekom AG	
+	GSK plc	
+	Iberdrola SA	
+	Glencore plc	
+	Rio Tinto plc	
+	Compagnie Financiere Richemont SA	
+	Airbus SE	
+	Reckitt Benckiser Group plc	
+	Prosus N.V. Class N	
+	BNP Paribas S.A. Class A	
+	UBS Group AG	
+	VINCI SA	
+	Bayer AG	
+	RELX PLC	
+	AXA SA	
+	National Grid plc	
+	EssilorLuxottica SA	
+	Hermes International SCA	
+	Adyen NV	
+	Mercedes-Benz Group AG	
+	Anheuser-Busch InBev SA/NV	
+	ABB Ltd.	
+	Banco Santander S.A.	
+	Equinor ASA	
+	Anglo American plc	
+	Lonza Group AG	
+	Safran S.A.	
+	BASF SE	
+	Vodafone Group Plc	
+	Compass Group PLC	
+	Pernod Ricard SA	
+	Kering SA	
+	Enel SpA	
+	Deutsche Post AG	
+	Lloyds Banking Group plc	
+	Sika AG	
+	ING Groep NV	
+	Danone SA	
+	Munich Reinsurance Company	
+	Alcon AG	
+	London Stock Exchange Group plc	
+	Deutsche Boerse AG	
+	Infineon Technologies AG	
+	Intesa Sanpaolo S.p.A.	
+	Barclays PLC	
+	Capgemini SE	
+	Eni S.p.A.	
+	Prudential plc	
+	Investor AB Class B	
+	Koninklijke Ahold Delhaize N.V.	
+	CRH Plc	
+	DSV A/S	
+	BAE Systems plc	
+	Nordea Bank Abp	
+	Experian PLC	
+	Banco Bilbao Vizcaya Argentaria S.A.	
+	Dassault Systemes SA	
+	Nokia Oyj	
+	adidas AG	
+	Atlas Copco AB Class A	
+	Volkswagen AG Pref	
+	RWE AG	
+	Wolters Kluwer NV	
+	Givaudan SA	
+	Vestas Wind Systems A/S	
+	Volvo AB Class B	
+	Holcim Ltd	
+	Ferguson Plc	
+	Industria de Diseno Textil S.A.	
+	Amadeus IT Group SA Class A	
+	Bayerische Motoren Werke AG	
+	Genmab A/S	
+	Telefonica SA	
+	STMicroelectronics NV	
+	Telefonaktiebolaget LM Ericsson Class B	
+	Sampo Oyj Class A	
+	Swiss Re AG	
+	Ferrari NV	
+	Koninklijke DSM N.V.	
+	Ashtead Group plc	
+	Merck KGaA	
+	ENGIE SA.	
+	Flutter Entertainment Plc	
+	Partners Group Holding AG	
+	Hexagon AB Class B	
+	Tesco PLC	
+	UniCredit S.p.A.	
+	Heineken NV	
+	Compagnie de Saint-Gobain SA	
+	Neste Corporation	
+	Cellnex Telecom S.A.	
+	Imperial Brands PLC	
+	Orange SA	
+	SSE plc	
+	ASSA ABLOY AB Class B	
+	arGEN-X SE	
+	Vonovia SE	
+	Legrand SA	
+	Stellantis N.V.	
+	Societe Generale S.A. Class A	
+	Orsted	
+	Repsol SA	
+	UPM-Kymmene Oyj	
+	E.ON SE	
+	Legal & General Group Plc	
+	Cie Generale des Etablissements Michelin SA	
+	Deutsche Bank Aktiengesellschaft	
+	Skandinaviska Enskilda Banken AB Class A	
+	Standard Chartered PLC	
+	DNB Bank ASA	
+	Sandvik AB	
+	Teleperformance SA	
+	Geberit AG	
+	Swiss Life Holding AG	
+	Kerry Group Plc Class A	
+	Kone Oyj Class B	
+	Assicurazioni Generali S.p.A.	
+	EQT AB	
+	Evolution AB	
+	Haleon PLC	
+	Swedish Match AB	
+	Universal Music Group N.V.	
+	Veolia Environnement SA	
+	Koninklijke Philips N.V.	
+	NatWest Group Plc	
+	NIBE Industrier AB Class B	
+	Atlas Copco AB Class B	
+	Symrise AG	
+	Sonova Holding AG	
+	A.P. Moller - Maersk A/S Class B	
+	3i Group plc	
+	Aviva plc	
+	Siemens Healthineers AG	
+	Coloplast A/S Class B	
+	Essity AB Class B	
+	SGS SA	
+	Ferrovial S.A.	
+	Swisscom AG	
+	Kuehne & Nagel International AG	
+	Carlsberg AS Class B	
+	CaixaBank SA	
+	ArcelorMittal SA	
+	Credit Suisse Group AG	
+	Straumann Holding AG	
+	Thales SA	
+	EDP-Energias de Portugal SA	
+	ASM International N.V.	
+	Chocoladefabriken Lindt & Spruengli AG Partizipsch.	
+	Edenred SA	
+	SEGRO plc	
+	Svenska Handelsbanken AB Class A	
+	BT Group plc	
+	CNH Industrial NV	
+	Novozymes A/S Class B	
+	NN Group N.V.	
+	Daimler Truck Holding AG	
+	KBC Group N.V.	
+	Credit Agricole SA	
+	Swedbank AB Class A	
+	Stellantis N.V.	
+	Atlantia S.p.A	
+	Publicis Groupe SA	
+	Akzo Nobel N.V.	
+	Henkel AG & Co. KGaA Pref	
+	Chocoladefabriken Lindt & Spruengli AG	
+	Rentokil Initial plc	
+	Bunzl plc	
+	Croda International Plc	
+	Porsche Automobil Holding SE Pref	
+	Aker BP ASA	
+	Julius Baer Gruppe AG	
+	Investor AB Class A	
+	QIAGEN NV	
+	Royal KPN NV	
+	Smith & Nephew PLC	
+	Sartorius AG Pref	
+	InterContinental Hotels Group PLC	
+	Roche Holding Ltd	
+	Fresenius SE & Co. KGaA	
+	Brenntag Societas Europaea	
+	Worldline SA	
+	Terna S.p.A.	
+	Beiersdorf AG	
+	Carrefour SA	
+	Moncler SpA	
+	Snam S.p.A.	
+	Epiroc AB Class A	
+	MTU Aero Engines AG	
+	Norsk Hydro ASA	
+	WPP Plc	
+	Mowi ASA	
+	Informa Plc	
+	Halma plc	
+	Stora Enso Oyj Class R	
+	Spirax-Sarco Engineering PLC	
+	Danske Bank A/S	
+	Aena SME SA	
+	Kingspan Group Plc	
+	Eurofins Scientific Societe Europeenne	
+	Boliden AB	
+	UCB S.A.	
+	Sartorius Stedim Biotech SA	
+	Telia Company AB	
+	Hannover Rueck SE	
+	Next plc	
+	Entain PLC	
+	Smurfit Kappa Group Plc	
+	Logitech International S.A.	
+	Eiffage SA	
+	STATE STREET INSTITUTIONAL LIQ STATE STR	
+	Bouygues SA	
+	United Utilities Group PLC	
+	Sage Group plc	
+	Svenska Cellulosa AB SCA Class B	
+	Prysmian S.p.A.	
+	Severn Trent Plc	
+	Tryg A/S	
+	Burberry Group plc	
+	Elisa Oyj Class A	
+	SIG Group AG	
+	Aegon N.V.	
+	Ryanair Holdings Plc Sponsored ADR	
+	IMCD N.V.	
+	Alfa Laval AB	
+	Mondi plc	
+	Groupe Bruxelles Lambert SA	
+	H&M Hennes & Mauritz AB Class B	
+	Erste Group Bank AG	
+	Getlink SE	
+	Red Electrica Corp. SA	
+	Intertek Group plc	
+	Rolls-Royce Holdings plc	
+	Nordea Bank Abp	
+	Pearson PLC	
+	Barry Callebaut AG	
+	Bureau Veritas SA	
+	Electricite de France SA	
+	Meggitt PLC	
+	Heineken Holding N.V.	
+	Auto Trader Group PLC	
+	ageas SA/NV	
+	Swatch Group Ltd. Bearer	
+	Telenor ASA	
+	Commerzbank AG	
+	Schindler Holding AG Pref	
+	EXOR N.V.	
+	St. James's Place Plc	
+	Siemens Energy AG	
+	Rheinmetall AG	
+	Yara International ASA	
+	Delivery Hero SE	
+	A.P. Moller - Maersk A/S Class A	
+	Fresenius Medical Care AG & Co. KGaA	
+	Admiral Group plc	
+	FinecoBank SpA	
+	HeidelbergCement AG	
+	Baloise-Holding AG	
+	Swiss Prime Site AG	
+	VAT Group AG	
+	Sodexo SA	
+	Tenaris S.A.	
+	Alstom SA	
+	Melrose Industries PLC	
+	Smiths Group Plc	
+	Associated British Foods plc	
+	Vivendi SE	
+	Bank of Ireland Group Plc	
+	VERBUND AG Class A	
+	Henkel AG & Co. KGaA	
+	Orkla ASA	
+	PUMA SE	
+	Continental AG	
+	Umicore	
+	Euronext NV	
+	Jeronimo Martins SGPS S.A.	
+	Rightmove plc	
+	Phoenix Group Holdings plc	
+	Renault SA	
+	Solvay SA	
+	Chr. Hansen Holding A/S	
+	RS Group PLC	
+	Skanska AB Class B	
+	Whitbread PLC	
+	Tele2 AB Class B	
+	DCC Plc	
+	EDP Renovaveis SA	
+	Pandora A/S	
+	M&G Plc	
+	Covestro AG	
+	OMV AG	
+	Randstad NV	
+	Kesko Oyj Class B	
+	Avast Plc	
+	SKF AB Class B	
+	ASR Nederland NV	
+	Metso Outotec Oyj	
+	Temenos AG	
+	Nexi S.p.A.	
+	Persimmon Plc	
+	LEG Immobilien SE	
+	Endesa S.A.	
+	Zalando SE	
+	Actividades de Construccion y Servicios SA	
+	Kingfisher Plc	
+	Adecco Group AG	
+	TOMRA Systems ASA	
+	GEA Group Aktiengesellschaft	
+	Ocado Group PLC	
+	Epiroc AB Class B	
+	Galp Energia SGPS S.A. Class B	
+	Volkswagen AG	
+	Centrica plc	
+	Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod	
+	Elia Group SA/NV	
+	Davide Campari-Milano N.V.	
+	PSP Swiss Property AG	
+	Land Securities Group PLC	
+	Barratt Developments PLC	
+	Trelleborg AB Class B	
+	Indutrade AB	
+	Arkema SA	
+	Antofagasta plc	
+	Polski Koncern Naftowy ORLEN S.A.	
+	Naturgy Energy Group S.A.	
+	Orion Oyj Class B	
+	Ubisoft Entertainment SA	
+	Acciona SA	
+	Berkeley Group Holdings plc	
+	EMS-CHEMIE HOLDING AG	
+	Tecan Group AG	
+	Intermediate Capital Group plc	
+	bioMerieux SA	
+	Carl Zeiss Meditec AG	
+	Bachem Holding AG Class B	
+	ABN AMRO Bank N.V. Depositary receipts	
+	Taylor Wimpey plc	
+	Fortum Oyj	
+	Georg Fischer AG	
+	Weir Group PLC	
+	Dechra Pharmaceuticals PLC	
+	Mediobanca - Banca di Credito Finanziario S.p.A.	
+	Swedish Orphan Biovitrum AB	
+	Accor SA	
+	Enagas SA	
+	Scout24 SE	
+	British Land Company PLC	
+	K+S AG	
+	Bollore SE	
+	Warehouses De Pauw SCA	
+	DS Smith Plc	
+	Johnson Matthey Plc	
+	PKO Bank Polski S.A.	
+	HomeServe plc	
+	Coca-Cola HBC AG	
+	AB Sagax Class B	
+	Klepierre SA	
+	Gecina SA	
+	Bayerische Motoren Werke AG Pref	
+	Clariant AG	
+	J Sainsbury plc	
+	Valmet Corp	
+	HelloFresh SE	
+	Recordati Industria Chimica e Farmaceutica S.p.A.	
+	IG Group Holdings plc	
+	Beazley Plc	
+	ConvaTec Group Plc	
+	BAWAG Group AG	
+	Holmen AB Class B	
+	Remy Cointreau SA	
+	Schroders PLC	
+	AVEVA Group plc	
+	Wartsila Oyj Abp	
+	UNITE Group plc	
+	B&M European Value Retail SA	
+	Getinge AB Class B	
+	Rexel SA	
+	Siemens Gamesa Renewable Energy S.A.	
+	Castellum AB	
+	Euro	
+	JDE Peet's NV	
+	Valeo SE	
+	Banco de Sabadell SA	
+	SalMar ASA	
+	Storebrand ASA	
+	BE Semiconductor Industries N.V.	
+	Howden Joinery Group PLC	
+	Helvetia Holding Ltd	
+	Gjensidige Forsikring ASA	
+	Aeroports de Paris SA	
+	OCI NV	
+	Evonik Industries AG	
+	Gaztransport & Technigaz SA	
+	BELIMO Holding AG	
+	Banco BPM SpA	
+	Poste Italiane SpA	
+	Man Group PLC	
+	Industrivarden AB Class A	
+	Hiscox Ltd	
+	Abrdn plc	
+	Signify NV	
+	La Francaise des Jeux SA	
+	Alten SA	
+	Tate & Lyle PLC	
+	Spectris plc	
+	Addtech AB Class B	
+	Tritax Big Box REIT Plc	
+	Diploma PLC	
+	Galenica AG	
+	GN Store Nord A/S	
+	Deutsche Lufthansa AG	
+	Soitec SA	
+	Dino Polska SA	
+	Grifols S.A. Class A	
+	Lifco AB Class B	
+	Schindler Holding AG	
+	Industrivarden AB Class C	
+	Aalberts N.V.	
+	IMI plc	
+	Ipsen SA	
+	Fastighets AB Balder Class B	
+	Huhtamaki Oyj	
+	Kinnevik AB Class B	
+	Aedifica SA	
+	Amplifon S.p.A.	
+	DiaSorin S.p.A.	
+	Powszechny Zaklad Ubezpieczen Spolka Akcyjna	
+	Hargreaves Lansdown plc	
+	Axfood AB	
+	BillerudKorsnas AB	
+	Siegfried Holding AG	
+	HUGO BOSS AG	
+	D'Ieteren Group SA/NV	
+	Inchcape plc	
+	Volvo Car AB Class B	
+	Infrastrutture Wireless Italiane S.p.A.	
+	Leonardo SpA	
+	Evotec SE	
+	Nemetschek SE	
+	Ackermans & van Haaren NV	
+	Bankinter SA	
+	Flughafen Zurich AG	
+	Beijer Ref AB Class B	
+	ANDRITZ AG	
+	JD Sports Fashion Plc	
+	Kojamo Oyj	
+	SPIE SA	
+	Harbour Energy Plc	
+	Knorr-Bremse AG	
+	Dassault Aviation SA	
+	Volvo AB Class A	
+	Royal Unibrew A/S	
+	Bechtle AG	
+	Sofina SA	
+	International Consolidated Airlines Group SA	
+	Amundi SA	
+	CTS Eventim AG & Co. KGaA	
+	Eurazeo SA	
+	Drax Group plc	
+	Direct Line Insurance Group Plc	
+	Ringkjoebing Landbobank A/S	
+	MERLIN Properties SOCIMI S.A.	
+	Cofinimmo SA	
+	L E Lundbergforetagen AB Class B	
+	Kongsberg Gruppen ASA	
+	Allfunds Group plc	
+	SimCorp A/S	
+	Demant A/S	
+	Bakkafrost P/F	
+	SSAB AB Class B	
+	LXI REIT PLC	
+	Interpump Group S.p.A.	
+	Investec plc	
+	Latour AB Investment Class B	
+	Derwent London plc	
+	Wise PLC Class A	
+	Bellway p.l.c.	
+	Big Yellow Group PLC	
+	Aroundtown SA	
+	OSB Group PLC	
+	Pennon Group Plc	
+	Saab AB Class B	
+	KION GROUP AG	
+	Husqvarna AB Class B	
+	Christian Dior SE	
+	Securitas AB Class B	
+	Safestore Holdings plc	
+	LANXESS AG	
+	Games Workshop Group PLC	
+	AAK AB	
+	British Pounds	
+	Marks and Spencer Group plc	
+	Wienerberger AG	
+	AIXTRON SE	
+	ITV PLC	
+	DKSH Holding AG	
+	Reply S.p.A.	
+	Nordic Semiconductor ASA	
+	RATIONAL AG	
+	Encavis AG	
+	Covivio SA	
+	Nexans SA	
+	Bavarian Nordic A/S	
+	Banque Cantonale Vaudoise	
+	Dufry AG	
+	Electrolux AB Class B	
+	Thule Group AB	
+	Italgas SpA	
+	freenet AG	
+	Just Eat Takeaway.com N.V.	
+	KGHM Polska Miedz S.A.	
+	Serco Group plc	
+	Scor SE	
+	SES SA FDR (Class A)	
+	ALK-abello A/S Class B	
+	TietoEVRY Oyj	
+	Wacker Chemie AG	
+	thyssenkrupp AG	
+	ISS A/S	
+	Fabege AB	
+	Swatch Group Ltd. Registered	
+	BKW AG	
+	Britvic plc	
+	Millicom International Cellular SA Swedish Depository Receipt	
+	Computacenter Plc	
+	Hikma Pharmaceuticals Plc	
+	Alfen NV	
+	Arcadis NV	
+	BANK POLSKA KASA OPIEKI SA	
+	Bucher Industries AG	
+	Rotork plc	
+	Topdanmark A/S	
+	Royal Mail plc	
+	Allreal Holding AG	
+	Lotus Bakeries NV	
+	Glanbia Plc	
+	HEXPOL AB Class B	
+	QinetiQ Group plc	
+	Vantage Towers AG	
+	Darktrace PLC	
+	Indivior PLC	
+	Elis SA	
+	Jyske Bank A/S	
+	Balfour Beatty plc	
+	Hays plc	
+	NEL ASA	
+	Corporacion Acciona Energias Renovables SA	
+	Rubis SCA	
+	Telefonica Deutschland Holding AG	
+	LondonMetric Property Plc	
+	Assura PLC	
+	voestalpine AG	
+	SEB SA	
+	Euronav NV	
+	Allegro.eu Societe anonyme	
+	Greggs plc	
+	Virgin Money UK Plc	
+	Sectra AB Class B	
+	Watches of Switzerland Group PLC	
+	Sopra Steria Group SA	
+	NKT A/S	
+	SpareBank 1 SR-Bank ASA	
+	United Internet AG	
+	Wendel SE	
+	Fortnox AB	
+	Viscofan S.A.	
+	Telecom Italia S.p.A.	
+	Primary Health Properties PLC	
+	Grainger plc	
+	WH Smith PLC	
+	Faurecia Societe europeenne	
+	Subsea 7 S.A.	
+	Grifols S.A. Pref Class B	
+	Elekta AB Class B	
+	Travis Perkins plc	
+	Loomis AB	
+	Micro Focus International plc	
+	Cembra Money Bank AG	
+	Basic-Fit NV	
+	Nordnet AB	
+	Wallenstam AB Class B	
+	Future plc	
+	Proximus SA de droit public	
+	ams-OSRAM AG	
+	SBM Offshore NV	
+	Wihlborgs Fastigheter AB	
+	Air France-KLM SA	
+	Hera S.p.A.	
+	SSP Group Plc	
+	Oxford Nanopore Technologies Plc	
+	Galapagos NV	
+	Sweco AB Class B	
+	Neoen S.A.	
+	Softcat Plc	
+	Polskie Gornictwo Naftowe i Gazownictwo SA	
+	REINET INVESTMENTS SCA ORDINARY EUR	
+	Kindred Group plc Shs Swedish Depository Receipts	
+	Avanza Bank Holding AB	
+	Energean Plc	
+	Aurubis AG	
+	Airtel Africa Plc	
+	Genus plc	
+	Vistry Group PLC	
+	Trainline Plc	
+	Cranswick plc	
+	Leroy Seafood Group ASA	
+	Fuchs Petrolub SE Pref	
+	Talanx AG	
+	Emmi AG	
+	LPP S.A.	
+	Bravida Holding AB	
+	Pets At Home Group Plc	
+	Euromoney Institutional Investor PLC	
+	Mediclinic International Plc	
+	Spirent Communications plc	
+	Lagercrantz Group AB Class B	
+	Kesko Oyj Class A	
+	TGS ASA	
+	Grafton Group Plc	
+	Ipsos SA	
+	Brewin Dolphin Holdings PLC	
+	Close Brothers Group plc	
+	Mobimo Holding AG	
+	Koninklijke Boskalis Westminster N.V.	
+	Netcompany Group A/S	
+	Dometic Group AB	
+	AIB Group PLC	
+	Samhallsbyggnadsbolaget I Norden AB Class B	
+	ERG S.p.A.	
+	Aker ASA Class A	
+	Inmobiliaria Colonial SOCIMI SA	
+	Acerinox SA	
+	Bridgepoint Group Plc	
+	Dr. Martens Plc	
+	Intertrust NV	
+	Verallia SAS	
+	TAG Immobilien AG	
+	Viaplay Group AB Class B	
+	A2A S.p.A.	
+	Victrex plc	
+	Aareal Bank AG TEMP	
+	Vitrolife AB	
+	Stadler Rail AG	
+	ROCKWOOL A/S Class B	
+	Azimut Holding Spa	
+	Vontobel Holding AG	
+	Brunello Cucinelli S.p.A.	
+	Raiffeisen Bank International AG	
+	Technip Energies NV	
+	EnBW Energie Baden-Wurttemberg AG	
+	Adevinta ASA	
+	Redrow plc	
+	Schibsted ASA Class B	
+	SFS Group AG	
+	ChemoMetec A/S	
+	Ambu A/S Class B	
+	PageGroup PLC	
+	Hexatronic Group AB	
+	Idorsia Ltd.	
+	Storskogen Group AB Class B	
+	Mapfre SA	
+	Sydbank A/S	
+	Interroll Holding AG	
+	Azelis Group N.V.	
+	Unipol Gruppo S.p.A.	
+	Hapag-Lloyd AG	
+	TORM PLC Class A	
+	Telecom Plus PLC	
+	Fraport AG	
+	Solaria Energia y Medio Ambiente S.A.	
+	SpareBank 1 SMN	
+	Savills plc	
+	Melexis NV	
+	Banca Generali S.p.A.	
+	Fluidra S.A.	
+	Eutelsat Communications SA	
+	Konecranes Oyj	
+	Financiere de Tubize S.A.	
+	VGP NV	
+	Buzzi Unicem S.p.A.	
+	SoftwareONE Holding Ltd.	
+	Virbac SA	
+	easyJet plc	
+	Santander Bank Polska SA	
+	Valiant Holding AG	
+	AddLife AB Class B	
+	Pirelli & C. S.p.A.	
+	Befesa SA	
+	Metsa Board Oyj Class B	
+	CA Immobilien Anlagen AG	
+	Vidrala SA	
+	Paragon Banking Group PLC	
+	Outokumpu Oyj	
+	Biffa Plc	
+	Quilter Plc	
+	Fresnillo PLC	
+	Playtech plc	
+	Renishaw plc	
+	OC Oerlikon Corporation AG	
+	HELLA GmbH & Co. KGaA	
+	Barco NV	
+	Borregaard ASA	
+	BPER Banca S.p.A.	
+	Vallourec SA	
+	TeamViewer AG	
+	Brembo S.p.A.	
+	Frontline Ltd.	
+	IWG Plc	
+	Daetwyler Holding AG	
+	TP ICAP Group plc	
+	TKH Group N.V. Cert	
+	Kainos Group PLC	
+	Stroeer SE & Co. KGaA	
+	Hufvudstaden AB Class A	
+	Banca Mediolanum SpA	
+	CTP N.V.	
+	Nyfosa AB	
+	Nordex SE	
+	Royal Vopak NV	
+	Corbion NV	
+	Societe BIC SA	
+	Tikehau Capital SCA	
+	Gerresheimer AG	
+	Schibsted Asa Class A	
+	Etablissementen Franz Colruyt N.V.	
+	TUI AG	
+	Lancashire Holdings Limited	
+	Luzerner Kantonalbank AG	
+	Frasers Group PLC	
+	Cargotec Oyj Class B	
+	St.Galler Kantonalbank AG	
+	ProSiebenSat.1 Media SE	
+	CIE Automotive S.A.	
+	Diversified Energy Company PLC	
+	Icade SA	
+	Grupo Catalana Occidente S.A.	
+	Software AG	
+	Rathbones Group PLC	
+	RTL Group S.A.	
+	Swissquote Group Holding Ltd.	
+	Helios Towers Plc	
+	Intrum AB	
+	Unicaja Banco S.A.	
+	Network International Holdings Plc	
+	FLSmidth & Co. A/S	
+	COMET Holding AG	
+	Landis+Gyr Group AG	
+	Orion Oyj Class A	
+	Nokian Renkaat Oyj	
+	Truecaller AB Class B	
+	Mayr-Melnhof Karton AG	
+	Compania de Distribucion Integral Logista Holdings S.A.	
+	Oberbank AG	
+	VERBIO Vereinigte BioEnergie AG	
+	Peab AB Class B	
+	Catena AB	
+	AutoStore Holdings Ltd.	
+	VZ Holding AG	
+	Faes Farma S.A.	
+	Kemira Oyj	
+	Stabilus SE	
+	Banca Popolare di Sondrio S.c.p.A.	
+	Oxford Instruments plc	
+	Huber + Suhner AG	
+	De'Longhi S.p.A.	
+	Wizz Air Holdings Plc	
+	Varta AG	
+	D/S Norden A/S	
+	JTC Plc	
+	dormakaba Holding AG	
+	Burckhardt Compression Holding AG	
+	4imprint Group plc	
+	Fugro NV	
+	Pandox AB Class B	
+	Sixt SE	
+	KBC Ancora SCA	
+	AFRY AB Class B	
+	Moneysupermarket.com Group plc	
+	Polish Zloty	
+	Bodycote plc	
+	Centamin plc	
+	INFICON Holding AG	
+	Forbo Holding AG	
+	Shurgard Self Storage SA	
+	Elkem ASA	
+	InPost S.A.	
+	PGE Polska Grupa Energetyczna S.A.	
+	CD Projekt S.A.	
+	Brederode S.A.	
+	Autogrill S.p.A.	
+	Telecom Italia Rsp	
+	Scatec ASA	
+	Carnival plc	
+	DFDS A/S	
+	Sinch AB	
+	Vaisala Oyj Class A	
+	Bossard Holding AG	
+	Ashmore Group plc	
+	Great Portland Estates plc	
+	Vitec Software Group AB Class B	
+	Jungheinrich AG Pref	
+	Deutsche Pfandbriefbank AG	
+	Aperam SA	
+	Siltronic AG	
+	ROCKWOOL A/S Class A	
+	Deutsche Wohnen SE	
+	MIPS AB	
+	Var Energi ASA	
+	Alm. Brand A/S	
+	Plastic Omnium SE	
+	Meyer Burger Technology AG	
+	MONTEA NV	
+	Laboratorios Farmaceuticos Rovi S.A.	
+	MITIE Group PLC	
+	Grupa KETY S.A.	
+	Countryside Partnerships PLC	
+	Addnode Group AB Class B	
+	Electrolux Professional AB Class B	
+	Lindab International AB	
+	Instalco AB	
+	AT & S Austria Technologie & Systemtechnik Aktiengesellschaft	
+	Aryzta AG	
+	Cint Group AB	
+	Orpea SA	
+	Sanoma Oyj	
+	Bytes Technology Group Plc	
+	Veidekke ASA	
+	HENSOLDT AG	
+	Domino's Pizza Group plc	
+	Zuger Kantonalbank AG	
+	HOCHTIEF Aktiengesellschaft	
+	Biotage AB	
+	Vesuvius Plc	
+	Atos SE	
+	Indra Sistemas S.A. Class A	
+	National Express Group PLC	
+	Deliveroo plc Class A	
+	Coface SA	
+	Parques Reunidos Servicios Centrales SA	
+	AUTO1 Group SE	
+	Durr AG	
+	JENOPTIK AG	
+	Bure Equity AB	
+	Banco Comercial Portugues S.A.	
+	Ascential Plc	
+	Krones AG	
+	Swiss Franc	
+	Genuit Group PLC	
+	AJ Bell Plc	
+	BFF Bank SpA	
+	Revenio Group Oyj	
+	ENAV S.p.A.	
+	Valora Holding AG	
+	Kardex Holding AG	
+	Capital & Counties Properties PLC	
+	ALSO Holding AG	
+	Cyfrowy Polsat SA	
+	Hunter Douglas N.V.	
+	HMS Networks AB	
+	Chemring Group PLC	
+	John Wood Group PLC	
+	FirstGroup plc	
+	Sulzer AG	
+	Hilton Food Group plc	
+	KRUK S.A.	
+	Rothschild & Co. SCA	
+	Coats Group plc	
+	Dunelm Group plc	
+	Nolato AB Class B	
+	Marshalls plc	
+	Europris ASA	
+	Berner Kantonalbank AG	
+	Clarkson PLC	
+	Sixt SE Pref	
+	Lectra SA	

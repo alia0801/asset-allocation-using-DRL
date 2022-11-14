@@ -1,0 +1,29 @@
+RTM
+NEM	Newmont Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=RTM
+LIN	Linde PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=RTM
+FMC	FMC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=RTM
+CF	CF Industries Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=RTM
+VMC	Vulcan Materials Co	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=RTM
+CTVA	Corteva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=RTM
+APD	Air Products and Chemicals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=RTM
+MLM	Martin Marietta Materials Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MLM.US&back=RTM
+LYB	LyondellBasell Industries NV	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=RTM
+ALB	Albemarle Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=RTM
+AMCR	Amcor PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=RTM
+DOW	Dow Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=RTM
+PPG	PPG Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PPG.US&back=RTM
+DD	DuPont de Nemours Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=RTM
+MOS	Mosaic Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=RTM
+SHW	Sherwin-Williams Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=RTM
+AVY	Avery Dennison Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=RTM
+FCX	Freeport-McMoRan Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=RTM
+ECL	Ecolab Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=RTM
+BALL	Ball Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BALL.US&back=RTM
+SEE	Sealed Air Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SEE.US&back=RTM
+PKG	Packaging Corp of America	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=RTM
+IFF	International Flavors & Fragrances Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=RTM
+CE	Celanese Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=RTM
+IP	International Paper Co	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=RTM
+EMN	Eastman Chemical Co	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=RTM
+WRK	Westrock Co	/etf/ea/ETZCW.djhtm?c=1&etfid=WRK.US&back=RTM
+NUE	Nucor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=RTM

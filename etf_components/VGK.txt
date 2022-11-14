@@ -1,0 +1,21 @@
+VGK
+	Nestle SA	
+ROG	Roche Holding AG	/etf/ea/ETZCW.djhtm?c=1&etfid=ROG.US&back=VGK
+AZN	AstraZeneca plc	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=VGK
+ASML	ASML Holding NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=VGK
+SHEL	Shell plc	/etf/ea/ETZCW.djhtm?c=1&etfid=SHEL.US&back=VGK
+NOVN	Novartis AG	/etf/ea/ETZCW.djhtm?c=1&etfid=NOVN.US&back=VGK
+	Novo Nordisk A/S Class B	
+	LVMH Moet Hennessy Louis Vuitton SE	
+	HSBC Holdings plc	
+TTE	TotalEnergies SE	/etf/ea/ETZCW.djhtm?c=1&etfid=TTE.US&back=VGK
+BP	BP plc	/etf/ea/ETZCW.djhtm?c=1&etfid=BP.US&back=VGK
+	Diageo plc	
+SAP	SAP SE	/etf/ea/ETZCW.djhtm?c=1&etfid=SAP.US&back=VGK
+	British American Tobacco plc	
+	Sanofi	
+	Siemens AG	
+	Glencore plc	
+ALV	Allianz SE	/etf/ea/ETZCW.djhtm?c=1&etfid=ALV.US&back=VGK
+	Zurich Insurance Group AG	
+	GSK plc	

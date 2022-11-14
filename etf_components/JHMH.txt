@@ -1,0 +1,11 @@
+JHMH
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=JHMH
+UNH	UnitedHealth Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=JHMH
+PFE	Pfizer,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=JHMH
+LLY	Eli Lilly & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=JHMH
+MRK	Merck & Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=JHMH
+TMO	Thermo Fisher Scientific,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=JHMH
+ABBV	AbbVie,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=JHMH
+BMY	Bristol-Myers Squibb Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=JHMH
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=JHMH
+DHR	Danaher Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=JHMH

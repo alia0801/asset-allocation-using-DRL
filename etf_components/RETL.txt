@@ -1,0 +1,111 @@
+RETL
+	S&P RETAIL SELECT INDUSTRY INDEX SWAP	
+	S&P RETAIL SELECT INDUSTRY INDEX SWAP	
+	S&P RETAIL SELECT INDUSTRY INDEX SWAP	
+	S&P RETAIL SELECT INDUSTRY INDEX SWAP	
+	DREYFUS GOVT CASH MGMT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+	DREYFUS GOVT CASH MGMT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+	GOLDMAN FINL SQ TRSRY INS	
+	GOLDMAN FINL SQ TRSRY INST 506	
+CVNA	Carvana Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CVNA.US&back=RETL
+RAD	RITE AID CORP USD 1.0	/etf/ea/ETZCW.djhtm?c=1&etfid=RAD.US&back=RETL
+DKS	Dick's Sporting Goods Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DKS.US&back=RETL
+ETSY	ETSY INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=RETL
+CHWY	Chewy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHWY.US&back=RETL
+SAH	Sonic Automotive Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SAH.US&back=RETL
+MUSA	MURPHY USA INC USD 1.0	/etf/ea/ETZCW.djhtm?c=1&etfid=MUSA.US&back=RETL
+HIBB	Hibbett Sports Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HIBB.US&back=RETL
+FL	Foot Locker Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FL.US&back=RETL
+EYE	National Vision Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EYE.US&back=RETL
+ASO	ACADEMY SPORTS & OUTDOORS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=ASO.US&back=RETL
+BJ	BJ's Wholesale Club Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BJ.US&back=RETL
+AMZN	Amazon Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=RETL
+CWH	Camping World Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CWH.US&back=RETL
+CHS	Chico's FAS	/etf/ea/ETZCW.djhtm?c=1&etfid=CHS.US&back=RETL
+SFM	SPROUTS FMRS MKT INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=SFM.US&back=RETL
+ORLY	O'Reilly Automotive	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=RETL
+COST	Costco Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=RETL
+CASY	Casey's Gen'l Stores	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=RETL
+GCO	Genesco Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GCO.US&back=RETL
+ROST	Ross Stores	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=RETL
+DBI	DESIGNER BRANDS INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=DBI.US&back=RETL
+BBWI	Bath & Body Works Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=RETL
+OLLI	OLLIES BARGAIN OUTLET HLD USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=OLLI.US&back=RETL
+BKE	Buckle Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BKE.US&back=RETL
+SIG	SIGNET JEWELERS LIMITED	/etf/ea/ETZCW.djhtm?c=1&etfid=SIG.US&back=RETL
+MNRO	Monro Muffler Brake	/etf/ea/ETZCW.djhtm?c=1&etfid=MNRO.US&back=RETL
+WMT	WAL-MART STORES INC USD 0.1	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=RETL
+SBH	SALLY BEAUTY HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SBH.US&back=RETL
+TJX	TJX Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=RETL
+W	WAYFAIR INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=W.US&back=RETL
+TGT	Target Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=RETL
+RCII	Rent-A-Center	/etf/ea/ETZCW.djhtm?c=1&etfid=RCII.US&back=RETL
+PAG	PENSKE AUTOMOTIVE GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=RETL
+AN	AutoNation Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=RETL
+EVGO	EVGO INC USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=EVGO.US&back=RETL
+AZO	AutoZone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=RETL
+GO	Grocery Outlet Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GO.US&back=RETL
+GPI	Group 1 Automotive	/etf/ea/ETZCW.djhtm?c=1&etfid=GPI.US&back=RETL
+IMKTA	Ingles Markets Inc A	/etf/ea/ETZCW.djhtm?c=1&etfid=IMKTA.US&back=RETL
+ULTA	ULTA SALON COSMETICS + FRAGRANCE I	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=RETL
+POSH	POSHMARK INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=POSH.US&back=RETL
+DG	DOLLAR GENERAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=RETL
+BBY	Best Buy Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=RETL
+ABG	Asbury Automotive Group	/etf/ea/ETZCW.djhtm?c=1&etfid=ABG.US&back=RETL
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=RETL
+GPS	Gap (The)	/etf/ea/ETZCW.djhtm?c=1&etfid=GPS.US&back=RETL
+SSTK	SHUTTERSTOCK INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=SSTK.US&back=RETL
+URBN	Urban Outfitters Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=URBN.US&back=RETL
+VSCO	Victoria's Secret & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=VSCO.US&back=RETL
+FIVE	FIVE BELOW INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=FIVE.US&back=RETL
+DDS	Dillard's Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DDS.US&back=RETL
+HZO	MarineMax Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HZO.US&back=RETL
+GME	GameStop Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=GME.US&back=RETL
+AEO	American Eagle Outfitters	/etf/ea/ETZCW.djhtm?c=1&etfid=AEO.US&back=RETL
+DASH	DOORDASH INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=DASH.US&back=RETL
+TSCO	Tractor Supply	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=RETL
+PLCE	Children's Place Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PLCE.US&back=RETL
+CAL	CALERES INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=CAL.US&back=RETL
+AAP	Advance Auto Parts	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=RETL
+KMX	CarMax Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=RETL
+KR	KROGER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=RETL
+WOOF	PETCO HEALTH & WELLNESS CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WOOF.US&back=RETL
+LAD	Lithia Motors Inc A	/etf/ea/ETZCW.djhtm?c=1&etfid=LAD.US&back=RETL
+ODP	THE ODP CORP NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=ODP.US&back=RETL
+ACI	ALBERTSONS COS INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=RETL
+GES	Guess? Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GES.US&back=RETL
+QRTEA	QURATE RETAIL INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=QRTEA.US&back=RETL
+SCVL	Shoe Carnival Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SCVL.US&back=RETL
+BIG	Big Lots Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIG.US&back=RETL
+DLTR	DOLLAR TREE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=RETL
+FRG	FRANCHISE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FRG.US&back=RETL
+WBA	WALGREENS BOOTS ALLIANCE INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=RETL
+VLTA	Volta Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VLTA.US&back=RETL
+SFIX	Stitch Fix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SFIX.US&back=RETL
+OSTK	Overstock.com  Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OSTK.US&back=RETL
+BOOT	BOOT BARN HLDGS INC USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=BOOT.US&back=RETL
+BURL	BURLINGTON STORES INC USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=BURL.US&back=RETL
+ZUMZ	Zumiez Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZUMZ.US&back=RETL
+RVLV	Revolve Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RVLV.US&back=RETL
+LESL	LESLIE'S INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LESL.US&back=RETL
+ANF	Abercrombie & Fitch Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANF.US&back=RETL
+M	Macy's Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=M.US&back=RETL
+PETS	PetMed Express	/etf/ea/ETZCW.djhtm?c=1&etfid=PETS.US&back=RETL
+PSMT	PriceSmart Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PSMT.US&back=RETL
+TA	TRAVELCENTERS OF AMERICA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TA.US&back=RETL
+PRCH	PORCH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRCH.US&back=RETL
+WISH	CONTEXTLOGIC INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=WISH.US&back=RETL
+SPWH	SPORTSMANS WHSE HLDGS INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=SPWH.US&back=RETL
+GRPN	GROUPON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GRPN.US&back=RETL
+JWN	NORDSTROM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JWN.US&back=RETL
+KSS	Kohl's Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=KSS.US&back=RETL
+PRTS	CARPARTS COM INC NEW NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=PRTS.US&back=RETL
+WMK	WEIS MKTS INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=WMK.US&back=RETL
+ONEW	ONEWATER MARINE INC-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=ONEW.US&back=RETL
+CRMT	America's Car Mart Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRMT.US&back=RETL
+ARKO	ARKO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ARKO.US&back=RETL
+LQDT	LIQUIDITY SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LQDT.US&back=RETL
+QUOT	QUOTIENT TECHNOLOGY INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=QUOT.US&back=RETL
+WINA	WINMARK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WINA.US&back=RETL

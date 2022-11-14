@@ -1,0 +1,56 @@
+GDX
+NEM	Newmont Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=GDX
+GOLD	Barrick Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GOLD.US&back=GDX
+FNV	Franco-Nevada Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FNV.US&back=GDX
+AEM	Agnico Eagle Mines Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AEM.US&back=GDX
+WPM	Wheaton Precious Metals Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WPM.US&back=GDX
+	Newcrest Mining Ltd	
+GFI	Gold Fields Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=GFI.US&back=GDX
+2899.HK&back=GDX	Zijin Mining Group Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2899.HK&back=GDX
+	Northern Star Resources Ltd	
+RGLD	Royal Gold Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=GDX
+AU	Anglogold Ashanti Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AU.US&back=GDX
+	Endeavour Mining Plc	
+KGC	Kinross Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KGC.US&back=GDX
+AUY	Yamana Gold Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AUY.US&back=GDX
+BTG	B2gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BTG.US&back=GDX
+PAAS	Pan American Silver Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PAAS.US&back=GDX
+	Evolution Mining Ltd	
+SSRM	Ssr Mining Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=GDX
+AGI	Alamos Gold Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AGI.US&back=GDX
+1818.HK&back=GDX	Zhaojin Mining Industry Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1818.HK&back=GDX
+HL	Hecla Mining Co	/etf/ea/ETZCW.djhtm?c=1&etfid=HL.US&back=GDX
+AG	First Majestic Silver Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AG.US&back=GDX
+OR	Osisko Gold Royalties Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=OR.US&back=GDX
+HMY	Harmony Gold Mining Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=HMY.US&back=GDX
+	Perseus Mining Ltd	
+	Centerra Gold Inc	
+BVN	Cia De Minas Buenaventura Saa	/etf/ea/ETZCW.djhtm?c=1&etfid=BVN.US&back=GDX
+	K92 Mining Inc	
+	Centamin Plc	
+SAND	Sandstorm Gold Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=SAND.US&back=GDX
+EQX	Equinox Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EQX.US&back=GDX
+	Oceanagold Corp	
+EGO	Eldorado Gold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EGO.US&back=GDX
+	Capricorn Metals Ltd	
+	Dundee Precious Metals Inc	
+	West African Resources Ltd	
+	Wesdome Gold Mines Ltd	
+	Silver Lake Resources Ltd	
+	Regis Resources Ltd	
+CDE	Coeur Mining Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDE.US&back=GDX
+	Gold Road Resources Ltd	
+FSM	Fortuna Silver Mines Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FSM.US&back=GDX
+	Torex Gold Resources Inc	
+	Aya Gold & Silver Inc	
+IAG	Iamgold Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=IAG.US&back=GDX
+EXK	Endeavour Silver Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EXK.US&back=GDX
+	St Barbara Ltd	
+	Ramelius Resources Ltd	
+DRD	Drdgold Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=DRD.US&back=GDX
+NGD	New Gold Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NGD.US&back=GDX
+	Gogold Resources Inc	
+SVM	Silvercorp Metals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SVM.US&back=GDX
+	Victoria Gold Corp	
+	Other/Cash	
+	Karora Resources Inc	

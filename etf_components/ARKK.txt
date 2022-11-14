@@ -1,0 +1,36 @@
+ARKK
+TSLA	TESLA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=ARKK
+ZM	ZOOM VIDEO COMMUNICATIONS-A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=ARKK
+ROKU	ROKU INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROKU.US&back=ARKK
+SQ	BLOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=ARKK
+EXAS	EXACT SCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXAS.US&back=ARKK
+NTLA	INTELLIA THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTLA.US&back=ARKK
+TDOC	TELADOC HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=ARKK
+CRSP	CRISPR THERAPEUTICS AG	/etf/ea/ETZCW.djhtm?c=1&etfid=CRSP.US&back=ARKK
+PATH	UIPATH INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=ARKK
+U	UNITY SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=U.US&back=ARKK
+BEAM	BEAM THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BEAM.US&back=ARKK
+COIN	COINBASE GLOBAL INC -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=ARKK
+TWLO	TWILIO INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=TWLO.US&back=ARKK
+SHOP	SHOPIFY INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SHOP.US&back=ARKK
+DKNG	DRAFTKINGS INC-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=DKNG.US&back=ARKK
+RBLX	ROBLOX CORP -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=ARKK
+SGFY	SIGNIFY HEALTH INC -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SGFY.US&back=ARKK
+PD	PAGERDUTY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PD.US&back=ARKK
+HOOD	ROBINHOOD MARKETS INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=HOOD.US&back=ARKK
+DNA	GINKGO BIOWORKS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DNA.US&back=ARKK
+FATE	FATE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FATE.US&back=ARKK
+TWST	TWIST BIOSCIENCE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TWST.US&back=ARKK
+TXG	10X GENOMICS INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TXG.US&back=ARKK
+VCYT	VERACYTE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VCYT.US&back=ARKK
+PACB	PACIFIC BIOSCIENCES OF CALIF	/etf/ea/ETZCW.djhtm?c=1&etfid=PACB.US&back=ARKK
+SPOT	SPOTIFY TECHNOLOGY SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SPOT.US&back=ARKK
+NVDA	NVIDIA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=ARKK
+TSP	TUSIMPLE HOLDINGS INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=TSP.US&back=ARKK
+NVTA	INVITAE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVTA.US&back=ARKK
+MTLS	MATERIALISE NV-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=MTLS.US&back=ARKK
+CERS	CERUS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CERS.US&back=ARKK
+TWOU	2U INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TWOU.US&back=ARKK
+	DREYFUS GOVT CASH MAN INS	
+BLI	BERKELEY LIGHTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLI.US&back=ARKK
+CGEN	COMPUGEN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CGEN.US&back=ARKK

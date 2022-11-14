@@ -1,0 +1,148 @@
+LABU
+	S&P BIOTECHNOLOGY SELECT INDUSTRY INDEX SWAP	
+	S&P BIOTECHNOLOGY SELECT INDUSTRY INDEX SWAP	
+	S&P BIOTECHNOLOGY SELECT INDUSTRY INDEX SWAP	
+	S&P BIOTECHNOLOGY SELECT INDUSTRY INDEX SWAP	
+	S&P BIOTECHNOLOGY SELECT INDUSTRY INDEX	
+	S&P BIOTECHNOLOGY SELECT INDUSTRY INDEX SWAP	
+	DREYFUS GOVT CASH MGMT	
+	GOLDMAN FS GOVT INST	
+	S&P BIOTECHNOLOGY SELECT INDUSTRY INDEX SWAP	
+	DREYFUS TREASURY SECURITIES CASH MANAGEMENT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+	DREYFUS GOVT CASH MGMT	
+	DREYFUS GOVT CASH MGMT	
+	DREYFUS GOVT CASH MGMT	
+	GLOBAL BLOOD THERAPEUTICS USD 0.001	
+KRTX	Karuna Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KRTX.US&back=LABU
+CCXI	CHEMOCENTRYX INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=CCXI.US&back=LABU
+BEAM	Beam Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BEAM.US&back=LABU
+SRPT	SAREPTA THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SRPT.US&back=LABU
+ALNY	Alnylam Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALNY.US&back=LABU
+PTCT	PTC THERAPEUTICS INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=PTCT.US&back=LABU
+TWST	Twist Bioscience Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TWST.US&back=LABU
+BPMC	BLUEPRINT MEDICINES CORP USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=BPMC.US&back=LABU
+BCRX	BioCryst Pharmaceutical Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BCRX.US&back=LABU
+APLS	Apellis Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=APLS.US&back=LABU
+NTRA	NATERA INC USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRA.US&back=LABU
+NTLA	Intellia Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTLA.US&back=LABU
+FOLD	AMICUS THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FOLD.US&back=LABU
+FATE	FATE THERAPEUTICS INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=FATE.US&back=LABU
+EDIT	Editas Medicine Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EDIT.US&back=LABU
+CYTK	CYTOKINETICS INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=CYTK.US&back=LABU
+ARWR	ARROWHEAD PHARMACEUTICALS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=ARWR.US&back=LABU
+IOVA	IOVANCE BIOTHERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IOVA.US&back=LABU
+MRTX	MIRATI THERAPEUTICS INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=MRTX.US&back=LABU
+BBIO	Bridgebio Pharma Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBIO.US&back=LABU
+SWTX	SPRINGWORKS THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWTX.US&back=LABU
+IONS	IONIS PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=LABU
+BMRN	BioMarin Pharmaceuticals  Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMRN.US&back=LABU
+	GOLDMAN FINL SQ TRSRY INST 506	
+INSM	INSMED INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=INSM.US&back=LABU
+IMGN	IMMUNOGEN INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=IMGN.US&back=LABU
+SGEN	SEAGEN INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=LABU
+KYMR	KYMERA THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KYMR.US&back=LABU
+NBIX	Neurocrine Biosciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NBIX.US&back=LABU
+VRTX	Vertex Pharmaceuticals	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=LABU
+MRNA	Moderna Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=LABU
+RLAY	RELAY THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RLAY.US&back=LABU
+VCYT	Veracyte Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VCYT.US&back=LABU
+VIR	Vir Biotechnology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VIR.US&back=LABU
+TGTX	TG THERAPEUTICS INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=TGTX.US&back=LABU
+CRSP	CRISPR THERAPEUTICS AG	/etf/ea/ETZCW.djhtm?c=1&etfid=CRSP.US&back=LABU
+CLDX	CELLDEX THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLDX.US&back=LABU
+BHVN	BIOHAVEN PHARMACEUTICAL HOLD	/etf/ea/ETZCW.djhtm?c=1&etfid=BHVN.US&back=LABU
+GILD	Gilead Sciences	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=LABU
+REGN	Regeneron Pharmaceuticals	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=LABU
+RCUS	Arcus Biosciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RCUS.US&back=LABU
+INCY	INCYTE GENOMICS INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=LABU
+BIIB	BIOGEN IDEC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=LABU
+EXEL	Exelixis  Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=LABU
+AMGN	Amgen	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=LABU
+UTHR	United Therapeutics Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=LABU
+RARE	ULTRAGENYX PHARMACEUTICAL USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=RARE.US&back=LABU
+SAGE	SAGE THERAPEUTICS INC USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=SAGE.US&back=LABU
+ACAD	ACADIA PHARMACEUTICALS	/etf/ea/ETZCW.djhtm?c=1&etfid=ACAD.US&back=LABU
+ABBV	ABBVIE INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=LABU
+SRNE	Sorrento Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRNE.US&back=LABU
+OCGN	OCUGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OCGN.US&back=LABU
+HALO	HALOZYME THERAPEUTICS	/etf/ea/ETZCW.djhtm?c=1&etfid=HALO.US&back=LABU
+IRWD	IRONWOOD PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IRWD.US&back=LABU
+TVTX	RETROPHIN INC USD	/etf/ea/ETZCW.djhtm?c=1&etfid=TVTX.US&back=LABU
+ISEE	IVERIC bio Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ISEE.US&back=LABU
+NVAX	NOVAVAX INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=NVAX.US&back=LABU
+CDNA	CAREDX INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNA.US&back=LABU
+ENTA	ENANTA PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENTA.US&back=LABU
+ALKS	ALKERMES PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALKS.US&back=LABU
+INO	Inovio Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INO.US&back=LABU
+EXAS	EXACT SCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXAS.US&back=LABU
+PMVP	PMV PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PMVP.US&back=LABU
+EBS	EMERGENT BIOSOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EBS.US&back=LABU
+ZNTL	ZENTALIS PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZNTL.US&back=LABU
+ALLO	Allogene Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLO.US&back=LABU
+AGIO	AGIOS PHARMACEUTICALS INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=AGIO.US&back=LABU
+HRTX	HERON THERAPEUTICS INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=HRTX.US&back=LABU
+PTGX	Protagonist Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PTGX.US&back=LABU
+DNLI	Denali Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DNLI.US&back=LABU
+DVAX	DYNAVAX TECHNOLOGIES CORP USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=DVAX.US&back=LABU
+ICPT	INTERCEPT PHARMACEUTICALS USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=ICPT.US&back=LABU
+LGND	LIGAND PHARMACEUTICALS-CL B	/etf/ea/ETZCW.djhtm?c=1&etfid=LGND.US&back=LABU
+HZNP	HORIZON THERAPEUTICS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=HZNP.US&back=LABU
+VCEL	VERICEL CORP NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=VCEL.US&back=LABU
+CHRS	COHERUS BIOSCIENCES INC USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRS.US&back=LABU
+CPRX	CATALYST P COM STK USD0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRX.US&back=LABU
+CTIC	CTI BIOPHARMA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CTIC.US&back=LABU
+AGEN	AGENUS INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=AGEN.US&back=LABU
+DCPH	Deciphera Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DCPH.US&back=LABU
+MYGN	Myriad Genetics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MYGN.US&back=LABU
+SANA	SANA BIOTECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SANA.US&back=LABU
+RGNX	REGENXBIO INC USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=RGNX.US&back=LABU
+KRYS	Krystal Biotech Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KRYS.US&back=LABU
+KPTI	Karyopharm Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KPTI.US&back=LABU
+MORF	Morphic Holding Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MORF.US&back=LABU
+PRTA	PROTHENA CORP PLC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=PRTA.US&back=LABU
+CERE	CEREVEL THERAPEUTICS HOLDING	/etf/ea/ETZCW.djhtm?c=1&etfid=CERE.US&back=LABU
+	GOLDMAN FS GOVT INST	
+ITOS	ITEOS THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ITOS.US&back=LABU
+RVMD	REVOLUTION Medicines Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RVMD.US&back=LABU
+MDGL	Madrigal Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDGL.US&back=LABU
+CDMO	AVID BIOSERVICES INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=CDMO.US&back=LABU
+FGEN	FIBROGEN INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=FGEN.US&back=LABU
+GOSS	Gossamer Bio Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GOSS.US&back=LABU
+MYOV	MYOVANT SCIENCES LTD USD	/etf/ea/ETZCW.djhtm?c=1&etfid=MYOV.US&back=LABU
+XNCR	XENCOR INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=XNCR.US&back=LABU
+SNDX	Syndax Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNDX.US&back=LABU
+	UNIQURE B.V. EUR 0.05	
+ARCT	Arcturus Therapeutics Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCT.US&back=LABU
+AVXL	Anavex Life Sciences Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AVXL.US&back=LABU
+VXRT	BIOTA PHARMACEUTICALS INC USD	/etf/ea/ETZCW.djhtm?c=1&etfid=VXRT.US&back=LABU
+RIGL	Rigel Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RIGL.US&back=LABU
+ALEC	Alector Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALEC.US&back=LABU
+PCVX	VAXCYTE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PCVX.US&back=LABU
+SGMO	Sangamo Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SGMO.US&back=LABU
+MNKD	MANNKIND CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MNKD.US&back=LABU
+KROS	KEROS THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KROS.US&back=LABU
+TSVT	2seventy bio Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSVT.US&back=LABU
+KURA	Kura Oncology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KURA.US&back=LABU
+NRIX	NURIX THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NRIX.US&back=LABU
+REPL	Replimune Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REPL.US&back=LABU
+ARQT	Arcutis Biotherapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARQT.US&back=LABU
+ALBO	Albireo Pharma Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALBO.US&back=LABU
+RNA	AVIDITY BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RNA.US&back=LABU
+PRAX	PRAXIS PRECISION MEDICINES I	/etf/ea/ETZCW.djhtm?c=1&etfid=PRAX.US&back=LABU
+VNDA	Vanda Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VNDA.US&back=LABU
+ANAB	AnaptysBio Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANAB.US&back=LABU
+ATRA	ATARA BIOTHERAPEUTICS IN USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=ATRA.US&back=LABU
+EQRX	EQRX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EQRX.US&back=LABU
+CRNX	Crinetics Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRNX.US&back=LABU
+ORGO	Organogenesis Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORGO.US&back=LABU
+KDNY	Chinook Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KDNY.US&back=LABU
+GERN	GERON CORP USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=GERN.US&back=LABU
+YMAB	Y-mAbs Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=YMAB.US&back=LABU
+EGRX	EAGLE PHARMACEUTICALS INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=EGRX.US&back=LABU
+NKTX	NKARTA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NKTX.US&back=LABU
+PNT	POINT BIOPHARMA GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNT.US&back=LABU
+MDXG	MIMEDX GROUP INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=MDXG.US&back=LABU
+IDYA	IDEAYA BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDYA.US&back=LABU
+ANIK	Anika Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANIK.US&back=LABU
+AADI	AADI BIOSCIENCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AADI.US&back=LABU

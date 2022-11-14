@@ -1,0 +1,243 @@
+SPYG
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=SPYG
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=SPYG
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=SPYG
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=SPYG
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=SPYG
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=SPYG
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=SPYG
+META	Meta Platforms Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=SPYG
+LLY	Eli Lilly and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=SPYG
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=SPYG
+TMO	Thermo Fisher Scientific Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=SPYG
+UNH	UnitedHealth Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=SPYG
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=SPYG
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=SPYG
+QCOM	Qualcomm Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=SPYG
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=SPYG
+AMD	Advanced Micro Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=SPYG
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=SPYG
+MA	Mastercard Incorporated Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=SPYG
+LOW	Lowe's Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=SPYG
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=SPYG
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=SPYG
+DHR	Danaher Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=SPYG
+COST	Costco Wholesale Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=SPYG
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=SPYG
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=SPYG
+GS	Goldman Sachs Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=SPYG
+ACN	Accenture Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=SPYG
+BAC	Bank of America Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=SPYG
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=SPYG
+NFLX	Netflix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=SPYG
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=SPYG
+CRM	Salesforce Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=SPYG
+NOW	ServiceNow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=SPYG
+MCD	McDonald's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=SPYG
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=SPYG
+AMAT	Applied Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=SPYG
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=SPYG
+SPGI	S&P Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=SPYG
+NKE	NIKE Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=SPYG
+LIN	Linde plc	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=SPYG
+SCHW	Charles Schwab Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=SPYG
+REGN	Regeneron Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=SPYG
+UPS	United Parcel Service Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=SPYG
+LRCX	Lam Research Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=SPYG
+AMT	American Tower Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=SPYG
+PYPL	PayPal Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=SPYG
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=SPYG
+UNP	Union Pacific Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=SPYG
+PLD	Prologis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=SPYG
+ADP	Automatic Data Processing Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=SPYG
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=SPYG
+KLAC	KLA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=SPYG
+ISRG	Intuitive Surgical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=SPYG
+BLK	BlackRock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=SPYG
+MMC	Marsh & McLennan Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=SPYG
+SBUX	Starbucks Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=SPYG
+ZTS	Zoetis Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=SPYG
+CDNS	Cadence Design Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=SPYG
+DE	Deere & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=SPYG
+MRNA	Moderna Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=SPYG
+ORLY	O'Reilly Automotive Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=SPYG
+DVN	Devon Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=SPYG
+VRTX	Vertex Pharmaceuticals Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=SPYG
+AZO	AutoZone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=SPYG
+AXP	American Express Company	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=SPYG
+TGT	Target Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=SPYG
+ENPH	Enphase Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=SPYG
+MSCI	MSCI Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSCI.US&back=SPYG
+AON	Aon Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=SPYG
+SNPS	Synopsys Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=SPYG
+EW	Edwards Lifesciences Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=SPYG
+EL	Estee Lauder Companies Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=SPYG
+CCI	Crown Castle Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=SPYG
+WM	Waste Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=SPYG
+EOG	EOG Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=SPYG
+FTNT	Fortinet Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=SPYG
+ICE	Intercontinental Exchange Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=SPYG
+PXD	Pioneer Natural Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=SPYG
+DXCM	DexCom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=SPYG
+MCO	Moody's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCO.US&back=SPYG
+IQV	IQVIA Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=SPYG
+SHW	Sherwin-Williams Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=SPYG
+CMG	Chipotle Mexican Grill Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMG.US&back=SPYG
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=SPYG
+ADSK	Autodesk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=SPYG
+SYK	Stryker Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SYK.US&back=SPYG
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=SPYG
+NXPI	NXP Semiconductors NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=SPYG
+FRC	First Republic Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC.US&back=SPYG
+EQIX	Equinix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=SPYG
+ANET	Arista Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=SPYG
+EXR	Extra Space Storage Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=SPYG
+HCA	HCA Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=SPYG
+OXY	Occidental Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=SPYG
+ODFL	Old Dominion Freight Line Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=SPYG
+EPAM	EPAM Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=SPYG
+MSI	Motorola Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=SPYG
+SIVB	SVB Financial Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVB.US&back=SPYG
+HES	Hess Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=SPYG
+IT	Gartner Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=SPYG
+APH	Amphenol Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=SPYG
+A	Agilent Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=SPYG
+JCI	Johnson Controls International plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JCI.US&back=SPYG
+EFX	Equifax Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EFX.US&back=SPYG
+ITW	Illinois Tool Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=SPYG
+ON	ON Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=SPYG
+KEYS	Keysight Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=SPYG
+FANG	Diamondback Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=SPYG
+WST	West Pharmaceutical Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=SPYG
+ALB	Albemarle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=SPYG
+PAYX	Paychex Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=SPYG
+TSCO	Tractor Supply Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=SPYG
+	STATE STREET INSTITUTIONAL LIQ STATE STR	
+IDXX	IDEXX Laboratories Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=SPYG
+SPG	Simon Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=SPYG
+COF	Capital One Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=SPYG
+MPWR	Monolithic Power Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=SPYG
+SBAC	SBA Communications Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=SPYG
+NUE	Nucor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=SPYG
+TROW	T. Rowe Price Group	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=SPYG
+FCX	Freeport-McMoRan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=SPYG
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=SPYG
+LHX	L3Harris Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=SPYG
+RMD	ResMed Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=SPYG
+AMP	Ameriprise Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=SPYG
+ALGN	Align Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=SPYG
+EXPD	Expeditors International of Washington Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=SPYG
+MCHP	Microchip Technology Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=SPYG
+CPRT	Copart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRT.US&back=SPYG
+MNST	Monster Beverage Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=SPYG
+PKI	PerkinElmer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PKI.US&back=SPYG
+MTD	Mettler-Toledo International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTD.US&back=SPYG
+AJG	Arthur J. Gallagher & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=SPYG
+CTAS	Cintas Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=SPYG
+NDAQ	Nasdaq Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NDAQ.US&back=SPYG
+ILMN	Illumina Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=SPYG
+VRSK	Verisk Analytics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=SPYG
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=SPYG
+YUM	Yum! Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=SPYG
+HSY	Hershey Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=SPYG
+HLT	Hilton Worldwide Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLT.US&back=SPYG
+	Duke Realty Corporation	
+TWTR	Twitter Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=SPYG
+ROK	Rockwell Automation Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROK.US&back=SPYG
+GNRC	Generac Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GNRC.US&back=SPYG
+TDG	TransDigm Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=SPYG
+FAST	Fastenal Company	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=SPYG
+CDW	CDW Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=SPYG
+TER	Teradyne Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=SPYG
+CPT	Camden Property Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=SPYG
+POOL	Pool Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=POOL.US&back=SPYG
+WAT	Waters Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=SPYG
+ETSY	Etsy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=SPYG
+ANSS	ANSYS Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=SPYG
+CBRE	CBRE Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=SPYG
+CF	CF Industries Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=SPYG
+TECH	Bio-Techne Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TECH.US&back=SPYG
+RSG	Republic Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=SPYG
+HOLX	Hologic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=SPYG
+PAYC	Paycom Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=SPYG
+URI	United Rentals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=URI.US&back=SPYG
+MLM	Martin Marietta Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MLM.US&back=SPYG
+ULTA	Ulta Beauty Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=SPYG
+DHI	D.R. Horton Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=SPYG
+OTIS	Otis Worldwide Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=SPYG
+TTWO	Take-Two Interactive Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=SPYG
+ZBRA	Zebra Technologies Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBRA.US&back=SPYG
+MAA	Mid-America Apartment Communities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MAA.US&back=SPYG
+AVB	AvalonBay Communities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=SPYG
+OKE	ONEOK Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=SPYG
+RJF	Raymond James Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=SPYG
+SEDG	SolarEdge Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=SPYG
+NTAP	NetApp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=SPYG
+SBNY	Signature Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNY.US&back=SPYG
+LH	Laboratory Corporation of America Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=SPYG
+PWR	Quanta Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=SPYG
+WY	Weyerhaeuser Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=SPYG
+VMC	Vulcan Materials Company	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=SPYG
+CRL	Charles River Laboratories International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRL.US&back=SPYG
+APTV	Aptiv PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=SPYG
+BRO	Brown & Brown Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=SPYG
+NRG	NRG Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=SPYG
+STX	Seagate Technology Holdings PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=SPYG
+MOH	Molina Healthcare Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=SPYG
+SYF	Synchrony Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=SPYG
+FDS	FactSet Research Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=SPYG
+CTLT	Catalent Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLT.US&back=SPYG
+TYL	Tyler Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=SPYG
+IRM	Iron Mountain Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=SPYG
+RF	Regions Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=SPYG
+DPZ	Domino's Pizza Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DPZ.US&back=SPYG
+TRMB	Trimble Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=SPYG
+BR	Broadridge Financial Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=SPYG
+JBHT	J.B. Hunt Transport Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JBHT.US&back=SPYG
+STE	STERIS Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=STE.US&back=SPYG
+VRSN	VeriSign Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=SPYG
+DOV	Dover Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=SPYG
+AVY	Avery Dennison Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=SPYG
+SWKS	Skyworks Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=SPYG
+KMX	CarMax Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=SPYG
+ESS	Essex Property Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=SPYG
+NDSN	Nordson Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NDSN.US&back=SPYG
+CBOE	Cboe Global Markets Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CBOE.US&back=SPYG
+APA	APA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=SPYG
+UDR	UDR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UDR.US&back=SPYG
+J	Jacobs Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=J.US&back=SPYG
+DGX	Quest Diagnostics Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=SPYG
+GRMN	Garmin Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=SPYG
+CINF	Cincinnati Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=SPYG
+XYL	Xylem Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=SPYG
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=SPYG
+ABMD	ABIOMED Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABMD.US&back=SPYG
+IEX	IDEX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=SPYG
+AKAM	Akamai Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=SPYG
+LKQ	LKQ Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=SPYG
+PTC	PTC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=SPYG
+MAS	Masco Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=SPYG
+CZR	Caesars Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CZR.US&back=SPYG
+RHI	Robert Half International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RHI.US&back=SPYG
+BBWI	Bath & Body Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=SPYG
+BIO	Bio-Rad Laboratories Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BIO.US&back=SPYG
+NVR	NVR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=SPYG
+INCY	Incyte Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=SPYG
+LYV	Live Nation Entertainment Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LYV.US&back=SPYG
+CE	Celanese Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=SPYG
+AAP	Advance Auto Parts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=SPYG
+FFIV	F5 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=SPYG
+QRVO	Qorvo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=SPYG
+CMA	Comerica Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=SPYG
+MKTX	MarketAxess Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MKTX.US&back=SPYG
+SEE	Sealed Air Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SEE.US&back=SPYG
+PNR	Pentair plc	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=SPYG
+ZION	Zions Bancorporation N.A.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZION.US&back=SPYG
+AOS	A. O. Smith Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=SPYG
+FBHS	Fortune Brands Home & Security Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=SPYG
+NWL	Newell Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=SPYG
+ROL	Rollins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROL.US&back=SPYG
+CDAY	Ceridian HCM Holding Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDAY.US&back=SPYG
+BEN	Franklin Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=SPYG
+FRT	Federal Realty Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT.US&back=SPYG
+	U.S. Dollar	

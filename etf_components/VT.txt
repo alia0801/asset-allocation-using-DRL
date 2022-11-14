@@ -1,0 +1,21 @@
+VT
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=VT
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=VT
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=VT
+TSLA	Tesla Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=VT
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=VT
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=VT
+UNH	UnitedHealth Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=VT
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=VT
+BRK.B	Berkshire Hathaway Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=VT
+XOM	Exxon Mobil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=VT
+META	Facebook Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=VT
+NVDA	NVIDIA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=VT
+PG	Procter & Gamble Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=VT
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=VT
+	Nestle SA	
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=VT
+2330.TW&back=VT	Taiwan Semiconductor Manufacturing Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2330.TW&back=VT
+CVX	Chevron Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=VT
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=VT
+MA	Mastercard Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=VT

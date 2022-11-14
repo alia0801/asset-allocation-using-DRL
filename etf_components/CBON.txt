@@ -1,0 +1,101 @@
+CBON
+	Other/Cash	
+	China Development Bank 4.59 08/01/2038	
+	China Development Bank 3.39 02/03/2027	
+	China Cinda Asset Management Co Ltd 4.75 04/14/2027	
+	Guangdong Guangxin Holdings Group Ltd 3.37 03/11/2025	
+	Yankuang Energy Group Co Ltd 3.43 03/12/2025	
+	Chemchina Petrochemical Co Ltd 4 11/06/2024	
+	China Government Bond 3.27 11/19/2030	
+	China Government Bond 3.27 08/22/2046	
+	Shandong Hi-Speed Group Co Ltd 4 10/21/2024	
+	Beijing State-Owned Capital Operation M 3.85 01/14/2024	
+	Guangzhou Asset Management Co Ltd 3.79 01/22/2024	
+	China Huaneng Group Co Ltd 3.55 03/09/2169	
+	Beijing Haidian State-Owned Assets Oper 3.7 10/24/2024	
+	Beijing Public Housing Center Co Ltd 3.19 04/16/2040	
+	China State Railway Group Co Ltd 3.45 07/25/2024	
+	Nanjing Yangzi State-Owned Investment G 3.63 10/21/2024	
+	China Development Bank 3.87 08/01/2023	
+	Agricultural Development Bank Of China 2.96 04/17/2030	
+	Shandong Luxin Investment Holdings Grou 3.85 01/07/2026	
+	Zijin Mining Group Co Ltd 3.51 02/21/2025	
+	Cofco Commercial Property Investment Co 3.94 01/09/2025	
+	Shanghai Pudong Development Group Co Lt 3.52 04/21/2026	
+	Taiyuan Iron & Steel Group Co Ltd 3.88 08/13/2024	
+	Beijing Automotive Group Co Ltd 4.48 10/19/2023	
+	Export-Import Bank Of China/The 3.33 02/22/2026	
+	China Government Bond 3.02 10/22/2025	
+	China Government Bond 2.86 07/16/2030	
+	China Government Bond 3.03 03/11/2026	
+	China Government Bond 2.85 06/04/2027	
+	China Development Bank 4.04 04/10/2027	
+	Agricultural Development Bank Of China 3.74 07/12/2029	
+	Chongqing Longhu Development Co Ltd 3.68 01/25/2024	
+	China Government Bond 2.69 08/12/2026	
+	China Development Bank 3.65 05/21/2029	
+	Agricultural Development Bank Of China 4.39 09/08/2027	
+	China Government Bond 3.28 12/03/2027	
+	China Government Bond 3.29 05/23/2029	
+	China Government Bond 2.68 05/21/2030	
+	China Government Bond 3.02 05/27/2031	
+	China Government Bond 3.25 06/06/2026	
+	Export-Import Bank Of China/The 3.86 05/20/2029	
+	Agricultural Development Bank Of China 4.65 05/11/2028	
+	Beijing Infrastructure Investment Co Lt 3.09 09/01/2024	
+	China Development Bank 3.3 03/03/2026	
+	China Government Bond 3.01 05/13/2028	
+	China Government Bond 2.77 06/24/2030	
+	Export-Import Bank Of China/The 3.22 05/14/2026	
+	China Government Bond 1.99 04/09/2025	
+	Agricultural Development Bank Of China 3.75 01/25/2029	
+	Agricultural Development Bank Of China 3.85 01/06/2027	
+	China Government Bond 2.47 09/02/2024	
+	Sichuan Development Holding Co Ltd 4.3 03/26/2024	
+	Sichuan Development Holding Co Ltd 4.55 08/06/2025	
+	State Power Investment Corp Ltd 4.2 11/20/2023	
+	China Railway Group Ltd 3.99 07/16/2024	
+	China Government Bond 2.88 11/05/2023	
+	China Development Bank 3.45 09/20/2029	
+	Guangdong Hengjian Investment Holding C 3.84 08/07/2024	
+	Qingdao Conson Development Group Co Ltd 3.55 01/09/2025	
+	China Development Bank 3.18 04/05/2026	
+	Agricultural Development Bank Of China 4.98 01/12/2025	
+	Beijing Tourism Group Co Ltd 3.95 08/02/2026	
+	Agricultural Development Bank Of China 3.24 08/14/2024	
+	Export-Import Bank Of China/The 3.28 02/11/2024	
+	Chongqing Longhu Development Co Ltd 3.45 08/02/2023	
+	China Development Bank 3.48 01/08/2029	
+	China Development Bank 3.7 10/20/2030	
+	China Government Bond 3.74 09/22/2035	
+	Export-Import Bank Of China/The 3.38 07/16/2031	
+	China Development Bank 3.34 07/14/2025	
+	Hubei Provincial Communications Investm 6.68 03/27/2024	
+	Petrochina Co Ltd 3.5 01/19/2026	
+	Export-Import Bank Of China/The 4.89 03/26/2028	
+	Citic Securities Co Ltd 3.78 09/10/2024	
+	Export-Import Bank Of China/The 3.23 03/23/2030	
+	Agricultural Development Bank Of China 2.25 04/22/2025	
+	China Development Bank 4.04 07/06/2028	
+	Agricultural Development Bank Of China 3.63 07/19/2026	
+	Export-Import Bank Of China/The 3.74 11/16/2030	
+	Jiangxi Ganyue Expressway Co Ltd 6.09 08/11/2024	
+	Beijing State-Owned Assets Management C 5.9 06/25/2024	
+	Wuhan Metro Group Co Ltd 3.55 04/14/2030	
+	Export-Import Bank Of China/The 3.43 10/23/2025	
+	China Development Bank 3.41 06/07/2031	
+	Chongqing Longhu Development Co Ltd 5.6 03/21/2023	
+	Cinda Investment Co Ltd 3.8 12/22/2023	
+	China Yangtze Power Co Ltd 3.35 10/17/2026	
+	China Development Bank 3.66 03/01/2031	
+	Export-Import Bank Of China/The 3.88 01/12/2036	
+	Agricultural Development Bank Of China 3.79 10/26/2030	
+	China Southern Power Grid Co Ltd 5.9 03/19/2024	
+	Guangzhou Metro Group Co Ltd 6.05 06/03/2024	
+	China Government Bond 2.9 05/05/2026	
+	China Government Bond 3.27 08/22/2046	
+	China Vanke Co Ltd 3.55 09/26/2024	
+	China Fortune Land Development Co Ltd 4.04 03/03/2023	
+	China Fortune Land Development Co Ltd 5.1 10/20/2022	
+	Guotai Junan Securities Co Ltd 3.31 05/21/2024	
+	Tianjin Infrastructure Construction & I 5.7 02/26/2023	

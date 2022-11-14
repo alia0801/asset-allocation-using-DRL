@@ -1,0 +1,45 @@
+SOXL
+	ICE SEMICONDUCTOR INDEX SWAP	
+	ICE SEMICONDUCTOR INDEX SWAP	
+	ICE SEMICONDUCTOR INDEX SWAP	
+	ICE SEMICONDUCTOR INDEX SWAP	
+	ICE SEMICONDUCTOR INDEX SWAP	
+	ICE SEMICONDUCTOR INDEX SWAP	
+	ICE SEMICONDUCTOR INDEX SWAP	
+	DREYFUS GOVT CASH MGMT	
+	DREYFUS GOVT CASH MGMT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+AVGO	BROADCOM INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=SOXL
+NVDA	NVIDIA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=SOXL
+	DREYFUS GOVT CASH MGMT	
+	DREYFUS TREASURY SECURITIES CASH MANAGEMENT	
+INTC	Intel Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=SOXL
+TXN	Texas Instruments	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=SOXL
+AMD	Advanced Micro Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=SOXL
+KLAC	KLA-Tencor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=SOXL
+QCOM	QUALCOMM Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=SOXL
+ON	ON SEMICONDUCTOR CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=SOXL
+ADI	Analog Devices	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=SOXL
+MCHP	Microchip Technology	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=SOXL
+NXPI	NXP SEMICONDUCTORS NV USD 0.2	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=SOXL
+LRCX	LAM RESEARCH	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=SOXL
+MRVL	MARVELL TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=SOXL
+AMAT	Applied Materials	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=SOXL
+TSM	TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=SOXL
+ASML	ASML HOLDING NV (EX ASM LITHOGRAPH	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=SOXL
+MU	Micron Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=SOXL
+MPWR	Monolithic Power Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=SOXL
+	GOLDMAN FS GOVT INST	
+SWKS	SKYWORKS S COM	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=SOXL
+WOLF	Wolfspeed Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WOLF.US&back=SOXL
+TER	Teradyne Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=SOXL
+ENTG	Entegris Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENTG.US&back=SOXL
+QRVO	QORVO INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=SOXL
+STM	STMicroelectronics NV	/etf/ea/ETZCW.djhtm?c=1&etfid=STM.US&back=SOXL
+	GOLDMAN FINL SQ TRSRY INST 506	
+LSCC	LATTICE SEMICONDUCTOR CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=SOXL
+MKSI	MKS Instruments	/etf/ea/ETZCW.djhtm?c=1&etfid=MKSI.US&back=SOXL
+OLED	Universal Display Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=OLED.US&back=SOXL
+SYNA	Synaptics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNA.US&back=SOXL
+UMC	UNITED MICROELECTRONICS CORP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=UMC.US&back=SOXL
+ASX	ASE Industrial Holding Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ASX.US&back=SOXL

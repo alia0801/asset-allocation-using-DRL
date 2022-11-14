@@ -1,0 +1,208 @@
+FLTR
+	Verizon Communications Inc 4.005 05/15/2025	
+	Commonwealth Bank Of Australia 1.933 07/07/2025	
+	Goldman Sachs Group Inc/The 4.075 05/15/2026	
+	Bank Of America Corp 3.602 02/05/2026	
+	Morgan Stanley 2.148 01/24/2025	
+	Goldman Sachs Group Inc/The 4.543 10/28/2027	
+	Truist Financial Corp 1.151 06/09/2025	
+	Capital One Financial Corp 1.471 12/06/2024	
+	General Electric Co 3.212 05/05/2026	
+	Wells Fargo & Co 0 04/25/2026	
+	Roche Holdings Inc 1.311 03/10/2025	
+	Verizon Communications Inc 2.243 03/20/2026	
+	Hsbc Holdings Plc 3.101 09/12/2026	
+	Morgan Stanley 3.237 02/18/2026	
+	Jpmorgan Chase & Co 3.207 02/24/2026	
+	Bank Of America Corp 2.947 02/04/2025	
+	Westpac Banking Corp 2.587 11/18/2024	
+	Societe Generale Sa 2.573 01/21/2026	
+	Jpmorgan Chase & Co 3.467 02/24/2028	
+	Mizuho Financial Group Inc 3.247 05/22/2026	
+	Banque Federative Du Credit Mutuel Sa 2.697 02/04/2025	
+	Canadian Imperial Bank Of Commerce 2.473 04/07/2025	
+	Commonwealth Bank Of Australia 1.491 03/14/2025	
+	Citigroup Inc 3.527 07/01/2026	
+	Goldman Sachs Group Inc/The 2.223 01/24/2025	
+	Ubs Group Ag 3.866 05/12/2026	
+	Dnb Bank Asa 2.293 03/28/2025	
+	Bank Of America Corp 2.213 04/22/2025	
+	Westpac Banking Corp 3.286 08/26/2025	
+	Hsbc Holdings Plc 3.961 05/18/2024	
+	Ing Groep Nv 3.103 03/28/2026	
+	Citigroup Inc 2.981 03/17/2026	
+	Citigroup Inc 3.659 05/24/2025	
+	American Express Co 1.683 03/04/2025	
+	Anz New Zealand Int'L Ltd/London 2.887 02/18/2025	
+	Bank Of America Corp 2.623 04/25/2025	
+	Bank Of America Corp 2.863 04/02/2026	
+	Hsbc Holdings Plc 2.951 03/11/2025	
+	Macquarie Bank Ltd 2.763 03/21/2025	
+	Jpmorgan Chase & Co 3.278 01/10/2025	
+	Jpmorgan Chase & Co 2.843 04/26/2026	
+	Standard Chartered Plc 3.243 03/30/2026	
+	National Australia Bank Ltd/New York 2.298 06/09/2025	
+	Natwest Markets Plc 2.903 03/22/2025	
+	Jpmorgan Chase & Co 2.426 06/14/2025	
+	Morgan Stanley 2.708 04/17/2025	
+	National Australia Bank Ltd 1.913 01/12/2025	
+	Massmutual Global Funding Ii 1.793 10/21/2024	
+	Hsbc Holdings Plc 2.182 03/10/2026	
+	Bank Of America Corp 2.253 10/24/2024	
+	Commonwealth Bank Of Australia 1.948 06/15/2026	
+	Charles Schwab Corp/The 1.841 03/03/2027	
+	Charles Schwab Corp/The 2.806 05/13/2026	
+	Citigroup Inc 3.567 02/24/2028	
+	Citigroup Inc 2.217 01/25/2026	
+	Citigroup Inc 2.946 05/01/2025	
+	Hsbc Holdings Plc 2.867 11/22/2024	
+	Jpmorgan Chase & Co 1.325 06/01/2025	
+	National Australia Bank Ltd 2.192 01/12/2027	
+	Jpmorgan Chase & Co 2.033 06/23/2025	
+	Jpmorgan Chase & Co 2.408 04/22/2027	
+	Standard Chartered Plc 3.217 11/23/2025	
+	Sumitomo Mitsui Financial Group Inc 2.422 01/14/2027	
+	Jpmorgan Chase & Co 2.218 09/22/2027	
+	American Express Co 2.937 11/04/2026	
+	Bank Of America Corp 3.337 02/04/2028	
+	Morgan Stanley 4.083 05/08/2024	
+	Lincoln National Corp 5.299 05/17/2066	
+	At&T Inc 2.901 06/12/2024	
+	Citigroup Inc 3.547 08/25/2036	
+	Hartford Financial Services Group Inc/T 5.03 02/12/2047	
+	Citigroup Inc 4.042 05/17/2024	
+	Athene Global Funding 2.987 05/24/2024	
+	Bank Of America Corp 2.401 03/05/2024	
+	Barclays Plc 4.302 05/16/2024	
+	Morgan Stanley 4.183 10/24/2023	
+	Bayer Us Finance Ii Llc 2.839 12/15/2023	
+	Bank Of America Corp 3.342 05/28/2024	
+	Charles Schwab Corp/The 1.953 03/18/2024	
+	Jpmorgan Chase & Co 2.016 03/16/2024	
+	Truist Bank 1.743 01/17/2024	
+	Wells Fargo & Co 4.036 10/31/2023	
+	Jpmorgan Chase & Co 4.013 10/24/2023	
+	Mizuho Financial Group Inc 3.627 05/25/2024	
+	Siemens Financieringsmaatschappij Nv 1.181 03/11/2024	
+	Jpmorgan Chase & Co 3.673 07/23/2024	
+	Citigroup Inc 3.01 09/01/2023	
+	Citigroup Inc 2.603 06/01/2024	
+	Goldman Sachs Group Inc/The 4.643 11/28/2023	
+	Florida Power & Light Co 1.913 01/12/2024	
+	Ubs Ag/London 2.647 02/09/2024	
+	Ubs Ag/London 2.737 08/09/2024	
+	Credit Suisse Ag/New York Ny 2.667 02/02/2024	
+	Mitsubishi Ufj Financial Group Inc 3.626 07/26/2023	
+	Toronto-Dominion Bank/The 1.101 09/10/2024	
+	Bank Of Nova Scotia/The 1.301 09/15/2023	
+	Other/Cash	
+	Toyota Motor Credit Corp 3.04 07/25/2023	
+	Toyota Motor Credit Corp 1.863 01/11/2024	
+	Natwest Group Plc 3.747 06/25/2024	
+	Toronto-Dominion Bank/The 1.136 03/04/2024	
+	Sumitomo Mitsui Trust Bank Ltd 1.847 09/16/2024	
+	Tencent Holdings Ltd 3.338 04/11/2024	
+	Bmw Us Capital Llc 2.033 04/01/2024	
+	Bmw Us Capital Llc 2.666 08/12/2024	
+	Bank Of Montreal 1.431 03/10/2023	
+	At&T Inc 2.103 03/25/2024	
+	Cooperatieve Rabobank Ua/Ny 1.833 01/12/2024	
+	Caterpillar Financial Services Corp 1.021 09/13/2024	
+	Credit Suisse Group Ag 2.961 06/12/2024	
+	Public Storage 1.993 04/23/2024	
+	Royal Bank Of Canada 1.843 01/19/2024	
+	Nextera Energy Capital Holdings Inc 2.677 11/03/2023	
+	Mizuho Financial Group Inc 2.721 09/11/2024	
+	Centerpoint Energy Inc 2.936 05/13/2024	
+	Canadian Imperial Bank Of Commerce 1.963 10/18/2024	
+	Banco Santander Sa 3.527 05/24/2024	
+	Goldman Sachs Group Inc/The 1.361 03/08/2024	
+	Ppl Electric Utilities Corp 1.792 06/24/2024	
+	Toyota Motor Credit Corp 2.688 12/29/2023	
+	Bank Of Nova Scotia/The 1.988 04/15/2024	
+	Bank Of Nova Scotia/The 2.649 07/31/2024	
+	Canadian Imperial Bank Of Commerce 2.253 03/17/2023	
+	Metropolitan Life Global Funding I 1.853 01/07/2024	
+	Royal Bank Of Canada 2.629 07/29/2024	
+	Toyota Motor Credit Corp 1.041 09/13/2024	
+	Massmutual Global Funding Ii 1.893 04/12/2024	
+	John Deere Capital Corp 1.733 10/11/2024	
+	Enbridge Inc 2.917 02/16/2024	
+	Dominion Energy Inc 2.359 09/15/2023	
+	Macquarie Group Ltd 3.547 03/27/2024	
+	Macquarie Bank Ltd 1.803 04/06/2023	
+	Magallanes Inc 2.531 03/15/2024	
+	Daimler Trucks Finance North America Ll 2.503 04/05/2024	
+	Florida Power & Light Co 2.537 05/10/2023	
+	Federation Des Caisses Desjardins Du Qu 2.717 05/21/2024	
+	Comcast Corp 3.142 04/15/2024	
+	Bank Of Montreal 1.853 07/09/2024	
+	Analog Devices Inc 1.753 10/01/2024	
+	Atmos Energy Corp 2.07 03/09/2023	
+	Starbucks Corp 2.706 02/14/2024	
+	Royal Bank Of Canada 1.973 10/26/2023	
+	Ubs Ag/London 1.11 06/01/2023	
+	Volkswagen Group Of America Finance Llc 2.354 06/07/2024	
+	Westpac Banking Corp 3.78 02/26/2024	
+	Royal Bank Of Canada 1.873 10/07/2024	
+	Simon Property Group Lp 1.963 01/11/2024	
+	Thermo Fisher Scientific Inc 1.893 04/18/2023	
+	Thermo Fisher Scientific Inc 2.073 10/18/2024	
+	American Express Co 2.997 05/03/2024	
+	Bank Of America Corp 3.743 07/23/2024	
+	Caterpillar Financial Services Corp 2.532 05/17/2024	
+	Ga Global Funding Trust 1.251 09/13/2024	
+	Metropolitan Life Global Funding I 1.763 09/27/2024	
+	Jpmorgan Chase & Co 3.513 04/23/2024	
+	Bank Of Montreal 1.491 03/08/2024	
+	Sumitomo Mitsui Financial Group Inc 3.538 10/16/2023	
+	Toronto-Dominion Bank/The 1.011 06/02/2023	
+	Bank Of New York Mellon Corp/The 3.856 10/30/2023	
+	Mizuho Financial Group Inc 2.401 03/05/2023	
+	General Motors Financial Co Inc 3.487 11/17/2023	
+	Deutsche Bank Ag/New York Ny 2.787 11/08/2023	
+	John Deere Capital Corp 1.653 07/10/2023	
+	Mitsubishi Ufj Financial Group Inc 2.351 03/02/2023	
+	Bank Of Montreal 1.131 12/08/2023	
+	Cigna Corp 3.402 07/15/2023	
+	Toyota Motor Credit Corp 1.823 04/06/2023	
+	Roche Holdings Inc 1.081 09/11/2023	
+	Westpac Banking Corp 3.625 05/15/2023	
+	Toyota Motor Credit Corp 2.63 06/13/2023	
+	Equitable Financial Life Global Funding 1.893 04/06/2023	
+	Macquarie Group Ltd 4.063 11/28/2023	
+	American Electric Power Co Inc 3.262 11/01/2023	
+	Southern Co/The 2.657 05/10/2023	
+	American Express Co 2.507 11/03/2023	
+	Bank Of Nova Scotia/The 1.011 09/15/2023	
+	Bank Of Montreal 1.016 09/15/2023	
+	Canadian Imperial Bank Of Commerce 1.151 12/14/2023	
+	Centerpoint Energy Resources Corp 2.111 03/02/2023	
+	Chevron Usa Inc 3.121 08/11/2023	
+	Credit Agricole Sa/London 3.803 04/24/2023	
+	Bpce Sa 2.961 09/12/2023	
+	Aercap Ireland Capital Dac / Aercap Glo 2.143 09/29/2023	
+	Asb Bank Ltd 2.715 06/14/2023	
+	Banco Santander Sa 3.543 04/12/2023	
+	Duke Energy Corp 1.001 06/10/2023	
+	Credit Suisse Ag/New York Ny 2.667 08/09/2023	
+	Shell International Finance Bv 3.305 11/13/2023	
+	United Parcel Service Inc 2.727 04/01/2023	
+	Standard Chartered Plc 2.793 10/14/2023	
+	Toronto-Dominion Bank/The 1.913 09/28/2023	
+	Sumitomo Mitsui Financial Group Inc 3.598 07/19/2023	
+	Credit Suisse Group Ag 2.945 12/14/2023	
+	Daimler Trucks Finance North America Ll 1.251 06/14/2023	
+	Goldman Sachs Group Inc/The 1.372 12/06/2023	
+	Ing Groep Nv 3.293 10/02/2023	
+	National Australia Bank Ltd 3.023 04/12/2023	
+	American Express Co 3.552 08/03/2023	
+	Commonwealth Bank Of Australia 2.703 03/16/2023	
+	Caterpillar Financial Services Corp 2.736 11/13/2023	
+	Canadian Imperial Bank Of Commerce 1.793 06/22/2023	
+	Canadian Imperial Bank Of Commerce 2.381 09/13/2023	
+	Mizuho Financial Group Inc 2.571 09/13/2023	
+	Goldman Sachs Group Inc/The 2.827 11/17/2023	
+	Thermo Fisher Scientific Inc 1.933 10/18/2023	
+	Nextera Energy Capital Holdings Inc 1.33 03/01/2023	
+	Truist Bank 1.481 03/09/2023	

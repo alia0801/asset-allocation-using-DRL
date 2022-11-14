@@ -1,0 +1,27 @@
+PSCU
+SJI	South Jersey Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SJI.US&back=PSCU
+AWR	American States Water Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AWR.US&back=PSCU
+CWT	California Water Service Group	/etf/ea/ETZCW.djhtm?c=1&etfid=CWT.US&back=PSCU
+AVA	Avista Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AVA.US&back=PSCU
+YELP	Yelp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=YELP.US&back=PSCU
+CCOI	Cogent Communications Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCOI.US&back=PSCU
+CPK	Chesapeake Utilities Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CPK.US&back=PSCU
+TTGT	TechTarget Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTGT.US&back=PSCU
+NWN	Northwest Natural Holding Co	/etf/ea/ETZCW.djhtm?c=1&etfid=NWN.US&back=PSCU
+TDS	Telephone and Data Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS.US&back=PSCU
+MSEX	Middlesex Water Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MSEX.US&back=PSCU
+CNK	Cinemark Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CNK.US&back=PSCU
+SSTK	Shutterstock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SSTK.US&back=PSCU
+SCHL	Scholastic Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHL.US&back=PSCU
+SHEN	Shenandoah Telecommunications Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SHEN.US&back=PSCU
+GOGO	Gogo Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GOGO.US&back=PSCU
+UTL	Unitil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UTL.US&back=PSCU
+CARS	Cars.com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CARS.US&back=PSCU
+THRY	Thryv Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=THRY.US&back=PSCU
+SSP	EW Scripps Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SSP.US&back=PSCU
+AMCX	AMC Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCX.US&back=PSCU
+QNST	QuinStreet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QNST.US&back=PSCU
+ATNI	ATN International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATNI.US&back=PSCU
+MCS	Marcus Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=MCS.US&back=PSCU
+CNSL	Consolidated Communications Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CNSL.US&back=PSCU
+GCI	Gannett Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GCI.US&back=PSCU

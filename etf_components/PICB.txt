@@ -1,0 +1,583 @@
+PICB
+	Toronto-Dominion Bank/The 2.67 09/09/2025	
+	NTT Finance Corp 0.18 12/19/2025	
+	Royal Bank of Canada 3.37 09/29/2025	
+	NTT Finance Corp 0.38 09/20/2030	
+	Toronto-Dominion Bank/The 4.21 06/01/2027	
+	Bank of Montreal 4.31 06/01/2027	
+	Electricite de France SA 6.12 06/02/2034	
+	Bank of Nova Scotia/The 1.95 01/10/2025	
+	Bank of Nova Scotia/The 2.95 03/08/2027	
+	Royal Bank of Canada 4.61 07/26/2027	
+	Royal Bank of Canada 2.33 01/28/2027	
+	Enel Finance International NV 5.75 09/14/2040	
+	Canadian Imperial Bank of Commerce 2 04/17/2025	
+	Canadian Imperial Bank of Commerce 4.95 06/29/2027	
+	Barclays PLC 3.12 01/17/2024	
+	Royal Bank of Canada 2.61 11/01/2024	
+	National Bank of Canada 2.58 02/03/2025	
+	Bank of Montreal 3.65 04/01/2027	
+	Electricite de France SA 6 01/23/2114	
+	Electricite de France SA 5.5 10/17/2041	
+	Bell Telephone Co of Canada or Bell Canada/The 3.35 03/12/2025	
+	TransCanada PipeLines Ltd 3.8 04/05/2027	
+	Bank of Nova Scotia/The 2.49 09/23/2024	
+	Toronto-Dominion Bank/The 2.5 12/02/2024	
+	Shaw Communications Inc 6.75 11/09/2039	
+	Cash/Receivables/Payables 0	
+	Bank of Nova Scotia/The 1.85 11/02/2026	
+	Canadian Imperial Bank of Commerce 2.75 03/07/2025	
+	Canadian Imperial Bank of Commerce 2.35 08/28/2024	
+	Bank of Nova Scotia/The 2.16 02/03/2025	
+	Royal Bank of Canada 1.94 05/01/2025	
+	Enel Finance International NV 5.62 08/14/2024	
+	Barclays PLC 3.25 02/12/2027	
+	Toronto-Dominion Bank/The 1.13 12/09/2025	
+	TransCanada PipeLines Ltd 4.34 10/15/2049	
+	THFC Funding No 3 PLC 5.2 10/11/2043	
+	Canadian Imperial Bank of Commerce 3.29 01/15/2024	
+	Deutsche Bank AG 2.62 12/16/2024	
+	BHP Billiton Finance Ltd 4.3 09/25/2042	
+	Koninklijke KPN NV 5.75 09/17/2029	
+	Lloyds Banking Group PLC 2.25 10/16/2024	
+	Thomson Reuters Corp 2.24 05/14/2025	
+	Orsted AS 5.38 09/13/2042	
+	Toronto-Dominion Bank/The 1.9 09/11/2028	
+	Toronto-Dominion Bank/The 1.94 03/13/2025	
+	Suncor Energy Inc 5 04/09/2030	
+	Centrica PLC 7 09/19/2033	
+	BNP Paribas SA 3.38 01/23/2026	
+	ING Groep NV 3 02/18/2026	
+	Barclays PLC 3 05/08/2026	
+	Engie SA 5 10/01/2060	
+	Toronto-Dominion Bank/The 2.26 01/07/2027	
+	Rogers Communications Inc 3.1 04/15/2025	
+	HSBC Bank Canada 3.4 03/24/2025	
+	Banco Santander SA 3.25 04/04/2026	
+	TELUS Corp 5.25 11/15/2032	
+	Banque Federative du Credit Mutuel SA 3.12 09/14/2027	
+	BG Energy Capital PLC 5.12 12/01/2025	
+	E.ON International Finance BV 6.75 01/27/2039	
+	E.ON International Finance BV 4.75 01/31/2034	
+	E.ON International Finance BV 6.38 06/07/2032	
+	Heathrow Funding Ltd 6.45 12/10/2031	
+	Credit Agricole SA 1 09/18/2025	
+	Banco Santander SA 1.38 01/05/2026	
+	Bank of Nova Scotia/The 1.4 11/01/2027	
+	Banque Federative du Credit Mutuel SA 1 05/23/2025	
+	Bank of Montreal 2.37 02/03/2025	
+	TotalEnergies Capital Canada Ltd 2.12 09/18/2029	
+	BNP Paribas SA 1.88 12/14/2027	
+	Rogers Communications Inc 3.25 05/01/2029	
+	ING Groep NV 2.5 11/15/2030	
+	E.ON International Finance BV 5.88 10/30/2037	
+	Electricite de France SA 5.12 09/22/2050	
+	Volkswagen International Finance NV 1.88 03/30/2027	
+	HSBC Holdings PLC 2.62 08/16/2028	
+	Bayer Capital Corp BV 2.12 12/15/2029	
+	Scottish Widows Ltd 7 06/16/2043	
+	E.ON International Finance BV 6.12 07/06/2039	
+	BG Energy Capital PLC 5 11/04/2036	
+	Federation des Caisses Desjardins du Quebec 1.09 01/21/2026	
+	Toronto-Dominion Bank/The 1.89 03/08/2028	
+	Vattenfall AB 6.88 04/15/2039	
+	Western Power Distribution West Midlands PLC 5.75 04/16/2032	
+	National Bank of Canada 2.54 07/12/2024	
+	Westfield Stratford City Finance NO 2 PLC 1.64 08/04/2026	
+	Lloyds Bank PLC 7.5 04/15/2024	
+	Engie SA 7 10/30/2028	
+	SSE PLC 8.38 11/20/2028	
+	Imperial Brands Finance PLC 8.12 03/15/2024	
+	Thames Water Utilities Finance PLC 5.12 09/28/2037	
+	Traton Finance Luxembourg SA 0.75 03/24/2029	
+	Rogers Communications Inc 3.65 03/31/2027	
+	Cenovus Energy Inc 3.5 02/07/2028	
+	National Australia Bank Ltd 2.9 02/25/2027	
+	Commonwealth Bank of Australia 4.2 08/18/2025	
+	Bank of Montreal 1.55 05/28/2026	
+	HSBC Bank Canada 1.78 05/20/2026	
+	Veolia Environnement SA 6.12 10/29/2037	
+	BAT International Finance PLC 7.25 03/12/2024	
+	Orange SA 5.38 11/22/2050	
+	Heathrow Funding Ltd 6.75 12/03/2026	
+	HSBC Holdings PLC 6.5 05/20/2024	
+	ABP Finance PLC 6.25 12/14/2026	
+	Heathrow Funding Ltd 7.12 02/14/2024	
+	Electricite de France SA 6.25 05/30/2028	
+	Telefonica Emisiones SA 5.38 02/02/2026	
+	E.ON International Finance BV 6.25 06/03/2030	
+	Cadent Finance PLC 2.12 09/22/2028	
+	CPPIB Capital Inc 4.45 09/01/2027	
+	BNP Paribas SA 1.25 07/13/2031	
+	Federation des Caisses Desjardins du Quebec 2.42 10/04/2024	
+	Intesa Sanpaolo SpA 0.62 02/24/2026	
+	Bell Telephone Co of Canada or Bell Canada/The 2.7 02/27/2024	
+	Electricite de France SA 5.88 07/18/2031	
+	British Telecommunications PLC 6.38 06/23/2037	
+	Electricite de France SA 4.62 04/26/2030	
+	Orsted AS 4.88 01/12/2032	
+	Severn Trent Utilities Finance PLC 3.62 01/16/2026	
+	Bank of Montreal 1.5 12/18/2024	
+	National Bank of Canada 2.98 03/04/2024	
+	Credit Agricole SA/London 3.12 02/05/2026	
+	ABN AMRO Bank NV 1.38 01/16/2025	
+	Volkswagen Leasing GmbH 2.62 01/15/2024	
+	CaixaBank SA 2.38 02/01/2024	
+	TELUS Corp 3.3 05/02/2029	
+	Cooperatieve Rabobank UA 1.25 01/14/2025	
+	Landesbank Baden-Wuerttemberg 1.5 02/03/2025	
+	Orange SA 8.12 01/28/2033	
+	Heathrow Funding Ltd 5.88 05/13/2041	
+	Orange SA 8.12 11/20/2028	
+	BPCE SA 5.25 04/16/2029	
+	Banque Federative du Credit Mutuel SA 1.25 12/05/2025	
+	NBN Co Ltd 1 12/03/2025	
+	BNP Paribas SA 0.62 12/03/2032	
+	Canadian Imperial Bank of Commerce 1.7 07/15/2026	
+	Nationwide Building Society 3.25 01/20/2028	
+	Credit Agricole SA/London 1.38 03/13/2025	
+	British Telecommunications PLC 1.75 03/10/2026	
+	Banco Bilbao Vizcaya Argentaria SA 3.38 09/20/2027	
+	Amprion GmbH 3.97 09/22/2032	
+	National Australia Bank Ltd 3.9 05/30/2025	
+	RWE AG 2.5 08/24/2025	
+	Medtronic Global Holdings SCA 3 10/15/2028	
+	CaixaBank SA 3.75 09/07/2029	
+	BNP Paribas SA 2.38 02/17/2025	
+	Banco Santander SA 2.5 03/18/2025	
+	Credit Mutuel Arkea SA 3.38 09/19/2027	
+	Toronto-Dominion Bank/The 2.88 04/05/2027	
+	Bell Telephone Co of Canada or Bell Canada/The 3 03/17/2031	
+	OP Corporate Bank plc 2.88 12/15/2025	
+	Credit Suisse AG/London 1.12 12/15/2025	
+	Credit Suisse AG/London 0.25 01/05/2026	
+	Skandinaviska Enskilda Banken AB 1.75 11/11/2026	
+	ABN AMRO Bank NV 1.25 05/28/2025	
+	Lloyds Bank Corporate Markets PLC 2.38 04/09/2026	
+	Enel Finance International NV 3.88 03/09/2029	
+	Banco Bilbao Vizcaya Argentaria SA 1.75 11/26/2025	
+	Engie SA 2.38 05/19/2026	
+	Cooperatieve Rabobank UA 4.62 05/23/2029	
+	Canadian Imperial Bank of Commerce 1.1 01/19/2026	
+	Standard Chartered PLC 4.38 01/18/2038	
+	Takeda Pharmaceutical Co Ltd 3 11/21/2030	
+	Takeda Pharmaceutical Co Ltd 2.25 11/21/2026	
+	BNP Paribas SA 1.5 11/17/2025	
+	Vodafone Group PLC 3 08/12/2056	
+	Banque Federative du Credit Mutuel SA 1.62 01/19/2026	
+	Vodafone Group PLC 2.2 08/25/2026	
+	Societe Generale SA 1.12 01/23/2025	
+	Societe Generale SA 1.25 02/15/2024	
+	NatWest Markets PLC 1 05/28/2024	
+	Telia Co AB 3.62 11/08/2023	
+	BPCE SA 0.62 09/26/2024	
+	Santander Consumer Finance SA 1 02/27/2024	
+	HSBC Holdings PLC 0.88 09/06/2024	
+	Bell Telephone Co of Canada or Bell Canada/The 3.5 09/30/2050	
+	Commerzbank AG 1 03/04/2026	
+	Credit Agricole SA 0.38 10/21/2025	
+	Banque Federative du Credit Mutuel SA 0.75 06/08/2026	
+	Volkswagen International Finance NV 3.25 11/18/2030	
+	Orange SA 2 01/15/2029	
+	BMW Finance NV 1.5 02/06/2029	
+	Abertis Infraestructuras SA 2.38 09/27/2027	
+	BPCE SA 0.25 01/15/2026	
+	Aeroports de Paris 2.75 04/02/2030	
+	Banco Santander SA 1.75 02/17/2027	
+	Swedbank AB 2.1 05/25/2027	
+	Deutsche Telekom International Finance BV 2 12/01/2029	
+	Banque Federative du Credit Mutuel SA 0.75 07/17/2025	
+	Bayer Capital Corp BV 1.5 06/26/2026	
+	Naturgy Finance BV 1.38 01/19/2027	
+	Telefonica Emisiones SA 1.72 01/12/2028	
+	Sumitomo Mitsui Financial Group Inc 1.55 06/15/2026	
+	Holcim Finance Luxembourg SA 2.25 05/26/2028	
+	Credit Agricole SA/London 1.38 05/03/2027	
+	UBS Group AG 1.25 09/01/2026	
+	Electricite de France SA 1 10/13/2026	
+	Enel SpA 5.75 06/22/2037	
+	Enel Finance International NV 2.88 04/11/2029	
+	Siemens Financieringsmaatschappij NV 3 09/08/2033	
+	Mercedes-Benz Group AG 0.75 03/11/2033	
+	Eni SpA 1.25 05/18/2026	
+	Banque Federative du Credit Mutuel SA 0.01 03/07/2025	
+	BPCE SA 0.62 04/28/2025	
+	BP Capital Markets PLC 2.82 04/07/2032	
+	Banco Santander SA 1.5 04/14/2026	
+	Banque Federative du Credit Mutuel SA 1 07/16/2026	
+	Nationwide Building Society 0.25 07/22/2025	
+	Societe Generale SA 2.62 05/30/2029	
+	Toronto-Dominion Bank/The 2.55 08/03/2027	
+	Volkswagen Financial Services NV 2.12 01/18/2028	
+	Bouygues SA 2.25 06/29/2029	
+	Nordea Bank Abp 2.5 05/23/2029	
+	Shell International Finance BV 1.25 05/12/2028	
+	BNP Paribas SA 1.12 06/11/2026	
+	HSBC Holdings PLC 2.5 03/15/2027	
+	Banque Federative du Credit Mutuel SA 1.25 05/26/2027	
+	APA Infrastructure Ltd 3.5 03/22/2030	
+	Credit Agricole SA/London 1.88 12/20/2026	
+	Credit Agricole SA/London 1.25 04/14/2026	
+	Snam SpA 0.88 10/25/2026	
+	Danone SA 1.21 11/03/2028	
+	LeasePlan Corp NV 0.25 09/07/2026	
+	Ryanair DAC 0.88 05/25/2026	
+	Toronto-Dominion Bank/The 0.5 01/18/2027	
+	Societe Generale SA 0.75 01/25/2027	
+	Capgemini SE 2.38 04/15/2032	
+	Pernod Ricard SA 1.75 04/08/2030	
+	Ontario Teachers' Finance Trust 1.85 05/03/2032	
+	Airbus SE 1.62 06/09/2030	
+	NatWest Markets PLC 0.12 06/18/2026	
+	Telefonica Emisiones SA 1.2 08/21/2027	
+	Bayer AG 0.75 01/06/2027	
+	Stellantis NV 0.62 03/30/2027	
+	Nordea Bank Abp 0.5 05/14/2027	
+	EDP Finance BV 1.88 09/21/2029	
+	TotalEnergies Capital International SA 0.75 07/12/2028	
+	National Australia Bank Ltd 1.38 08/30/2028	
+	ING Groep NV 2 09/20/2028	
+	Electricite de France SA 2 10/02/2030	
+	Mercedes-Benz Group AG 1.5 07/03/2029	
+	Sanofi 1.38 03/21/2030	
+	Societe Generale SA 2.12 09/27/2028	
+	Heathrow Funding Ltd 4.62 10/31/2046	
+	British Telecommunications PLC 3.12 11/21/2031	
+	Coentreprise de Transport d'Electricite SA 1.5 07/29/2028	
+	TransCanada PipeLines Ltd 4.18 07/03/2048	
+	Telenor ASA 1.12 05/31/2029	
+	UBS AG/London 0.01 03/31/2026	
+	Banco Bilbao Vizcaya Argentaria SA 0.5 01/14/2027	
+	Banque Federative du Credit Mutuel SA 0.01 05/11/2026	
+	SAP SE 1.62 03/10/2031	
+	Credit Agricole SA/London 1.75 03/05/2029	
+	Bell Telephone Co of Canada or Bell Canada/The 3.8 08/21/2028	
+	Deutsche Bank AG 1.62 01/20/2027	
+	CaixaBank SA 1.38 06/19/2026	
+	BNP Paribas SA 2.1 04/07/2032	
+	BNP Paribas SA 1.38 05/28/2029	
+	Credit Agricole SA/London 1 07/03/2029	
+	Wintershall Dea Finance BV 1.33 09/25/2028	
+	Annington Funding PLC 3.69 07/12/2034	
+	Housing & Care 21 3.29 11/08/2049	
+	Blend Funding PLC 3.46 09/21/2047	
+	Orsted AS 5.75 04/09/2040	
+	British Telecommunications PLC 5.75 12/07/2028	
+	Credit Agricole SA 0.38 04/20/2028	
+	Stellantis NV 2.75 04/01/2032	
+	Nordea Bank Abp 0.5 11/02/2028	
+	Telefonica Emisiones SA 0.66 02/03/2030	
+	Banco Santander SA 0.2 02/11/2028	
+	Skandinaviska Enskilda Banken AB 0.38 06/21/2028	
+	Credit Agricole SA 0.12 12/09/2027	
+	Banque Federative du Credit Mutuel SA 0.62 11/03/2028	
+	Suez SACA 2.88 05/24/2034	
+	Iberdrola Finanzas SA 1.38 03/11/2032	
+	BASF SE 1.5 03/17/2031	
+	Richemont International Holding SA 2 03/26/2038	
+	HSBC Holdings PLC 0.64 09/24/2029	
+	Stellantis NV 0.75 01/18/2029	
+	UBS AG/London 0.5 03/31/2031	
+	Vonovia SE 0.25 09/01/2028	
+	Bell Telephone Co of Canada or Bell Canada/The 2.5 05/14/2030	
+	Credit Agricole Assurances SA 2 07/17/2030	
+	easyJet FinCo BV 1.88 03/03/2028	
+	Nestle Finance International Ltd 0.38 05/12/2032	
+	National Bank of Canada 2.24 11/04/2026	
+	HSBC Bank PLC 5.38 08/22/2033	
+	Imperial Brands Finance PLC 5.5 09/28/2026	
+	Centrica PLC 4.38 03/13/2029	
+	High Speed Rail Finance 1 PLC 4.38 11/01/2038	
+	Cooperatieve Rabobank UA 5.25 09/14/2027	
+	GlaxoSmithKline Capital PLC 3.38 12/20/2027	
+	BAT International Finance PLC 2.25 01/16/2030	
+	Annington Funding PLC 3.94 07/12/2047	
+	Santander UK Group Holdings PLC 3.62 01/14/2026	
+	Skandinaviska Enskilda Banken AB 0.62 11/12/2029	
+	Mercedes-Benz International Finance BV 0.62 05/06/2027	
+	Glencore Finance Europe Ltd 3.12 03/26/2026	
+	Intesa Sanpaolo SpA 1 07/04/2024	
+	Credit Agricole SA 0.88 01/14/2032	
+	BAT International Finance PLC 4 09/04/2026	
+	BAT International Finance PLC 6 11/24/2034	
+	Bayer AG 1.38 07/06/2032	
+	UBS Group AG 0.88 11/03/2031	
+	Intesa Sanpaolo SpA 4.75 09/06/2027	
+	Credit Suisse Group AG 0.62 01/18/2033	
+	Banque Federative du Credit Mutuel SA 0.62 02/21/2031	
+	BPCE SA 0.25 01/14/2031	
+	Electricite de France SA 1 11/29/2033	
+	Credit Agricole SA 1.12 07/12/2032	
+	Eni SpA 1.5 02/02/2026	
+	UniCredit SpA 2.12 10/24/2026	
+	Deutsche Telekom International Finance BV 1.5 04/03/2028	
+	Credit Suisse Group AG 2.75 08/08/2025	
+	Vodafone Group PLC 3.38 08/08/2049	
+	Orange SA 0.62 12/16/2033	
+	Volkswagen International Finance NV 1.62 01/16/2030	
+	Rogers Communications Inc 4.25 04/15/2032	
+	Annington Funding PLC 3.18 07/12/2029	
+	Credit Suisse AG/London 1.5 04/10/2026	
+	Deutsche Bahn Finance GMBH 0.62 04/15/2036	
+	Enel Finance International NV 0.88 09/28/2034	
+	Australia & New Zealand Banking Group Ltd 4.05 05/12/2025	
+	Vonovia SE 0.75 09/01/2032	
+	UniCredit SpA 0.33 01/19/2026	
+	Cadent Finance PLC 2.62 09/22/2038	
+	Enel Finance International NV 1.12 09/16/2026	
+	UBS Group AG 0.62 02/24/2033	
+	Royal Bank of Canada 1.83 07/31/2028	
+	Medtronic Global Holdings SCA 1.62 03/07/2031	
+	Intesa Sanpaolo SpA 1.75 03/20/2028	
+	Mercedes-Benz Group AG 2.12 07/03/2037	
+	Vodafone Group PLC 1.6 07/29/2031	
+	Cadent Finance PLC 2.75 09/22/2046	
+	Westfield America Management Ltd 2.62 03/30/2029	
+	Sanctuary Capital PLC 2.38 04/14/2050	
+	Eni SpA 2 05/18/2031	
+	Shell International Finance BV 0.75 08/15/2028	
+	Stellantis NV 3.75 03/29/2024	
+	Society of Lloyd's 4.75 10/30/2024	
+	Nordea Bank Abp 1.12 02/16/2027	
+	Heimstaden Bostad Treasury BV 0.25 10/13/2024	
+	BAT International Finance PLC 2.25 06/26/2028	
+	Intesa Sanpaolo SpA 2.12 05/26/2025	
+	Centrica PLC 4.25 09/12/2044	
+	Deutsche Bank AG 3.88 02/12/2024	
+	Lloyds Bank Corporate Markets PLC 1.75 07/11/2024	
+	Banque Federative du Credit Mutuel SA 1.75 12/19/2024	
+	Electricite de France SA 5.5 03/27/2037	
+	Electricite de France SA 4.12 03/25/2027	
+	Thames Water Utilities Finance PLC 5.5 02/11/2041	
+	Enel Finance International NV 1 10/20/2027	
+	Deutsche Bahn Finance GMBH 1.12 05/29/2051	
+	Federation des Caisses Desjardins du Quebec 4.41 05/19/2027	
+	Stellantis NV 3.88 01/05/2026	
+	Thames Water Utilities Finance PLC 4 06/19/2025	
+	Svenska Handelsbanken AB 1.38 02/23/2029	
+	Volkswagen Financial Services AG 0.88 01/31/2028	
+	BPCE SA 1.75 04/26/2027	
+	ASTM SpA 1.5 01/25/2030	
+	BASF SE 0.75 03/17/2026	
+	Volkswagen Financial Services AG 0.25 01/31/2025	
+	National Australia Bank Ltd 2.12 05/24/2028	
+	Banque Federative du Credit Mutuel SA 1.25 01/14/2025	
+	RWE AG 2.12 05/24/2026	
+	Sky Ltd 2.5 09/15/2026	
+	BP Capital Markets PLC 1.57 02/16/2027	
+	Societe Generale SA 2.62 02/27/2025	
+	Telefonica Emisiones SA 1.46 04/13/2026	
+	Banque Federative du Credit Mutuel SA 3 09/11/2025	
+	CK Hutchison Finance 16 II Ltd 0.88 10/03/2024	
+	Vonovia Finance BV 2.25 12/15/2023	
+	Volkswagen Leasing GmbH 1.38 01/20/2025	
+	Volkswagen Leasing GmbH 1.12 04/04/2024	
+	Standard Chartered PLC 5.12 06/06/2034	
+	Credit Suisse AG/London 2.12 05/31/2024	
+	Stellantis NV 4.5 07/07/2028	
+	OP Corporate Bank plc 0.5 08/12/2025	
+	Banque Federative du Credit Mutuel SA 3 05/21/2024	
+	Stellantis NV 2.75 05/15/2026	
+	ELO SACA 2.88 01/29/2026	
+	Banco Bilbao Vizcaya Argentaria SA 0.75 06/04/2025	
+	Santander Consumer Finance SA 0.38 01/17/2025	
+	Carrefour SA 2.62 12/15/2027	
+	BNP Paribas SA 3.62 09/01/2029	
+	Engie SA 1.38 03/27/2025	
+	NatWest Markets PLC 2.75 04/02/2025	
+	Assicurazioni Generali SpA 4.12 05/04/2026	
+	Danske Bank A/S 0.62 05/26/2025	
+	BP Capital Markets PLC 2.52 04/07/2028	
+	Banco Santander SA 3.12 01/19/2027	
+	Vonovia Finance BV 1.25 12/06/2024	
+	ING Groep NV 1.12 02/14/2025	
+	Banco Bilbao Vizcaya Argentaria SA 3.5 02/10/2027	
+	Telefonica Emisiones SA 1.45 01/22/2027	
+	HeidelbergCement Finance Luxembourg SA 1.62 04/07/2026	
+	Eni SpA 3.75 09/12/2025	
+	Intesa Sanpaolo SpA 1.38 01/18/2024	
+	Clarion Funding PLC 3.12 04/19/2048	
+	Banco Bilbao Vizcaya Argentaria SA 1.38 05/14/2025	
+	Smurfit Kappa Acquisitions ULC 2.88 01/15/2026	
+	Volkswagen International Finance NV 4.12 11/16/2038	
+	Banco Santander SA 1.12 01/17/2025	
+	British Telecommunications PLC 1 11/21/2024	
+	CaixaBank SA 1.12 05/17/2024	
+	Banco Bilbao Vizcaya Argentaria SA 0.38 10/02/2024	
+	Sumitomo Mitsui Financial Group Inc 0.63 10/23/2029	
+	Santander Consumer Finance SA 0.38 06/27/2024	
+	BPCE SA 1 04/01/2025	
+	Volkswagen Financial Services AG 1.5 10/01/2024	
+	Commerzbank AG 0.62 08/28/2024	
+	Eni SpA 3.62 01/29/2029	
+	Enel Finance International NV 1.5 07/21/2025	
+	KBC Group NV 1.12 01/25/2024	
+	ING Groep NV 2.12 01/10/2026	
+	Bayer AG 0.05 01/12/2025	
+	Aeroports de Paris 2.12 10/02/2026	
+	CaixaBank SA 0.38 02/03/2025	
+	BP Capital Markets PLC 2.97 02/27/2026	
+	Banque Federative du Credit Mutuel SA 2.38 03/24/2026	
+	Imperial Brands Finance PLC 4.88 06/07/2032	
+	Banco Santander SA 0.3 10/04/2026	
+	UniCredit SpA 0.5 04/09/2025	
+	HSBC Continental Europe SA 0.1 09/03/2027	
+	Banco de Sabadell SA 0.88 07/22/2025	
+	Banco Bilbao Vizcaya Argentaria SA 0.38 11/15/2026	
+	Banco Santander SA 0.5 02/04/2027	
+	Logicor Financing Sarl 1.62 07/15/2027	
+	ABN AMRO Bank NV 0.6 01/15/2027	
+	Bouygues SA 1.12 07/24/2028	
+	TenneT Holding BV 2.12 11/17/2029	
+	E.ON SE 0.38 09/29/2027	
+	Intesa Sanpaolo SpA 1 11/19/2026	
+	Commerzbank AG 0.5 12/04/2026	
+	Siemens Financieringsmaatschappij NV 0.25 02/20/2029	
+	Landesbank Baden-Wuerttemberg 0.38 02/18/2027	
+	Wintershall Dea Finance BV 0.84 09/25/2025	
+	Societe Generale SA 0.12 02/24/2026	
+	Enel Finance International NV 0.38 06/17/2027	
+	Cie de Saint-Gobain 1.88 03/15/2031	
+	Autoroutes du Sud de la France SA 1.38 02/21/2031	
+	BNP Paribas SA 0.12 09/04/2026	
+	Societe Generale SA 1.75 03/22/2029	
+	Abertis Infraestructuras SA 3 03/27/2031	
+	Vodafone Group PLC 1.62 11/24/2030	
+	Banco Bilbao Vizcaya Argentaria SA 1 06/21/2026	
+	Telefonica Emisiones SA 1.79 03/12/2029	
+	CaixaBank SA 1.12 03/27/2026	
+	Deutsche Telekom AG 1.75 03/25/2031	
+	Intesa Sanpaolo SpA 1.75 07/04/2029	
+	Telenor ASA 0.75 05/31/2026	
+	Toyota Motor Credit Corp 0.25 07/16/2026	
+	Banque Federative du Credit Mutuel SA 1.75 03/15/2029	
+	Toronto-Dominion Bank/The 1.95 04/08/2030	
+	BPCE SA 0.5 02/24/2027	
+	Credit Agricole SA 2.5 08/29/2029	
+	Terna - Rete Elettrica Nazionale 1.38 07/26/2027	
+	Orange SA 1.38 01/16/2030	
+	Orange SA 1.38 03/20/2028	
+	Autoroutes du Sud de la France SA 1.38 01/22/2030	
+	Cie Generale des Etablissements Michelin SCA 1.75 09/03/2030	
+	Siemens Financieringsmaatschappij NV 1.38 09/06/2030	
+	E.ON International Finance BV 1.5 07/31/2029	
+	Orange SA 1.88 09/12/2030	
+	Banco Santander SA 2.12 02/08/2028	
+	BPCE SA 1 10/05/2028	
+	Australia & New Zealand Banking Group Ltd 0.75 09/29/2026	
+	BNP Paribas SA 1.5 05/23/2028	
+	BAT International Finance PLC 2.25 09/09/2052	
+	Lloyds Banking Group PLC 1.5 09/12/2027	
+	ING Groep NV 1.38 01/11/2028	
+	BNP Paribas SA 2.25 01/11/2027	
+	HSBC Bank PLC 4.75 03/24/2046	
+	Enel Finance International NV 0.5 06/17/2030	
+	Shell International Finance BV 1.88 04/07/2032	
+	Credit Suisse AG/London 0.25 09/01/2028	
+	Airbus SE 2.38 04/07/2032	
+	TotalEnergies Capital International SA 1.99 04/08/2032	
+	Swedbank AB 0.25 11/02/2026	
+	NatWest Markets PLC 0.12 11/12/2025	
+	Banco Santander SA 1.12 06/23/2027	
+	NatWest Markets PLC 1.38 03/02/2027	
+	Svenska Handelsbanken AB 0.12 11/03/2026	
+	OP Corporate Bank plc 0.1 11/16/2027	
+	Toyota Motor Credit Corp 0.12 11/05/2027	
+	EssilorLuxottica SA 0.5 06/05/2028	
+	Enel Finance International NV 0.25 11/17/2025	
+	Toronto-Dominion Bank/The 3.13 08/03/2032	
+	BASF SE 0.25 06/05/2027	
+	Unibail-Rodamco-Westfield SE 0.62 05/04/2027	
+	Medtronic Global Holdings SCA 0.38 10/15/2028	
+	Diageo Finance PLC 2.5 03/27/2032	
+	Traton Finance Luxembourg SA 0.12 03/24/2025	
+	Equinor ASA 1.38 05/22/2032	
+	Societe Generale SA 0.25 07/08/2027	
+	Shell International Finance BV 1.5 04/07/2028	
+	BPCE SA 0.38 02/02/2026	
+	RWE AG 2.75 05/24/2030	
+	Volkswagen Leasing GmbH 0.38 07/20/2026	
+	Volkswagen Financial Services AG 0.12 02/12/2027	
+	Royal Bank of Canada 2.12 04/26/2029	
+	LeasePlan Corp NV 0.25 02/23/2026	
+	TotalEnergies Capital International SA 1.38 10/04/2029	
+	Mercedes-Benz Group AG 1 11/15/2027	
+	Aroundtown SA 3 10/16/2029	
+	Mercedes-Benz Group AG 1.38 05/11/2028	
+	BNP Paribas SA 1.5 05/25/2028	
+	Richemont International Holding SA 1.5 03/26/2030	
+	British Telecommunications PLC 1.5 06/23/2027	
+	Nordea Bank Abp 1.12 09/27/2027	
+	BASF SE 0.88 11/15/2027	
+	Bouygues SA 3.25 06/30/2037	
+	Holding d'Infrastructures de Transport SASU 1.48 01/18/2031	
+	Equinor ASA 1.62 02/17/2035	
+	Aroundtown SA 0.38 04/15/2027	
+	Intesa Sanpaolo SpA 0.75 03/16/2028	
+	Mercedes-Benz Group AG 0.75 09/10/2030	
+	Enel Finance International NV 0.38 05/28/2029	
+	ABN AMRO Bank NV 0.5 09/23/2029	
+	Societe Generale SA 0.12 02/18/2028	
+	Vonovia SE 0.62 12/14/2029	
+	Vonovia SE 0.38 06/16/2027	
+	Grand City Properties SA 0.12 01/11/2028	
+	Volkswagen International Finance NV 0.88 09/22/2028	
+	BPCE SA 0.75 03/03/2031	
+	NTT Finance Corp 0.34 03/03/2030	
+	Bayer AG 1.12 01/06/2030	
+	Mizuho Financial Group Inc 0.69 10/07/2030	
+	Medtronic Global Holdings SCA 0.75 10/15/2032	
+	Svenska Handelsbanken AB 0.05 09/06/2028	
+	BPCE SA 1 01/14/2032	
+	Banco Santander SA 1.62 10/22/2030	
+	ASTM SpA 2.38 11/25/2033	
+	Eni SpA 0.38 06/14/2028	
+	Shell International Finance BV 1.25 11/11/2032	
+	Airbus SE 2.38 06/09/2040	
+	Banque Federative du Credit Mutuel SA 1.25 06/03/2030	
+	Banque Federative du Credit Mutuel SA 0.25 07/19/2028	
+	Eni SpA 0.62 01/23/2030	
+	Sanofi 1.88 03/21/2038	
+	Coentreprise de Transport d'Electricite SA 2.12 07/29/2032	
+	Dassault Systemes SE 0.38 09/16/2029	
+	Cooperatieve Rabobank UA 1.12 05/07/2031	
+	Mercedes-Benz Group AG 1.12 11/06/2031	
+	Takeda Pharmaceutical Co Ltd 1.38 07/09/2032	
+	Bayer AG 0.38 01/12/2029	
+	Holcim Finance Luxembourg SA 0.5 09/03/2030	
+	EssilorLuxottica SA 0.75 11/27/2031	
+	Svenska Handelsbanken AB 0.5 02/18/2030	
+	Wintershall Dea Finance BV 1.82 09/25/2031	
+	Shell International Finance BV 0.5 11/08/2031	
+	Orange SA 0.5 09/04/2032	
+	Societe Generale SA 1.25 06/12/2030	
+	Siemens Financieringsmaatschappij NV 0.12 09/05/2029	
+	Banque Federative du Credit Mutuel SA 0.75 01/17/2030	
+	BP Capital Markets PLC 1.23 05/08/2031	
+	Banque Federative du Credit Mutuel SA 1.88 06/18/2029	
+	BNP Paribas SA 1.62 07/02/2031	
+	Siemens Financieringsmaatschappij NV 0.5 09/05/2034	
+	Bayer AG 0.62 07/12/2031	
+	Takeda Pharmaceutical Co Ltd 2 07/09/2040	
+	Credit Suisse Group AG 0.65 09/10/2029	
+	BNP Paribas SA 2 09/13/2036	
+	TotalEnergies Capital International SA 1.62 05/18/2040	
+	CCEP Finance Ireland DAC 0.88 05/06/2033	
+	Prosus NV 1.29 07/13/2029	
+	ABN AMRO Bank NV 1.25 01/20/2034	
+	Unibail-Rodamco-Westfield SE 1.38 12/04/2031	
+	Medtronic Global Holdings SCA 1.38 10/15/2040	
+	UniCredit SpA 0.85 01/19/2031	
+	TenneT Holding BV 0.88 06/16/2035	
+	ABN AMRO Bank NV 1 06/02/2033	
+	Vonovia SE 1 06/16/2033	
+	Imperial Brands Finance Netherlands BV 1.75 03/18/2033	
+	Credit Agricole Assurances SA 1.5 10/06/2031	
+	Stellantis NV 1.25 06/20/2033	
+	Medtronic Global Holdings SCA 1.62 10/15/2050	
+	Enel Finance International NV 0.88 06/17/2036	
+	Shell International Finance BV 0.88 11/08/2039	
+	Enel Finance International NV 1.38 06/01/2026	
+	Telstra Corp Ltd 2.5 09/15/2023	
+	Deutsche Bahn Finance GMBH 0.62 12/08/2050	
+	Cash/Receivables/Payables 0	

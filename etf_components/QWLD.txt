@@ -1,0 +1,995 @@
+QWLD
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=QWLD
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=QWLD
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=QWLD
+	Nestle S.A.	
+UNH	UnitedHealth Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=QWLD
+	Roche Holding Ltd Dividend Right Cert.	
+META	Meta Platforms Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=QWLD
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=QWLD
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=QWLD
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=QWLD
+MRK	Merck & Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=QWLD
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=QWLD
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=QWLD
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=QWLD
+LLY	Eli Lilly and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=QWLD
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=QWLD
+	Novo Nordisk A/S Class B	
+ACN	Accenture Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=QWLD
+	Novartis AG	
+MA	Mastercard Incorporated Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=QWLD
+BRK.B	Berkshire Hathaway Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=QWLD
+COST	Costco Wholesale Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=QWLD
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=QWLD
+WM	Waste Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=QWLD
+VRTX	Vertex Pharmaceuticals Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=QWLD
+KO	Coca-Cola Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=QWLD
+	ASML Holding NV	
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=QWLD
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=QWLD
+REGN	Regeneron Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=QWLD
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=QWLD
+ADP	Automatic Data Processing Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=QWLD
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=QWLD
+	Deutsche Telekom AG	
+ED	Consolidated Edison Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=QWLD
+PAYX	Paychex Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=QWLD
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=QWLD
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=QWLD
+SO	Southern Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=QWLD
+TGT	Target Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=QWLD
+HSY	Hershey Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=QWLD
+PG	Procter & Gamble Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=QWLD
+RSG	Republic Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=QWLD
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=QWLD
+GILD	Gilead Sciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=QWLD
+KR	Kroger Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=QWLD
+	BHP Group Ltd	
+MMC	Marsh & McLennan Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=QWLD
+PGR	Progressive Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=QWLD
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=QWLD
+QCOM	Qualcomm Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=QWLD
+MSI	Motorola Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=QWLD
+UNP	Union Pacific Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=QWLD
+TMUS	T-Mobile US Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=QWLD
+BAC	Bank of America Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=QWLD
+HON	Honeywell International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=QWLD
+9432.JP&back=QWLD	Nippon Telegraph and Telephone Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=9432.JP&back=QWLD
+DUK	Duke Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=QWLD
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=QWLD
+DG	Dollar General Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=QWLD
+MCD	McDonald's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=QWLD
+AMD	Advanced Micro Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=QWLD
+NKE	NIKE Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=QWLD
+KEYS	Keysight Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=QWLD
+XEL	Xcel Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=QWLD
+NEM	Newmont Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=QWLD
+WFC	Wells Fargo & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=QWLD
+6861.JP&back=QWLD	Keyence Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6861.JP&back=QWLD
+LMT	Lockheed Martin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=QWLD
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=QWLD
+C	Citigroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=QWLD
+	Franco-Nevada Corporation	
+	Unilever PLC	
+9433.JP&back=QWLD	KDDI Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=9433.JP&back=QWLD
+SPGI	S&P Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=QWLD
+EXPD	Expeditors International of Washington Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=QWLD
+D	Dominion Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=QWLD
+K	Kellogg Company	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=QWLD
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=QWLD
+NFLX	Netflix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=QWLD
+APH	Amphenol Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=QWLD
+AMAT	Applied Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=QWLD
+BMY	Bristol-Myers Squibb Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=QWLD
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=QWLD
+7974.JP&back=QWLD	Nintendo Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7974.JP&back=QWLD
+9434.JP&back=QWLD	SoftBank Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=9434.JP&back=QWLD
+CHRW	C.H. Robinson Worldwide Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=QWLD
+8001.JP&back=QWLD	Itochu Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8001.JP&back=QWLD
+	Toronto-Dominion Bank	
+	Givaudan SA	
+WEC	WEC Energy Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=QWLD
+PYPL	PayPal Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=QWLD
+7751.JP&back=QWLD	Canon Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=7751.JP&back=QWLD
+BLK	BlackRock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=QWLD
+EA	Electronic Arts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=QWLD
+	Rio Tinto plc	
+	Orange SA	
+CMCSA	Comcast Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=QWLD
+	HSBC Holdings Plc	
+	Waste Connections Inc.	
+7203.JP&back=QWLD	Toyota Motor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=7203.JP&back=QWLD
+DHR	Danaher Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=QWLD
+ZTS	Zoetis Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=QWLD
+	Hermes International SCA	
+MMM	3M Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=QWLD
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=QWLD
+	Swisscom AG	
+	Intact Financial Corporation	
+HRL	Hormel Foods Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=QWLD
+8411.JP&back=QWLD	Mizuho Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8411.JP&back=QWLD
+AZO	AutoZone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=QWLD
+	STATE STREET INSTITUTIONAL LIQ STATE STR	
+	CSL Limited	
+CHD	Church & Dwight Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=QWLD
+	L'Oreal S.A.	
+	Kuehne & Nagel International AG	
+CVS	CVS Health Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=QWLD
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=QWLD
+CVX	Chevron Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=QWLD
+BR	Broadridge Financial Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=QWLD
+LRCX	Lam Research Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=QWLD
+	GSK plc	
+JKHY	Jack Henry & Associates Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=QWLD
+ALL	Allstate Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=QWLD
+	Koninklijke Ahold Delhaize N.V.	
+	BP p.l.c.	
+CLX	Clorox Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=QWLD
+	Singapore Telecommunications Limited	
+BX	Blackstone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=QWLD
+AON	Aon Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=QWLD
+	Canadian National Railway Company	
+CCI	Crown Castle Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=QWLD
+8058.JP&back=QWLD	Mitsubishi Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8058.JP&back=QWLD
+	Sanofi	
+	Shell PLC	
+	Citrix Systems Inc.	
+NOC	Northrop Grumman Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=QWLD
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=QWLD
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=QWLD
+8306.JP&back=QWLD	Mitsubishi UFJ Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8306.JP&back=QWLD
+VRSN	VeriSign Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=QWLD
+TJX	TJX Companies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=QWLD
+KLAC	KLA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=QWLD
+ABC	AmerisourceBergen Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=QWLD
+AEP	American Electric Power Company Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=QWLD
+INCY	Incyte Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=QWLD
+ATVI	Activision Blizzard Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=QWLD
+CME	CME Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CME.US&back=QWLD
+NEE	NextEra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=QWLD
+GS	Goldman Sachs Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=QWLD
+GM	General Motors Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=QWLD
+ISRG	Intuitive Surgical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=QWLD
+EL	Estee Lauder Companies Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=QWLD
+	TotalEnergies SE	
+ORLY	O'Reilly Automotive Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=QWLD
+4519.JP&back=QWLD	Chugai Pharmaceutical Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4519.JP&back=QWLD
+0011.HK&back=QWLD	Hang Seng Bank Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0011.HK&back=QWLD
+FISV	Fiserv Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=QWLD
+	Wesfarmers Limited	
+CI	Cigna Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=QWLD
+MKC	McCormick & Company Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=QWLD
+CDNS	Cadence Design Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=QWLD
+CBOE	Cboe Global Markets Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CBOE.US&back=QWLD
+ITW	Illinois Tool Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=QWLD
+SGEN	Seagen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=QWLD
+	Royal Bank of Canada	
+8316.JP&back=QWLD	Sumitomo Mitsui Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8316.JP&back=QWLD
+EMR	Emerson Electric Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=QWLD
+	Coloplast A/S Class B	
+4684.JP&back=QWLD	OBIC Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4684.JP&back=QWLD
+	CGI Inc. Class A	
+	Elisa Oyj Class A	
+F	Ford Motor Company	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=QWLD
+BRO	Brown & Brown Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=QWLD
+	Anglo American plc	
+CL	Colgate-Palmolive Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=QWLD
+MDT	Medtronic Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=QWLD
+LBRDK	Liberty Broadband Corp. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDK.US&back=QWLD
+	Logitech International S.A.	
+DIS	Walt Disney Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=QWLD
+BAH	Booz Allen Hamilton Holding Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=QWLD
+MCK	McKesson Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=QWLD
+CTSH	Cognizant Technology Solutions Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=QWLD
+	Partners Group Holding AG	
+	BNP Paribas S.A. Class A	
+BDX	Becton Dickinson and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=QWLD
+ROP	Roper Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=QWLD
+	Reckitt Benckiser Group plc	
+	Kerry Group Plc Class A	
+	Akamai Technologies Inc.	
+	Symrise AG	
+EW	Edwards Lifesciences Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=QWLD
+BMRN	BioMarin Pharmaceutical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMRN.US&back=QWLD
+KMB	Kimberly-Clark Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=QWLD
+	TELUS Corporation	
+0823.HK&back=QWLD	Link Real Estate Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=0823.HK&back=QWLD
+TRV	Travelers Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=QWLD
+GD	General Dynamics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=QWLD
+	Schindler Holding AG Pref	
+0388.HK&back=QWLD	Hong Kong Exchanges & Clearing Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=0388.HK&back=QWLD
+4661.JP&back=QWLD	Oriental Land Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4661.JP&back=QWLD
+ELV	Elevance Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=QWLD
+	Jardine Matheson Holdings Limited	
+	Thomson Reuters Corporation	
+	Constellation Software Inc.	
+ICE	Intercontinental Exchange Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=QWLD
+DPZ	Domino's Pizza Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DPZ.US&back=QWLD
+	Commonwealth Bank of Australia	
+AMCR	Amcor PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=QWLD
+4901.JP&back=QWLD	FUJIFILM Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4901.JP&back=QWLD
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=QWLD
+7309.JP&back=QWLD	Shimano Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=7309.JP&back=QWLD
+	Mercedes-Benz Group AG	
+9735.JP&back=QWLD	Secom Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9735.JP&back=QWLD
+CTAS	Cintas Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=QWLD
+	AstraZeneca PLC	
+	Zurich Insurance Group Ltd	
+GWW	W.W. Grainger Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=QWLD
+	Volkswagen AG Pref	
+7267.JP&back=QWLD	Honda Motor Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7267.JP&back=QWLD
+CHKP	Check Point Software Technologies Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHKP.US&back=QWLD
+BKI	Black Knight Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKI.US&back=QWLD
+0066.HK&back=QWLD	MTR Corporation Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0066.HK&back=QWLD
+SJM	J.M. Smucker Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=QWLD
+	Banco Santander S.A.	
+CAH	Cardinal Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=QWLD
+	Ferrari NV	
+FIS	Fidelity National Information Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=QWLD
+	Alimentation Couche-Tard Inc. Class A	
+DGX	Quest Diagnostics Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=QWLD
+TROW	T. Rowe Price Group	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=QWLD
+CMI	Cummins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=QWLD
+	Geberit AG	
+NUE	Nucor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=QWLD
+	CLP Holdings Limited	
+6758.JP&back=QWLD	Sony Group Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6758.JP&back=QWLD
+RTX	Raytheon Technologies Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=QWLD
+AJG	Arthur J. Gallagher & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=QWLD
+8035.JP&back=QWLD	Tokyo Electron Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=8035.JP&back=QWLD
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=QWLD
+	British American Tobacco p.l.c.	
+MDLZ	Mondelez International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=QWLD
+AEE	Ameren Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=QWLD
+	Singapore Exchange Ltd.	
+	UBS Group AG	
+TFC	Truist Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=QWLD
+WST	West Pharmaceutical Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=QWLD
+7741.JP&back=QWLD	HOYA CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=7741.JP&back=QWLD
+	Vodafone Group Plc	
+	Oversea-Chinese Banking Corporation Limited	
+CB	Chubb Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=QWLD
+	Glencore plc	
+BAX	Baxter International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=QWLD
+MCO	Moody's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCO.US&back=QWLD
+MPC	Marathon Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=QWLD
+0003.HK&back=QWLD	Hong Kong & China Gas Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=0003.HK&back=QWLD
+TT	Trane Technologies plc	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=QWLD
+ERIE	Erie Indemnity Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ERIE.US&back=QWLD
+4063.JP&back=QWLD	Shin-Etsu Chemical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4063.JP&back=QWLD
+FAST	Fastenal Company	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=QWLD
+	Fortescue Metals Group Ltd	
+9843.JP&back=QWLD	Nitori Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9843.JP&back=QWLD
+UPS	United Parcel Service Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=QWLD
+TW	Tradeweb Markets Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TW.US&back=QWLD
+CHTR	Charter Communications Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=QWLD
+MNST	Monster Beverage Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=QWLD
+LULU	Lululemon Athletica Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=QWLD
+	Loblaw Companies Limited	
+WU	Western Union Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=QWLD
+	Allianz SE	
+GIS	General Mills Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=QWLD
+	Telefonaktiebolaget LM Ericsson Class B	
+COF	Capital One Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=QWLD
+AFL	Aflac Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=QWLD
+6965.JP&back=QWLD	Hamamatsu Photonics K.K.	/etf/ea/ETZCW.djhtm?c=1&etfid=6965.JP&back=QWLD
+	Stellantis N.V.	
+	Westpac Banking Corporation	
+	Rio Tinto Limited	
+	Barclays PLC	
+	RELX PLC	
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=QWLD
+	Agnico Eagle Mines Limited	
+	DBS Group Holdings Ltd	
+	Atlas Copco AB Class A	
+DHI	D.R. Horton Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=QWLD
+	Bank of Nova Scotia	
+	LVMH Moet Hennessy Louis Vuitton SE	
+ES	Eversource Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=QWLD
+	Lloyds Banking Group plc	
+	ING Groep NV	
+	Woodside Energy Group Ltd	
+CPB	Campbell Soup Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=QWLD
+6701.JP&back=QWLD	NEC Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=6701.JP&back=QWLD
+MKL	Markel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=QWLD
+NBIX	Neurocrine Biosciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NBIX.US&back=QWLD
+A	Agilent Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=QWLD
+PNC	PNC Financial Services Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=QWLD
+AMP	Ameriprise Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=QWLD
+	National Australia Bank Limited	
+	Imperial Brands PLC	
+TMO	Thermo Fisher Scientific Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=QWLD
+	QIAGEN NV	
+FFIV	F5 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=QWLD
+	Wolters Kluwer NV	
+FTNT	Fortinet Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=QWLD
+IDXX	IDEXX Laboratories Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=QWLD
+3283.JP&back=QWLD	Nippon Prologis REIT Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=3283.JP&back=QWLD
+ODFL	Old Dominion Freight Line Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=QWLD
+ANET	Arista Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=QWLD
+LYB	LyondellBasell Industries NV	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=QWLD
+JNPR	Juniper Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=QWLD
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=QWLD
+RMD	ResMed Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=QWLD
+TEL	TE Connectivity Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=QWLD
+	Banco Bilbao Vizcaya Argentaria S.A.	
+	EMS-CHEMIE HOLDING AG	
+	Telenor ASA	
+6501.JP&back=QWLD	HitachiLtd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6501.JP&back=QWLD
+	AXA SA	
+	Ferguson Plc	
+LOW	Lowe's Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=QWLD
+	Bank of Montreal	
+BBY	Best Buy Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=QWLD
+2388.HK&back=QWLD	BOC Hong Kong (Holdings) Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=2388.HK&back=QWLD
+9502.JP&back=QWLD	Chubu Electric Power CompanyIncorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=9502.JP&back=QWLD
+	Australia and New Zealand Banking Group Limited	
+AWK	American Water Works Company Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=QWLD
+MU	Micron Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=QWLD
+6178.JP&back=QWLD	JAPAN POST HOLDINGS Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6178.JP&back=QWLD
+	BCE Inc.	
+	Societe Generale S.A. Class A	
+HUM	Humana Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=QWLD
+	Bank Leumi Le-Israel Ltd.	
+	UniCredit S.p.A.	
+SBUX	Starbucks Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=QWLD
+6981.JP&back=QWLD	Murata Manufacturing Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6981.JP&back=QWLD
+	Adyen NV	
+	Royal KPN NV	
+	Canadian Pacific Railway Limited	
+ADI	Analog Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=QWLD
+	Swiss Prime Site AG	
+DLTR	Dollar Tree Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=QWLD
+FDX	FedEx Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=QWLD
+8031.JP&back=QWLD	Mitsui & Co.Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8031.JP&back=QWLD
+	Chocoladefabriken Lindt & Spruengli AG Partizipsch.	
+0001.HK&back=QWLD	CK Hutchison Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0001.HK&back=QWLD
+USB	U.S. Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=QWLD
+CPRT	Copart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRT.US&back=QWLD
+	SGS SA	
+3064.JP&back=QWLD	MonotaRO Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3064.JP&back=QWLD
+	Mizrahi Tefahot Bank Ltd	
+CNC	Centene Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=QWLD
+NLY	Annaly Capital Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=QWLD
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=QWLD
+	Investor AB Class B	
+EVRG	Evergy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=QWLD
+1299.HK&back=QWLD	AIA Group Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=1299.HK&back=QWLD
+	Barrick Gold Corporation	
+	Kone Oyj Class B	
+CAT	Caterpillar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=QWLD
+DE	Deere & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=QWLD
+9613.JP&back=QWLD	NTT DATA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=9613.JP&back=QWLD
+	Spark New Zealand Limited	
+BF.B	Brown-Forman Corporation Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=QWLD
+SCHW	Charles Schwab Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=QWLD
+	Standard Chartered PLC	
+5020.JP&back=QWLD	ENEOS Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=5020.JP&back=QWLD
+ADM	Archer-Daniels-Midland Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=QWLD
+PSX	Phillips 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=QWLD
+CMS	CMS Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=QWLD
+	Novozymes A/S Class B	
+ROK	Rockwell Automation Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROK.US&back=QWLD
+	Iberdrola SA	
+BIIB	Biogen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=QWLD
+7832.JP&back=QWLD	Bandai Namco Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=7832.JP&back=QWLD
+SIVB	SVB Financial Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVB.US&back=QWLD
+HZNP	Horizon Therapeutics Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HZNP.US&back=QWLD
+6823.HK&back=QWLD	HKT Trust and HKT Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6823.HK&back=QWLD
+	Enbridge Inc.	
+WBA	Walgreens Boots Alliance Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=QWLD
+UHAL	AMERCO	/etf/ea/ETZCW.djhtm?c=1&etfid=UHAL.US&back=QWLD
+	Bayer AG	
+9020.JP&back=QWLD	East Japan Railway Company	/etf/ea/ETZCW.djhtm?c=1&etfid=9020.JP&back=QWLD
+	Siemens AG	
+VEEV	Veeva Systems Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=QWLD
+	Bayerische Motoren Werke AG	
+9984.JP&back=QWLD	SoftBank Group Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=9984.JP&back=QWLD
+0006.HK&back=QWLD	Power Assets Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0006.HK&back=QWLD
+7182.JP&back=QWLD	Japan Post Bank Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7182.JP&back=QWLD
+VLO	Valero Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=QWLD
+ULTA	Ulta Beauty Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=QWLD
+	Munich Reinsurance Company	
+IEX	IDEX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=QWLD
+CTVA	Corteva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=QWLD
+	Canadian Imperial Bank of Commerce	
+TSCO	Tractor Supply Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=QWLD
+	BASF SE	
+EPAM	EPAM Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=QWLD
+GE	General Electric Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=QWLD
+5108.JP&back=QWLD	Bridgestone Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=5108.JP&back=QWLD
+	Intesa Sanpaolo S.p.A.	
+Y	Alleghany Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=Y.US&back=QWLD
+9602.JP&back=QWLD	Toho Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9602.JP&back=QWLD
+ROL	Rollins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROL.US&back=QWLD
+7532.JP&back=QWLD	Pan Pacific International Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=7532.JP&back=QWLD
+AIG	American International Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=QWLD
+8766.JP&back=QWLD	Tokio Marine Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8766.JP&back=QWLD
+TER	Teradyne Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=QWLD
+	Deutsche Post AG	
+	Sofina SA	
+	Telefonica SA	
+TTWO	Take-Two Interactive Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=QWLD
+	Industria de Diseno Textil S.A.	
+	Neste Corporation	
+LH	Laboratory Corporation of America Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=QWLD
+EOG	EOG Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=QWLD
+	Stellantis N.V.	
+MET	MetLife Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=QWLD
+AVY	Avery Dennison Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=QWLD
+9532.JP&back=QWLD	Osaka Gas Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9532.JP&back=QWLD
+NSC	Norfolk Southern Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=QWLD
+AXP	American Express Company	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=QWLD
+	Admiral Group plc	
+3382.JP&back=QWLD	Seven & I Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3382.JP&back=QWLD
+TSN	Tyson Foods Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=QWLD
+PAYC	Paycom Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=QWLD
+	Metro Inc.	
+	SAP SE	
+HIG	Hartford Financial Services Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=QWLD
+MKTX	MarketAxess Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MKTX.US&back=QWLD
+	ArcelorMittal SA	
+4704.JP&back=QWLD	Trend Micro Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=4704.JP&back=QWLD
+HSIC	Henry Schein Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HSIC.US&back=QWLD
+	Sonova Holding AG	
+BAM	Brookfield Asset Management Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BAM.US&back=QWLD
+MO	Altria Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=QWLD
+	Manulife Financial Corporation	
+8002.JP&back=QWLD	Marubeni Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8002.JP&back=QWLD
+	Telefonica Deutschland Holding AG	
+COO	Cooper Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COO.US&back=QWLD
+	Canadian Natural Resources Limited	
+NLOK	NortonLifeLock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=QWLD
+	Tryg A/S	
+0669.HK&back=QWLD	Techtronic Industries Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=0669.HK&back=QWLD
+4768.JP&back=QWLD	Otsuka Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=4768.JP&back=QWLD
+0016.HK&back=QWLD	Sun Hung Kai Properties Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0016.HK&back=QWLD
+TYL	Tyler Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=QWLD
+MTB	M&T Bank Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=QWLD
+	Recordati Industria Chimica e Farmaceutica S.p.A.	
+	Eurofins Scientific Societe Europeenne	
+COIN	Coinbase Global Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=QWLD
+NVR	NVR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=QWLD
+SNA	Snap-on Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=SNA.US&back=QWLD
+	Air Liquide SA	
+ETN	Eaton Corp. Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=QWLD
+6806.JP&back=QWLD	HIROSE ELECTRIC CO. LTD.	/etf/ea/ETZCW.djhtm?c=1&etfid=6806.JP&back=QWLD
+SWKS	Skyworks Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=QWLD
+	A.P. Moller - Maersk A/S Class A	
+	Atlas Copco AB Class B	
+	National Grid plc	
+	Rogers Communications Inc. Class B	
+	Haleon PLC	
+6902.JP&back=QWLD	DENSO CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=6902.JP&back=QWLD
+SWK	Stanley Black & Decker Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=QWLD
+9501.JP&back=QWLD	Tokyo Electric Power Company Holdings Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=9501.JP&back=QWLD
+	United Overseas Bank Ltd. (Singapore)	
+GPC	Genuine Parts Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=QWLD
+PPG	PPG Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PPG.US&back=QWLD
+BK	Bank of New York Mellon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=QWLD
+SHW	Sherwin-Williams Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=QWLD
+SYK	Stryker Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SYK.US&back=QWLD
+	Sandvik AB	
+	Compass Group PLC	
+PHM	PulteGroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=QWLD
+	Schneider Electric SE	
+EXC	Exelon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=QWLD
+CFG	Citizens Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=QWLD
+CSX	CSX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=QWLD
+	Assicurazioni Generali S.p.A.	
+8591.JP&back=QWLD	ORIX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8591.JP&back=QWLD
+	CaixaBank SA	
+	Woolworths Group Ltd	
+	Infrastrutture Wireless Italiane S.p.A.	
+4452.JP&back=QWLD	Kao Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=4452.JP&back=QWLD
+	Siemens Healthineers AG	
+	Deutsche Bank Aktiengesellschaft	
+3626.JP&back=QWLD	TIS Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=3626.JP&back=QWLD
+	Schindler Holding AG	
+	Nutrien Ltd.	
+ACGL	Arch Capital Group Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGL.US&back=QWLD
+2587.JP&back=QWLD	Suntory Beverage & Food Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2587.JP&back=QWLD
+FNF	Fidelity National Financial Inc. - FNF Group	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=QWLD
+MPWR	Monolithic Power Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=QWLD
+STLD	Steel Dynamics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=QWLD
+	BAE Systems plc	
+9143.JP&back=QWLD	SG Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9143.JP&back=QWLD
+2802.JP&back=QWLD	Ajinomoto Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=2802.JP&back=QWLD
+4732.JP&back=QWLD	USS Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4732.JP&back=QWLD
+6869.JP&back=QWLD	Sysmex Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6869.JP&back=QWLD
+CRM	Salesforce Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=QWLD
+DTE	DTE Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=QWLD
+CLF	Cleveland-Cliffs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=QWLD
+	Fairfax Financial Holdings Limited	
+WRB	W. R. Berkley Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=QWLD
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=QWLD
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=QWLD
+4502.JP&back=QWLD	Takeda Pharmaceutical Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4502.JP&back=QWLD
+4716.JP&back=QWLD	Oracle Corporation Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=4716.JP&back=QWLD
+	Telia Company AB	
+8697.JP&back=QWLD	Japan Exchange Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8697.JP&back=QWLD
+RF	Regions Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=QWLD
+2269.JP&back=QWLD	Meiji Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2269.JP&back=QWLD
+2914.JP&back=QWLD	Japan Tobacco Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=2914.JP&back=QWLD
+JCI	Johnson Controls International plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JCI.US&back=QWLD
+LIN	Linde plc	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=QWLD
+POOL	Pool Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=POOL.US&back=QWLD
+	Duke Realty Corporation	
+	Enel SpA	
+8267.JP&back=QWLD	AEON Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=8267.JP&back=QWLD
+	Croda International Plc	
+	Proximus SA de droit public	
+	VINCI SA	
+OMC	Omnicom Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=QWLD
+7011.JP&back=QWLD	Mitsubishi Heavy Industries Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7011.JP&back=QWLD
+2638.HK&back=QWLD	HK Electric Investments & HK Electric Investments Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2638.HK&back=QWLD
+AMT	American Tower Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=QWLD
+6857.JP&back=QWLD	Advantest Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=6857.JP&back=QWLD
+ABMD	ABIOMED Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABMD.US&back=QWLD
+VTRS	Viatris Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=QWLD
+KHC	Kraft Heinz Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=QWLD
+	Sartorius Stedim Biotech SA	
+BIO	Bio-Rad Laboratories Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BIO.US&back=QWLD
+	Suncor Energy Inc.	
+7201.JP&back=QWLD	Nissan Motor Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7201.JP&back=QWLD
+8750.JP&back=QWLD	Dai-ichi Life HoldingsInc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8750.JP&back=QWLD
+GRMN	Garmin Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=QWLD
+CBRE	CBRE Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=QWLD
+CE	Celanese Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=QWLD
+	Shaw Communications Inc. Class B	
+SYY	Sysco Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=QWLD
+AFG	American Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=QWLD
+WHR	Whirlpool Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=QWLD
+HCA	HCA Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=QWLD
+WTW	Willis Towers Watson Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WTW.US&back=QWLD
+FDS	FactSet Research Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=QWLD
+8630.JP&back=QWLD	Sompo HoldingsInc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8630.JP&back=QWLD
+2702.JP&back=QWLD	Mcdonalds Holdings Company Japan Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2702.JP&back=QWLD
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=QWLD
+	Repsol SA	
+4503.JP&back=QWLD	Astellas Pharma Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=4503.JP&back=QWLD
+	Volvo AB Class B	
+	Danone SA	
+6752.JP&back=QWLD	Panasonic Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6752.JP&back=QWLD
+	ENGIE SA.	
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=QWLD
+	Credit Agricole SA	
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=QWLD
+	George Weston Limited	
+EQR	Equity Residential	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=QWLD
+PLD	Prologis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=QWLD
+STT	State Street Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=QWLD
+LHX	L3Harris Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=QWLD
+LEN	Lennar Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=QWLD
+5401.JP&back=QWLD	NIPPON STEEL CORP.	/etf/ea/ETZCW.djhtm?c=1&etfid=5401.JP&back=QWLD
+	Evolution AB	
+	Renault SA	
+9064.JP&back=QWLD	Yamato Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9064.JP&back=QWLD
+WBD	Warner Bros. Discovery Inc. Series A	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=QWLD
+HEI	HEICO Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.US&back=QWLD
+	NatWest Group Plc	
+	Magna International Inc.	
+SLB	Schlumberger NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=QWLD
+	Epiroc AB Class A	
+BA	Boeing Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=QWLD
+WMB	Williams Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=QWLD
+HOLX	Hologic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=QWLD
+	Empire Co. Ltd. Class A	
+	3i Group plc	
+ALLY	Ally Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=QWLD
+	BT Group plc	
+	Compagnie de Saint-Gobain SA	
+2413.JP&back=QWLD	M3 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=2413.JP&back=QWLD
+	Pernod Ricard SA	
+	Eni S.p.A.	
+6503.JP&back=QWLD	Mitsubishi Electric Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=6503.JP&back=QWLD
+	Credit Suisse Group AG	
+6098.JP&back=QWLD	Recruit Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6098.JP&back=QWLD
+JBHT	J.B. Hunt Transport Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JBHT.US&back=QWLD
+EXR	Extra Space Storage Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=QWLD
+	ASX Limited	
+4307.JP&back=QWLD	Nomura Research InstituteLtd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4307.JP&back=QWLD
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=QWLD
+KEY	KeyCorp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=QWLD
+APO	Apollo Global Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APO.US&back=QWLD
+	Holcim Ltd	
+HPE	Hewlett Packard Enterprise Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=QWLD
+GNRC	Generac Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GNRC.US&back=QWLD
+7181.JP&back=QWLD	JAPAN POST INSURANCE Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7181.JP&back=QWLD
+	Bunzl plc	
+LNT	Alliant Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=QWLD
+PKG	Packaging Corporation of America	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=QWLD
+	Prudential plc	
+CINF	Cincinnati Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=QWLD
+	Carrefour SA	
+SBAC	SBA Communications Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=QWLD
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=QWLD
+5486.JP&back=QWLD	Hitachi Metals Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=5486.JP&back=QWLD
+	Swatch Group Ltd. Bearer	
+8725.JP&back=QWLD	MS&AD Insurance Group Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8725.JP&back=QWLD
+PRU	Prudential Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=QWLD
+3635.JP&back=QWLD	Koei Tecmo Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3635.JP&back=QWLD
+	Universal Music Group N.V.	
+	Carlsberg AS Class B	
+RHI	Robert Half International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RHI.US&back=QWLD
+	Sonic Healthcare Limited	
+	Swedbank AB Class A	
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=QWLD
+DD	DuPont de Nemours Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=QWLD
+6762.JP&back=QWLD	TDK Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6762.JP&back=QWLD
+7701.JP&back=QWLD	Shimadzu Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=7701.JP&back=QWLD
+8015.JP&back=QWLD	Toyota Tsusho Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=8015.JP&back=QWLD
+	M&G Plc	
+6367.JP&back=QWLD	DAIKIN INDUSTRIES LTD.	/etf/ea/ETZCW.djhtm?c=1&etfid=6367.JP&back=QWLD
+	Airbus SE	
+	Severn Trent Plc	
+ETR	Entergy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=QWLD
+ARW	Arrow Electronics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=QWLD
+	Swiss Re AG	
+	Porsche Automobil Holding SE Pref	
+	Daimler Truck Holding AG	
+ROST	Ross Stores Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=QWLD
+OXY	Occidental Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=QWLD
+5411.JP&back=QWLD	JFE Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=5411.JP&back=QWLD
+	Goodman Group	
+	RWE AG	
+	Compagnie Financiere Richemont SA	
+	Kering SA	
+	TC Energy Corporation	
+PARA	Paramount Global Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=QWLD
+	Kingspan Group Plc	
+5201.JP&back=QWLD	AGC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=5201.JP&back=QWLD
+9531.JP&back=QWLD	TOKYO GAS Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9531.JP&back=QWLD
+	Vestas Wind Systems A/S	
+APTV	Aptiv PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=QWLD
+	Alcon AG	
+	Infineon Technologies AG	
+PPL	PPL Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=QWLD
+	Anheuser-Busch InBev SA/NV	
+CEG	Constellation Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=QWLD
+RJF	Raymond James Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=QWLD
+	Wheaton Precious Metals Corp	
+	Actividades de Construccion y Servicios SA	
+	Aegon N.V.	
+	Fortis Inc.	
+MRNA	Moderna Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=QWLD
+8308.JP&back=QWLD	Resona Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8308.JP&back=QWLD
+	Power Corporation of Canada	
+SYF	Synchrony Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=QWLD
+	Spirax-Sarco Engineering PLC	
+	Cellnex Telecom S.A.	
+	Prosus N.V. Class N	
+	Halma plc	
+GLW	Corning Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=QWLD
+	Nordea Bank Abp	
+	Swiss Life Holding AG	
+PCG	PG&E Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=QWLD
+GPN	Global Payments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=QWLD
+8309.JP&back=QWLD	Sumitomo Mitsui Trust Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8309.JP&back=QWLD
+	Azrieli Group Ltd.	
+9503.JP&back=QWLD	Kansai Electric Power Company Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=9503.JP&back=QWLD
+9101.JP&back=QWLD	Nippon Yusen Kabushiki Kaisha	/etf/ea/ETZCW.djhtm?c=1&etfid=9101.JP&back=QWLD
+	Equinor ASA	
+8795.JP&back=QWLD	T&D Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8795.JP&back=QWLD
+	Next plc	
+	Coles Group Ltd.	
+4568.JP&back=QWLD	Daiichi Sankyo Company Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=4568.JP&back=QWLD
+MOS	Mosaic Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=QWLD
+KMI	Kinder Morgan Inc Class P	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=QWLD
+	Vivendi SE	
+9042.JP&back=QWLD	Hankyu Hanshin Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=9042.JP&back=QWLD
+0288.HK&back=QWLD	WH Group Ltd. (HK)	/etf/ea/ETZCW.djhtm?c=1&etfid=0288.HK&back=QWLD
+BKNG	Booking Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=QWLD
+SPG	Simon Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=QWLD
+NXPI	NXP Semiconductors NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=QWLD
+	Israel Discount Bank Limited Class A	
+	Cie Generale des Etablissements Michelin SA	
+WAT	Waters Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=QWLD
+	Boliden AB	
+	CRH Plc	
+	Commerzbank AG	
+	Amadeus IT Group SA Class A	
+0083.HK&back=QWLD	Sino Land Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=0083.HK&back=QWLD
+RE	Everest Re Group Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=RE.US&back=QWLD
+	NICE Ltd. (Israel)	
+	Danske Bank A/S	
+	DNB Bank ASA	
+SIRI	Sirius XM Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=QWLD
+	CNH Industrial NV	
+4528.JP&back=QWLD	ONO Pharmaceutical Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4528.JP&back=QWLD
+	Bank Hapoalim BM	
+4005.JP&back=QWLD	Sumitomo Chemical Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4005.JP&back=QWLD
+	Genmab A/S	
+HII	Huntington Ingalls Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HII.US&back=QWLD
+	DSV A/S	
+PNR	Pentair plc	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=QWLD
+	Veolia Environnement SA	
+	Moncler SpA	
+	Straumann Holding AG	
+IP	International Paper Company	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=QWLD
+URI	United Rentals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=URI.US&back=QWLD
+	Jeronimo Martins SGPS S.A.	
+6920.JP&back=QWLD	Lasertec Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=6920.JP&back=QWLD
+DRI	Darden Restaurants Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DRI.US&back=QWLD
+BKR	Baker Hughes Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=QWLD
+O	Realty Income Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=QWLD
+	Singapore Airlines Ltd.	
+	SSE plc	
+FMC	FMC Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=QWLD
+FE	FirstEnergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=QWLD
+	Ashtead Group plc	
+	South32 Ltd.	
+1928.JP&back=QWLD	Sekisui House Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=1928.JP&back=QWLD
+	ICL Group Ltd.	
+9041.JP&back=QWLD	Kintetsu Group Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9041.JP&back=QWLD
+	NIBE Industrier AB Class B	
+LUMN	Lumen Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=QWLD
+1925.JP&back=QWLD	Daiwa House Industry Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=1925.JP&back=QWLD
+	St. James's Place Plc	
+	Aviva plc	
+	Sage Group plc	
+AOS	A. O. Smith Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=QWLD
+2502.JP&back=QWLD	Asahi Group HoldingsLtd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2502.JP&back=QWLD
+PCAR	PACCAR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=QWLD
+	DiaSorin S.p.A.	
+	Beiersdorf AG	
+5019.JP&back=QWLD	Idemitsu Kosan Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=5019.JP&back=QWLD
+4578.JP&back=QWLD	Otsuka Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4578.JP&back=QWLD
+DOV	Dover Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=QWLD
+CF	CF Industries Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=QWLD
+	Macquarie Group Ltd.	
+BSX	Boston Scientific Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BSX.US&back=QWLD
+CTRA	Coterra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=QWLD
+	Gjensidige Forsikring ASA	
+IVZ	Invesco Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=IVZ.US&back=QWLD
+	Intertek Group plc	
+	OMV AG	
+	Sampo Oyj Class A	
+3038.JP&back=QWLD	Kobe Bussan Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3038.JP&back=QWLD
+	Dollarama Inc.	
+7270.JP&back=QWLD	SUBARU CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=7270.JP&back=QWLD
+	Experian PLC	
+4739.JP&back=QWLD	Itochu Techno-Solutions Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=4739.JP&back=QWLD
+1605.JP&back=QWLD	INPEX CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=1605.JP&back=QWLD
+NDSN&back=QWLD	Nordson Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NDSN&back=QWLD
+6301.JP&back=QWLD	Komatsu Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6301.JP&back=QWLD
+PXD	Pioneer Natural Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=QWLD
+	Continental AG	
+PEG	Public Service Enterprise Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=QWLD
+NTAP	NetApp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=QWLD
+	Tesco PLC	
+IPG	Interpublic Group of Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=QWLD
+	Open Text Corporation	
+PANW	Palo Alto Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=QWLD
+UHS	Universal Health Services Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=QWLD
+8801.JP&back=QWLD	Mitsui Fudosan Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=8801.JP&back=QWLD
+	Pandora A/S	
+	EXOR N.V.	
+	Amcor PLC Shs Chess Depository Interests	
+	UPM-Kymmene Oyj	
+CGNX	Cognex Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CGNX.US&back=QWLD
+	A.P. Moller - Maersk A/S Class B	
+	ASM International N.V.	
+HBAN	Huntington Bancshares Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=QWLD
+6702.JP&back=QWLD	Fujitsu Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=6702.JP&back=QWLD
+9022.JP&back=QWLD	Central Japan Railway Company	/etf/ea/ETZCW.djhtm?c=1&etfid=9022.JP&back=QWLD
+	Great-West Lifeco Inc.	
+SEIC	SEI Investments Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=QWLD
+	ABN AMRO Bank N.V. Depositary receipts	
+	EssilorLuxottica SA	
+	Legal & General Group Plc	
+8984.JP&back=QWLD	Daiwa House REIT Investment Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8984.JP&back=QWLD
+	National Bank of Canada	
+	Cochlear Limited	
+6448.JP&back=QWLD	Brother Industries Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6448.JP&back=QWLD
+	Teva Pharmaceutical Industries Limited	
+7261.JP&back=QWLD	Mazda Motor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=7261.JP&back=QWLD
+	REA Group Ltd	
+3402.JP&back=QWLD	Toray Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=3402.JP&back=QWLD
+	Ascendas Real Estate Investment Trust	
+	Bouygues SA	
+	adidas AG	
+ALLE	Allegion Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLE.US&back=QWLD
+	Cenovus Energy Inc.	
+IFF	International Flavors & Fragrances Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=QWLD
+4183.JP&back=QWLD	Mitsui Chemicals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=4183.JP&back=QWLD
+	E.ON SE	
+BWA	BorgWarner Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BWA.US&back=QWLD
+ECL	Ecolab Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=QWLD
+	Lonza Group AG	
+DVA	DaVita Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=QWLD
+6971.JP&back=QWLD	Kyocera Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6971.JP&back=QWLD
+9201.JP&back=QWLD	Japan Airlines Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9201.JP&back=QWLD
+	CapitaLand Investment Limited	
+TECK	Teck Resources Limited Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=TECK.US&back=QWLD
+4188.JP&back=QWLD	Mitsubishi Chemical Group Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=4188.JP&back=QWLD
+	Adecco Group AG	
+AVB	AvalonBay Communities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=QWLD
+	NN Group N.V.	
+	Mediobanca - Banca di Credito Finanziario S.p.A.	
+6326.JP&back=QWLD	Kubota Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6326.JP&back=QWLD
+	FinecoBank SpA	
+	Aurizon Holdings Ltd.	
+DVN	Devon Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=QWLD
+3861.JP&back=QWLD	Oji Holdings Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=3861.JP&back=QWLD
+	Electrolux AB Class B	
+	Persimmon Plc	
+	Kinnevik AB Class B	
+CPT	Camden Property Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=QWLD
+	Capgemini SE	
+9005.JP&back=QWLD	TOKYU CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=9005.JP&back=QWLD
+	EQT AB	
+	Pembina Pipeline Corporation	
+LEA	Lear Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LEA.US&back=QWLD
+WELL	Welltower Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=QWLD
+KKR	KKR & Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KKR.US&back=QWLD
+DELL	Dell Technologies Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=DELL.US&back=QWLD
+APD	Air Products and Chemicals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=QWLD
+5938.JP&back=QWLD	LIXIL Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=5938.JP&back=QWLD
+3141.JP&back=QWLD	Welcia Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3141.JP&back=QWLD
+	Merck KGaA	
+WRK	WestRock Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WRK.US&back=QWLD
+DAL	Delta Air Lines Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DAL.US&back=QWLD
+	CapitaLand Integrated Commercial Trust	
+UDR	UDR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UDR.US&back=QWLD
+	Svenska Handelsbanken AB Class A	
+VST	Vistra Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=QWLD
+	Emera Incorporated	
+	Diageo plc	
+STX	Seagate Technology Holdings PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=QWLD
+3407.JP&back=QWLD	Asahi Kasei Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=3407.JP&back=QWLD
+BG	Bunge Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=QWLD
+	United Utilities Group PLC	
+	UCB S.A.	
+	Orica Limited	
+	Swedish Match AB	
+CAG	Conagra Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=QWLD
+	Nokia Oyj	
+	Brenntag Societas Europaea	
+LNG	Cheniere Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=QWLD
+FBHS	Fortune Brands Home & Security Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=QWLD
+	Hexagon AB Class B	
+LBTYK	Liberty Global Plc Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBTYK.US&back=QWLD
+	ageas SA/NV	
+WPC	W. P. Carey Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=QWLD
+1878.JP&back=QWLD	Daito Trust Construction Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=1878.JP&back=QWLD
+HAL	Halliburton Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=QWLD
+	Computershare Limited	
+4507.JP&back=QWLD	Shionogi & Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4507.JP&back=QWLD
+LKQ	LKQ Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=QWLD
+	Sika AG	
+	Koninklijke Philips N.V.	
+9007.JP&back=QWLD	Odakyu Electric Railway Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9007.JP&back=QWLD
+UBER	Uber Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=QWLD
+OC	Owens Corning	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=QWLD
+CDW	CDW Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=QWLD
+ATO	Atmos Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=QWLD
+7911.JP&back=QWLD	TOPPAN INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=7911.JP&back=QWLD
+	J Sainsbury plc	
+YUM	Yum! Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=QWLD
+	ABB Ltd.	
+	iA Financial Corporation Inc.	
+ELS	Equity LifeStyle Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELS.US&back=QWLD
+	AltaGas Ltd.	
+	Singapore Technologies Engineering Ltd	
+LNC	Lincoln National Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=QWLD
+PFG	Principal Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=QWLD
+	Henkel AG & Co. KGaA Pref	
+1929.HK&back=QWLD	Chow Tai Fook Jewellery Group Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=1929.HK&back=QWLD
+KMX	CarMax Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=QWLD
+VFC	V.F. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=QWLD
+ESS	Essex Property Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=QWLD
+0868.HK&back=QWLD	Xinyi Glass Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0868.HK&back=QWLD
+NRG	NRG Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=QWLD
+	KBC Group N.V.	
+	Safran S.A.	
+EQIX	Equinix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=QWLD
+1997.HK&back=QWLD	Wharf Real Estate Investment Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=1997.HK&back=QWLD
+	Fresenius Medical Care AG & Co. KGaA	
+	Industrivarden AB Class C	
+8604.JP&back=QWLD	Nomura Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8604.JP&back=QWLD
+OTIS	Otis Worldwide Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=QWLD
+	Koninklijke DSM N.V.	
+	Orion Oyj Class B	
+ZBH	Zimmer Biomet Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=QWLD
+AES	AES Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=QWLD
+2127.JP&back=QWLD	Nihon M&A Center Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=2127.JP&back=QWLD
+VMW	VMware Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=QWLD
+	Elia Group SA/NV	
+7202.JP&back=QWLD	Isuzu Motors Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=7202.JP&back=QWLD
+	Keyera Corp.	
+	Bluescope Steel Limited	
+	RioCan Real Estate Investment Trust	
+OKE	ONEOK Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=QWLD
+	Santos Limited	
+	Telstra Corporation Limited	
+	Galp Energia SGPS S.A. Class B	
+CARR	Carrier Global Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=QWLD
+8053.JP&back=QWLD	Sumitomo Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8053.JP&back=QWLD
+7912.JP&back=QWLD	Dai Nippon Printing Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7912.JP&back=QWLD
+	First Quantum Minerals Ltd.	
+ZIM	ZIM Integrated Shipping Services Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZIM.US&back=QWLD
+	Keppel Corporation Limited	
+	Unibail-Rodamco-Westfield SE Stapled Secs Cons of 1 Sh Unibail Rodamco + 1 Sh WFD Unib Rod	
+	Knorr-Bremse AG	
+	bioMerieux SA	
+FCX	Freeport-McMoRan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=QWLD
+MASI	Masimo Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MASI.US&back=QWLD
+9719.JP&back=QWLD	SCSK Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=9719.JP&back=QWLD
+	Hargreaves Lansdown plc	
+LVS	Las Vegas Sands Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LVS.US&back=QWLD
+	Heineken NV	
+AAP	Advance Auto Parts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=QWLD
+5802.JP&back=QWLD	Sumitomo Electric Industries Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=5802.JP&back=QWLD
+DISH	DISH Network Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DISH.US&back=QWLD
+3659.JP&back=QWLD	NEXON Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3659.JP&back=QWLD
+NTRS	Northern Trust Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=QWLD
+	UOL Group Limited	
+	Aristocrat Leisure Limited	
+TDOC	Teladoc Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=QWLD
+	Venture Corporation Limited	
+	Worldline SA	
+KNX	Knight-Swift Transportation Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=KNX.US&back=QWLD
+	Canadian Utilities Limited Class A	
+MHK	Mohawk Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MHK.US&back=QWLD
+	Dassault Aviation SA	
+	Kingfisher Plc	
+	VAT Group AG	
+9008.JP&back=QWLD	Keio Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=9008.JP&back=QWLD
+	Roche Holding Ltd	
+	Bollore SE	
+	Telecom Italia S.p.A.	
+	Hydro One Limited	
+	HeidelbergCement AG	
+WTRG	Essential Utilities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=QWLD
+	Orsted	
+PKI	PerkinElmer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PKI.US&back=QWLD
+8355.JP&back=QWLD	Shizuoka Bank Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=8355.JP&back=QWLD
+	Norwegian Krone	
+	Essity AB Class B	
+ALB	Albemarle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=QWLD
+	Melrose Industries PLC	
+	Mondi plc	
+6502.JP&back=QWLD	Toshiba Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6502.JP&back=QWLD
+	Shopify Inc. Class A	
+	Auckland International Airport Limited	
+VTR	Ventas Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=QWLD
+ALGN	Align Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=QWLD
+	Treasury Wine Estates Limited	
+	Transurban Group Ltd.	
+FRC	First Republic Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC.US&back=QWLD
+	Smurfit Kappa Group Plc	
+	APA Group	
+	Brambles Limited	
+TAP	Molson Coors Beverage Company Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=QWLD
+2897.JP&back=QWLD	Nissin Foods Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2897.JP&back=QWLD
+	H&M Hennes & Mauritz AB Class B	
+7752.JP&back=QWLD	Ricoh Company Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7752.JP&back=QWLD
+FOX	Fox Corporation Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=FOX.US&back=QWLD
+EQH	Equitable Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH.US&back=QWLD
+	Medibank Private Ltd.	
+7269.JP&back=QWLD	Suzuki Motor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=7269.JP&back=QWLD
+8601.JP&back=QWLD	Daiwa Securities Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8601.JP&back=QWLD
+	James Hardie Industries PLC Chess Units of Foreign Securities	
+8113.JP&back=QWLD	Unicharm Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8113.JP&back=QWLD
+TXT	Textron Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TXT.US&back=QWLD
+5332.JP&back=QWLD	TOTO Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5332.JP&back=QWLD
+	Ramsay Health Care Limited	
+0019.HK&back=QWLD	Swire Pacific Limited Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=0019.HK&back=QWLD
+	Suncorp Group Limited	
+3436.JP&back=QWLD	SUMCO Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=3436.JP&back=QWLD
+	Skanska AB Class B	
+	London Stock Exchange Group plc	
+TWTR	Twitter Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=QWLD
+	Stora Enso Oyj Class R	
+	Bayerische Motoren Werke AG Pref	
+	SKF AB Class B	
+6594.JP&back=QWLD	Nidec Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6594.JP&back=QWLD
+BBWI	Bath & Body Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=QWLD
+	Terna S.p.A.	
+	Just Eat Takeaway.com N.V.	
+	MTU Aero Engines AG	
+	Thales SA	
+JAZZ	Jazz Pharmaceuticals Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=JAZZ.US&back=QWLD
+4543.JP&back=QWLD	Terumo Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=4543.JP&back=QWLD

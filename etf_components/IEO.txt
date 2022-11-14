@@ -1,0 +1,55 @@
+IEO
+COP	CONOCOPHILLIPS	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=IEO
+EOG	EOG RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=IEO
+PXD	PIONEER NATURAL RESOURCE	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=IEO
+MPC	MARATHON PETROLEUM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=IEO
+LNG	CHENIERE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=IEO
+HES	HESS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=IEO
+DVN	DEVON ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=IEO
+VLO	VALERO ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=IEO
+PSX	PHILLIPS 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=IEO
+CTRA	COTERRA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=IEO
+FANG	DIAMONDBACK ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=IEO
+MRO	MARATHON OIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=IEO
+TRGP	TARGA RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=IEO
+EQT	EQT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=IEO
+OVV	OVINTIV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=IEO
+APA	APA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=IEO
+TPL	TEXAS PACIFIC LAND CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=IEO
+CHK	CHESAPEAKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=IEO
+AR	ANTERO RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=IEO
+RRC	RANGE RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=IEO
+SWN	SOUTHWESTERN ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=IEO
+DINO	HF SINCLAIR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=IEO
+MTDR	MATADOR RESOURCES	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=IEO
+PDCE	PDC ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=IEO
+CHRD	CHORD ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=IEO
+MUR	MURPHY OIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MUR.US&back=IEO
+SM	SM ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=IEO
+CIVI	CIVITAS RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=IEO
+DEN	DENBURY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DEN.US&back=IEO
+CLR	CONTINENTAL RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=IEO
+CRC	CALIFORNIA RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CRC.US&back=IEO
+MGY	MAGNOLIA OIL GAS CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=IEO
+CNX	CNX RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=IEO
+PBF	PBF ENERGY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=IEO
+KOS	KOSMOS ENERGY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=KOS.US&back=IEO
+NOG	NORTHERN OIL AND GAS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOG.US&back=IEO
+CPE	CALLON PETROLEUM	/etf/ea/ETZCW.djhtm?c=1&etfid=CPE.US&back=IEO
+DK	DELEK US HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DK.US&back=IEO
+TELL	TELLURIAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TELL.US&back=IEO
+CRK	COMSTOCK RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=IEO
+INT	WORLD FUEL SERVICES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INT.US&back=IEO
+MNRL	BRIGHAM MINERALS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MNRL.US&back=IEO
+	CENTENNIAL RESOURCE DEVELOPMENT IN	
+GPOR	GULFPORT ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GPOR.US&back=IEO
+CLNE	CLEAN ENERGY FUELS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CLNE.US&back=IEO
+LPI	LAREDO PETROLEUM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LPI.US&back=IEO
+LFG	ARCHAEA ENERGY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=LFG.US&back=IEO
+CVI	CVR ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=IEO
+PARR	PAR PACIFIC HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PARR.US&back=IEO
+TALO	TALOS ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TALO.US&back=IEO
+	BLK CSH FND TREASURY SL AGENCY	
+USD	USD CASH	/etf/ea/ETZCW.djhtm?c=1&etfid=USD.US&back=IEO
+	CASH COLLATERAL USD SGAFT	
+	EMINI ENERGY SELECT SECTOR SEP 22	

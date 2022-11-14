@@ -1,0 +1,48 @@
+REGL
+LANC	LANCASTER COLONY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LANC.US&back=REGL
+RRX	REGAL REXNORD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RRX.US&back=REGL
+CFR	CULLEN/FROST BANKERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CFR.US&back=REGL
+CSL	CARLISLE COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=REGL
+TTC	TORO CO	/etf/ea/ETZCW.djhtm?c=1&etfid=TTC.US&back=REGL
+OZK	BANK OZK	/etf/ea/ETZCW.djhtm?c=1&etfid=OZK.US&back=REGL
+SLGN	SILGAN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SLGN.US&back=REGL
+CASY	CASEY'S GENERAL STORES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=REGL
+R	RYDER SYSTEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=R.US&back=REGL
+MDU	MDU RESOURCES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDU.US&back=REGL
+RNR	RENAISSANCERE HOLDINGS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR.US&back=REGL
+LECO	LINCOLN ELECTRIC HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=LECO.US&back=REGL
+UBSI	UNITED BANKSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UBSI.US&back=REGL
+CBSH	COMMERCE BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CBSH.US&back=REGL
+GGG	GRACO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GGG.US&back=REGL
+RPM	RPM INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RPM.US&back=REGL
+DCI	DONALDSON CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DCI.US&back=REGL
+BKH	BLACK HILLS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BKH.US&back=REGL
+OGE	OGE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=REGL
+PB	PROSPERITY BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PB.US&back=REGL
+UMBF	UMB FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UMBF.US&back=REGL
+ORI	OLD REPUBLIC INTL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=REGL
+NFG	NATIONAL FUEL GAS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=REGL
+AFG	AMERICAN FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=REGL
+THG	HANOVER INSURANCE GROUP INC/	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=REGL
+ATR	APTARGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATR.US&back=REGL
+RGLD	ROYAL GOLD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=REGL
+SON	SONOCO PRODUCTS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SON.US&back=REGL
+RLI	RLI CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RLI.US&back=REGL
+FLO	FLOWERS FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=REGL
+NWE	NORTHWESTERN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NWE.US&back=REGL
+SEIC	SEI INVESTMENTS COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=REGL
+NJR	NEW JERSEY RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NJR.US&back=REGL
+SR	SPIRE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SR.US&back=REGL
+OGS	ONE GAS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OGS.US&back=REGL
+PRGO	PERRIGO CO PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGO.US&back=REGL
+NNN	NATIONAL RETAIL PROPERTIES	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=REGL
+WSM	WILLIAMS-SONOMA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSM.US&back=REGL
+LEG	LEGGETT & PLATT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LEG.US&back=REGL
+WTRG	ESSENTIAL UTILITIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=REGL
+MSA	MSA SAFETY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSA.US&back=REGL
+PII	POLARIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PII.US&back=REGL
+SXT	SENSIENT TECHNOLOGIES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SXT.US&back=REGL
+SWX	SOUTHWEST GAS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWX.US&back=REGL
+UGI	UGI CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=REGL
+WLY	WILEY (JOHN) & SONS-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=WLY.US&back=REGL
+NUS	NU SKIN ENTERPRISES INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=NUS.US&back=REGL

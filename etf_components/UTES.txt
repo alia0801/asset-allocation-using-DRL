@@ -1,0 +1,28 @@
+UTES
+NEE	NextEra Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=UTES
+PEG	Public Service Enterprise Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=UTES
+ETR	Entergy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=UTES
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=UTES
+CEG	Constellation Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=UTES
+AEE	Ameren Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=UTES
+ATO	Atmos Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=UTES
+NI	NiSource Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=UTES
+VST	Vistra Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=UTES
+FE	FirstEnergy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=UTES
+CMS	CMS Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=UTES
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=UTES
+CWEN.A	Clearway Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CWEN.A.US&back=UTES
+DUK	Duke Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=UTES
+OGE	OGE Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=UTES
+NEP	NextEra Energy Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=NEP.US&back=UTES
+UGI	UGI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=UTES
+LNT	Alliant Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=UTES
+PCG	PG&E Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=UTES
+D	Dominion Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=UTES
+DTE	DTE Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=UTES
+EXC	Exelon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=UTES
+WEC	WEC Energy Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=UTES
+AWK	American Water Works Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=UTES
+XEL	Xcel Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=UTES
+	BNY MELLON CASH RESERVE USD	
+	Cash/Cash equivalents	

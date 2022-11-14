@@ -1,0 +1,32 @@
+PSI
+TXN	Texas Instruments Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=PSI
+MU	Micron Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=PSI
+ADI	Analog Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=PSI
+AVGO	Broadcom Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=PSI
+AMAT	Applied Materials Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=PSI
+QCOM	QUALCOMM Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=PSI
+LRCX	Lam Research Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=PSI
+NVDA	NVIDIA Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=PSI
+SLAB	Silicon Laboratories Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLAB.US&back=PSI
+WOLF	Wolfspeed Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WOLF.US&back=PSI
+COHU	Cohu Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COHU.US&back=PSI
+MCHP	Microchip Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=PSI
+ON	ON Semiconductor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=PSI
+VSH	Vishay Intertechnology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VSH.US&back=PSI
+MXL	MaxLinear Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MXL.US&back=PSI
+KLIC	Kulicke & Soffa Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KLIC.US&back=PSI
+NXPI	NXP Semiconductors NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=PSI
+ACLS	Axcelis Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ACLS.US&back=PSI
+DIOD	Diodes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DIOD.US&back=PSI
+KLAC	KLA Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=PSI
+VECO	Veeco Instruments Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VECO.US&back=PSI
+ONTO	Onto Innovation Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ONTO.US&back=PSI
+LSCC	Lattice Semiconductor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=PSI
+CRUS	Cirrus Logic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRUS.US&back=PSI
+GFS	GLOBALFOUNDRIES Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GFS.US&back=PSI
+AMKR	Amkor Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMKR.US&back=PSI
+FORM	FormFactor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FORM.US&back=PSI
+AOSL	Alpha & Omega Semiconductor Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AOSL.US&back=PSI
+MPWR	Monolithic Power Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=PSI
+PLAB	Photronics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLAB.US&back=PSI
+	Invesco Government & Agency Portfolio	

@@ -1,0 +1,894 @@
+ONEO
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=ONEO
+MCK	McKesson Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=ONEO
+NUE	Nucor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=ONEO
+MOH	Molina Healthcare Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=ONEO
+MPC	Marathon Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=ONEO
+OVV	Ovintiv Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=ONEO
+VLO	Valero Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=ONEO
+STLD	Steel Dynamics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=ONEO
+ADM	Archer-Daniels-Midland Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=ONEO
+ON	ON Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=ONEO
+CHK	Chesapeake Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=ONEO
+PSX	Phillips 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=ONEO
+DOX	Amdocs Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=ONEO
+APA	APA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=ONEO
+TRGP	Targa Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=ONEO
+BJ	BJ's Wholesale Club Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BJ.US&back=ONEO
+CTSH	Cognizant Technology Solutions Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=ONEO
+CF	CF Industries Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=ONEO
+IT	Gartner Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=ONEO
+HPE	Hewlett Packard Enterprise Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=ONEO
+WY	Weyerhaeuser Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=ONEO
+HOLX	Hologic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=ONEO
+KR	Kroger Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=ONEO
+FANG	Diamondback Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=ONEO
+DGX	Quest Diagnostics Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=ONEO
+RS	Reliance Steel & Aluminum Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=ONEO
+MRO	Marathon Oil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=ONEO
+NRG	NRG Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=ONEO
+OLN	Olin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OLN.US&back=ONEO
+AZO	AutoZone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=ONEO
+TSN	Tyson Foods Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=ONEO
+DELL	Dell Technologies Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=DELL.US&back=ONEO
+EOG	EOG Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=ONEO
+LYB	LyondellBasell Industries NV	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=ONEO
+CLF	Cleveland-Cliffs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=ONEO
+OKE	ONEOK Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=ONEO
+CINF	Cincinnati Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=ONEO
+PDCE	PDC Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=ONEO
+CDNS	Cadence Design Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=ONEO
+GPC	Genuine Parts Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=ONEO
+OGN	Organon & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=ONEO
+JBL	Jabil Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=ONEO
+REGN	Regeneron Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=ONEO
+KLAC	KLA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=ONEO
+WTW	Willis Towers Watson Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WTW.US&back=ONEO
+ARW	Arrow Electronics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=ONEO
+SNPS	Synopsys Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=ONEO
+MU	Micron Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=ONEO
+MOS	Mosaic Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=ONEO
+ORLY	O'Reilly Automotive Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=ONEO
+DVN	Devon Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=ONEO
+CTVA	Corteva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=ONEO
+DTE	DTE Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=ONEO
+X	United States Steel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=ONEO
+LKQ	LKQ Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=ONEO
+TSCO	Tractor Supply Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=ONEO
+AR	Antero Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=ONEO
+LH	Laboratory Corporation of America Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=ONEO
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=ONEO
+CHRW	C.H. Robinson Worldwide Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=ONEO
+ACGL	Arch Capital Group Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGL.US&back=ONEO
+HSIC	Henry Schein Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HSIC.US&back=ONEO
+DINO	HF Sinclair Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=ONEO
+MKL	Markel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=ONEO
+HUN	Huntsman Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HUN.US&back=ONEO
+CBRE	CBRE Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=ONEO
+IPG	Interpublic Group of Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=ONEO
+CAH	Cardinal Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=ONEO
+ULTA	Ulta Beauty Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=ONEO
+OXY	Occidental Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=ONEO
+DKS	Dick's Sporting Goods Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DKS.US&back=ONEO
+JBHT	J.B. Hunt Transport Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JBHT.US&back=ONEO
+M	Macy's Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=M.US&back=ONEO
+AN	AutoNation Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=ONEO
+AAP	Advance Auto Parts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=ONEO
+LDOS	Leidos Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=ONEO
+GLW	Corning Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=ONEO
+EXPD	Expeditors International of Washington Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=ONEO
+AA	Alcoa Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=ONEO
+ALL	Allstate Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=ONEO
+MPWR	Monolithic Power Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=ONEO
+FCX	Freeport-McMoRan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=ONEO
+KNX	Knight-Swift Transportation Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=KNX.US&back=ONEO
+CACI	CACI International Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=ONEO
+LPX	Louisiana-Pacific Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=ONEO
+TER	Teradyne Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=ONEO
+RRC	Range Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=ONEO
+SNA	Snap-on Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=SNA.US&back=ONEO
+RHI	Robert Half International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RHI.US&back=ONEO
+OC	Owens Corning	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=ONEO
+WCC	WESCO International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC.US&back=ONEO
+NVR	NVR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=ONEO
+CAR	Avis Budget Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAR.US&back=ONEO
+NTAP	NetApp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=ONEO
+HCA	HCA Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=ONEO
+FTNT	Fortinet Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=ONEO
+RE	Everest Re Group Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=RE.US&back=ONEO
+LAD	Lithia Motors Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LAD.US&back=ONEO
+ACM	AECOM	/etf/ea/ETZCW.djhtm?c=1&etfid=ACM.US&back=ONEO
+DAR	Darling Ingredients Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DAR.US&back=ONEO
+CMI	Cummins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=ONEO
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=ONEO
+FAF	First American Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FAF.US&back=ONEO
+CVS	CVS Health Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=ONEO
+CRUS	Cirrus Logic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRUS.US&back=ONEO
+CE	Celanese Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=ONEO
+GWW	W.W. Grainger Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=ONEO
+Y	Alleghany Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=Y.US&back=ONEO
+CMS	CMS Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=ONEO
+AKAM	Akamai Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=ONEO
+NLOK	NortonLifeLock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=ONEO
+PKG	Packaging Corporation of America	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=ONEO
+CI	Cigna Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=ONEO
+FDS	FactSet Research Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=ONEO
+PGR	Progressive Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=ONEO
+VRTX	Vertex Pharmaceuticals Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=ONEO
+OMC	Omnicom Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=ONEO
+LPLA	LPL Financial Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LPLA.US&back=ONEO
+PXD	Pioneer Natural Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=ONEO
+NXST	Nexstar Media Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=ONEO
+LITE	Lumentum Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=ONEO
+BG	Bunge Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=ONEO
+APH	Amphenol Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=ONEO
+LSTR	Landstar System Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LSTR.US&back=ONEO
+CACC	Credit Acceptance Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CACC.US&back=ONEO
+KBR	KBR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KBR.US&back=ONEO
+CNXC	Concentrix Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=ONEO
+BLDR	Builders FirstSource Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDR.US&back=ONEO
+DD	DuPont de Nemours Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=ONEO
+NOC	Northrop Grumman Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=ONEO
+FFIV	F5 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=ONEO
+ORI	Old Republic International Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=ONEO
+PCG	PG&E Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=ONEO
+HIG	Hartford Financial Services Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=ONEO
+NFG	National Fuel Gas Company	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=ONEO
+WHR	Whirlpool Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=ONEO
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=ONEO
+CNC	Centene Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=ONEO
+QCOM	Qualcomm Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=ONEO
+TRV	Travelers Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=ONEO
+WSM	Williams-Sonoma Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WSM.US&back=ONEO
+MCHP	Microchip Technology Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=ONEO
+PSTG	Pure Storage Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PSTG.US&back=ONEO
+BIO	Bio-Rad Laboratories Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BIO.US&back=ONEO
+BX	Blackstone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=ONEO
+EXC	Exelon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=ONEO
+FSLR	First Solar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=ONEO
+ED	Consolidated Edison Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=ONEO
+ETR	Entergy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=ONEO
+RJF	Raymond James Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=ONEO
+TXT	Textron Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TXT.US&back=ONEO
+LOW	Lowe's Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=ONEO
+JLL	Jones Lang LaSalle Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=JLL.US&back=ONEO
+WM	Waste Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=ONEO
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=ONEO
+FE	FirstEnergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=ONEO
+URI	United Rentals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=URI.US&back=ONEO
+MTG	MGIC Investment Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTG.US&back=ONEO
+DG	Dollar General Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=ONEO
+DLTR	Dollar Tree Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=ONEO
+TJX	TJX Companies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=ONEO
+PCAR	PACCAR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=ONEO
+PAG	Penske Automotive Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=ONEO
+GIS	General Mills Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=ONEO
+FCN	FTI Consulting Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCN.US&back=ONEO
+CC	Chemours Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=CC.US&back=ONEO
+ODFL	Old Dominion Freight Line Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=ONEO
+	Duke Realty Corporation	
+UGI	UGI Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=ONEO
+AIZ	Assurant Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=ONEO
+CB	Chubb Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=ONEO
+EXR	Extra Space Storage Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=ONEO
+GILD	Gilead Sciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=ONEO
+GD	General Dynamics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=ONEO
+SJM	J.M. Smucker Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=ONEO
+YUM	Yum! Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=ONEO
+SCI	Service Corporation International	/etf/ea/ETZCW.djhtm?c=1&etfid=SCI.US&back=ONEO
+AMCR	Amcor PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=ONEO
+HES	Hess Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=ONEO
+HSY	Hershey Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=ONEO
+ANET	Arista Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=ONEO
+AGCO	AGCO Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AGCO.US&back=ONEO
+FNF	Fidelity National Financial Inc. - FNF Group	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=ONEO
+CG	Carlyle Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CG.US&back=ONEO
+LMT	Lockheed Martin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=ONEO
+MAT	Mattel Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MAT.US&back=ONEO
+WMB	Williams Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=ONEO
+SAIC	Science Applications International Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=ONEO
+KEYS	Keysight Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=ONEO
+MMC	Marsh & McLennan Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=ONEO
+JKHY	Jack Henry & Associates Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=ONEO
+DRI	Darden Restaurants Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DRI.US&back=ONEO
+F	Ford Motor Company	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=ONEO
+LRCX	Lam Research Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=ONEO
+PHM	PulteGroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=ONEO
+LEN	Lennar Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=ONEO
+MAS	Masco Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=ONEO
+AFL	Aflac Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=ONEO
+EVR	Evercore Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EVR.US&back=ONEO
+ELV	Elevance Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=ONEO
+AEP	American Electric Power Company Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=ONEO
+BWA	BorgWarner Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BWA.US&back=ONEO
+WBA	Walgreens Boots Alliance Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=ONEO
+K	Kellogg Company	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=ONEO
+VSCO	Victoria's Secret & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=VSCO.US&back=ONEO
+EVRG	Evergy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=ONEO
+KMI	Kinder Morgan Inc Class P	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=ONEO
+BBY	Best Buy Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=ONEO
+LSCC	Lattice Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=ONEO
+R	Ryder System Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=R.US&back=ONEO
+WSO	Watsco Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WSO.US&back=ONEO
+AOS	A. O. Smith Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=ONEO
+LHX	L3Harris Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=ONEO
+WEC	WEC Energy Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=ONEO
+PAYX	Paychex Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=ONEO
+IP	International Paper Company	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=ONEO
+TPR	Tapestry Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=ONEO
+NI	NiSource Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=ONEO
+KMB	Kimberly-Clark Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=ONEO
+APO	Apollo Global Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APO.US&back=ONEO
+MSI	Motorola Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=ONEO
+PINC	Premier Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PINC.US&back=ONEO
+AMAT	Applied Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=ONEO
+AIG	American International Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=ONEO
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=ONEO
+CHE	Chemed Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=ONEO
+DXC	DXC Technology Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=ONEO
+BBWI	Bath & Body Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=ONEO
+CASY	Casey's General Stores Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=ONEO
+TTEK	Tetra Tech Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTEK.US&back=ONEO
+FAST	Fastenal Company	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=ONEO
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=ONEO
+CR	Crane Holdings Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=CR.US&back=ONEO
+UTHR	United Therapeutics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=ONEO
+WRB	W. R. Berkley Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=ONEO
+OTIS	Otis Worldwide Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=ONEO
+	Mandiant Inc.	
+AZPN	Aspen Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZPN.US&back=ONEO
+ES	Eversource Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=ONEO
+CMG	Chipotle Mexican Grill Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMG.US&back=ONEO
+COO	Cooper Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COO.US&back=ONEO
+CPRI	Capri Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRI.US&back=ONEO
+JNPR	Juniper Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=ONEO
+G	Genpact Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=G.US&back=ONEO
+AEE	Ameren Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=ONEO
+RSG	Republic Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=ONEO
+ADP	Automatic Data Processing Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=ONEO
+CBOE	Cboe Global Markets Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CBOE.US&back=ONEO
+MRNA	Moderna Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=ONEO
+PFGC	Performance Food Group Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PFGC.US&back=ONEO
+CHD	Church & Dwight Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=ONEO
+MANH	Manhattan Associates Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MANH.US&back=ONEO
+ACI	Albertsons Companies Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=ONEO
+USFD	US Foods Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=USFD.US&back=ONEO
+EMN	Eastman Chemical Company	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=ONEO
+LECO	Lincoln Electric Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LECO.US&back=ONEO
+COST	Costco Wholesale Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=ONEO
+HUBB	Hubbell Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=ONEO
+XEL	Xcel Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=ONEO
+UPS	United Parcel Service Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=ONEO
+SEE	Sealed Air Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SEE.US&back=ONEO
+TOL	Toll Brothers Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TOL.US&back=ONEO
+SWKS	Skyworks Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=ONEO
+AFG	American Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=ONEO
+FOXA	Fox Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=ONEO
+BR	Broadridge Financial Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=ONEO
+CIEN	Ciena Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=ONEO
+SPG	Simon Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=ONEO
+TGT	Target Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=ONEO
+	II-VI Incorporated	
+WAB	Westinghouse Air Brake Technologies Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WAB.US&back=ONEO
+JEF	Jefferies Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JEF.US&back=ONEO
+AVT	Avnet Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVT.US&back=ONEO
+CL	Colgate-Palmolive Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=ONEO
+AYI	Acuity Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AYI.US&back=ONEO
+SO	Southern Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=ONEO
+WRK	WestRock Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WRK.US&back=ONEO
+CAG	Conagra Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=ONEO
+CW	Curtiss-Wright Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CW.US&back=ONEO
+SEIC	SEI Investments Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=ONEO
+NDSN	Nordson Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NDSN.US&back=ONEO
+PH	Parker-Hannifin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=ONEO
+TDC	Teradata Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TDC.US&back=ONEO
+HAL	Halliburton Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=ONEO
+LUMN	Lumen Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=ONEO
+LOPE	Grand Canyon Education Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOPE.US&back=ONEO
+PANW	Palo Alto Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=ONEO
+TROW	T. Rowe Price Group	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=ONEO
+DOV	Dover Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=ONEO
+UHAL	AMERCO	/etf/ea/ETZCW.djhtm?c=1&etfid=UHAL.US&back=ONEO
+SLB	Schlumberger NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=ONEO
+BKR	Baker Hughes Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=ONEO
+RPM	RPM International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RPM.US&back=ONEO
+AMG	Affiliated Managers Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMG.US&back=ONEO
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=ONEO
+LEA	Lear Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LEA.US&back=ONEO
+BRO	Brown & Brown Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=ONEO
+WAT	Waters Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=ONEO
+AMD	Advanced Micro Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=ONEO
+GXO	GXO Logistics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GXO.US&back=ONEO
+TAP	Molson Coors Beverage Company Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=ONEO
+MO	Altria Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=ONEO
+SSNC	SS&C Technologies Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=ONEO
+L	Loews Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=ONEO
+BEN	Franklin Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=ONEO
+UNM	Unum Group	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=ONEO
+CARR	Carrier Global Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=ONEO
+GNTX	Gentex Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GNTX.US&back=ONEO
+CSX	CSX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=ONEO
+CLX	Clorox Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=ONEO
+EA	Electronic Arts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=ONEO
+DUK	Duke Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=ONEO
+RF	Regions Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=ONEO
+EMR	Emerson Electric Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=ONEO
+EXP	Eagle Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXP.US&back=ONEO
+PAYC	Paycom Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=ONEO
+VRSN	VeriSign Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=ONEO
+EQR	Equity Residential	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=ONEO
+ALSN	Allison Transmission Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALSN.US&back=ONEO
+DHI	D.R. Horton Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=ONEO
+INCY	Incyte Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=ONEO
+NVT	nVent Electric plc	/etf/ea/ETZCW.djhtm?c=1&etfid=NVT.US&back=ONEO
+ENTG	Entegris Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENTG.US&back=ONEO
+CNP	CenterPoint Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNP.US&back=ONEO
+PFG	Principal Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=ONEO
+MTD	Mettler-Toledo International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTD.US&back=ONEO
+WSC	WillScot Mobile Mini Holdings Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WSC.US&back=ONEO
+CPRT	Copart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRT.US&back=ONEO
+KIM	Kimco Realty Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=ONEO
+EQT	EQT Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=ONEO
+LFUS	Littelfuse Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LFUS.US&back=ONEO
+CTAS	Cintas Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=ONEO
+FDX	FedEx Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=ONEO
+BYD	Boyd Gaming Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BYD.US&back=ONEO
+QDEL	QuidelOrtho Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=QDEL.US&back=ONEO
+WDC	Western Digital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=ONEO
+SYY	Sysco Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=ONEO
+AMP	Ameriprise Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=ONEO
+FLO	Flowers Foods Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=ONEO
+BERY	Berry Global Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BERY.US&back=ONEO
+PNW	Pinnacle West Capital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=ONEO
+DTM	DT Midstream Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=ONEO
+GGG	Graco Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GGG.US&back=ONEO
+BAH	Booz Allen Hamilton Holding Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=ONEO
+DBX	Dropbox Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=ONEO
+GLPI	Gaming and Leisure Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=ONEO
+NSC	Norfolk Southern Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=ONEO
+CLH	Clean Harbors Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLH.US&back=ONEO
+KSS	Kohl's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KSS.US&back=ONEO
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=ONEO
+D	Dominion Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=ONEO
+WMS	Advanced Drainage Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMS.US&back=ONEO
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=ONEO
+LAZ	Lazard Ltd Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LAZ.US&back=ONEO
+SYF	Synchrony Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=ONEO
+AES	AES Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=ONEO
+DECK	Deckers Outdoor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DECK.US&back=ONEO
+GDDY	GoDaddy Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GDDY.US&back=ONEO
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=ONEO
+GLOB	Globant SA	/etf/ea/ETZCW.djhtm?c=1&etfid=GLOB.US&back=ONEO
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=ONEO
+MAN	ManpowerGroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MAN.US&back=ONEO
+PRU	Prudential Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=ONEO
+THC	Tenet Healthcare Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=THC.US&back=ONEO
+VRSK	Verisk Analytics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=ONEO
+DAL	Delta Air Lines Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DAL.US&back=ONEO
+AJG	Arthur J. Gallagher & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=ONEO
+RL	Ralph Lauren Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RL.US&back=ONEO
+BDX	Becton Dickinson and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=ONEO
+OGE	OGE Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=ONEO
+WST	West Pharmaceutical Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=ONEO
+DLB	Dolby Laboratories Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DLB.US&back=ONEO
+LNG	Cheniere Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=ONEO
+EPAM	EPAM Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=ONEO
+GL	Globe Life Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GL.US&back=ONEO
+THG	Hanover Insurance Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=ONEO
+MHK	Mohawk Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MHK.US&back=ONEO
+QGEN	QIAGEN NV	/etf/ea/ETZCW.djhtm?c=1&etfid=QGEN.US&back=ONEO
+HAS	Hasbro Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HAS.US&back=ONEO
+CPB	Campbell Soup Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=ONEO
+ITW	Illinois Tool Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=ONEO
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=ONEO
+NEM	Newmont Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=ONEO
+LAMR	Lamar Advertising Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LAMR.US&back=ONEO
+ABC	AmerisourceBergen Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=ONEO
+PPL	PPL Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=ONEO
+BMY	Bristol-Myers Squibb Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=ONEO
+LNT	Alliant Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=ONEO
+ROP	Roper Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=ONEO
+AXS	Axis Capital Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=AXS.US&back=ONEO
+EXPE	Expedia Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=ONEO
+LYV	Live Nation Entertainment Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LYV.US&back=ONEO
+A	Agilent Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=ONEO
+QRVO	Qorvo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=ONEO
+INGR	Ingredion Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=INGR.US&back=ONEO
+FMC	FMC Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=ONEO
+VICI	VICI Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=ONEO
+SWN	Southwestern Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=ONEO
+DPZ	Domino's Pizza Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DPZ.US&back=ONEO
+SKX	Skechers U.S.A. Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SKX.US&back=ONEO
+MET	MetLife Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=ONEO
+UHS	Universal Health Services Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=ONEO
+ATVI	Activision Blizzard Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=ONEO
+WLK	Westlake Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=ONEO
+DCI	Donaldson Company Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DCI.US&back=ONEO
+TPL	Texas Pacific Land Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=ONEO
+UNVR	Univar Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNVR.US&back=ONEO
+STZ	Constellation Brands Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=STZ.US&back=ONEO
+PNR	Pentair plc	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=ONEO
+ANSS	ANSYS Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=ONEO
+ACHC	Acadia Healthcare Company Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHC.US&back=ONEO
+AVB	AvalonBay Communities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=ONEO
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=ONEO
+	Change Healthcare Inc.	
+MSCI	MSCI Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSCI.US&back=ONEO
+IDA	IDACORP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDA.US&back=ONEO
+JCI	Johnson Controls International plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JCI.US&back=ONEO
+MCO	Moody's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCO.US&back=ONEO
+BKI	Black Knight Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKI.US&back=ONEO
+AIRC	Apartment Income REIT Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=ONEO
+RGA	Reinsurance Group of America Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=RGA.US&back=ONEO
+ROST	Ross Stores Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=ONEO
+TTC	Toro Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TTC.US&back=ONEO
+AWK	American Water Works Company Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=ONEO
+SF	Stifel Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SF.US&back=ONEO
+ETN	Eaton Corp. Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=ONEO
+MGM	MGM Resorts International	/etf/ea/ETZCW.djhtm?c=1&etfid=MGM.US&back=ONEO
+ERIE	Erie Indemnity Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ERIE.US&back=ONEO
+EW	Edwards Lifesciences Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=ONEO
+OMF	OneMain Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OMF.US&back=ONEO
+IRM	Iron Mountain Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=ONEO
+CSL	Carlisle Companies Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=ONEO
+LULU	Lululemon Athletica Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=ONEO
+VTRS	Viatris Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=ONEO
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=ONEO
+RMD	ResMed Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=ONEO
+MNST	Monster Beverage Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=ONEO
+ESAB	ESAB Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ESAB.US&back=ONEO
+CHDN	Churchill Downs Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CHDN.US&back=ONEO
+KMX	CarMax Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=ONEO
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=ONEO
+HRB	H&R Block Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HRB.US&back=ONEO
+IR	Ingersoll Rand Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IR.US&back=ONEO
+POST	Post Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=ONEO
+MDLZ	Mondelez International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=ONEO
+FICO	Fair Isaac Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FICO.US&back=ONEO
+MAA	Mid-America Apartment Communities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MAA.US&back=ONEO
+DDOG	Datadog Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=ONEO
+PARA	Paramount Global Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=ONEO
+EL	Estee Lauder Companies Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=ONEO
+SLGN	Silgan Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLGN.US&back=ONEO
+FYBR	Frontier Communications Parent Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FYBR.US&back=ONEO
+PEG	Public Service Enterprise Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=ONEO
+IEX	IDEX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=ONEO
+HE	Hawaiian Electric Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=ONEO
+AON	Aon Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=ONEO
+TRMB	Trimble Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=ONEO
+AME	AMETEK Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AME.US&back=ONEO
+TTD	Trade Desk Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TTD.US&back=ONEO
+WU	Western Union Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=ONEO
+COF	Capital One Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=ONEO
+RGLD	Royal Gold Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=ONEO
+WTRG	Essential Utilities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=ONEO
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=ONEO
+BALL	Ball Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BALL.US&back=ONEO
+LUV	Southwest Airlines Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUV.US&back=ONEO
+IQV	IQVIA Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=ONEO
+FLT	FLEETCOR Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=ONEO
+RITM	Rithm Capital Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=ONEO
+MKC	McCormick & Company Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=ONEO
+THO	Thor Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=THO.US&back=ONEO
+AGO	Assured Guaranty Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGO.US&back=ONEO
+AM	Antero Midstream Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AM.US&back=ONEO
+UNP	Union Pacific Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=ONEO
+MMM	3M Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=ONEO
+PII	Polaris Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PII.US&back=ONEO
+FHN	First Horizon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN.US&back=ONEO
+MTB	M&T Bank Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=ONEO
+SNDR	Schneider National Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=SNDR.US&back=ONEO
+KHC	Kraft Heinz Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=ONEO
+FR	First Industrial Realty Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FR.US&back=ONEO
+NLY	Annaly Capital Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=ONEO
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=ONEO
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=ONEO
+CVX	Chevron Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=ONEO
+ROL	Rollins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROL.US&back=ONEO
+WDAY	Workday Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=ONEO
+CAT	Caterpillar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=ONEO
+SHW	Sherwin-Williams Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=ONEO
+BPOP	Popular Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BPOP.US&back=ONEO
+ALLE	Allegion Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLE.US&back=ONEO
+LSI	Life Storage Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=ONEO
+ALK	Alaska Air Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALK.US&back=ONEO
+J	Jacobs Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=J.US&back=ONEO
+JHG	Janus Henderson Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JHG.US&back=ONEO
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=ONEO
+EWBC	East West Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EWBC.US&back=ONEO
+MLM	Martin Marietta Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MLM.US&back=ONEO
+NDAQ	Nasdaq Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NDAQ.US&back=ONEO
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=ONEO
+EXEL	Exelixis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=ONEO
+NYT	New York Times Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=NYT.US&back=ONEO
+OHI	Omega Healthcare Investors Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OHI.US&back=ONEO
+GPK	Graphic Packaging Holding Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GPK.US&back=ONEO
+NVST	Envista Holdings Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVST.US&back=ONEO
+FBHS	Fortune Brands Home & Security Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=ONEO
+NOW	ServiceNow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=ONEO
+KEY	KeyCorp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=ONEO
+TPX	Tempur Sealy International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TPX.US&back=ONEO
+VOYA	Voya Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=ONEO
+CCK	Crown Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCK.US&back=ONEO
+MDU	MDU Resources Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDU.US&back=ONEO
+VMC	Vulcan Materials Company	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=ONEO
+CMA	Comerica Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=ONEO
+GRMN	Garmin Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=ONEO
+ASH	Ashland Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ASH.US&back=ONEO
+KRC	Kilroy Realty Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KRC.US&back=ONEO
+TT	Trane Technologies plc	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=ONEO
+WPC	W. P. Carey Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=ONEO
+FOX	Fox Corporation Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=FOX.US&back=ONEO
+RPRX	Royalty Pharma Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RPRX.US&back=ONEO
+PTC	PTC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=ONEO
+NWL	Newell Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=ONEO
+LII	Lennox International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LII.US&back=ONEO
+LSXMK	Liberty Media Corp. Series C Liberty SiriusXM	/etf/ea/ETZCW.djhtm?c=1&etfid=LSXMK.US&back=ONEO
+DE	Deere & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=ONEO
+ZION	Zions Bancorporation N.A.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZION.US&back=ONEO
+ZBRA	Zebra Technologies Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBRA.US&back=ONEO
+ELS	Equity LifeStyle Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELS.US&back=ONEO
+MSM	MSC Industrial Direct Co. Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSM.US&back=ONEO
+CHH	Choice Hotels International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHH.US&back=ONEO
+MKSI	MKS Instruments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MKSI.US&back=ONEO
+NATI	National Instruments Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NATI.US&back=ONEO
+SLM	SLM Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SLM.US&back=ONEO
+SPGI	S&P Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=ONEO
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=ONEO
+LIN	Linde plc	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=ONEO
+ACN	Accenture Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=ONEO
+FND	Floor & Decor Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FND.US&back=ONEO
+AXP	American Express Company	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=ONEO
+CLR	Continental Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=ONEO
+BRK.B	Berkshire Hathaway Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=ONEO
+VIRT	Virtu Financial Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VIRT.US&back=ONEO
+TECH	Bio-Techne Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TECH.US&back=ONEO
+BWXT	BWX Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BWXT.US&back=ONEO
+PPG	PPG Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PPG.US&back=ONEO
+ESS	Essex Property Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=ONEO
+DLR	Digital Realty Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=ONEO
+DVA	DaVita Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=ONEO
+WTFC	Wintrust Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFC.US&back=ONEO
+CPT	Camden Property Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=ONEO
+TEAM	Atlassian Corp. Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TEAM.US&back=ONEO
+HBAN	Huntington Bancshares Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=ONEO
+XPO	XPO Logistics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XPO.US&back=ONEO
+CPA	Copa Holdings S.A. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CPA.US&back=ONEO
+BC	Brunswick Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BC.US&back=ONEO
+ADSK	Autodesk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=ONEO
+FWONK	Liberty Media Corp. Series C Liberty Formula One	/etf/ea/ETZCW.djhtm?c=1&etfid=FWONK.US&back=ONEO
+AVY	Avery Dennison Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=ONEO
+UAL	United Airlines Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UAL.US&back=ONEO
+APD	Air Products and Chemicals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=ONEO
+REG	Regency Centers Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=REG.US&back=ONEO
+SWCH	Switch Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SWCH.US&back=ONEO
+IVZ	Invesco Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=IVZ.US&back=ONEO
+HII	Huntington Ingalls Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HII.US&back=ONEO
+CDW	CDW Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=ONEO
+MPW	Medical Properties Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=ONEO
+RTX	Raytheon Technologies Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=ONEO
+CRI	Carter's Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRI.US&back=ONEO
+CFG	Citizens Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=ONEO
+WWD	Woodward Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WWD.US&back=ONEO
+CTRA	Coterra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=ONEO
+PLD	Prologis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=ONEO
+SBUX	Starbucks Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=ONEO
+RYN	Rayonier Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=ONEO
+PCTY	Paylocity Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PCTY.US&back=ONEO
+CEG	Constellation Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=ONEO
+OZK	Bank OZK	/etf/ea/ETZCW.djhtm?c=1&etfid=OZK.US&back=ONEO
+NNN	National Retail Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=ONEO
+ALLY	Ally Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=ONEO
+ICUI	ICU Medical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ICUI.US&back=ONEO
+SITE	SiteOne Landscape Supply Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SITE.US&back=ONEO
+MIDD	Middleby Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MIDD.US&back=ONEO
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=ONEO
+BLD	TopBuild Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLD.US&back=ONEO
+COLM	Columbia Sportswear Company	/etf/ea/ETZCW.djhtm?c=1&etfid=COLM.US&back=ONEO
+WH	Wyndham Hotels & Resorts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WH.US&back=ONEO
+VVV	Valvoline Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VVV.US&back=ONEO
+GMED	Globus Medical Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GMED.US&back=ONEO
+PWR	Quanta Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=ONEO
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=ONEO
+MCD	McDonald's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=ONEO
+NBIX	Neurocrine Biosciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NBIX.US&back=ONEO
+BRX	Brixmor Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRX.US&back=ONEO
+FISV	Fiserv Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=ONEO
+ZTS	Zoetis Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=ONEO
+MORN	Morningstar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MORN.US&back=ONEO
+HTZ	Hertz Global Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HTZ.US&back=ONEO
+HIW	Highwoods Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HIW.US&back=ONEO
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=ONEO
+LEG	Leggett & Platt Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=LEG.US&back=ONEO
+TFC	Truist Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=ONEO
+PVH	PVH Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PVH.US&back=ONEO
+ICE	Intercontinental Exchange Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=ONEO
+MTZ	MasTec Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTZ.US&back=ONEO
+HOG	Harley-Davidson Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOG.US&back=ONEO
+FTV	Fortive Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTV.US&back=ONEO
+EGP	EastGroup Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EGP.US&back=ONEO
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=ONEO
+BSX	Boston Scientific Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BSX.US&back=ONEO
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=ONEO
+GO	Grocery Outlet Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=GO.US&back=ONEO
+HRL	Hormel Foods Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=ONEO
+EVA	Enviva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EVA.US&back=ONEO
+VMI	Valmont Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VMI.US&back=ONEO
+SON	Sonoco Products Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SON.US&back=ONEO
+BK	Bank of New York Mellon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=ONEO
+HON	Honeywell International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=ONEO
+HZNP	Horizon Therapeutics Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HZNP.US&back=ONEO
+EHC	Encompass Health Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EHC.US&back=ONEO
+HEI	HEICO Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.US&back=ONEO
+AXTA	Axalta Coating Systems Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=AXTA.US&back=ONEO
+SNV	Synovus Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV.US&back=ONEO
+NLSN	Nielsen Holdings Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=NLSN.US&back=ONEO
+NWSA	News Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=NWSA.US&back=ONEO
+PEAK	Healthpeak Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=ONEO
+TNL	Travel + Leisure Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=TNL.US&back=ONEO
+GS	Goldman Sachs Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=ONEO
+LW	Lamb Weston Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LW.US&back=ONEO
+MRK	Merck & Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=ONEO
+MAR	Marriott International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=ONEO
+ARMK	Aramark	/etf/ea/ETZCW.djhtm?c=1&etfid=ARMK.US&back=ONEO
+PB	Prosperity Bancshares Inc.(R)	/etf/ea/ETZCW.djhtm?c=1&etfid=PB.US&back=ONEO
+ENPH	Enphase Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=ONEO
+CUBE	CubeSmart	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBE.US&back=ONEO
+HEI.A	HEICO Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.A.US&back=ONEO
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=ONEO
+UMPQ	Umpqua Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UMPQ.US&back=ONEO
+USB	U.S. Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=ONEO
+AL	Air Lease Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AL.US&back=ONEO
+LNC	Lincoln National Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=ONEO
+ABNB	Airbnb Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=ONEO
+SYNH	Syneos Health Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNH.US&back=ONEO
+BKNG	Booking Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=ONEO
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=ONEO
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=ONEO
+SUI	Sun Communities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SUI.US&back=ONEO
+HWM	Howmet Aerospace Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=ONEO
+SIRI	Sirius XM Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=ONEO
+KKR	KKR & Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KKR.US&back=ONEO
+VMW	VMware Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=ONEO
+PRI	Primerica Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRI.US&back=ONEO
+EFX	Equifax Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EFX.US&back=ONEO
+SYK	Stryker Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SYK.US&back=ONEO
+WWE	World Wrestling Entertainment Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WWE.US&back=ONEO
+CHTR	Charter Communications Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=ONEO
+FRT	Federal Realty Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT.US&back=ONEO
+CFR	Cullen/Frost Bankers Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CFR.US&back=ONEO
+TTWO	Take-Two Interactive Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=ONEO
+NKE	NIKE Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=ONEO
+NEE	NextEra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=ONEO
+NOV	NOV Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOV.US&back=ONEO
+NTRS	Northern Trust Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=ONEO
+TRU	TransUnion	/etf/ea/ETZCW.djhtm?c=1&etfid=TRU.US&back=ONEO
+ABMD	ABIOMED Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABMD.US&back=ONEO
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=ONEO
+FIVE	Five Below Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIVE.US&back=ONEO
+NCR	NCR Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NCR.US&back=ONEO
+SBAC	SBA Communications Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=ONEO
+VFC	V.F. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=ONEO
+VST	Vistra Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=ONEO
+TMX	Terminix Global Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TMX.US&back=ONEO
+TKR	Timken Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TKR.US&back=ONEO
+BF.B	Brown-Forman Corporation Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=ONEO
+DT	Dynatrace Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DT.US&back=ONEO
+ZBH	Zimmer Biomet Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=ONEO
+CBSH	Commerce Bancshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CBSH.US&back=ONEO
+GM	General Motors Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=ONEO
+PNC	PNC Financial Services Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=ONEO
+MP	MP Materials Corp Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MP.US&back=ONEO
+CUZ	Cousins Properties Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CUZ.US&back=ONEO
+BEPC	Brookfield Renewable Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BEPC.US&back=ONEO
+PKI	PerkinElmer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PKI.US&back=ONEO
+BMRN	BioMarin Pharmaceutical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMRN.US&back=ONEO
+ISRG	Intuitive Surgical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=ONEO
+PNFP	Pinnacle Financial Partners Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNFP.US&back=ONEO
+EEFT	Euronet Worldwide Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EEFT.US&back=ONEO
+POOL	Pool Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=POOL.US&back=ONEO
+CTLT	Catalent Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLT.US&back=ONEO
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=ONEO
+VSAT	ViaSat Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VSAT.US&back=ONEO
+IBKR	Interactive Brokers Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=IBKR.US&back=ONEO
+DOCS	Doximity Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCS.US&back=ONEO
+XYL	Xylem Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=ONEO
+FNB	F.N.B. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FNB.US&back=ONEO
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=ONEO
+BRKR	Bruker Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BRKR.US&back=ONEO
+ROK	Rockwell Automation Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROK.US&back=ONEO
+AWI	Armstrong World Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AWI.US&back=ONEO
+APTV	Aptiv PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=ONEO
+TFX	Teleflex Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=ONEO
+MDT	Medtronic Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=ONEO
+RGEN	Repligen Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RGEN.US&back=ONEO
+BXP	Boston Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BXP.US&back=ONEO
+VNT	Vontier Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VNT.US&back=ONEO
+RNR	RenaissanceRe Holdings Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR.US&back=ONEO
+AMT	American Tower Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=ONEO
+LSXMA	Liberty Media Corp. Series A Liberty SiriusXM	/etf/ea/ETZCW.djhtm?c=1&etfid=LSXMA.US&back=ONEO
+KEX	Kirby Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KEX.US&back=ONEO
+CRWD	CrowdStrike Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=ONEO
+CMCSA	Comcast Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=ONEO
+BHF	Brighthouse Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BHF.US&back=ONEO
+REXR	Rexford Industrial Realty Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REXR.US&back=ONEO
+IDXX	IDEXX Laboratories Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=ONEO
+JWN	Nordstrom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JWN.US&back=ONEO
+INVH	Invitation Homes Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INVH.US&back=ONEO
+ALGM	Allegro MicroSystems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGM.US&back=ONEO
+ATR	Aptargroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATR.US&back=ONEO
+IONS	Ionis Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=ONEO
+	Citrix Systems Inc.	
+C	Citigroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=ONEO
+AAL	American Airlines Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAL.US&back=ONEO
+AGNC	AGNC Investment Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=ONEO
+ATO	Atmos Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=ONEO
+DHR	Danaher Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=ONEO
+AZTA	Azenta Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZTA.US&back=ONEO
+O	Realty Income Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=ONEO
+PG	Procter & Gamble Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=ONEO
+	STATE STREET INSTITUTIONAL LIQ STATE STR	
+KO	Coca-Cola Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=ONEO
+PPC	Pilgrim's Pride Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=ONEO
+VAC	Marriott Vacations Worldwide Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VAC.US&back=ONEO
+SLG	SL Green Realty Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLG.US&back=ONEO
+ARE	Alexandria Real Estate Equities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARE.US&back=ONEO
+ST	Sensata Technologies Holding PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ST.US&back=ONEO
+GPN	Global Payments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=ONEO
+ITT	ITT Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITT.US&back=ONEO
+NYCB	New York Community Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=ONEO
+BURL	Burlington Stores Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BURL.US&back=ONEO
+UDR	UDR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UDR.US&back=ONEO
+WBS	Webster Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WBS.US&back=ONEO
+BIIB	Biogen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=ONEO
+SRC	Spirit Realty Capital Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=ONEO
+ESI	Element Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESI.US&back=ONEO
+CCI	Crown Castle Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=ONEO
+DXCM	DexCom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=ONEO
+ENOV	Enovis Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ENOV.US&back=ONEO
+HUM	Humana Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=ONEO
+SCCO	Southern Copper Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SCCO.US&back=ONEO
+SIVB	SVB Financial Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVB.US&back=ONEO
+MKTX	MarketAxess Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MKTX.US&back=ONEO
+UNH	UnitedHealth Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=ONEO
+NSA	National Storage Affiliates Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=NSA.US&back=ONEO
+ALB	Albemarle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=ONEO
+CME	CME Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CME.US&back=ONEO
+AMH	American Homes 4 Rent Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=AMH.US&back=ONEO
+SEB	Seaboard Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SEB.US&back=ONEO
+CGNX	Cognex Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CGNX.US&back=ONEO
+PRGO	Perrigo Co. Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGO.US&back=ONEO
+PLNT	Planet Fitness Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PLNT.US&back=ONEO
+XRAY	DENTSPLY SIRONA Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XRAY.US&back=ONEO
+TYL	Tyler Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=ONEO
+FLS	Flowserve Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FLS.US&back=ONEO
+IAA	IAA Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IAA.US&back=ONEO
+MRVI	Maravai Lifesciences Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVI.US&back=ONEO
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=ONEO
+JBLU	JetBlue Airways Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=JBLU.US&back=ONEO
+FHB	First Hawaiian Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FHB.US&back=ONEO
+IART	Integra LifeSciences Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IART.US&back=ONEO
+TWTR	Twitter Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=ONEO
+BAX	Baxter International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=ONEO
+AVTR	Avantor Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVTR.US&back=ONEO
+FRC	First Republic Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC.US&back=ONEO
+FIS	Fidelity National Information Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=ONEO
+STOR	STORE Capital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=STOR.US&back=ONEO
+LLY	Eli Lilly and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=ONEO
+HBI	Hanesbrands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HBI.US&back=ONEO
+MTN	Vail Resorts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTN.US&back=ONEO
+BOH	Bank of Hawaii Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH.US&back=ONEO
+TW	Tradeweb Markets Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TW.US&back=ONEO
+BLK	BlackRock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=ONEO
+AGR	Avangrid Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=ONEO
+WBD	Warner Bros. Discovery Inc. Series A	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=ONEO
+OLED	Universal Display Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OLED.US&back=ONEO
+SGEN	Seagen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=ONEO
+HR	Healthcare Realty Trust Incorporated Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=HR.US&back=ONEO
+VEEV	Veeva Systems Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=ONEO
+HLT	Hilton Worldwide Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLT.US&back=ONEO
+TMO	Thermo Fisher Scientific Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=ONEO
+MASI	Masimo Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MASI.US&back=ONEO
+TREX	Trex Company Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TREX.US&back=ONEO
+TDG	TransDigm Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=ONEO
+SBNY	Signature Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNY.US&back=ONEO
+WELL	Welltower Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=ONEO
+WEN	Wendy's Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WEN.US&back=ONEO
+CRL	Charles River Laboratories International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRL.US&back=ONEO
+VTR	Ventas Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=ONEO
+NWS	News Corporation Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=NWS.US&back=ONEO
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=ONEO
+HUBS	HubSpot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBS.US&back=ONEO
+SRCL	Stericycle Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SRCL.US&back=ONEO
+SNOW	Snowflake Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=ONEO
+SIX	Six Flags Entertainment Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SIX.US&back=ONEO
+PACW	PacWest Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=PACW.US&back=ONEO
+ECL	Ecolab Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=ONEO
+LBRDK	Liberty Broadband Corp. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDK.US&back=ONEO
+STE	STERIS Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=STE.US&back=ONEO
+EPR	EPR Properties	/etf/ea/ETZCW.djhtm?c=1&etfid=EPR.US&back=ONEO
+IPGP	IPG Photonics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IPGP.US&back=ONEO
+AXON	Axon Enterprise Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AXON.US&back=ONEO
+SPB	Spectrum Brands Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPB.US&back=ONEO
+REYN	Reynolds Consumer Products Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REYN.US&back=ONEO
+NEU	NewMarket Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NEU.US&back=ONEO
+CSGP	CoStar Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGP.US&back=ONEO
+TMUS	T-Mobile US Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=ONEO
+MRCY	Mercury Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRCY.US&back=ONEO
+WFC	Wells Fargo & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=ONEO
+GWRE	Guidewire Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GWRE.US&back=ONEO
+UI	Ubiquiti Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UI.US&back=ONEO
+GFS	GlobalFoundries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GFS.US&back=ONEO
+ALGN	Align Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=ONEO
+CABO	Cable One Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CABO.US&back=ONEO
+DNB	Dun & Bradstreet Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DNB.US&back=ONEO
+HST	Host Hotels & Resorts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HST.US&back=ONEO
+SWK	Stanley Black & Decker Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=ONEO
+EQIX	Equinix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=ONEO
+LEN.B	Lennar Corporation Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.B.US&back=ONEO
+MA	Mastercard Incorporated Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=ONEO
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=ONEO
+RYAN	Ryan Specialty Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RYAN.US&back=ONEO
+GE	General Electric Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=ONEO
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=ONEO
+STT	State Street Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=ONEO
+OLPX	Olaplex Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OLPX.US&back=ONEO
+PINS	Pinterest Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PINS.US&back=ONEO
+DISH	DISH Network Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DISH.US&back=ONEO
+HXL	Hexcel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HXL.US&back=ONEO
+H	Hyatt Hotels Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=H.US&back=ONEO
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=ONEO
+META	Meta Platforms Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=ONEO
+ARES	Ares Management Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ARES.US&back=ONEO
+CNA	CNA Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNA.US&back=ONEO
+GTES	Gates Industrial Corporation plc	/etf/ea/ETZCW.djhtm?c=1&etfid=GTES.US&back=ONEO
+UA	Under Armour Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=UA.US&back=ONEO
+UAA	Under Armour Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=UAA.US&back=ONEO
+WEX	WEX Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WEX.US&back=ONEO
+ADI	Analog Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=ONEO
+MSA	MSA Safety Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSA.US&back=ONEO
+WOOF	Petco Health & Wellness Company Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WOOF.US&back=ONEO
+SCHW	Charles Schwab Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=ONEO
+CRM	Salesforce Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=ONEO
+VNO	Vornado Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=ONEO
+YETI	YETI Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YETI.US&back=ONEO
+OLLI	Ollie's Bargain Outlet Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OLLI.US&back=ONEO
+DRVN	Driven Brands Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DRVN.US&back=ONEO
+ETSY	Etsy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=ONEO
+FCNCA	First Citizens BancShares Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FCNCA.US&back=ONEO
+COIN	Coinbase Global Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=ONEO
+GNRC	Generac Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GNRC.US&back=ONEO
+EQH	Equitable Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH.US&back=ONEO
+WAL	Western Alliance Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=WAL.US&back=ONEO
+TNDM	Tandem Diabetes Care Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TNDM.US&back=ONEO
+ELAN	Elanco Animal Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELAN.US&back=ONEO
+JAZZ	Jazz Pharmaceuticals Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=JAZZ.US&back=ONEO
+AMED	Amedisys Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMED.US&back=ONEO
+	Ardagh Group S.A. Class A	
+ZEN	Zendesk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZEN.US&back=ONEO
+PYCR	Paycor HCM Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYCR.US&back=ONEO
+SSRM	SSR Mining Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=ONEO
+EHAB	Enhabit Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EHAB.US&back=ONEO
+PODD	Insulet Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PODD.US&back=ONEO
+SPOT	Spotify Technology SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SPOT.US&back=ONEO
+RH	RH	/etf/ea/ETZCW.djhtm?c=1&etfid=RH.US&back=ONEO
+BF.A	Brown-Forman Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.A.US&back=ONEO
+PENN	PENN Entertainment Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PENN.US&back=ONEO
+SHC	Sotera Health Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SHC.US&back=ONEO
+DEI	Douglas Emmett Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DEI.US&back=ONEO
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=ONEO
+ZI	ZoomInfo Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZI.US&back=ONEO
+CDAY	Ceridian HCM Holding Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDAY.US&back=ONEO
+COTY	Coty Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=COTY.US&back=ONEO
+IAC	IAC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IAC.US&back=ONEO
+SNX	TD SYNNEX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SNX.US&back=ONEO
+OSK	Oshkosh Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OSK.US&back=ONEO
+SPLK	Splunk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=ONEO
+DASH	DoorDash Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DASH.US&back=ONEO
+ZS	Zscaler Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=ONEO
+	U.S. Dollar	
+BFAM	Bright Horizons Family Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BFAM.US&back=ONEO
+SMAR	Smartsheet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SMAR.US&back=ONEO
+CZR	Caesars Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CZR.US&back=ONEO
+TWKS	Thoughtworks Holding Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TWKS.US&back=ONEO
+	Canadian Dollar	

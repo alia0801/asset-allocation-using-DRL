@@ -1,0 +1,72 @@
+SMOG
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=SMOG
+NEE	Nextera Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=SMOG
+	Iberdrola Sa	
+ENPH	Enphase Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=SMOG
+	Enel Spa	
+NIO	Nio Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NIO.US&back=SMOG
+	Vestas Wind Systems A/S	
+006400.KS&back=SMOG	Samsung Sdi Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=006400.KS&back=SMOG
+1211.HK&back=SMOG	Byd Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1211.HK&back=SMOG
+	Orsted As	
+LI	Li Auto Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LI.US&back=SMOG
+SEDG	Solaredge Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=SMOG
+	Nibe Industrier Ab	
+PLUG	Plug Power Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLUG.US&back=SMOG
+RIVN	Rivian Automotive Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RIVN.US&back=SMOG
+XPEV	Xpeng Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=XPEV.US&back=SMOG
+FSLR	First Solar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=SMOG
+LCID	Lucid Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LCID.US&back=SMOG
+	Northland Power Inc	
+3800.HK&back=SMOG	Gcl-Poly Energy Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3800.HK&back=SMOG
+0968.HK&back=SMOG	Xinyi Solar Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0968.HK&back=SMOG
+OC	Owens Corning	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=SMOG
+	Edp Renovaveis Sa	
+	Kingspan Group Plc	
+RUN	Sunrun Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RUN.US&back=SMOG
+	Acciona Sa	
+EBR	Centrais Eletricas Brasileiras Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=EBR.US&back=SMOG
+009830.KS&back=SMOG	Hanwha Solutions Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=009830.KS&back=SMOG
+	Energy Absolute Pcl	
+	Siemens Gamesa Renewable Energy Sa	
+BEPC	Brookfield Renewable Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BEPC.US&back=SMOG
+DQ	Daqo New Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DQ.US&back=SMOG
+	Meridian Energy Ltd	
+	Johnson Matthey Plc	
+	Boralex Inc	
+	Contact Energy Ltd	
+	Verbund Ag	
+JKS	Jinkosolar Holding Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=JKS.US&back=SMOG
+CIG	Cia Energetica De Minas Gerais	/etf/ea/ETZCW.djhtm?c=1&etfid=CIG.US&back=SMOG
+BE	Bloom Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BE.US&back=SMOG
+0916.HK&back=SMOG	China Longyuan Power Group Corp Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0916.HK&back=SMOG
+HASI	Hannon Armstrong Sustainable Infrastruc	/etf/ea/ETZCW.djhtm?c=1&etfid=HASI.US&back=SMOG
+ORA	Ormat Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORA.US&back=SMOG
+	Encavis Ag	
+	Nel Asa	
+	Mercury Nz Ltd	
+	Enel Americas Sa	
+	Neoen Sa	
+	Innergex Renewable Energy Inc	
+ENS	Enersys	/etf/ea/ETZCW.djhtm?c=1&etfid=ENS.US&back=SMOG
+BLDP	Ballard Power Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDP.US&back=SMOG
+AY	Atlantica Sustainable Infrastructure Pl	/etf/ea/ETZCW.djhtm?c=1&etfid=AY.US&back=SMOG
+CSIQ	Canadian Solar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSIQ.US&back=SMOG
+BMI	Badger Meter Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BMI.US&back=SMOG
+	Erg Spa	
+0257.HK&back=SMOG	China Everbright Environment Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0257.HK&back=SMOG
+6856.JP&back=SMOG	Horiba Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6856.JP&back=SMOG
+6121.TW&back=SMOG	Simplo Technology Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6121.TW&back=SMOG
+NOVA	Sunnova Energy International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NOVA.US&back=SMOG
+	Rockwool International A/S	
+NKLA	Nikola Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NKLA.US&back=SMOG
+IBP	Installed Building Products Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IBP.US&back=SMOG
+	Transalta Renewables Inc	
+	Nordex Se	
+	Landis+gyr Group Ag	
+FCEL	Fuelcell Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FCEL.US&back=SMOG
+FSR	Fisker Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FSR.US&back=SMOG
+ELP	Cia Paranaense De Energia	/etf/ea/ETZCW.djhtm?c=1&etfid=ELP.US&back=SMOG
+	Itm Power Plc	
+	Scatec Asa	
+	Ceres Power Holdings Plc	

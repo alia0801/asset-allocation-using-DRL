@@ -1,0 +1,7 @@
+FV
+FXN	First Trust Energy AlphaDEX Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FXN.US&back=FV
+FTXN	First Trust Nasdaq Oil & Gas ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=FTXN.US&back=FV
+FTXG	First Trust Nasdaq Food & Beverage ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=FTXG.US&back=FV
+FXR	First Trust Industrials/Producer Durables AlphaDEX Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FXR.US&back=FV
+FXZ	First Trust Materials AlphaDEX Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FXZ.US&back=FV
+	US Dollar	

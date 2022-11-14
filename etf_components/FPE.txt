@@ -1,0 +1,305 @@
+FPE
+	BARCLAYS PLC Variable rate	
+	AERCAP HOLDINGS NV Variable rate, due 10/10/2079	
+	Wells Fargo & Company, Series L, 7.50%	
+	HIGHLAND HOLDINGS BOND 7.625%, due 10/15/2025	
+	GLOBAL ATLANTIC Variable rate, due 10/15/2051	
+	WELLS FARGO & COMPANY Variable rate	
+	SOCIETE GENERALE Variable rate	
+	CREDIT SUISSE GROUP AG Variable rate	
+	CREDIT SUISSE GROUP AG Variable rate	
+	Bank of America Corporation, Series L, 7.25%	
+	BARCLAYS PLC Variable rate	
+	ENBRIDGE INC Variable rate, due 01/15/2077	
+	AMER AGCREDIT ACA Variable rate	
+	DCP MIDSTREAM LP Variable rate	
+	ALGONQUIN PWR & UTILITY Variable rate, due 01/18/2082	
+	CHARLES SCHWAB CORP Variable rate	
+	DCP MIDSTREAM OPERATING Variable rate, due 05/21/2043	
+	ENBRIDGE INC Variable rate, due 03/01/2078	
+	UNICREDIT SPA Variable rate	
+	EMERA INC Variable rate, due 06/15/2076	
+	DEUTSCHE BANK AG Variable rate	
+	SEMPRA ENERGY Variable rate, due 04/01/2052	
+	STANDARD CHARTERED PLC Variable rate	
+	PRUDENTIAL FINANCIAL INC Variable rate, due 09/01/2052	
+	BNP PARIBAS Variable rate	
+	COREBRIDGE FINANCIAL INC Variable rate, due 12/15/2052	
+	Energy Transfer LP, Series E, 7.60% Variable Rate	
+	CENTERPOINT ENERGY INC Variable rate	
+	BNP PARIBAS Variable rate	
+	Aegon Funding Company LLC, 5.100%, Due 12/15/2049	
+	ENSTAR FINANCE LLC Variable rate, due 01/15/2042	
+	ENTERPRISE PRODUCTS OPER Variable rate, due 06/01/2067	
+	American Equity Investment Life Holding Company, Series A, 5.950%, Variable Rate	
+	STANDARD CHARTERED PLC Variable rate	
+	CREDIT AGRICOLE SA Variable rate	
+	PNC FINANCIAL SERVICES Variable rate	
+	LLOYDS BANKING GROUP PLC Variable rate	
+	LAND O'LAKES INC 7%	
+	BANCO SANTANDER SA Variable rate	
+	AMERICAN EXPRESS CO Variable rate	
+	JPMORGAN CHASE & CO Variable rate	
+	LLOYDS BANKING GROUP PLC Variable rate	
+	VOYA FINANCIAL INC Variable rate, due 05/15/2053	
+	SVB FINANCIAL GROUP Variable rate	
+	Prudential Financial, Inc., 5.95%, Due 09/01/2062	
+	Morgan Stanley, Series P, 6.50%	
+	CITIGROUP INC Variable rate	
+	ENBRIDGE INC Variable rate, due 07/15/2080	
+	SVB FINANCIAL GROUP Variable rate	
+	QBE INSURANCE GROUP LTD Variable rate	
+	AERCAP GLOBAL AVIATION TRUST Variable rate, due 06/15/2045	
+	COBANK ACB Variable rate	
+	Aspen Insurance Holdings Limited, 5.625%	
+	CHS Inc., Series 3, 6.750%, Variable Rate	
+	INTESA SANPAOLO SPA Variable rate	
+	CREDIT SUISSE GROUP AG Variable rate	
+	APOLLO MANAGEMENT HOLDINGS Variable rate, due 01/14/2050	
+	CITIGROUP INC Variable rate	
+	LANCASHIRE HOLDINGS LTD Variable rate, due 09/18/2041	
+	ING GROEP NV Variable rate	
+	GOLDMAN SACHS GROUP INC Variable rate	
+	BARCLAYS PLC Variable rate	
+	ARES FINANCE CO 4.125%, due 06/30/2051	
+	AXIS SPECIALTY FINANCE Variable rate, due 01/15/2040	
+	AIRCASTLE LTD Variable rate	
+	AUST & NZ BANKING GROUP Variable rate	
+	ASSURANT INC Variable rate, due 03/27/2048	
+	Signature Bank New York, Series a, 5.000%	
+	UBS GROUP AG Variable rate	
+	TRANSCANADA TRUST Variable rate, due 03/07/2082	
+	ALLY FINANCIAL INC Series B, Variable rate	
+	LAND O'LAKES INC 8%	
+	LLOYDS BANKING GROUP PLC Variable rate	
+	Brookfield Property Preferred LP, 6.25%, Due 07/26/2081	
+	PacWest Bancorp, Series A, 7.750% Variable Rate	
+	SOUTHERN CAL EDISON Series E, Variable rate	
+	Brookfield Property Partners LP, Series A, 5.75%	
+	LIBERTY MUTUAL GROUP INC 4.125%, due 12/15/2051	
+	CAPITAL ONE FINANCIAL CORP Variable rate	
+	CITIGROUP INC Variable rate	
+	BANCO BILBAO VIZCAYA ARG Variable rate	
+	BANCO SANTANDER SA Variable rate	
+	UBS GROUP AG Variable rate	
+	US Dollar	
+	Delphi Financial Group, Variable Rate, Due 05/15/2037	
+	Equitable Holdings, Inc., Series A, 5.250%	
+	Carlyle Finance LLC, 4.625%, Due 05/15/2061	
+	Bank of America Corporation, Series NN, 4.375%	
+	KUVARE US HOLDINGS INC Variable rate, due 05/01/2051	
+	LAND O LAKES CAP TRST I 7.45%, Cumulative Preferred, due 03/15/2028	
+	PRINCIPAL FINANCIAL GROUP Variable rate, due 05/15/2055	
+	Brookfield Property Partners LP, Series A2, 6.375%	
+	UBS GROUP AG Variable rate	
+	QBE INSURANCE GROUP LTD Variable rate, due 12/02/2044	
+	ENTERPRISE PRODUCTS OPERATING Variable rate, due 08/16/2077	
+	CITIGROUP INC Variable rate	
+	CAPITAL FARM CREDIT ACA Variable rate	
+	EFG INTERNATIONAL AG Variable rate	
+	ENERGY TRANSFER LP Variable rate, due 11/01/2066	
+	STANDARD CHARTERED PLC Variable rate	
+	American Equity Investment Life Holding Company, Series B, 6.625% Variable Rate	
+	Qwest Corporation, 6.75%, Due 06/15/2057	
+	TRANSCANADA TRUST Variable rate, due 09/15/2079	
+	GOLDMAN SACHS GROUP INC Variable rate	
+	CITIGROUP INC Variable rate	
+	BANK OF AMERICA CORP Series RR, Variable rate	
+	Wintrust Financial Corporation, Series E, 6.875% Variable Rate	
+	Integrys Holding, Inc., 6.000%, Variable Rate, Due 08/01/2073	
+	CITIGROUP INC Preferred, Variable rate	
+	ENERGY TRANSFER LP Series F, Variable rate	
+	Qwest Corporation, 6.500%, Due 09/01/2056	
+	SCE Trust V, Series K, 5.450%, Variable Rate	
+	KKR Group Fin Co IX LLC, 4.625%, Due 04/01/2061	
+	ENERGY TRANSFER LP Variable rate	
+	DANSKE BANK A/S Variable rate	
+	ENSTAR FINANCE LLC Variable rate, due 09/01/2040	
+	NATWEST GROUP PLC Variable rate	
+	BANK OF AMERICA CORP Series TT, Variable rate	
+	Pinnacle Financial Partners, Inc., Series B, 6.750%	
+	RenaissanceRe Holdings Ltd., Series G, 4.200%	
+	Hudson Pacific Properties, Inc., Series C, 4.750%	
+	The Goldman Sachs Group, Inc., Series J, 5.500%, Variable Rate	
+	BANCO MERCANTIL DEL NORTE Variable rate	
+	BANK OF NY MELLON CORP Variable rate	
+	ING GROEP NV 6.50%	
+	DUKE ENERGY CORP Variable rate	
+	DANSKE BANK A/S Variable rate	
+	COBANK ACB Variable rate	
+	Global Net Lease, Inc., Series A, 7.25%	
+	Athene Holding Ltd., Series A, 6.350%, Variable Rate	
+	DTE Energy Company, Series E, 5.250%, Due 12/01/2077	
+	Sempra Energy, 5.750%, Due 07/01/2079	
+	Oaktree Capital Group, LLC, Series B, 6.55%	
+	FARM CREDIT BK OF TEXAS Variable rate	
+	United States Cellular Corporation, 5.500%, Due 06/01/2070	
+	NuStar Logistics, L.P., Variable Rate, Due 01/15/2043	
+	CHS Inc., Series 2, 7.100%, Variable Rate	
+	CITIZENS FINANCIAL GROUP Variable rate	
+	CREDIT AGRICOLE SA Variable rate	
+	BARCLAYS PLC Variable rate	
+	Ford Motor Company, 6.50%, Due 08/15/2062	
+	NuStar Energy LP, Series A, 8.50% Variable Rate	
+	Wells Fargo & Company, Series Y, 5.625%	
+	Wesbanco, Inc., Series A, 6.75% Variable Rate	
+	Affiliated Managers Group, Inc., 4.200%, Due 09/30/2061	
+	CREDIT SUISSE GROUP AG Variable rate	
+	BNP PARIBAS Variable rate	
+	JPMORGAN CHASE & CO Series V, Variable rate	
+	M&T BANK CORPORATION Variable rate	
+	BUCKEYE PARTNERS LP Variable rate, due 01/22/2078	
+	New York Community Bancorp, Inc., Series A, 6.375%, Variable Rate	
+	VOYA FINANCIAL INC Variable rate	
+	Brookfield BRP Holdings, 4.625%	
+	Annaly Capital Management, Inc., Series F, 6.950%, Variable Rate	
+	South Jersey Industries, Inc., 5.625%, Due 09/16/2079	
+	CITIGROUP INC Series P, Variable rate	
+	ASAHI MUTUAL LIFE INSURANCE Variable rate	
+	QBE INSURANCE GROUP LTD Variable rate, due 06/17/2046	
+	HARTFORD FINL SVCS GRP Variable rate, due 02/12/2047	
+	EDISON INTERNATIONAL Variable rate	
+	DANSKE BANK A/S Variable rate	
+	BANCO MERCANTIL DEL NORTE Variable rate	
+	CHARLES SCHWAB CORP Variable rate	
+	First Republic Bank, Series M, 4.00%	
+	AGNC Investment Corp., Series F, 6.125% Variable Rate	
+	Brookfield Renewable Partners LP, Series 17, 5.25%	
+	CNO Financial Group, Inc., 5.125%, Due 11/25/2060	
+	The Southern Company, Series 2020, 4.950%, Due 01/30/2080	
+	ALLIANZ SE Variable rate	
+	FORTEGRA FINANCIAL CORP Variable rate, due 10/15/2057	
+	Wells Fargo & Company, Series Q, 5.850%, Variable Rate	
+	Western Alliance Bancorporation, Series A, 4.250% Variable Rate	
+	LAND O'LAKES INC 7.25%	
+	NISOURCE INC 5.65%	
+	DEUTSCHE BANK AG Variable rate	
+	AIR LEASE CORP Variable rate	
+	CMS ENERGY CORP Variable rate, due 12/01/2050	
+	BANK OF NOVA SCOTIA Variable rate	
+	Algonquin Power & Utilities Corp., Series 19-A, 6.200%, Variable Rate, Due 07/01/2079	
+	Assurant, Inc., 5.250%, Due 01/15/2061	
+	AGNC Investment Corp., Series C, 7.000%, Variable Rate	
+	Apollo Asset Management, Inc., Series B, 6.375%	
+	SWEDBANK AB Variable rate	
+	Brookfield Infrastructure Finance ULC, 5.00%, Due 05/24/2081	
+	Farm Credit Bank of Texas, Series 144A, 6.75% Variable Rate	
+	AMTRUST FINANCIAL SERVICES 6.125%, due 08/15/2023	
+	ASSURED GUARANTY MUNICIPAL HOLDINGS INC Variable rate, due 12/15/2066	
+	COMPEER FINANCIAL ACA Variable rate	
+	JPMORGAN CHASE & CO Series R, Variable rate	
+	HSBC HOLDINGS PLC Variable rate	
+	WESCO International, Inc., Series A, 10.625% Variable Rate	
+	PROGRESSIVE CORP Variable rate	
+	M&T BANK CORPORATION Variable rate	
+	GOLDMAN SACHS GROUP INC Variable rate	
+	BANK OF AMERICA CORP Series X, Variable rate	
+	Oaktree Capital Group, LLC, Series A, 6.625%	
+	SOCIETE GENERALE Variable rate	
+	Arch Capital Group Ltd., Series G, 4.550%	
+	The Allstate Corporation, 5.100%, Variable Rate, Due 01/15/2053	
+	Brookfield Infrastructure Partners LP, Series 13, 5.125%	
+	Air Lease Corporation, Series A, 6.150%, Variable Rate	
+	Aspen Insurance Holdings Limited, 5.950%, Variable Rate	
+	SOUTHERN CO Variable rate, due 09/15/2051	
+	REINSURANCE GRP OF AMER Variable rate, due 12/15/2065	
+	BNSF FUNDING TRUST I Variable rate, due 12/15/2055	
+	BNP PARIBAS Variable rate	
+	COMMERZBANK AG Variable rate	
+	BANCO MERCANTIL DEL NORTE Variable rate	
+	BBVA BANCOMER SA TEXAS Variable rate, due 09/13/2034	
+	UNICREDIT SPA Variable rate, due 06/30/2035	
+	Axis Capital Holdings Limited, Series E, 5.500%	
+	FIFTH THIRD BANCORP Variable rate	
+	DAIRY FARMERS OF AMERICA 7.125%	
+	HSBC HOLDINGS PLC Variable rate	
+	LA MONDIALE Variable rate, due 01/26/2047	
+	NORDEA BANK ABP 6.625%	
+	Enstar Group Limited, Series D, 7.000%, Variable Rate	
+	Agribank Fcb, 6.875% Variable Rate	
+	Algonquin Power & Utilities Corp., 6.875%, Variable Rate, Due 10/17/2078	
+	SCE Trust IV, Series J, 5.375%, Variable Rate	
+	SEMPRA ENERGY Variable rate	
+	SOCIETE GENERALE Variable rate	
+	Globe Life Inc., 4.250%, Due 06/15/2061	
+	ENERGY TRANSFER LP Variable rate	
+	ENERGY TRANSFER LP Variable rate	
+	NATWEST GROUP PLC Variable rate	
+	Citizens Financial Group, Inc., Series D, 6.350% Variable Rate	
+	Compeer Financial ACA, Series 144A, 6.75% Variable Rate	
+	Bank of America Corporation, Series KK, 5.375%	
+	Fulton Financial Corporation, Series A, 5.125%	
+	FARM CREDIT BK OF TEXAS Variable rate	
+	Annaly Capital Management, Inc., Series I, 6.750% Variable Rate	
+	Affiliated Managers Group, Inc., 4.750%, Due 09/30/2060	
+	AmTrust Financial Services, Inc., 7.500%, Due 09/15/2055	
+	AGNC Investment Corp., Series D, 6.875% Variable Rate	
+	W.R. Berkley Corporation, 5.100%, Due 12/30/2059	
+	Vornado Realty Trust, Series N, 5.250%	
+	Aspen Insurance Holdings Limited, 5.625%	
+	SCENTRE GROUP TRUST 2 Variable rate, due 09/24/2080	
+	United States Cellular Corporation, 6.250%, Due 09/01/2069	
+	CMS Energy Corp., Series C, 4.200%	
+	BARCLAYS PLC Variable rate	
+	CITIZENS FINANCIAL GROUP Variable rate	
+	CNP ASSURANCES Variable rate	
+	BNP PARIBAS Variable rate	
+	CoBank ACB, Series H, 6.20% Variable Rate	
+	DigitalBridge Group Inc, Series I, 7.15%	
+	United States Cellular Corporation, 5.500%, Due 03/01/2070	
+	KeyCorp, Series F, 5.650%	
+	TEXAS CAPITAL BANCSHARES Variable rate, due 05/06/2031	
+	AmTrust Financial Services, Inc., 7.250%, Due 06/15/2055	
+	TRUIST FINANCIAL CORP Variable rate	
+	TRUIST FINANCIAL CORP Variable rate	
+	CMS Energy Corp., 5.875%, Due 10/15/2078	
+	FIRST CITIZENS BANCSHARES Variable rate	
+	NEXTERA ENERGY CAPITAL Variable rate, due 05/01/2079	
+	HUNTINGTON BANCSHARES Variable rate	
+	Old National Bancorp, Series A, 7.00%	
+	The Phoenix Companies, Inc., 7.45%, Due 01/15/2032	
+	UNICREDIT SPA Variable rate, due 04/02/2034	
+	TRANSCANADA TRUST Variable rate, due 05/20/2075	
+	AGNC Investment Corp., Series E, 6.500% Variable Rate	
+	Brookfield Property Partners LP, Series A-1, 6.50%	
+	The Southern Company, Series C, 4.200%, Due 10/15/2060	
+	SCE Trust III, Series H, 5.750%, Variable Rate	
+	Capital One Financial Corporation, Series I, 5.000%	
+	Affiliated Managers Group, Inc., 5.875%, Due 03/30/2059	
+	MARKEL CORP Variable rate	
+	BANK OF NOVA SCOTIA Variable rate, due 10/27/2081	
+	DTE Energy Company, 4.375%, Due 12/01/2081	
+	CMS Energy Corp., 5.875%, Due 03/01/2079	
+	RenaissanceRe Holdings Ltd., Series F, 5.750%	
+	Texas Capital Bancshares, Inc., Series B, 5.75%	
+	Truist Financial Corporation, Series R, 4.750%	
+	Bank of America Corporation, Series LL, 5.000%	
+	Valley National Bancorp, Series B, 5.500%, Variable Rate	
+	Athene Holding Ltd., Series C, 6.375% Variable Rate	
+	Athene Holding Ltd., Series D, 4.875%	
+	SOUTHERN CO Variable rate, due 01/15/2051	
+	UBS GROUP AG Variable rate	
+	AT&T Inc., 5.350%, Due 11/01/2066	
+	Capital One Financial Corporation, Series J, 4.800%	
+	Energy Transfer LP, Series C, 7.375% Variable Rate	
+	DOMINION ENERGY INC Series B, 4.65%	
+	FIFTH THIRD BANCORP Variable rate	
+	BANK OF NY MELLON CORP Variable rate	
+	CREDIT SUISSE GROUP AG Variable rate	
+	Huntington Bancshares Incorporated, Series H, 4.500%	
+	DigitalBridge Group Inc., Series J, 7.125%	
+	Spire Inc., Series A, 5.900%	
+	Athene Holding Ltd., Series B, 5.625%	
+	Brookfield Infrastructure Partners LP, Series 14, 5.00%	
+	Washington Federal, Inc., Series A, 4.875%	
+	Wells Fargo & Company, Series DD, 4.25%	
+	The Allstate Corporation, Series H, 5.100%	
+	Arch Capital Group Ltd., Series F, 5.450%	
+	Selective Insurance Group, Inc., Series B, 4.600%	
+	PS Business Parks, Inc., Series Z, 4.875%	
+	JPMorgan Chase & Co., Series DD, 5.750%	
+	Dairy Farmers of America, Series 144A, 7.875%	
+	Digital Realty Trust, Inc., Series L, 5.200%	
+	BIP Bermuda Holdings I, 5.125%	
+	National Storage Affiliates Trist, Series A, Convertible, 6.00%	
+	Atlantic Union Bankshares Corporation, Series A, 6.875%	

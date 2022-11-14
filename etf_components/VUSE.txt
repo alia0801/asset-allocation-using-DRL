@@ -1,0 +1,232 @@
+VUSE
+FSLR	FIRST SOLAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=VUSE
+AAWW	ATLAS AIR WORLDWIDE HLDGS INC COM NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=AAWW.US&back=VUSE
+DDS	DILLARDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DDS.US&back=VUSE
+PBF	PBF ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=VUSE
+CHRD	CHORD ENERGY CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=VUSE
+CF	CF INDS HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=VUSE
+BTU	PEABODY ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BTU.US&back=VUSE
+ADM	ARCHER DANIELS MIDLAND CO	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=VUSE
+MRO	MARATHON OIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=VUSE
+OVV	OVINTIV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=VUSE
+UNM	UNUM GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=VUSE
+WIRE	ENCORE WIRE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WIRE.US&back=VUSE
+ON	ON SEMICONDUCTOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=VUSE
+PDCE	PDC ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=VUSE
+NRG	NRG ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=VUSE
+FLEX	FLEX LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=FLEX.US&back=VUSE
+AMR	ALPHA METALLURGICAL RESOUR INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=AMR.US&back=VUSE
+EXLS	EXLSERVICE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXLS.US&back=VUSE
+CMC	COMMERCIAL METALS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CMC.US&back=VUSE
+MOH	MOLINA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=VUSE
+MOS	MOSAIC CO NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=VUSE
+SANM	SANMINA CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=SANM.US&back=VUSE
+YELP	YELP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=YELP.US&back=VUSE
+XOM	EXXON MOBIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=VUSE
+NUE	NUCOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=VUSE
+MCK	MCKESSON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=VUSE
+JBL	JABIL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=VUSE
+CVX	CHEVRON CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=VUSE
+CASY	CASEYS GEN STORES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=VUSE
+BG	BUNGE LIMITED	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=VUSE
+NFG	NATIONAL FUEL GAS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=VUSE
+MUSA	MURPHY USA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MUSA.US&back=VUSE
+WSM	WILLIAMS SONOMA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSM.US&back=VUSE
+RGA	REINSURANCE GRP OF AMERICA INC COM NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=RGA.US&back=VUSE
+VST	VISTRA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=VUSE
+SJM	SMUCKER J M CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=VUSE
+TMUS	T-MOBILE US INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=VUSE
+MET	METLIFE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=VUSE
+AN	AUTONATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=VUSE
+AMKR	AMKOR TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMKR.US&back=VUSE
+ARCH	ARCH RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCH.US&back=VUSE
+AFL	AFLAC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=VUSE
+ELV	ELEVANCE HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=VUSE
+CVS	CVS HEALTH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=VUSE
+ALL	ALLSTATE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=VUSE
+COOP	MR COOPER GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COOP.US&back=VUSE
+ABG	ASBURY AUTOMOTIVE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABG.US&back=VUSE
+ACI	ALBERTSONS COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=VUSE
+ACLS	AXCELIS TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACLS.US&back=VUSE
+BDC	BELDEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BDC.US&back=VUSE
+CI	CIGNA CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=VUSE
+KR	KROGER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=VUSE
+GILD	GILEAD SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=VUSE
+SFM	SPROUTS FMRS MKT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SFM.US&back=VUSE
+RS	RELIANCE STEEL & ALUMINUM CO COM	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=VUSE
+POST	POST HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=VUSE
+NXST	NEXSTAR MEDIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=VUSE
+WRB	BERKLEY W R CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=VUSE
+XRX	XEROX HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XRX.US&back=VUSE
+VSH	VISHAY INTERTECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VSH.US&back=VUSE
+TRV	TRAVELERS COMPANIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=VUSE
+VIRT	VIRTU FINL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VIRT.US&back=VUSE
+GPI	GROUP 1 AUTOMOTIVE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GPI.US&back=VUSE
+HIG	HARTFORD FINL SVCS GROUP INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=VUSE
+GLW	CORNING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=VUSE
+FYBR	FRONTIER COMMUNICATIONS PARENT COM	/etf/ea/ETZCW.djhtm?c=1&etfid=FYBR.US&back=VUSE
+KD	KYNDRYL HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KD.US&back=VUSE
+IBM	INTERNATIONAL BUSINESS MACHS COM	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=VUSE
+INGR	INGREDION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INGR.US&back=VUSE
+MDU	MDU RES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDU.US&back=VUSE
+LAD	LITHIA MTRS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LAD.US&back=VUSE
+LKQ	LKQ CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=VUSE
+NWSA	NEWS CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=NWSA.US&back=VUSE
+CSCO	CISCO SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=VUSE
+EXC	EXELON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=VUSE
+VIVO	MERIDIAN BIOSCIENCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VIVO.US&back=VUSE
+UTHR	UNITED THERAPEUTICS CORP DEL COM	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=VUSE
+PRU	PRUDENTIAL FINL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=VUSE
+REGN	REGENERON PHARMACEUTICALS	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=VUSE
+PCH	POTLATCHDELTIC CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=PCH.US&back=VUSE
+WGO	WINNEBAGO INDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WGO.US&back=VUSE
+DOX	AMDOCS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=VUSE
+CNC	CENTENE CORP DEL	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=VUSE
+CACI	CACI INTL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=VUSE
+AIG	AMERICAN INTL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=VUSE
+ASO	ACADEMY SPORTS & OUTDOORS INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=ASO.US&back=VUSE
+AOSL	ALPHA & OMEGA SEMICONDUCTOR LT SHS	/etf/ea/ETZCW.djhtm?c=1&etfid=AOSL.US&back=VUSE
+ARCB	ARCBEST CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCB.US&back=VUSE
+KNX	KNIGHT-SWIFT TRANSN HLDGS INC CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=KNX.US&back=VUSE
+JNPR	JUNIPER NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=VUSE
+KHC	KRAFT HEINZ CO	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=VUSE
+HPE	HEWLETT PACKARD ENTERPRISE CO COM	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=VUSE
+HUM	HUMANA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=VUSE
+HOLX	HOLOGIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=VUSE
+GMS	GMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GMS.US&back=VUSE
+FOXA	FOX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=VUSE
+L	LOEWS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=VUSE
+MLI	MUELLER INDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MLI.US&back=VUSE
+AFG	AMERICAN FINL GROUP INC OHIO COM	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=VUSE
+AVT	AVNET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVT.US&back=VUSE
+BCC	BOISE CASCADE CO DEL	/etf/ea/ETZCW.djhtm?c=1&etfid=BCC.US&back=VUSE
+CBRE	CBRE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=VUSE
+CNX	CNX RES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=VUSE
+DGX	QUEST DIAGNOSTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=VUSE
+DKS	DICKS SPORTING GOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DKS.US&back=VUSE
+WY	WEYERHAEUSER CO MTN BE	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=VUSE
+OC	OWENS CORNING NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=VUSE
+OMC	OMNICOM GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=VUSE
+UGI	UGI CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=VUSE
+THO	THOR INDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=THO.US&back=VUSE
+T	AT&T INC	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=VUSE
+THG	HANOVER INS GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=VUSE
+VZ	VERIZON COMMUNICATIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=VUSE
+DIOD	DIODES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DIOD.US&back=VUSE
+DBX	DROPBOX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=VUSE
+COIN	COINBASE GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=VUSE
+AIZ	ASSURANT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=VUSE
+ATKR	ATKORE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATKR.US&back=VUSE
+MKL	MARKEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=VUSE
+NTCT	NETSCOUT SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTCT.US&back=VUSE
+LUMN	LUMEN TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=VUSE
+M	MACYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=M.US&back=VUSE
+HSIC	HENRY SCHEIN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HSIC.US&back=VUSE
+JLL	JONES LANG LASALLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JLL.US&back=VUSE
+IPG	INTERPUBLIC GROUP COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=VUSE
+FIS	FIDELITY NATL INFORMATION SVCS COM	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=VUSE
+LEN	LENNAR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=VUSE
+LH	LABORATORY CORP AMER HLDGS	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=VUSE
+MU	MICRON TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=VUSE
+AMN	AMN HEALTHCARE SVCS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMN.US&back=VUSE
+CTSH	COGNIZANT TECHNOLOGY SOLUTIONS CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=VUSE
+UFPI	UFP INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UFPI.US&back=VUSE
+TSN	TYSON FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=VUSE
+WERN	WERNER ENTERPRISES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WERN.US&back=VUSE
+TMHC	TAYLOR MORRISON HOME CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TMHC.US&back=VUSE
+WDC	WESTERN DIGITAL CORP.	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=VUSE
+BLDR	BUILDERS FIRSTSOURCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDR.US&back=VUSE
+MKSI	MKS INSTRS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MKSI.US&back=VUSE
+LRN	STRIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LRN.US&back=VUSE
+LITE	LUMENTUM HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=VUSE
+HPQ	HP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=VUSE
+UHS	UNIVERSAL HLTH SVCS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=VUSE
+TAP	MOLSON COORS BEVERAGE CO	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=VUSE
+PFE	PFIZER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=VUSE
+PHM	PULTE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=VUSE
+RGNX	REGENXBIO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RGNX.US&back=VUSE
+WU	WESTERN UN CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=VUSE
+QRVO	QORVO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=VUSE
+TDC	TERADATA CORP DEL	/etf/ea/ETZCW.djhtm?c=1&etfid=TDC.US&back=VUSE
+KLIC	KULICKE & SOFFA INDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KLIC.US&back=VUSE
+MATX	MATSON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MATX.US&back=VUSE
+HCC	WARRIOR MET COAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HCC.US&back=VUSE
+CMCSA	COMCAST CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=VUSE
+EXEL	EXELIXIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=VUSE
+TOL	TOLL BROTHERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TOL.US&back=VUSE
+SF	STIFEL FINL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SF.US&back=VUSE
+VIR	VIR BIOTECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VIR.US&back=VUSE
+WHR	WHIRLPOOL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=VUSE
+COWN	COWEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COWN.US&back=VUSE
+INTC	INTEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=VUSE
+IDCC	INTERDIGITAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDCC.US&back=VUSE
+MRNA	MODERNA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=VUSE
+EPC	EDGEWELL PERS CARE CO	/etf/ea/ETZCW.djhtm?c=1&etfid=EPC.US&back=VUSE
+DXC	DXC TECHNOLOGY CO	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=VUSE
+TPH	TRI POINTE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TPH.US&back=VUSE
+SAH	SONIC AUTOMOTIVE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SAH.US&back=VUSE
+SAIC	SCIENCE APPLICATIONS INTL CORP COM	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=VUSE
+PLAB	PHOTRONICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PLAB.US&back=VUSE
+TDS	TELEPHONE & DATA SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS.US&back=VUSE
+SPTN	SPARTANNASH CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTN.US&back=VUSE
+EVR	EVERCORE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVR.US&back=VUSE
+HOUS	ANYWHERE REAL ESTATE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOUS.US&back=VUSE
+SNDR	SCHNEIDER NATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNDR.US&back=VUSE
+VSTO	VISTA OUTDOOR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VSTO.US&back=VUSE
+VTRS	VIATRIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=VUSE
+QDEL	QUIDELORTHO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=QDEL.US&back=VUSE
+SYF	SYNCHRONY FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=VUSE
+MHK	MOHAWK INDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MHK.US&back=VUSE
+ECPG	ENCORE CAP GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ECPG.US&back=VUSE
+CNXC	CONCENTRIX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=VUSE
+FLGT	FULGENT GENETICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLGT.US&back=VUSE
+PIPR	PIPER SANDLER COMPANIES	/etf/ea/ETZCW.djhtm?c=1&etfid=PIPR.US&back=VUSE
+PLXS	PLEXUS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PLXS.US&back=VUSE
+PBH	PRESTIGE CONSMR HEALTHCARE INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=PBH.US&back=VUSE
+SIGI	SELECTIVE INS GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SIGI.US&back=VUSE
+MAN	MANPOWERGROUP INC WIS	/etf/ea/ETZCW.djhtm?c=1&etfid=MAN.US&back=VUSE
+HZO	MARINEMAX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HZO.US&back=VUSE
+	Cash & Other	
+TTMI	TTM TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TTMI.US&back=VUSE
+WLY	WILEY JOHN & SONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WLY.US&back=VUSE
+STRA	STRATEGIC ED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STRA.US&back=VUSE
+MCY	MERCURY GENL CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=MCY.US&back=VUSE
+LOPE	GRAND CANYON ED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LOPE.US&back=VUSE
+MYRG	MYR GROUP INC DEL	/etf/ea/ETZCW.djhtm?c=1&etfid=MYRG.US&back=VUSE
+COHU	COHU INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COHU.US&back=VUSE
+STC	STEWART INFORMATION SVCS CORP COM	/etf/ea/ETZCW.djhtm?c=1&etfid=STC.US&back=VUSE
+UVV	UNIVERSAL CORP VA	/etf/ea/ETZCW.djhtm?c=1&etfid=UVV.US&back=VUSE
+DFIN	DONNELLEY FINL SOLUTIONS INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=DFIN.US&back=VUSE
+IMKTA	INGLES MKTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IMKTA.US&back=VUSE
+IRWD	IRONWOOD PHARMACEUTICALS INC COM CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=IRWD.US&back=VUSE
+LAUR	LAUREATE EDUCATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LAUR.US&back=VUSE
+MEI	METHODE ELECTRS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MEI.US&back=VUSE
+CSGS	CSG SYS INTL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGS.US&back=VUSE
+DISH	DISH NETWORK CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=DISH.US&back=VUSE
+KN	KNOWLES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KN.US&back=VUSE
+GHC	GRAHAM HLDGS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=GHC.US&back=VUSE
+RUSHA	RUSH ENTERPRISES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RUSHA.US&back=VUSE
+RGR	STURM RUGER & CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RGR.US&back=VUSE
+XPER	XPERI HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XPER.US&back=VUSE
+FHI	FEDERATED HERMES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FHI.US&back=VUSE
+CXW	CORECIVIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CXW.US&back=VUSE
+ENVA	ENOVA INTL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENVA.US&back=VUSE
+HE	HAWAIIAN ELEC INDUSTRIES	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=VUSE
+PRDO	PERDOCEO ED CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PRDO.US&back=VUSE
+OSIS	OSI SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OSIS.US&back=VUSE
+PPC	PILGRIMS PRIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=VUSE
+BFH	BREAD FINANCIAL HOLDINGS INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=BFH.US&back=VUSE
+PSMT	PRICESMART INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PSMT.US&back=VUSE
+CIEN	CIENA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=VUSE
+CHK	CHESAPEAKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=VUSE
+ANF	ABERCROMBIE & FITCH CO	/etf/ea/ETZCW.djhtm?c=1&etfid=ANF.US&back=VUSE
+KFY	KORN FERRY	/etf/ea/ETZCW.djhtm?c=1&etfid=KFY.US&back=VUSE
+CNDT	CONDUENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CNDT.US&back=VUSE
+FDP	FRESH DEL MONTE PRODUCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FDP.US&back=VUSE
+USM	UNITED STATES CELLULAR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=USM.US&back=VUSE
+USNA	USANA HEALTH SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=USNA.US&back=VUSE
+UNFI	UNITED NAT FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UNFI.US&back=VUSE
+FDX	FEDEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=VUSE
+NUS	NU SKIN ENTERPRISES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NUS.US&back=VUSE
+DLX	DELUXE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DLX.US&back=VUSE
+UMBF	UMB FINL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UMBF.US&back=VUSE

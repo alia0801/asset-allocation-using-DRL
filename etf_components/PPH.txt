@@ -1,0 +1,27 @@
+PPH
+MCK	Mckesson Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=PPH
+AZN	Astrazeneca Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=PPH
+LLY	Eli Lilly & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=PPH
+MRK	Merck & Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=PPH
+NVS	Novartis Ag	/etf/ea/ETZCW.djhtm?c=1&etfid=NVS.US&back=PPH
+NVO	Novo Nordisk A/S	/etf/ea/ETZCW.djhtm?c=1&etfid=NVO.US&back=PPH
+TAK	Takeda Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TAK.US&back=PPH
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=PPH
+ABBV	Abbvie Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=PPH
+ABC	Amerisourcebergen Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=PPH
+BMY	Bristol-Myers Squibb Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=PPH
+TEVA	Teva Pharmaceutical Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TEVA.US&back=PPH
+PFE	Pfizer Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=PPH
+ZTS	Zoetis Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=PPH
+SNY	Sanofi	/etf/ea/ETZCW.djhtm?c=1&etfid=SNY.US&back=PPH
+VTRS	Viatris Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=PPH
+CTLT	Catalent Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLT.US&back=PPH
+JAZZ	Jazz Pharmaceuticals Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JAZZ.US&back=PPH
+OGN	Organon & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=PPH
+GSK	Gsk Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=GSK.US&back=PPH
+ELAN	Elanco Animal Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ELAN.US&back=PPH
+PRGO	Perrigo Co Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGO.US&back=PPH
+HLN	Haleon Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLN.US&back=PPH
+PDCO	Patterson Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCO.US&back=PPH
+BHC	Bausch Health Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BHC.US&back=PPH
+AMRN	Amarin Corp Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMRN.US&back=PPH

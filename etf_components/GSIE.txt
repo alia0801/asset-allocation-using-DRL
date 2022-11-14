@@ -1,0 +1,743 @@
+GSIE
+	Nestle SA	
+	Roche Holding AG	
+SHEL	Shell PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=SHEL.US&back=GSIE
+	Novo Nordisk A/S	
+	LVMH Moet Hennessy Louis Vuitton SE	
+	Novartis AG	
+ASML	ASML Holding NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=GSIE
+AZN	AstraZeneca PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=GSIE
+	BHP Group Ltd	
+RY	Royal Bank of Canada	/etf/ea/ETZCW.djhtm?c=1&etfid=RY.US&back=GSIE
+	LOreal SA	
+	Loblaw Cos Ltd	
+	Constellation Software Inc	
+	Commonwealth Bank of Australia	
+TD	Toronto-Dominion Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=TD.US&back=GSIE
+	TotalEnergies SE	
+	WSP Global Inc	
+WFG	West Fraser Timber Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=WFG.US&back=GSIE
+	Sanofi	
+	Empire Co Ltd	
+	Ferguson PLC	
+	British American Tobacco PLC	
+	Hermes International	
+1299.HK&back=GSIE	AIA Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1299.HK&back=GSIE
+	Koninklijke Ahold Delhaize NV	
+	George Weston Ltd	
+7203.JP&back=GSIE	Toyota Motor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7203.JP&back=GSIE
+BP	BP PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=BP.US&back=GSIE
+9432.JP&back=GSIE	Nippon Telegraph & Telephone Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9432.JP&back=GSIE
+	Unilever PLC	
+	Capgemini SE	
+SAP	SAP SE	/etf/ea/ETZCW.djhtm?c=1&etfid=SAP.US&back=GSIE
+	Ipsen SA	
+	Deutsche Post AG	
+	Woolworths Group Ltd	
+	Swedish Match AB	
+7267.JP&back=GSIE	Honda Motor Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7267.JP&back=GSIE
+	Fairfax Financial Holdings Ltd	
+	Glencore PLC	
+GSK	GSK PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=GSK.US&back=GSIE
+	SEP 2022 ICUS MSCI EAFE	
+MT	ArcelorMittal SA	/etf/ea/ETZCW.djhtm?c=1&etfid=MT.US&back=GSIE
+RIO	Rio Tinto PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=RIO.US&back=GSIE
+	Wolters Kluwer NV	
+	Diageo PLC	
+6758.JP&back=GSIE	Sony Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6758.JP&back=GSIE
+0019.HK&back=GSIE	Swire Pacific Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0019.HK&back=GSIE
+	Repsol SA	
+7741.JP&back=GSIE	Hoya Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7741.JP&back=GSIE
+	Dollarama Inc	
+	Compass Group PLC	
+	HSBC Holdings PLC	
+	CSL Ltd	
+	Eiffage SA	
+	DBS Group Holdings Ltd	
+8035.JP&back=GSIE	Tokyo Electron Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8035.JP&back=GSIE
+	Auto Trader Group PLC	
+	Singapore Exchange Ltd	
+	Wesfarmers Ltd	
+	Schneider Electric SE	
+	Admiral Group PLC	
+8001.JP&back=GSIE	ITOCHU Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8001.JP&back=GSIE
+6098.JP&back=GSIE	Recruit Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6098.JP&back=GSIE
+BNS	Bank of Nova Scotia	/etf/ea/ETZCW.djhtm?c=1&etfid=BNS.US&back=GSIE
+	Jeronimo Martins SGPS SA	
+	AP Moller - Maersk A/S	
+NTR	Nutrien Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NTR.US&back=GSIE
+	Partners Group Holding AG	
+4502.JP&back=GSIE	Takeda Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4502.JP&back=GSIE
+8058.JP&back=GSIE	Mitsubishi Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8058.JP&back=GSIE
+	AP Moller - Maersk A/S	
+	Manulife Financial Corp	
+	Eni SpA	
+	Enbridge Inc	
+CNQ	Canadian Natural Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CNQ.US&back=GSIE
+	Merck KGaA	
+	National Australia Bank Ltd	
+	Orion Oyj	
+	Kuehne + Nagel International AG	
+	RWE AG	
+	Iberdrola SA	
+	Oversea-Chinese Banking Corp Ltd	
+	Coles Group Ltd	
+	Burberry Group PLC	
+	Carrefour SA	
+	Fortescue Metals Group Ltd	
+9433.JP&back=GSIE	KDDI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9433.JP&back=GSIE
+9101.JP&back=GSIE	Nippon Yusen KK	/etf/ea/ETZCW.djhtm?c=1&etfid=9101.JP&back=GSIE
+	Allianz SE	
+	Alimentation Couche-Tard Inc	
+BMO	Bank of Montreal	/etf/ea/ETZCW.djhtm?c=1&etfid=BMO.US&back=GSIE
+8031.JP&back=GSIE	Mitsui & Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8031.JP&back=GSIE
+4503.JP&back=GSIE	Astellas Pharma Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4503.JP&back=GSIE
+6701.JP&back=GSIE	NEC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6701.JP&back=GSIE
+	Mercedes-Benz Group AG	
+	J Sainsbury PLC	
+	Siemens AG	
+	RELX PLC	
+	Cie de Saint-Gobain	
+RIO	Rio Tinto Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=RIO.US&back=GSIE
+	La Francaise des Jeux SAEM	
+	Bollore SE	
+	Vinci SA	
+CVE	Cenovus Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CVE.US&back=GSIE
+	Deutsche Telekom AG	
+6702.JP&back=GSIE	Fujitsu Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6702.JP&back=GSIE
+0388.HK&back=GSIE	Hong Kong Exchanges & Clearing Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0388.HK&back=GSIE
+1605.JP&back=GSIE	Inpex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1605.JP&back=GSIE
+0001.HK&back=GSIE	CK Hutchison Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0001.HK&back=GSIE
+8002.JP&back=GSIE	Marubeni Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8002.JP&back=GSIE
+	adidas AG	
+0288.HK&back=GSIE	WH Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0288.HK&back=GSIE
+	BlueScope Steel Ltd	
+	iA Financial Corp Inc	
+	Industria de Diseno Textil SA	
+	Sage Group PLC	
+	UBS Group AG	
+	Zurich Insurance Group AG	
+	Westpac Banking Corp	
+VOD	Vodafone Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=VOD.US&back=GSIE
+	Tesco PLC	
+	Power Corp of Canada	
+	BNP Paribas SA	
+	Bayer AG	
+	Air Liquide SA	
+7733.JP&back=GSIE	Olympus Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7733.JP&back=GSIE
+7261.JP&back=GSIE	Mazda Motor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7261.JP&back=GSIE
+3092.JP&back=GSIE	ZOZO Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3092.JP&back=GSIE
+	Canadian Imperial Bank of Commerce	
+	Macquarie Group Ltd	
+	Lloyds Banking Group PLC	
+	Teva Pharmaceutical Industries Ltd	
+	SGS SA	
+	Ferrari NV	
+SU	Suncor Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SU.US&back=GSIE
+	Cie Financiere Richemont SA	
+	EssilorLuxottica SA	
+3064.JP&back=GSIE	MonotaRO Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3064.JP&back=GSIE
+6861.JP&back=GSIE	Keyence Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6861.JP&back=GSIE
+4911.JP&back=GSIE	Shiseido Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4911.JP&back=GSIE
+8306.JP&back=GSIE	Mitsubishi UFJ Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8306.JP&back=GSIE
+	Australia & New Zealand Banking Group Ltd	
+7752.JP&back=GSIE	Ricoh Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7752.JP&back=GSIE
+9984.JP&back=GSIE	SoftBank Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9984.JP&back=GSIE
+6501.JP&back=GSIE	Hitachi Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6501.JP&back=GSIE
+	Chocoladefabriken Lindt & Spruengli AG	
+	Imperial Brands PLC	
+	National Grid PLC	
+	NN Group NV	
+	STMicroelectronics NV	
+	Straumann Holding AG	
+	Reckitt Benckiser Group PLC	
+WDS	Woodside Energy Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=WDS.US&back=GSIE
+	South32 Ltd	
+	Puma SE	
+	Wendel SE	
+	Kering SA	
+3382.JP&back=GSIE	Seven & i Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3382.JP&back=GSIE
+8316.JP&back=GSIE	Sumitomo Mitsui Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8316.JP&back=GSIE
+	Beiersdorf AG	
+	Brookfield Asset Management Inc	
+	ABB Ltd	
+	Associated British Foods PLC	
+3141.JP&back=GSIE	Welcia Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3141.JP&back=GSIE
+2388.HK&back=GSIE	BOC Hong Kong Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2388.HK&back=GSIE
+	JD Sports Fashion PLC	
+	Moncler SpA	
+	Nemetschek SE	
+	Next PLC	
+	Gjensidige Forsikring ASA	
+	Danone SA	
+	Roche Holding AG	
+	voestalpine AG	
+	United Overseas Bank Ltd	
+TEF	Telefonica SA	/etf/ea/ETZCW.djhtm?c=1&etfid=TEF.US&back=GSIE
+	Publicis Groupe SA	
+	Deutsche Boerse AG	
+	AXA SA	
+	Societe Generale SA	
+	HeidelbergCement AG	
+	Dassault Systemes SE	
+EQNR	Equinor ASA	/etf/ea/ETZCW.djhtm?c=1&etfid=EQNR.US&back=GSIE
+	Nokia Oyj	
+	National Bank of Canada	
+1878.JP&back=GSIE	Daito Trust Construction Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1878.JP&back=GSIE
+2593.JP&back=GSIE	Ito En Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2593.JP&back=GSIE
+4922.JP&back=GSIE	Kose Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4922.JP&back=GSIE
+0669.HK&back=GSIE	Techtronic Industries Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0669.HK&back=GSIE
+	Aviva PLC	
+9983.JP&back=GSIE	Fast Retailing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9983.JP&back=GSIE
+	Anglo American PLC	
+7832.JP&back=GSIE	Bandai Namco Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7832.JP&back=GSIE
+7974.JP&back=GSIE	Nintendo Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7974.JP&back=GSIE
+	Aegon NV	
+4568.JP&back=GSIE	Daiichi Sankyo Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4568.JP&back=GSIE
+4901.JP&back=GSIE	FUJIFILM Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4901.JP&back=GSIE
+2181.JP&back=GSIE	Persol Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2181.JP&back=GSIE
+	Engie SA	
+	CGI Inc	
+	Fresenius SE & Co KGaA	
+	Sartorius Stedim Biotech	
+	Canadian National Railway Co	
+	Cochlear Ltd	
+	Randstad NV	
+TRP	TC Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=GSIE
+	Sika AG	
+SLF	Sun Life Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLF.US&back=GSIE
+CNHI	CNH Industrial NV	/etf/ea/ETZCW.djhtm?c=1&etfid=CNHI.US&back=GSIE
+	Experian PLC	
+	OMV AG	
+	Investor AB	
+	Hargreaves Lansdown PLC	
+1801.JP&back=GSIE	Taisei Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1801.JP&back=GSIE
+6448.JP&back=GSIE	Brother Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6448.JP&back=GSIE
+4751.JP&back=GSIE	CyberAgent Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4751.JP&back=GSIE
+	Anheuser-Busch InBev SA	
+	Barclays PLC	
+	BAE Systems PLC	
+	Bayerische Motoren Werke AG	
+	BioMerieux	
+8766.JP&back=GSIE	Tokio Marine Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8766.JP&back=GSIE
+8053.JP&back=GSIE	Sumitomo Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8053.JP&back=GSIE
+8473.JP&back=GSIE	SBI Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8473.JP&back=GSIE
+6178.JP&back=GSIE	Japan Post Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6178.JP&back=GSIE
+	H & M Hennes & Mauritz AB	
+	HelloFresh SE	
+	Lonza Group AG	
+	Magna International Inc	
+	Fortum Oyj	
+	Heineken Holding NV	
+	Canadian Tire Corp Ltd	
+CP	Canadian Pacific Railway Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CP.US&back=GSIE
+	Croda International PLC	
+	Segro PLC	
+SAN	Banco Santander SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SAN.US&back=GSIE
+	Pernod Ricard SA	
+	Volkswagen AG	
+	Veolia Environnement SA	
+	St Jamess Place PLC	
+STLA	Stellantis NV	/etf/ea/ETZCW.djhtm?c=1&etfid=STLA.US&back=GSIE
+CCEP	Coca-Cola Europacific Partners PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=CCEP.US&back=GSIE
+	Givaudan SA	
+	EXOR NV	
+	Siemens Energy AG	
+	Kingfisher PLC	
+	Holcim AG	
+	Intact Financial Corp	
+7202.JP&back=GSIE	Isuzu Motors Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7202.JP&back=GSIE
+6857.JP&back=GSIE	Advantest Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6857.JP&back=GSIE
+9843.JP&back=GSIE	Nitori Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9843.JP&back=GSIE
+9962.JP&back=GSIE	MISUMI Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9962.JP&back=GSIE
+9434.JP&back=GSIE	SoftBank Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9434.JP&back=GSIE
+	Atlas Copco AB	
+AER	AerCap Holdings NV	/etf/ea/ETZCW.djhtm?c=1&etfid=AER.US&back=GSIE
+6869.JP&back=GSIE	Sysmex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6869.JP&back=GSIE
+	Covestro AG	
+1308.HK&back=GSIE	SITC International Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1308.HK&back=GSIE
+2801.JP&back=GSIE	Kikkoman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=2801.JP&back=GSIE
+2914.JP&back=GSIE	Japan Tobacco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2914.JP&back=GSIE
+4452.JP&back=GSIE	Kao Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4452.JP&back=GSIE
+	ING Groep NV	
+	Logitech International SA	
+	Legal & General Group PLC	
+	Metro Inc/CN	
+	Nordea Bank Abp	
+	Pandora A/S	
+	Telefonaktiebolaget LM Ericsson	
+	Check Point Software Technologies Ltd	
+CRH	CRH PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRH.US&back=GSIE
+	Deutsche Bank AG	
+	Koninklijke DSM NV	
+	Swatch Group AG	
+	Recordati Industria Chimica e Farmaceutica SpA	
+	Sampo Oyj	
+	Volkswagen AG	
+	WPP PLC	
+	Saputo Inc	
+	Swisscom AG	
+	Swiss Life Holding AG	
+	SEB SA	
+	Remy Cointreau SA	
+	UCB SA	
+	Tryg A/S	
+	Teleperformance	
+	Ubisoft Entertainment SA	
+	Thomson Reuters Corp	
+	SSE PLC	
+	Carlsberg AS	
+	Brenntag SE	
+	Koninklijke Philips NV	
+	Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen	
+	Legrand SA	
+	JDE Peets NV	
+4188.JP&back=GSIE	Mitsubishi Chemical Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4188.JP&back=GSIE
+6367.JP&back=GSIE	Daikin Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6367.JP&back=GSIE
+5108.JP&back=GSIE	Bridgestone Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5108.JP&back=GSIE
+	Bayerische Motoren Werke AG	
+	Banco Bilbao Vizcaya Argentaria SA	
+	Airbus SE	
+9613.JP&back=GSIE	NTT Data Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9613.JP&back=GSIE
+8630.JP&back=GSIE	Sompo Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8630.JP&back=GSIE
+	MS&AD Insurance Group Holdings Inc	
+7751.JP&back=GSIE	Canon Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7751.JP&back=GSIE
+4704.JP&back=GSIE	Trend Micro Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4704.JP&back=GSIE
+6723.JP&back=GSIE	Renesas Electronics Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6723.JP&back=GSIE
+6724.JP&back=GSIE	Seiko Epson Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6724.JP&back=GSIE
+6645.JP&back=GSIE	Omron Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6645.JP&back=GSIE
+6981.JP&back=GSIE	Murata Manufacturing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6981.JP&back=GSIE
+7181.JP&back=GSIE	Japan Post Insurance Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7181.JP&back=GSIE
+4063.JP&back=GSIE	Shin-Etsu Chemical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4063.JP&back=GSIE
+4519.JP&back=GSIE	Chugai Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4519.JP&back=GSIE
+2587.JP&back=GSIE	Suntory Beverage & Food Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2587.JP&back=GSIE
+2502.JP&back=GSIE	Asahi Group Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2502.JP&back=GSIE
+1113.HK&back=GSIE	CK Asset Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1113.HK&back=GSIE
+	Koninklijke KPN NV	
+	Thales SA	
+	Mizrahi Tefahot Bank Ltd	
+	Pembina Pipeline Corp	
+	Onex Corp	
+	Bunzl PLC	
+	DiaSorin SpA	
+	EQT AB	
+	E.ON SE	
+FSV	FirstService Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FSV.US&back=GSIE
+FTS	Fortis Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FTS.US&back=GSIE
+	Assicurazioni Generali SpA	
+	Goodman Group	
+	Swiss Re AG	
+	Smurfit Kappa Group PLC	
+	Suncorp Group Ltd	
+	Toromont Industries Ltd	
+	Swatch Group AG	
+	QIAGEN NV	
+	Poste Italiane SpA	
+	Worldline SA	
+	Zalando SE	
+	Rational AG	
+	Red Electrica Corp SA	
+	Renault SA	
+	Siemens Healthineers AG	
+	Verbund AG	
+	Telstra Corp Ltd	
+	Severn Trent PLC	
+	Symrise AG	
+	Smith & Nephew PLC	
+	Heineken NV	
+	Great-West Lifeco Inc	
+	Geberit AG	
+	Eurofins Scientific SE	
+	Enel SpA	
+	EMS-Chemie Holding AG	
+	BRP Inc	
+	DCC PLC	
+	Coloplast A/S	
+	Orange SA	
+	Prysmian SpA	
+	Bank Leumi Le-Israel BM	
+HLN	Haleon PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=HLN.US&back=GSIE
+	Investor AB	
+	3i Group PLC	
+	ICL Group Ltd	
+1929.HK&back=GSIE	Chow Tai Fook Jewellery Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1929.HK&back=GSIE
+2269.JP&back=GSIE	MEIJI Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2269.JP&back=GSIE
+4528.JP&back=GSIE	Ono Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4528.JP&back=GSIE
+7011.JP&back=GSIE	Mitsubishi Heavy Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7011.JP&back=GSIE
+6902.JP&back=GSIE	Denso Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6902.JP&back=GSIE
+	Barrick Gold Corp	
+	Credit Agricole SA	
+	APA Group	
+	Baloise Holding AG	
+	BASF SE	
+	Atlantia SpA	
+	ASM International NV	
+8591.JP&back=GSIE	ORIX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8591.JP&back=GSIE
+9104.JP&back=GSIE	Mitsui OSK Lines Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9104.JP&back=GSIE
+4716.JP&back=GSIE	Oracle Corp Japan	/etf/ea/ETZCW.djhtm?c=1&etfid=4716.JP&back=GSIE
+4578.JP&back=GSIE	Otsuka Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4578.JP&back=GSIE
+4523.JP&back=GSIE	Eisai Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4523.JP&back=GSIE
+4324.JP&back=GSIE	Dentsu Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4324.JP&back=GSIE
+4005.JP&back=GSIE	Sumitomo Chemical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4005.JP&back=GSIE
+	Hexagon AB	
+	Medibank Pvt Ltd	
+	Melrose Industries PLC	
+	Northland Power Inc	
+	Naturgy Energy Group SA	
+	Novozymes A/S	
+	Coca-Cola HBC AG	
+	CaixaBank SA	
+	Danske Bank A/S	
+	Computershare Ltd	
+	Elia Group SA	
+	Emera Inc	
+	Getlink SE	
+	Fisher & Paykel Healthcare Corp Ltd	
+	Fresenius Medical Care AG & Co KGaA	
+	Hydro One Ltd	
+	Spirax-Sarco Engineering PLC	
+	TELUS Corp	
+	Sartorius AG	
+	Teck Resources Ltd	
+	Terna - Rete Elettrica Nazionale	
+	Telia Co AB	
+	Sonic Healthcare Ltd	
+	REA Group Ltd	
+	Rogers Communications Inc	
+	Skandinaviska Enskilda Banken AB	
+	Securitas AB	
+	Tenaris SA	
+	Tourmaline Oil Corp	
+	Tele2 AB	
+	Swedbank AB	
+	Sofina SA	
+	Singapore Telecommunications Ltd	
+	Xero Ltd	
+	Bouygues SA	
+	FinecoBank Banca Fineco SpA	
+	DNB Bank ASA	
+	Bureau Veritas SA	
+	Bank Hapoalim BM	
+	Norsk Hydro ASA	
+	Henkel AG & Co KGaA	
+	Hannover Rueck SE	
+JHX	James Hardie Industries PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JHX.US&back=GSIE
+2413.JP&back=GSIE	M3 Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2413.JP&back=GSIE
+2503.JP&back=GSIE	Kirin Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2503.JP&back=GSIE
+2802.JP&back=GSIE	Ajinomoto Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2802.JP&back=GSIE
+4661.JP&back=GSIE	Oriental Land Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4661.JP&back=GSIE
+8411.JP&back=GSIE	Mizuho Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8411.JP&back=GSIE
+9684.JP&back=GSIE	Square Enix Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9684.JP&back=GSIE
+8113.JP&back=GSIE	Unicharm Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8113.JP&back=GSIE
+7911.JP&back=GSIE	TOPPAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=7911.JP&back=GSIE
+	Barry Callebaut AG	
+BCE	BCE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BCE.US&back=GSIE
+	Aker BP ASA	
+	Ashtead Group PLC	
+	Aristocrat Leisure Ltd	
+	ACS Actividades de Construccion y Servicios SA	
+	abrdn plc	
+	AltaGas Ltd	
+ALC	Alcon Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALC.US&back=GSIE
+	Arkema SA	
+	Barratt Developments PLC	
+	ARC Resources Ltd	
+	Assa Abloy AB	
+	ASX Ltd	
+7701.JP&back=GSIE	Shimadzu Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7701.JP&back=GSIE
+9697.JP&back=GSIE	Capcom Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9697.JP&back=GSIE
+9531.JP&back=GSIE	Tokyo Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9531.JP&back=GSIE
+8984.JP&back=GSIE	Daiwa House REIT Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8984.JP&back=GSIE
+0006.HK&back=GSIE	Power Assets Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0006.HK&back=GSIE
+5401.JP&back=GSIE	Nippon Steel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5401.JP&back=GSIE
+5486.JP&back=GSIE	Hitachi Metals Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5486.JP&back=GSIE
+6752.JP&back=GSIE	Panasonic Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6752.JP&back=GSIE
+6503.JP&back=GSIE	Mitsubishi Electric Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6503.JP&back=GSIE
+7309.JP&back=GSIE	Shimano Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=7309.JP&back=GSIE
+6823.HK&back=GSIE	HKT Trust & HKT Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6823.HK&back=GSIE
+0011.HK&back=GSIE	Hang Seng Bank Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0011.HK&back=GSIE
+4543.JP&back=GSIE	Terumo Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4543.JP&back=GSIE
+4307.JP&back=GSIE	Nomura Research Institute Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4307.JP&back=GSIE
+	Johnson Matthey PLC	
+	Knorr-Bremse AG	
+	Jardine Matheson Holdings Ltd	
+	Kerry Group PLC	
+	Holmen AB	
+	IMCD NV	
+	IGM Financial Inc	
+	Nibe Industrier AB	
+NICE	Nice Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NICE.US&back=GSIE
+	Cie Generale des Etablissements Michelin SCA	
+	Prudential PLC	
+	Telefonica Deutschland Holding AG	
+NWG	NatWest Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NWG.US&back=GSIE
+	Origin Energy Ltd	
+	Israel Discount Bank Ltd	
+	DSV A/S	
+	Daimler Truck Holding AG	
+	Canadian Utilities Ltd	
+	Demant A/S	
+	Elisa Oyj	
+	Enagas SA	
+	Henkel AG & Co KGaA	
+	GEA Group AG	
+	Groupe Bruxelles Lambert SA	
+ZIM	ZIM Integrated Shipping Services Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ZIM.US&back=GSIE
+	TMX Group Ltd	
+	Standard Chartered PLC	
+	Snam SpA	
+	Sonova Holding AG	
+	Spark New Zealand Ltd	
+	Swiss Prime Site AG	
+	Transurban Group	
+	Vivendi SE	
+	United Utilities Group PLC	
+	Svenska Cellulosa AB SCA	
+	Shaw Communications Inc	
+	Svenska Handelsbanken AB	
+	Eurazeo SE	
+	Rentokil Initial PLC	
+	Rheinmetall AG	
+	Schindler Holding AG	
+	Skanska AB	
+	VAT Group AG	
+	Vonovia SE	
+	UPM-Kymmene Oyj	
+	Universal Music Group NV	
+	Taylor Wimpey PLC	
+	Santos Ltd	
+FUTU	Futu Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=FUTU.US&back=GSIE
+	Genmab A/S	
+	Entain PLC	
+	Endeavour Group Ltd	
+	Ferrovial SA	
+	First Quantum Minerals Ltd	
+	Dexus	
+	Edenred	
+	CCL Industries Inc	
+	Davide Campari-Milano NV	
+	OCI NV	
+	Phoenix Group Holdings PLC	
+	Industrivarden AB	
+	Intesa Sanpaolo SpA	
+	Intertek Group PLC	
+	Husqvarna AB	
+	Halma PLC	
+	Hikma Pharmaceuticals PLC	
+	Kingspan Group PLC	
+	London Stock Exchange Group PLC	
+	Keppel Corp Ltd	
+	Kongsberg Gruppen ASA	
+4185.JP&back=GSIE	JSR Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4185.JP&back=GSIE
+3281.JP&back=GSIE	GLP J-Reit	/etf/ea/ETZCW.djhtm?c=1&etfid=3281.JP&back=GSIE
+3283.JP&back=GSIE	Nippon Prologis REIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3283.JP&back=GSIE
+2897.JP&back=GSIE	Nissin Foods Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2897.JP&back=GSIE
+1928.JP&back=GSIE	Sekisui House Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1928.JP&back=GSIE
+6971.JP&back=GSIE	Kyocera Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6971.JP&back=GSIE
+5019.JP&back=GSIE	Idemitsu Kosan Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5019.JP&back=GSIE
+5020.JP&back=GSIE	ENEOS Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=5020.JP&back=GSIE
+6502.JP&back=GSIE	Toshiba Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6502.JP&back=GSIE
+8952.JP&back=GSIE	Japan Real Estate Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=8952.JP&back=GSIE
+9502.JP&back=GSIE	Chubu Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9502.JP&back=GSIE
+8267.JP&back=GSIE	Aeon Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8267.JP&back=GSIE
+	Sumitomo Mitsui Trust Holdings Inc	
+0868.HK&back=GSIE	Xinyi Glass Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0868.HK&back=GSIE
+	Atlas Copco AB	
+	Akzo Nobel NV	
+AQN	Algonquin Power & Utilities Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AQN.US&back=GSIE
+	Acciona SA	
+	Dassault Aviation SA	
+	Carl Zeiss Meditec AG	
+	ABN AMRO Bank NV	
+	Ampol Ltd	
+	Aurizon Holdings Ltd	
+8750.JP&back=GSIE	Dai-ichi Life Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8750.JP&back=GSIE
+8593.JP&back=GSIE	Mitsubishi HC Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8593.JP&back=GSIE
+8601.JP&back=GSIE	Daiwa Securities Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8601.JP&back=GSIE
+0823.HK&back=GSIE	Link REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=0823.HK&back=GSIE
+8308.JP&back=GSIE	Resona Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8308.JP&back=GSIE
+9532.JP&back=GSIE	Osaka Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9532.JP&back=GSIE
+9602.JP&back=GSIE	Toho Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9602.JP&back=GSIE
+9735.JP&back=GSIE	Secom Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9735.JP&back=GSIE
+9064.JP&back=GSIE	Yamato Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9064.JP&back=GSIE
+8802.JP&back=GSIE	Mitsubishi Estate Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8802.JP&back=GSIE
+8951.JP&back=GSIE	Nippon Building Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8951.JP&back=GSIE
+6273.JP&back=GSIE	SMC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6273.JP&back=GSIE
+5938.JP&back=GSIE	Lixil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5938.JP&back=GSIE
+	USS Co Ltd	
+4739.JP&back=GSIE	Itochu Techno-Solutions Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4739.JP&back=GSIE
+5201.JP&back=GSIE	AGC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=5201.JP&back=GSIE
+4967.JP&back=GSIE	Kobayashi Pharmaceutical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4967.JP&back=GSIE
+6841.JP&back=GSIE	Yokogawa Electric Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6841.JP&back=GSIE
+6845.JP&back=GSIE	Azbil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6845.JP&back=GSIE
+6988.JP&back=GSIE	Nitto Denko Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6988.JP&back=GSIE
+0066.HK&back=GSIE	MTR Corp Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0066.HK&back=GSIE
+2267.JP&back=GSIE	Yakult Honsha Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2267.JP&back=GSIE
+2433.JP&back=GSIE	Hakuhodo DY Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2433.JP&back=GSIE
+2638.HK&back=GSIE	HK Electric Investments & HK Electric Investments Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2638.HK&back=GSIE
+2702.JP&back=GSIE	McDonalds Holdings Co Japan Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2702.JP&back=GSIE
+0016.HK&back=GSIE	Sun Hung Kai Properties Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0016.HK&back=GSIE
+0002.HK&back=GSIE	CLP Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0002.HK&back=GSIE
+4021.JP&back=GSIE	Nissan Chemical Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4021.JP&back=GSIE
+4204.JP&back=GSIE	Sekisui Chemical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4204.JP&back=GSIE
+3462.JP&back=GSIE	Nomura Real Estate Master Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3462.JP&back=GSIE
+3626.JP&back=GSIE	TIS Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3626.JP&back=GSIE
+4507.JP&back=GSIE	Shionogi & Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4507.JP&back=GSIE
+	Ivanhoe Mines Ltd	
+	Land Securities Group PLC	
+IHG	InterContinental Hotels Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=IHG.US&back=GSIE
+	Industrivarden AB	
+OTEX	Open Text Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OTEX.US&back=GSIE
+	Orkla ASA	
+	Prosus NV	
+	Mowi ASA	
+	Lundin Mining Corp	
+	Brambles Ltd	
+	Canadian Apartment Properties REIT	
+	Dieteren Group	
+	Elbit Systems Ltd	
+	Essity AB	
+	Endesa SA	
+	Euronext NV	
+	GPT Group	
+	Gecina SA	
+	Telenor ASA	
+	Solvay SA	
+	Swedish Orphan Biovitrum AB	
+	Stora Enso Oyj	
+	UniCredit SpA	
+	Schindler Holding AG	
+	Schroders PLC	
+QSR	Restaurant Brands International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QSR.US&back=GSIE
+	QBE Insurance Group Ltd	
+	Quebecor Inc	
+	Volvo AB	
+	Yara International ASA	
+	Warehouses De Pauw CVA	
+	WiseTech Global Ltd	
+	Reece Ltd	
+	Ramsay Health Care Ltd	
+	ROCKWOOL A/S	
+	Safran SA	
+	Sandvik AB	
+	Salmar ASA	
+	Smiths Group PLC	
+	Stockland	
+	United Internet AG	
+	Vicinity Centres	
+TSEM	Tower Semiconductor Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TSEM.US&back=GSIE
+	Scout24 SE	
+FNV	Franco-Nevada Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FNV.US&back=GSIE
+	Hongkong Land Holdings Ltd	
+	Evonik Industries AG	
+	Epiroc AB	
+	Epiroc AB	
+	EDP - Energias de Portugal SA	
+	Erste Group Bank AG	
+	Boliden AB	
+	Cameco Corp	
+	Chr Hansen Holding A/S	
+	CapitaLand Integrated Commercial Trust	
+	Clariant AG	
+	Cellnex Telecom SA	
+	L E Lundbergforetagen AB	
+	Mapletree Logistics Trust	
+	Mondi PLC	
+	Parkland Corp	
+	Orica Ltd	
+	Infineon Technologies AG	
+	Infrastrutture Wireless Italiane SpA	
+	LEG Immobilien SE	
+	Deutsche Lufthansa AG	
+	KBC Group NV	
+	Kone Oyj	
+4151.JP&back=GSIE	Kyowa Kirin Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4151.JP&back=GSIE
+4042.JP&back=GSIE	Tosoh Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4042.JP&back=GSIE
+0003.HK&back=GSIE	Hong Kong & China Gas Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0003.HK&back=GSIE
+2002.JP&back=GSIE	Nisshin Seifun Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2002.JP&back=GSIE
+2127.JP&back=GSIE	Nihon M&A Center Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2127.JP&back=GSIE
+1802.JP&back=GSIE	Obayashi Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1802.JP&back=GSIE
+1812.JP&back=GSIE	Kajima Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1812.JP&back=GSIE
+1925.JP&back=GSIE	Daiwa House Industry Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1925.JP&back=GSIE
+1038.HK&back=GSIE	CK Infrastructure Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1038.HK&back=GSIE
+6594.JP&back=GSIE	Nidec Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6594.JP&back=GSIE
+6753.JP&back=GSIE	Sharp Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6753.JP&back=GSIE
+6954.JP&back=GSIE	FANUC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6954.JP&back=GSIE
+6965.JP&back=GSIE	Hamamatsu Photonics KK	/etf/ea/ETZCW.djhtm?c=1&etfid=6965.JP&back=GSIE
+6806.JP&back=GSIE	Hirose Electric Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6806.JP&back=GSIE
+7182.JP&back=GSIE	Japan Post Bank Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7182.JP&back=GSIE
+7532.JP&back=GSIE	Pan Pacific International Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7532.JP&back=GSIE
+7270.JP&back=GSIE	Subaru Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7270.JP&back=GSIE
+4755.JP&back=GSIE	Rakuten Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4755.JP&back=GSIE
+4768.JP&back=GSIE	Otsuka Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4768.JP&back=GSIE
+5332.JP&back=GSIE	TOTO Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5332.JP&back=GSIE
+4684.JP&back=GSIE	Obic Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4684.JP&back=GSIE
+5802.JP&back=GSIE	Sumitomo Electric Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5802.JP&back=GSIE
+6301.JP&back=GSIE	Komatsu Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6301.JP&back=GSIE
+6146.JP&back=GSIE	Disco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6146.JP&back=GSIE
+9001.JP&back=GSIE	Tobu Railway Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9001.JP&back=GSIE
+8953.JP&back=GSIE	Japan Metropolitan Fund Invest	/etf/ea/ETZCW.djhtm?c=1&etfid=8953.JP&back=GSIE
+9041.JP&back=GSIE	Kintetsu Group Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9041.JP&back=GSIE
+9042.JP&back=GSIE	Hankyu Hanshin Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9042.JP&back=GSIE
+9503.JP&back=GSIE	Kansai Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9503.JP&back=GSIE
+8355.JP&back=GSIE	Shizuoka Bank Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8355.JP&back=GSIE
+8697.JP&back=GSIE	Japan Exchange Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8697.JP&back=GSIE
+7747.JP&back=GSIE	Asahi Intecc Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7747.JP&back=GSIE
+7912.JP&back=GSIE	Dai Nippon Printing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7912.JP&back=GSIE
+	Azrieli Group Ltd	
+	Bechtle AG	
+	Berkeley Group Holdings PLC	
+	Adecco Group AG	
+	Adyen NV	
+	Aena SME SA	
+	Ageas SA	
+	Amadeus IT Group SA	
+	Amundi SA	
+	Antofagasta PLC	
+	British Land Co PLC	
+	Julius Baer Group Ltd	
+7951.JP&back=GSIE	Yamaha Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7951.JP&back=GSIE
+8604.JP&back=GSIE	Nomura Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8604.JP&back=GSIE
+9719.JP&back=GSIE	SCSK Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9719.JP&back=GSIE
+9005.JP&back=GSIE	Tokyu Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9005.JP&back=GSIE
+9020.JP&back=GSIE	East Japan Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=9020.JP&back=GSIE
+9022.JP&back=GSIE	Central Japan Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=9022.JP&back=GSIE
+8801.JP&back=GSIE	Mitsui Fudosan Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8801.JP&back=GSIE
+6465.JP&back=GSIE	Hoshizaki Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6465.JP&back=GSIE
+5713.JP&back=GSIE	Sumitomo Metal Mining Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5713.JP&back=GSIE
+5333.JP&back=GSIE	NGK Insulators Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5333.JP&back=GSIE
+7259.JP&back=GSIE	Aisin Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=7259.JP&back=GSIE
+7186.JP&back=GSIE	Concordia Financial Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7186.JP&back=GSIE
+0017.HK&back=GSIE	New World Development Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0017.HK&back=GSIE
+4062.JP&back=GSIE	Ibiden Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4062.JP&back=GSIE
+3402.JP&back=GSIE	Toray Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=3402.JP&back=GSIE
+3407.JP&back=GSIE	Asahi Kasei Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3407.JP&back=GSIE
+3436.JP&back=GSIE	SUMCO Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3436.JP&back=GSIE
+3861.JP&back=GSIE	Oji Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3861.JP&back=GSIE
+	Keyera Corp	
+	Klepierre SA	
+	Lifco AB	
+	Lendlease Corp Ltd	
+	Insurance Australia Group Ltd	
+	Persimmon PLC	
+	Proximus SADP	
+	Mirvac Group	
+	Mineral Resources Ltd	
+	Newcrest Mining Ltd	
+	Covivio	
+	BT Group PLC	
+	Credit Suisse Group AG	
+	Grifols SA	
+	Getinge AB	
+	Treasury Wine Estates Ltd	
+	Lottery Corp Ltd	
+	Venture Corp Ltd	
+	Volvo AB	
+	Uniper SE	
+	Sea Ltd	
+	Scentre Group	
+	Sagax AB	
+	RioCan Real Estate Investment Trust	
+	Wilmar International Ltd	
+	NN GROUP N.V.	
+BHC	Bausch Health Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BHC.US&back=GSIE

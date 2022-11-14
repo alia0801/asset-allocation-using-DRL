@@ -1,0 +1,54 @@
+UPW
+	DJ U.S. UTILITIES INDEX SWAP BANK OF AMERICA NA	
+	DJ U.S. UTILITIES INDEX SWAP SOCIETE GENERALE	
+	DJ U.S. UTILITIES INDEX SWAP UBS AG	
+NEE	NEXTERA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=UPW
+SO	SOUTHERN CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=UPW
+DUK	DUKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=UPW
+D	DOMINION ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=UPW
+	DJ U.S. UTILITIES INDEX SWAP MORGAN STANLEY & CO. INTERNATIONAL PLC	
+SRE	SEMPRA ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=UPW
+AEP	AMERICAN ELECTRIC POWER	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=UPW
+EXC	EXELON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=UPW
+XEL	XCEL ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=UPW
+ED	CONSOLIDATED EDISON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=UPW
+WEC	WEC ENERGY GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=UPW
+PEG	PUBLIC SERVICE ENTERPRISE GP	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=UPW
+CEG	CONSTELLATION ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=UPW
+ES	EVERSOURCE ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=UPW
+AWK	AMERICAN WATER WORKS CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=UPW
+DTE	DTE ENERGY COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=UPW
+EIX	EDISON INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=UPW
+AEE	AMEREN CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=UPW
+ETR	ENTERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=UPW
+FE	FIRSTENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=UPW
+PCG	P G & E CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=UPW
+PPL	PPL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=UPW
+CNP	CENTERPOINT ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CNP.US&back=UPW
+CMS	CMS ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=UPW
+AES	AES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=UPW
+ATO	ATMOS ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=UPW
+EVRG	EVERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=UPW
+LNT	ALLIANT ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=UPW
+NI	NISOURCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=UPW
+WTRG	ESSENTIAL UTILITIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=UPW
+NRG	NRG ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=UPW
+VST	VISTRA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=UPW
+PNW	PINNACLE WEST CAPITAL	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=UPW
+UGI	UGI CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=UPW
+NFG	NATIONAL FUEL GAS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=UPW
+IDA	IDACORP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDA.US&back=UPW
+BKH	BLACK HILLS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BKH.US&back=UPW
+SWX	SOUTHWEST GAS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWX.US&back=UPW
+POR	PORTLAND GENERAL ELECTRIC CO	/etf/ea/ETZCW.djhtm?c=1&etfid=POR.US&back=UPW
+PNM	PNM RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNM.US&back=UPW
+OGS	ONE GAS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OGS.US&back=UPW
+HE	HAWAIIAN ELECTRIC INDS	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=UPW
+NJR	NEW JERSEY RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NJR.US&back=UPW
+SR	SPIRE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SR.US&back=UPW
+AGR	AVANGRID INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=UPW
+ALE	ALLETE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALE.US&back=UPW
+NWE	NORTHWESTERN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NWE.US&back=UPW
+AVA	AVISTA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AVA.US&back=UPW
+CWEN	CLEARWAY ENERGY INC-C	/etf/ea/ETZCW.djhtm?c=1&etfid=CWEN.US&back=UPW
+CWEN.A	CLEARWAY ENERGY INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=CWEN.A.US&back=UPW

@@ -1,0 +1,21 @@
+VOX
+META	Facebook Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=VOX
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=VOX
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=VOX
+DIS	Walt Disney Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=VOX
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=VOX
+CMCSA	Comcast Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=VOX
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=VOX
+TMUS	T-Mobile US Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=VOX
+NFLX	Netflix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=VOX
+ATVI	Activision Blizzard Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=VOX
+CHTR	Charter Communications Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=VOX
+EA	Electronic Arts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=VOX
+WBD	Warner Bros Discovery Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=VOX
+TWTR	Twitter Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=VOX
+TTWO	Take-Two Interactive Software Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=VOX
+OMC	Omnicom Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=VOX
+FWONK	Liberty Media Corp-Liberty Formula One	/etf/ea/ETZCW.djhtm?c=1&etfid=FWONK.US&back=VOX
+LYV	Live Nation Entertainment Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LYV.US&back=VOX
+NXST	Nexstar Media Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=VOX
+LBRDK	Liberty Broadband Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDK.US&back=VOX

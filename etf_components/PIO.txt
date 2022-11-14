@@ -1,0 +1,43 @@
+PIO
+DHR	Danaher Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=PIO
+	Ferguson PLC	
+ROP	Roper Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=PIO
+PNR	Pentair PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=PIO
+	Geberit AG	
+WAT	Waters Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=PIO
+ECL	Ecolab Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=PIO
+AWK	American Water Works Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=PIO
+	Veolia Environnement SA	
+	United Utilities Group PLC	
+XYL	Xylem Inc/NY	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=PIO
+IEX	IDEX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=PIO
+SBS	Cia de Saneamento Basico do Estado de Sao Paulo	/etf/ea/ETZCW.djhtm?c=1&etfid=SBS.US&back=PIO
+	Acciona SA	
+	Halma PLC	
+	Severn Trent PLC	
+	Spirax-Sarco Engineering PLC	
+TTEK	Tetra Tech Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTEK.US&back=PIO
+5332.JP&back=PIO	TOTO Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=5332.JP&back=PIO
+AOS	A O Smith Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=PIO
+6361.JP&back=PIO	Ebara Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6361.JP&back=PIO
+WTRG	Essential Utilities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=PIO
+6005.JP&back=PIO	Miura Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6005.JP&back=PIO
+6370.JP&back=PIO	Kurita Water Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6370.JP&back=PIO
+	Pennon Group PLC	
+	Aalberts NV	
+	Hera SpA	
+STN	Stantec Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STN.US&back=PIO
+0270.HK&back=PIO	Guangdong Investment Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0270.HK&back=PIO
+	Belimo Holding AG	
+021240.KS&back=PIO	Coway Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=021240.KS&back=PIO
+	Arcadis NV	
+0371.HK&back=PIO	Beijing Enterprises Water Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0371.HK&back=PIO
+6368.JP&back=PIO	Organo Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6368.JP&back=PIO
+	Genuit Group PLC	
+0855.HK&back=PIO	China Water Affairs Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0855.HK&back=PIO
+	ACEA SpA	
+6254.JP&back=PIO	Nomura Micro Science Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6254.JP&back=PIO
+9551.JP&back=PIO	METAWATER Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9551.JP&back=PIO
+6363.JP&back=PIO	Torishima Pump Manufacturing Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6363.JP&back=PIO
+6328.JP&back=PIO	Ebara Jitsugyo Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6328.JP&back=PIO
+	VA Tech Wabag Ltd	

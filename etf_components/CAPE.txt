@@ -1,0 +1,284 @@
+CAPE
+AMZN	Amazon.com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=CAPE
+AAPL	Apple Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=CAPE
+MSFT	Microsoft Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=CAPE
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=CAPE
+BRK.B	Berkshire Hathaway Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=CAPE
+JPM	JPMorgan Chase & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=CAPE
+AMT	American Tower Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=CAPE
+HD	Home Depot Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=CAPE
+PLD	PROLOGIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=CAPE
+BAC	Bank of America Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=CAPE
+CCI	Crown Castle Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=CAPE
+NVDA	NVIDIA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=CAPE
+EQIX	EQUINIX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=CAPE
+WFC	Wells Fargo & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=CAPE
+MCD	McDonald's Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=CAPE
+NKE	NIKE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=CAPE
+V	Visa Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=CAPE
+LOW	Lowe's Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=CAPE
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=CAPE
+SPGI	S&P Global Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=CAPE
+MA	MASTERCARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=CAPE
+MS	MORGAN STANLEY	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=CAPE
+O	REALTY INCOME CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=CAPE
+GS	Goldman Sachs Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=CAPE
+SBUX	Starbucks Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=CAPE
+SCHW	Charles Schwab Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=CAPE
+WELL	Welltower Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=CAPE
+DLR	DIGITAL REALTY TRUST INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=CAPE
+C	Citigroup Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=CAPE
+SBAC	SBA COMMUNICATIONS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=CAPE
+SPG	SIMON PROPERTY GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=CAPE
+BLK	BLACKROCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=CAPE
+AXP	American Express Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=CAPE
+AVGO	BROADCOM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=CAPE
+BKNG	Booking Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=CAPE
+VICI	VICI PROPERTIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=CAPE
+TGT	Target Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=CAPE
+MMC	Marsh & McLennan Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=CAPE
+CB	Chubb Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=CAPE
+AVB	AvalonBay Communities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=CAPE
+ACN	Accenture PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=CAPE
+ADBE	Adobe Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=CAPE
+TJX	TJX Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=CAPE
+CSCO	Cisco Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=CAPE
+CSGP	CoStar Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGP.US&back=CAPE
+CBRE	CBRE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=CAPE
+CRM	Salesforce Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=CAPE
+EQR	EQUITY RESIDENTIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=CAPE
+CME	CME GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CME.US&back=CAPE
+WY	WEYERHAEUSER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=CAPE
+PNC	PNC Financial Services Group I	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=CAPE
+PGR	Progressive Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=CAPE
+TXN	Texas Instruments Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=CAPE
+TFC	Truist Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=CAPE
+EXR	EXTRA SPACE STORAGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=CAPE
+ARE	Alexandria Real Estate Equitie	/etf/ea/ETZCW.djhtm?c=1&etfid=ARE.US&back=CAPE
+QCOM	QUALCOMM Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=CAPE
+USB	US BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=CAPE
+	DUKE REALTY CORP	
+DG	Dollar General Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=CAPE
+F	FORD MOTOR CO	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=CAPE
+INVH	INVITATION HOMES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INVH.US&back=CAPE
+AMD	Advanced Micro Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=CAPE
+AON	AON PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=CAPE
+INTC	Intel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=CAPE
+GM	General Motors Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=CAPE
+VTR	Ventas Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=CAPE
+MAA	Mid-America Apartment Communit	/etf/ea/ETZCW.djhtm?c=1&etfid=MAA.US&back=CAPE
+ICE	Intercontinental Exchange Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=CAPE
+SUI	SUN COMMUNITIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SUI.US&back=CAPE
+INTU	Intuit Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=CAPE
+ESS	Essex Property Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=CAPE
+ORCL	Oracle Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=CAPE
+ORLY	O'Reilly Automotive Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=CAPE
+MCO	Moody's Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCO.US&back=CAPE
+MAR	Marriott International Inc/MD	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=CAPE
+IBM	International Business Machine	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=CAPE
+CMG	Chipotle Mexican Grill Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CMG.US&back=CAPE
+AZO	AutoZone Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=CAPE
+WPC	WP Carey Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=CAPE
+MET	MetLife Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=CAPE
+COF	Capital One Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=CAPE
+AIG	American International Group I	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=CAPE
+ADP	Automatic Data Processing Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=CAPE
+DLTR	Dollar Tree Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=CAPE
+PYPL	PayPal Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=CAPE
+PEAK	Healthpeak Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=CAPE
+CPT	CAMDEN PROPERTY TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=CAPE
+AJG	Arthur J Gallagher & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=CAPE
+AMAT	Applied Materials Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=CAPE
+IRM	IRON MOUNTAIN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=CAPE
+HLT	Hilton Worldwide Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLT.US&back=CAPE
+MSCI	MSCI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSCI.US&back=CAPE
+YUM	YUM! BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=CAPE
+UDR	UDR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UDR.US&back=CAPE
+TRV	Travelers Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=CAPE
+PRU	Prudential Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=CAPE
+NOW	ServiceNow Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=CAPE
+KIM	KIMCO REALTY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=CAPE
+ADI	Analog Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=CAPE
+BXP	Boston Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BXP.US&back=CAPE
+AFL	Aflac Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=CAPE
+HST	Host Hotels & Resorts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HST.US&back=CAPE
+ELS	Equity LifeStyle Properties In	/etf/ea/ETZCW.djhtm?c=1&etfid=ELS.US&back=CAPE
+GLPI	Gaming and Leisure Properties	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=CAPE
+ALL	Allstate Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=CAPE
+BK	Bank of New York Mellon Corp/T	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=CAPE
+MTB	M&T Bank Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=CAPE
+ROST	Ross Stores Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=CAPE
+APTV	Aptiv PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=CAPE
+AMH	AMERICAN HOMES 4 RENT	/etf/ea/ETZCW.djhtm?c=1&etfid=AMH.US&back=CAPE
+AMP	Ameriprise Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=CAPE
+EBAY	eBay Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=CAPE
+FRC	First Republic Bank/CA	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC.US&back=CAPE
+REXR	Rexford Industrial Realty Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REXR.US&back=CAPE
+NLY	Annaly Capital Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=CAPE
+LSI	LIFE STORAGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=CAPE
+LRCX	Lam Research Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=CAPE
+MU	MICRON TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=CAPE
+MPW	Medical Properties Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=CAPE
+TROW	T Rowe Price Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=CAPE
+DHI	DR Horton Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=CAPE
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=CAPE
+CUBE	CUBESMART	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBE.US&back=CAPE
+FIS	Fidelity National Information	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=CAPE
+HR	Healthcare Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HR.US&back=CAPE
+REG	REGENCY CENTERS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=REG.US&back=CAPE
+STT	STATE STREET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=CAPE
+SIVB	SVB Financial Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVB.US&back=CAPE
+LEN	LENNAR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=CAPE
+JLL	JONES LANG LASALLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JLL.US&back=CAPE
+FISV	Fiserv Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=CAPE
+	American Campus Communities In	
+COLD	Americold Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COLD.US&back=CAPE
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=CAPE
+KLAC	KLA Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=CAPE
+GPC	GENUINE PARTS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=CAPE
+LAMR	LAMAR ADVERTISING CO	/etf/ea/ETZCW.djhtm?c=1&etfid=LAMR.US&back=CAPE
+NNN	National Retail Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=CAPE
+SNPS	SYNOPSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=CAPE
+TSCO	Tractor Supply Co	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=CAPE
+WTW	Willis Towers Watson PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTW.US&back=CAPE
+ULTA	Ulta Beauty Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=CAPE
+NDAQ	Nasdaq Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NDAQ.US&back=CAPE
+NTRS	NORTHERN TRUST CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=CAPE
+HIG	Hartford Financial Services Gr	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=CAPE
+CDNS	Cadence Design Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=CAPE
+FRT	Federal Realty Investment Trus	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT.US&back=CAPE
+OHI	Omega Healthcare Investors Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OHI.US&back=CAPE
+NXPI	NXP Semiconductors NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=CAPE
+ROP	Roper Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=CAPE
+RF	REGIONS FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=CAPE
+STWD	Starwood Property Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STWD.US&back=CAPE
+STOR	STORE CAPITAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=STOR.US&back=CAPE
+RJF	Raymond James Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=CAPE
+FR	First Industrial Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=FR.US&back=CAPE
+EGP	EASTGROUP PROPERTIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EGP.US&back=CAPE
+HBAN	Huntington Bancshares Inc/OH	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=CAPE
+BRX	Brixmor Property Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRX.US&back=CAPE
+CFG	Citizens Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=CAPE
+AGNC	AGNC Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=CAPE
+ADSK	AUTODESK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=CAPE
+AIRC	Apartment Income REIT Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=CAPE
+APH	Amphenol Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=CAPE
+BBY	Best Buy Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=CAPE
+GRMN	GARMIN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=CAPE
+KMX	CarMax Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=CAPE
+DRI	DARDEN RESTAURANTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DRI.US&back=CAPE
+EXPE	Expedia Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=CAPE
+FTNT	Fortinet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=CAPE
+TEL	TE Connectivity Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=CAPE
+SYF	SYNCHRONY FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=CAPE
+PAYX	PAYCHEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=CAPE
+MSI	Motorola Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=CAPE
+KEY	KEYCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=CAPE
+LKQ	LKQ CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=CAPE
+MCHP	Microchip Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=CAPE
+PFG	Principal Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=CAPE
+POOL	POOL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=POOL.US&back=CAPE
+SRC	Spirit Realty Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=CAPE
+STAG	STAG Industrial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STAG.US&back=CAPE
+RYN	RAYONIER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=CAPE
+VFC	VF Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=CAPE
+Z	Zillow Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=Z.US&back=CAPE
+DPZ	Domino's Pizza Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DPZ.US&back=CAPE
+FDS	FactSet Research Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=CAPE
+ENPH	ENPHASE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=CAPE
+KRC	KILROY REALTY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KRC.US&back=CAPE
+BRO	Brown & Brown Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=CAPE
+BXMT	Blackstone Mortgage Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BXMT.US&back=CAPE
+CINF	Cincinnati Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=CAPE
+CTSH	Cognizant Technology Solutions	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=CAPE
+GPN	GLOBAL PAYMENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=CAPE
+HPQ	HP Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=CAPE
+ETSY	ETSY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=CAPE
+WRB	W R Berkley Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=CAPE
+VNO	VORNADO REALTY TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=CAPE
+RITM	Rithm Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=CAPE
+NVR	NVR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=CAPE
+LVS	Las Vegas Sands Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LVS.US&back=CAPE
+MGM	MGM Resorts International	/etf/ea/ETZCW.djhtm?c=1&etfid=MGM.US&back=CAPE
+KEYS	Keysight Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=CAPE
+NSA	National Storage Affiliates Tr	/etf/ea/ETZCW.djhtm?c=1&etfid=NSA.US&back=CAPE
+ON	ON SEMICONDUCTOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=CAPE
+SBNY	Signature Bank/New York NY	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNY.US&back=CAPE
+CUZ	COUSINS PROPERTIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CUZ.US&back=CAPE
+CBOE	Cboe Global Markets Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CBOE.US&back=CAPE
+AAP	ADVANCE AUTO PARTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=CAPE
+ANET	Arista Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=CAPE
+BWA	BorgWarner Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BWA.US&back=CAPE
+CZR	Caesars Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CZR.US&back=CAPE
+DEI	DOUGLAS EMMETT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DEI.US&back=CAPE
+CMA	Comerica Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=CAPE
+DOC	PHYSICIANS REALTY TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=DOC.US&back=CAPE
+HIW	HIGHWOODS PROPERTIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HIW.US&back=CAPE
+GLW	Corning Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=CAPE
+HAS	HASBRO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HAS.US&back=CAPE
+L	LOEWS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=CAPE
+WHR	WHIRLPOOL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=CAPE
+MKTX	MarketAxess Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MKTX.US&back=CAPE
+PHM	PULTEGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=CAPE
+RE	EVEREST RE GROUP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RE.US&back=CAPE
+RCL	Royal Caribbean Cruises Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=RCL.US&back=CAPE
+OFC	Corporate Office Properties Tr	/etf/ea/ETZCW.djhtm?c=1&etfid=OFC.US&back=CAPE
+PCH	PotlatchDeltic Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCH.US&back=CAPE
+SBRA	Sabra Health Care REIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SBRA.US&back=CAPE
+SLG	SL Green Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SLG.US&back=CAPE
+TPR	TAPESTRY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=CAPE
+IT	GARTNER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=CAPE
+EQC	EQUITY COMMONWEALTH	/etf/ea/ETZCW.djhtm?c=1&etfid=EQC.US&back=CAPE
+GL	Globe Life Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GL.US&back=CAPE
+CDW	CDW Corp/DE	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=CAPE
+ANSS	ANSYS Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=CAPE
+BBWI	Bath & Body Works Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=CAPE
+AIZ	ASSURANT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=CAPE
+BEN	Franklin Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=CAPE
+CCL	Carnival Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CCL.US&back=CAPE
+BR	Broadridge Financial Solutions	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=CAPE
+FLT	FleetCor Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=CAPE
+EPAM	EPAM SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=CAPE
+JBGS	JBG SMITH PROPERTIES	/etf/ea/ETZCW.djhtm?c=1&etfid=JBGS.US&back=CAPE
+HHC	Howard Hughes Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HHC.US&back=CAPE
+HPE	Hewlett Packard Enterprise Co	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=CAPE
+TRMB	Trimble Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=CAPE
+TDY	Teledyne Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=CAPE
+SWKS	SKYWORKS SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=CAPE
+SEDG	SolarEdge Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=CAPE
+VRSN	VERISIGN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=CAPE
+ZBRA	ZEBRA TECHNOLOGIES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBRA.US&back=CAPE
+WYNN	WYNN RESORTS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=WYNN.US&back=CAPE
+ZION	Zions Bancorp NA	/etf/ea/ETZCW.djhtm?c=1&etfid=ZION.US&back=CAPE
+NWL	Newell Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=CAPE
+LNC	LINCOLN NATIONAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=CAPE
+MHK	MOHAWK INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MHK.US&back=CAPE
+LXP	LXP Industrial Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=LXP.US&back=CAPE
+MPWR	Monolithic Power Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=CAPE
+NHI	National Health Investors Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NHI.US&back=CAPE
+NCLH	Norwegian Cruise Line Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=NCLH.US&back=CAPE
+NLOK	NORTONLIFELOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=CAPE
+NTAP	NETAPP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=CAPE
+PAYC	PAYCOM SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=CAPE
+PENN	Penn Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PENN.US&back=CAPE
+WDC	WESTERN DIGITAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=CAPE
+TYL	TYLER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=CAPE
+STX	Seagate Technology Holdings PL	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=CAPE
+TER	Teradyne Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=CAPE
+HPP	Hudson Pacific Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HPP.US&back=CAPE
+JKHY	Jack Henry & Associates Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=CAPE
+IVZ	INVESCO LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=IVZ.US&back=CAPE
+AKAM	Akamai Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=CAPE
+	CITRIX SYSTEMS INC	
+FFIV	F5 Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=CAPE
+RL	RALPH LAUREN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RL.US&back=CAPE
+QRVO	QORVO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=CAPE
+PTC	PTC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=CAPE
+PVH	PVH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PVH.US&back=CAPE
+OPEN	Opendoor Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OPEN.US&back=CAPE
+RDFN	REDFIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RDFN.US&back=CAPE
+ZG	ZILLOW GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZG.US&back=CAPE
+DXC	DXC Technology Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=CAPE
+JNPR	Juniper Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=CAPE
+CDAY	Ceridian HCM Holding Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDAY.US&back=CAPE
+ONL	Orion Office REIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ONL.US&back=CAPE

@@ -1,0 +1,255 @@
+PWZ
+	Marin Healthcare District 5 08/01/2041	
+	Cash/Receivables/Payables 0	
+	San Diego Unified School District/CA 5 07/01/2041	
+	California State University 5 11/01/2041	
+	California Health Facilities Financing Authority 4 08/15/2050	
+	Regents of the University of California Medical Center Poole 3.5 05/15/2054	
+	Hayward Unified School District 4 08/01/2050	
+	San Francisco City & County Airport Comm-San Francisco Inter 5 05/01/2046	
+	San Francisco City & County Airport Comm-San Francisco Inter 5 05/01/2050	
+	State of California 5 09/01/2041	
+	San Francisco City & County Airport Comm-San Francisco Inter 5 05/01/2047	
+	Los Angeles County Metropolitan Transportation Authority Sal 5 07/01/2042	
+	San Mateo Foster City Public Financing Authority 5 08/01/2049	
+	California Health Facilities Financing Authority 5 11/01/2047	
+	California Health Facilities Financing Authority 5 08/15/2042	
+	Sequoia Union High School District 4 07/01/2043	
+	Sacramento Municipal Utility District 5 08/15/2050	
+	San Francisco City & County Airport Comm-San Francisco Inter 5 05/01/2043	
+	Chino Valley Unified School District 4 08/01/2055	
+	University of California 4 05/15/2046	
+	University of California 5 05/15/2046	
+	Regents of the University of California Medical Center Poole 5 05/15/2042	
+	Chino Valley Unified School District 5 08/01/2055	
+	Los Angeles Department of Water & Power 5 07/01/2049	
+	Los Angeles Department of Water & Power Water System Revenue 5 07/01/2048	
+	State of California 4 10/01/2039	
+	California State University 5 11/01/2038	
+	Chabot-Las Positas Community College District 4 08/01/2047	
+	San Rafael City High School District/CA 4 08/01/2047	
+	San Mateo Foster City Public Financing Authority 4 08/01/2044	
+	University of California 4 05/15/2047	
+	University of California 5.25 05/15/2042	
+	Santa Clara Valley Water District 5 06/01/2046	
+	Los Angeles Department of Water & Power 5 07/01/2047	
+	California Health Facilities Financing Authority 4 06/01/2050	
+	San Diego Unified School District/CA 4 07/01/2049	
+	California Health Facilities Financing Authority 4 08/15/2048	
+	State of California 4 10/01/2037	
+	Los Angeles Department of Water & Power 5 07/01/2045	
+	University of California 4 05/15/2051	
+	University of California 5 05/15/2048	
+	State of California 5 11/01/2047	
+	Lodi Unified School District/CA 3 08/01/2043	
+	University of California 5 05/15/2038	
+	Los Angeles Department of Water & Power 5 07/01/2051	
+	State of California 4 10/01/2041	
+	Sacramento City Unified School District/CA 5.5 08/01/2052	
+	State of California 5 09/01/2042	
+	City of Los Angeles CA Wastewater System Revenue 5 06/01/2047	
+	California State University 5 11/01/2048	
+	State of California 5 09/01/2042	
+	San Diego Unified School District/CA 5 07/01/2047	
+	San Francisco City & County Airport Comm-San Francisco Inter 5 05/01/2049	
+	San Diego County Regional Airport Authority 5 07/01/2049	
+	Los Angeles Community College District/CA 3 08/01/2039	
+	City of Los Angeles CA Wastewater System Revenue 5 06/01/2043	
+	San Francisco Bay Area Rapid Transit District 3 08/01/2038	
+	Fremont Union High School District 4 08/01/2046	
+	State of California 5 04/01/2042	
+	Bay Area Toll Authority 4 04/01/2042	
+	San Diego County Water Authority 5 05/01/2047	
+	City of Sacramento CA Transient Occupancy Tax Revenue 5 06/01/2048	
+	Oxnard Union High School District 4 08/01/2047	
+	Morgan Hill Unified School District 4 08/01/2047	
+	Los Angeles Department of Water & Power 5 07/01/2041	
+	Madera Unified School District 4 08/01/2046	
+	Los Angeles Department of Water & Power 5 07/01/2042	
+	Ontario Public Financing Authority 5 11/01/2052	
+	San Francisco Community College District 4 06/15/2045	
+	Regents of the University of California Medical Center Poole 5 05/15/2047	
+	Los Angeles Department of Water & Power 5 07/01/2046	
+	Los Angeles Department of Water & Power 5 07/01/2039	
+	California State Public Works Board 5 11/01/2046	
+	Los Angeles Department of Water & Power 5 07/01/2049	
+	California Municipal Finance Authority 4 03/01/2050	
+	Oxnard Union High School District 5 08/01/2045	
+	Los Angeles County Public Works Financing Authority 5 12/01/2045	
+	Salinas Union High School District 4 08/01/2047	
+	Metropolitan Water District of Southern California 5 10/01/2045	
+	Fresno Unified School District 4 08/01/2055	
+	Glendale Community College District/CA 4 08/01/2050	
+	East Bay Municipal Utility District Water System Revenue 5 06/01/2045	
+	Los Angeles Department of Water & Power 5 07/01/2043	
+	Los Angeles Department of Water & Power 5 07/01/2052	
+	Los Angeles County Public Works Financing Authority 5 12/01/2044	
+	Moreno Valley Unified School District/CA 3 08/01/2050	
+	San Francisco City & County Airport Comm-San Francisco Inter 5 05/01/2044	
+	Chaffey Joint Union High School District 5 08/01/2044	
+	Los Angeles Department of Water & Power Water System Revenue 5 07/01/2048	
+	City of Los Angeles Department of Airports 5 05/15/2048	
+	California Infrastructure & Economic Development Bank 5 08/01/2044	
+	California Educational Facilities Authority 5 10/01/2053	
+	State of California 5 09/01/2046	
+	State of California 5 04/01/2043	
+	California State University 5 11/01/2047	
+	State of California 3 03/01/2050	
+	State of California 5 11/01/2043	
+	City of Los Angeles Department of Airports 5 05/15/2048	
+	University of California 5 05/15/2043	
+	Orange County Water District 4 08/15/2041	
+	California Statewide Communities Development Authority 5 01/01/2048	
+	California Municipal Finance Authority 5 05/15/2049	
+	Alameda County Transportation Commission 5 03/01/2045	
+	State of California 5 04/01/2042	
+	Jurupa Unified School District 4 08/01/2041	
+	Mountain View Shoreline Regional Park Community 5 08/01/2048	
+	Tulare Local Health Care District 4 08/01/2039	
+	University of California 5 05/15/2042	
+	University of California 5 05/15/2049	
+	University of California 4 05/15/2050	
+	State of California 5 10/01/2047	
+	California State University 5 11/01/2045	
+	California Health Facilities Financing Authority 3 10/01/2047	
+	Alameda Corridor Transportation Authority 3 10/01/2034	
+	Fresno Unified School District 4 08/01/2052	
+	Irvine Unified School District 5 09/01/2038	
+	San Francisco City & County Airport Comm-San Francisco Inter 5 05/01/2048	
+	San Diego Public Facilities Financing Authority 5 10/15/2046	
+	Sacramento City Unified School District/CA 5.5 08/01/2047	
+	Vista Unified School District 5.25 08/01/2048	
+	City of Los Angeles Department of Airports 5 05/15/2045	
+	Los Angeles Department of Water & Power Water System Revenue 5 07/01/2043	
+	East Bay Municipal Utility District Water System Revenue 5 06/01/2042	
+	Foothill-Eastern Transportation Corridor Agency 3.95 01/15/2053	
+	State of California 5 11/01/2039	
+	State of California 5 10/01/2037	
+	California State University 4 11/01/2045	
+	California Statewide Communities Development Authority 4 04/01/2051	
+	Los Angeles Department of Water & Power 5 07/01/2042	
+	Los Angeles Department of Water & Power 5 07/01/2042	
+	City of Long Beach CA Harbor Revenue 5 05/15/2047	
+	University of California 5 05/15/2058	
+	Sacramento County Sanitation Districts Financing Authority 5 12/01/2044	
+	San Diego County Regional Airport Authority 5 07/01/2044	
+	California Statewide Communities Development Authority 5 05/15/2047	
+	California Health Facilities Financing Authority 3 08/15/2051	
+	California Infrastructure & Economic Development Bank 3 07/01/2050	
+	California Statewide Communities Development Authority 4 08/15/2046	
+	City of San Francisco CA Public Utilities Commission Water R 3 11/01/2050	
+	San Francisco Bay Area Rapid Transit District 4 08/01/2047	
+	Riverside County Transportation Commission 3 06/01/2049	
+	University of California 5 05/15/2038	
+	Coachella Valley Unified School District/CA 4 08/01/2045	
+	Long Beach Community College District 4 08/01/2049	
+	State of California 2.38 12/01/2043	
+	State of California 5 12/01/2043	
+	California Infrastructure & Economic Development Bank 5 08/01/2049	
+	Transbay Joint Powers Authority 5 10/01/2049	
+	University of California 5 05/15/2046	
+	Los Angeles County Public Works Financing Authority 5 12/01/2045	
+	Metropolitan Water District of Southern California 5 10/01/2046	
+	Metropolitan Water District of Southern California 5 10/01/2051	
+	California Infrastructure & Economic Development Bank 4 07/01/2050	
+	State of California 5.25 09/01/2047	
+	Los Angeles Department of Water & Power Water System Revenue 5 07/01/2040	
+	Los Angeles Department of Water & Power Water System Revenue 5 07/01/2041	
+	Los Angeles Department of Water & Power 5 07/01/2040	
+	California Statewide Communities Development Authority 5 12/01/2057	
+	California Statewide Communities Development Authority 5 05/15/2040	
+	Inland Valley Development Agency 5 09/01/2044	
+	Los Angeles Department of Water & Power Water System Revenue 5 07/01/2046	
+	Los Angeles Department of Water & Power 5 07/01/2039	
+	Los Angeles Department of Water & Power 5 07/01/2044	
+	Los Angeles Department of Water & Power 5 07/01/2040	
+	City of Los Angeles CA Wastewater System Revenue 5.25 06/01/2047	
+	California State University 5 11/01/2049	
+	State of California 5 03/01/2045	
+	State of California 5 10/01/2044	
+	California Infrastructure & Economic Development Bank 5 05/15/2047	
+	California Infrastructure & Economic Development Bank 5 11/01/2041	
+	California Municipal Finance Authority 5 06/01/2042	
+	Alameda Corridor Transportation Authority 5 10/01/2052	
+	Orange County Local Transportation Authority Sales Tax Reven 5 02/15/2041	
+	San Diego Unified School District/CA 5 07/01/2040	
+	Los Angeles County Metropolitan Transportation Authority Sal 5 07/01/2041	
+	Los Angeles County Metropolitan Transportation Authority Sal 5 07/01/2044	
+	Los Angeles Unified School District/CA 5 07/01/2038	
+	San Diego Association of Governments South Bay Expressway Re 5 07/01/2042	
+	San Diego Public Facilities Financing Authority 5 10/15/2044	
+	San Diego County Regional Transportation Commission 5 04/01/2048	
+	City of San Francisco CA Public Utilities Commission Water R 5 11/01/2050	
+	Regents of the University of California Medical Center Poole 5 05/15/2041	
+	California Health Facilities Financing Authority 5 08/15/2055	
+	California Municipal Finance Authority 5 07/01/2042	
+	California Municipal Finance Authority 5 11/01/2047	
+	California Statewide Communities Development Authority 5 08/15/2051	
+	Fremont Union High School District 4 08/01/2044	
+	California Health Facilities Financing Authority 4 08/15/2040	
+	California State Public Works Board 4 11/01/2046	
+	Simi Valley Unified School District 4 08/01/2046	
+	Vacaville Unified School District 4 08/01/2045	
+	Los Angeles Unified School District/CA 4 07/01/2040	
+	Sacramento City Unified School District/CA 4 08/01/2049	
+	California Municipal Finance Authority 4 02/01/2042	
+	California Statewide Communities Development Authority 3 04/01/2046	
+	California Statewide Communities Development Authority 4 08/01/2045	
+	California Health Facilities Financing Authority 4 11/15/2040	
+	California Health Facilities Financing Authority 4 11/15/2041	
+	San Francisco Bay Area Rapid Transit District 3 08/01/2042	
+	San Diego County Regional Airport Authority 5 07/01/2046	
+	Riverside County Transportation Commission 4 06/01/2040	
+	Los Angeles Unified School District/CA 3 07/01/2045	
+	California Municipal Finance Authority 3 05/15/2051	
+	California Statewide Communities Development Authority 3 04/01/2050	
+	Glendale Community College District/CA 3 08/01/2047	
+	City of Los Angeles Department of Airports 5 05/15/2044	
+	California Municipal Finance Authority 3 05/15/2054	
+	Riverside County Transportation Commission 4 06/01/2038	
+	Riverside County Transportation Commission 4 06/01/2039	
+	San Mateo Foster City School District/CA 2.5 08/01/2046	
+	San Mateo Foster City School District/CA 2.5 08/01/2051	
+	San Mateo Union High School District 2 09/01/2045	
+	San Mateo Union High School District 2.12 09/01/2048	
+	State of California 3 12/01/2046	
+	State of California 4 03/01/2046	
+	California State University 4 11/01/2038	
+	California State University 5 11/01/2037	
+	State of California 5 12/01/2046	
+	California Public Finance Authority 5 07/15/2046	
+	State of California 4 11/01/2044	
+	California Municipal Finance Authority 5.25 11/01/2047	
+	City of Long Beach CA Marina System Revenue 5 05/15/2040	
+	City of Long Beach CA Marina System Revenue 5 05/15/2045	
+	Riverside County Transportation Commission 4 06/01/2046	
+	San Diego Public Facilities Financing Authority 4 10/15/2050	
+	San Diego County Regional Airport Authority 4 07/01/2046	
+	Desert Community College District 4 08/01/2051	
+	California Municipal Finance Authority 4 05/15/2046	
+	State of California 3 12/01/2049	
+	State of California 2.5 12/01/2049	
+	Los Angeles County Public Works Financing Authority 3 12/01/2050	
+	California Infrastructure & Economic Development Bank 4 11/01/2045	
+	California Health Facilities Financing Authority 4 10/01/2047	
+	State of California 3 12/01/2043	
+	San Diego Public Facilities Financing Authority 4 08/01/2045	
+	California Educational Facilities Authority 2.25 04/01/2051	
+	Folsom Cordova Unified School District 4 10/01/2044	
+	Los Angeles Community College District/CA 4 08/01/2041	
+	Kaweah Delta Health Care District Guild 4 06/01/2045	
+	California Health Facilities Financing Authority 4 11/15/2048	
+	California Health Facilities Financing Authority 5 11/15/2056	
+	Bay Area Toll Authority 4 04/01/2038	
+	California Health Facilities Financing Authority 4 11/15/2042	
+	State of California 4 03/01/2045	
+	Marin Healthcare District 4 08/01/2040	
+	Los Angeles County Public Works Financing Authority 4 12/01/2040	
+	Marin Healthcare District 4 08/01/2047	
+	Santa Clara Unified School District 4 07/01/2048	
+	University of California 4 05/15/2047	
+	California Health Facilities Financing Authority 4 11/01/2044	
+	Los Angeles Community College District/CA 4 08/01/2039	
+	Compton Unified School District/CA 4 06/01/2049	
+	Contra Costa Community College District 4 08/01/2039	
+	California Statewide Communities Development Authority 4 08/15/2051	

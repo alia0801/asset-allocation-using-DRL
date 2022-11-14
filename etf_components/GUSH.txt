@@ -1,0 +1,72 @@
+GUSH
+	S&P OIL & GAS EXPLOR AND PROD SELECT INDEX SWAP	
+	S&P OIL & GAS EXPLOR AND PROD SELECT INDEX SWAP	
+	DREYFUS GOVT CASH MGMT	
+	S&P OIL & GAS EXPLOR AND PROD SELECT INDEX SWAP	
+	S&P OIL & GAS EXPLOR AND PROD SELECT INDEX SWAP	
+	S&P O&G Exp Prod Sel Ind Index SWAP	
+	DREYFUS GOVT CASH MGMT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+	DREYFUS TREASURY SECURITIES CASH MANAGEMENT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+OXY	Occidental Petroleum	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=GUSH
+DEN	DENBURY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DEN.US&back=GUSH
+EQT	EQT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=GUSH
+CRK	Comstock Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=GUSH
+CLR	Continental Resources Inc/OK	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=GUSH
+DVN	Devon Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=GUSH
+XOM	Exxon Mobil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=GUSH
+RRC	Range Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=GUSH
+TPL	TEXAS PACIFIC LAND CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=GUSH
+HES	Hess Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=GUSH
+DINO	HF Sinclair Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=GUSH
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=GUSH
+MPC	MARATHON PETE CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=GUSH
+PXD	Pioneer Natural Resources	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=GUSH
+MTDR	MATADOR RES CO USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=GUSH
+KOS	KOSMOS ENERGY LTD USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=KOS.US&back=GUSH
+CVX	Chevron Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=GUSH
+CRC	CALIFORNIA RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CRC.US&back=GUSH
+AR	ANTERO RES CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=GUSH
+	Centennial Resource Development Inc/DE	
+OVV	OVINTIV INC CAD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=GUSH
+TELL	TELLURIAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TELL.US&back=GUSH
+MUR	Murphy Oil	/etf/ea/ETZCW.djhtm?c=1&etfid=MUR.US&back=GUSH
+SM	SM Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=GUSH
+CTRA	Cabot Oil & Gas	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=GUSH
+PBF	PBF ENERGY INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=GUSH
+FANG	DIAMONDBACK ENERGY INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=GUSH
+MRO	Marathon Oil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=GUSH
+MGY	Magnolia Oil & Gas Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=GUSH
+GPRE	GREEN PLAINS RENEWABLE ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=GPRE.US&back=GUSH
+PSX	PHILLIPS 66 USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=GUSH
+VLO	Valero Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=GUSH
+EOG	EOG Resources	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=GUSH
+CIVI	CIVITAS RES INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=GUSH
+GEVO	GEVO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GEVO.US&back=GUSH
+APA	APA CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=GUSH
+CHRD	OASIS PETROLEUM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=GUSH
+SWN	Southwestern Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=GUSH
+PDCE	PDC ENERGY INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=GUSH
+CPE	CALLON PETE CO DEL USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=CPE.US&back=GUSH
+CNX	CNX Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=GUSH
+LPI	Laredo Petroleum Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LPI.US&back=GUSH
+DK	Delek Holdco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DK.US&back=GUSH
+NOG	Northern Oil and Gas Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NOG.US&back=GUSH
+CLNE	CLEAN ENERGY FUELS CORP USD	/etf/ea/ETZCW.djhtm?c=1&etfid=CLNE.US&back=GUSH
+TALO	Sailfish Energy Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TALO.US&back=GUSH
+WTI	W&T OFFSHORE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTI.US&back=GUSH
+VTNR	Vertex Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTNR.US&back=GUSH
+LFG	Archaea Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LFG.US&back=GUSH
+CVI	CVR ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=GUSH
+INT	World Fuel Services	/etf/ea/ETZCW.djhtm?c=1&etfid=INT.US&back=GUSH
+GPOR	Gulfport Energy Operating Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GPOR.US&back=GUSH
+MNRL	Brigham Minerals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MNRL.US&back=GUSH
+ROCC	Ranger Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ROCC.US&back=GUSH
+ALTO	ALTO INGREDIENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALTO.US&back=GUSH
+ESTE	Earthstone Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTE.US&back=GUSH
+PARR	PAR PETE CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=PARR.US&back=GUSH
+EGY	Vaalco Energy Inc Com New	/etf/ea/ETZCW.djhtm?c=1&etfid=EGY.US&back=GUSH
+CRGY	Crescent Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRGY.US&back=GUSH
+BRY	Berry Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BRY.US&back=GUSH
+REX	Rex Stores Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=REX.US&back=GUSH

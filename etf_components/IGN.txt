@@ -1,0 +1,25 @@
+IGN
+ANET	ARISTA NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=IGN
+MSI	MOTOROLA SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=IGN
+CSCO	CISCO SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=IGN
+FFIV	F5 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=IGN
+JNPR	JUNIPER NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=IGN
+CALX	CALIX NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CALX.US&back=IGN
+COMM	COMMSCOPE HOLDING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=COMM.US&back=IGN
+CIEN	CIENA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=IGN
+UI	UBIQUITI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UI.US&back=IGN
+EXTR	EXTREME NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXTR.US&back=IGN
+VSAT	VIASAT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VSAT.US&back=IGN
+ADTN	ADTRAN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADTN.US&back=IGN
+LITE	LUMENTUM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=IGN
+VIAV	VIAVI SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VIAV.US&back=IGN
+NTCT	NETSCOUT SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTCT.US&back=IGN
+CLFD	CLEARFIELD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLFD.US&back=IGN
+INFN	INFINERA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INFN.US&back=IGN
+HLIT	HARMONIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HLIT.US&back=IGN
+DGII	DIGI INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DGII.US&back=IGN
+NTGR	NETGEAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTGR.US&back=IGN
+DZSI	DZS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DZSI.US&back=IGN
+	USD CASH	
+	BLK CSH FND TREASURY SL AGENCY	
+	RUSSELL 2000 EMINI CME SEP 22	

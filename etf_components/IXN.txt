@@ -1,0 +1,139 @@
+IXN
+AAPL	APPLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=IXN
+MSFT	MICROSOFT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=IXN
+NVDA	NVIDIA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=IXN
+V	VISA INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=IXN
+2330.TW&back=IXN	TAIWAN SEMICONDUCTOR MANUFACTURING	/etf/ea/ETZCW.djhtm?c=1&etfid=2330.TW&back=IXN
+MA	MASTERCARD INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=IXN
+005930.KS&back=IXN	SAMSUNG ELECTRONICS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=005930.KS&back=IXN
+AVGO	BROADCOM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=IXN
+ASML	ASML HOLDING NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=IXN
+CSCO	CISCO SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=IXN
+ACN	ACCENTURE PLC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=IXN
+ADBE	ADOBE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=IXN
+CRM	SALESFORCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=IXN
+TXN	TEXAS INSTRUMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=IXN
+QCOM	QUALCOMM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=IXN
+AMD	ADVANCED MICRO DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=IXN
+INTC	INTEL CORPORATION CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=IXN
+INTU	INTUIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=IXN
+ORCL	ORACLE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=IXN
+IBM	INTERNATIONAL BUSINESS MACHINES CO	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=IXN
+PYPL	PAYPAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=IXN
+ADP	AUTOMATIC DATA PROCESSING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=IXN
+SAP	SAP	/etf/ea/ETZCW.djhtm?c=1&etfid=SAP.US&back=IXN
+NOW	SERVICENOW INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=IXN
+AMAT	APPLIED MATERIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=IXN
+ADI	ANALOG DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=IXN
+6861.JP&back=IXN	KEYENCE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6861.JP&back=IXN
+MU	MICRON TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=IXN
+LRCX	LAM RESEARCH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=IXN
+FISV	FISERV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=IXN
+FIS	FIDELITY NATIONAL INFORMATION SERV	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=IXN
+SNPS	SYNOPSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=IXN
+KLAC	KLA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=IXN
+8035.JP&back=IXN	TOKYO ELECTRON LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=8035.JP&back=IXN
+CDNS	CADENCE DESIGN SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=IXN
+	ADYEN NV	
+2317.TW&back=IXN	HON HAI PRECISION INDUSTRY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=2317.TW&back=IXN
+APH	AMPHENOL CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=IXN
+ADSK	AUTODESK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=IXN
+NXPI	NXP SEMICONDUCTORS NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=IXN
+ROP	ROPER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=IXN
+MSI	MOTOROLA SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=IXN
+TEL	TE CONNECTIVITY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=IXN
+PAYX	PAYCHEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=IXN
+ENPH	ENPHASE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=IXN
+000660.KS&back=IXN	SK HYNIX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=000660.KS&back=IXN
+MCHP	MICROCHIP TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=IXN
+	SHOPIFY SUBORDINATE VOTING INC CLA	
+6981.JP&back=IXN	MURATA MANUFACTURING LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=6981.JP&back=IXN
+2454.TW&back=IXN	MEDIATEK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=2454.TW&back=IXN
+GPN	GLOBAL PAYMENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=IXN
+005935.KS&back=IXN	SAMSUNG ELECTRONICS NON VOTING PRE	/etf/ea/ETZCW.djhtm?c=1&etfid=005935.KS&back=IXN
+CTSH	COGNIZANT TECHNOLOGY SOLUTIONS COR	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=IXN
+FTNT	FORTINET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=IXN
+	INFINEON TECHNOLOGIES AG	
+HPQ	HP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=IXN
+ON	ON SEMICONDUCTOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=IXN
+	CONSTELLATION SOFTWARE INC	
+KEYS	KEYSIGHT TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=IXN
+	CAPGEMINI	
+	NOKIA	
+ANET	ARISTA NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=IXN
+	DASSAULT SYSTEMES	
+GLW	CORNING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=IXN
+7751.JP&back=IXN	CANON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=7751.JP&back=IXN
+006400.KS&back=IXN	SAMSUNG SDI LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=006400.KS&back=IXN
+EPAM	EPAM SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=IXN
+	AMADEUS IT GROUP SA	
+CDW	CDW CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=IXN
+IT	GARTNER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=IXN
+STM	STMICROELECTRONICS NV	/etf/ea/ETZCW.djhtm?c=1&etfid=STM.US&back=IXN
+6702.JP&back=IXN	FUJITSU LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=6702.JP&back=IXN
+	ERICSSON B	
+	HEXAGON CLASS B	
+ANSS	ANSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=IXN
+4901.JP&back=IXN	FUJIFILM HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=4901.JP&back=IXN
+BR	BROADRIDGE FINANCIAL SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=IXN
+1810.HK&back=IXN	XIAOMI CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=1810.HK&back=IXN
+MPWR	MONOLITHIC POWER SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=IXN
+6971.JP&back=IXN	KYOCERA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6971.JP&back=IXN
+HPE	HEWLETT PACKARD ENTERPRISE	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=IXN
+VRSN	VERISIGN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=IXN
+TDY	TELEDYNE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=IXN
+2308.TW&back=IXN	DELTA ELECTRONICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=2308.TW&back=IXN
+	CGI INC	
+PAYC	PAYCOM SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=IXN
+FLT	FLEETCOR TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=IXN
+NTAP	NETAPP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=IXN
+SWKS	SKYWORKS SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=IXN
+2303.TW&back=IXN	UNITED MICRO ELECTRONICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=2303.TW&back=IXN
+ZBRA	ZEBRA TECHNOLOGIES CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBRA.US&back=IXN
+TYL	TYLER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=IXN
+TRMB	TRIMBLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=IXN
+SEDG	SOLAREDGE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=IXN
+AKAM	AKAMAI TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=IXN
+6762.JP&back=IXN	TDK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6762.JP&back=IXN
+JKHY	JACK HENRY AND ASSOCIATES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=IXN
+6723.JP&back=IXN	RENESAS ELECTRONICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6723.JP&back=IXN
+TER	TERADYNE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=IXN
+NLOK	NORTONLIFELOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=IXN
+WDC	WESTERN DIGITAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=IXN
+STX	SEAGATE TECHNOLOGY HOLDINGS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=IXN
+	CITRIX SYSTEMS INC	
+	EDENRED	
+PTC	PTC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=IXN
+4307.JP&back=IXN	NOMURA RESEARCH INSTITUTE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=4307.JP&back=IXN
+6857.JP&back=IXN	ADVANTEST CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6857.JP&back=IXN
+6645.JP&back=IXN	OMRON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6645.JP&back=IXN
+6920.JP&back=IXN	LASERTEC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6920.JP&back=IXN
+6701.JP&back=IXN	NEC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=6701.JP&back=IXN
+	WORLDLINE SA	
+	ASM INTERNATIONAL NV	
+4684.JP&back=IXN	OBIC LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=4684.JP&back=IXN
+QRVO	QORVO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=IXN
+FFIV	F5 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=IXN
+9613.JP&back=IXN	NTT DATA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=9613.JP&back=IXN
+	COMPUTERSHARE	
+	SAGE GROUP PLC	
+	HALMA PLC	
+JNPR	JUNIPER NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=IXN
+CDAY	CERIDIAN HCM HOLDING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDAY.US&back=IXN
+	LOGITECH INTERNATIONAL SA	
+	BLK CSH FND TREASURY SL AGENCY	
+	OPEN TEXT CORP	
+	XERO LTD	
+	KRW CASH	
+6963.JP&back=IXN	ROHM LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=6963.JP&back=IXN
+	USD CASH	
+DXC	DXC TECHNOLOGY	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=IXN
+	NEXI	
+	TEMENOS AG	
+7752.JP&back=IXN	RICOH LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=7752.JP&back=IXN
+PAGS	PAGSEGURO DIGITAL LTD CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PAGS.US&back=IXN
+	CASH COLLATERAL USD HBCFT	
+STNE	STONECO LTD CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=STNE.US&back=IXN
+	JPY CASH	
+	SINCH	
+	TWD CASH	

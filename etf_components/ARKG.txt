@@ -1,0 +1,51 @@
+ARKG
+SGFY	SIGNIFY HEALTH INC -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SGFY.US&back=ARKG
+EXAS	EXACT SCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXAS.US&back=ARKG
+IONS	IONIS PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=ARKG
+TDOC	TELADOC HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=ARKG
+FATE	FATE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FATE.US&back=ARKG
+CRSP	CRISPR THERAPEUTICS AG	/etf/ea/ETZCW.djhtm?c=1&etfid=CRSP.US&back=ARKG
+BEAM	BEAM THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BEAM.US&back=ARKG
+NTLA	INTELLIA THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTLA.US&back=ARKG
+SDGR	SCHRODINGER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SDGR.US&back=ARKG
+TWST	TWIST BIOSCIENCE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TWST.US&back=ARKG
+CDNA	CAREDX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNA.US&back=ARKG
+VERV	VERVE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VERV.US&back=ARKG
+ADPT	ADAPTIVE BIOTECHNOLOGIES	/etf/ea/ETZCW.djhtm?c=1&etfid=ADPT.US&back=ARKG
+INCY	INCYTE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=ARKG
+MASS	908 DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MASS.US&back=ARKG
+PACB	PACIFIC BIOSCIENCES OF CALIF	/etf/ea/ETZCW.djhtm?c=1&etfid=PACB.US&back=ARKG
+DNA	GINKGO BIOWORKS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DNA.US&back=ARKG
+ACCD	ACCOLADE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACCD.US&back=ARKG
+BFLY	BUTTERFLY NETWORK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BFLY.US&back=ARKG
+PATH	UIPATH INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=ARKG
+VEEV	VEEVA SYSTEMS INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=ARKG
+VRTX	VERTEX PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=ARKG
+VCYT	VERACYTE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VCYT.US&back=ARKG
+SLGC	SOMALOGIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SLGC.US&back=ARKG
+QSI	QUANTUM-SI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QSI.US&back=ARKG
+RXRX	RECURSION PHARMACEUTICALS-A	/etf/ea/ETZCW.djhtm?c=1&etfid=RXRX.US&back=ARKG
+ARCT	ARCTURUS THERAPEUTICS HOLDIN	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCT.US&back=ARKG
+RPTX	REPARE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RPTX.US&back=ARKG
+TXG	10X GENOMICS INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TXG.US&back=ARKG
+CDXS	CODEXIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CDXS.US&back=ARKG
+GH	GUARDANT HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GH.US&back=ARKG
+REGN	REGENERON PHARMACEUTICALS	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=ARKG
+IOVA	IOVANCE BIOTHERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IOVA.US&back=ARKG
+PFE	PFIZER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=ARKG
+MRNA	MODERNA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=ARKG
+ATAI	ATAI LIFE SCIENCES NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ATAI.US&back=ARKG
+PSNL	PERSONALIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PSNL.US&back=ARKG
+ZY	ZYMERGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZY.US&back=ARKG
+NVTA	INVITAE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVTA.US&back=ARKG
+CERS	CERUS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CERS.US&back=ARKG
+NRIX	NURIX THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NRIX.US&back=ARKG
+BLI	BERKELEY LIGHTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLI.US&back=ARKG
+SURF	SURFACE ONCOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SURF.US&back=ARKG
+CMPS	COMPASS PATHWAYS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=CMPS.US&back=ARKG
+SNTI	SENTI BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNTI.US&back=ARKG
+CGEN	COMPUGEN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CGEN.US&back=ARKG
+	DREYFUS GOVT CASH MAN INS	
+SNTI	Senti Bio - place holdershares	/etf/ea/ETZCW.djhtm?c=1&etfid=SNTI.US&back=ARKG
+ONVO	ORGANOVO HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ONVO.US&back=ARKG
+ONEM	1LIFE HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ONEM.US&back=ARKG

@@ -1,0 +1,102 @@
+FXO
+COIN	Coinbase Global,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=FXO
+LPLA	LPL Financial Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LPLA.US&back=FXO
+JEF	Jefferies Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JEF.US&back=FXO
+MTG	MGIC Investment Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTG.US&back=FXO
+BEN	Franklin Resources,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=FXO
+NLY	Annaly Capital Management,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=FXO
+FNF	Fidelity National Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=FXO
+TROW	T. Rowe Price Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=FXO
+PGR	The Progressive Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=FXO
+BRK.B	Berkshire Hathaway Inc. (Class B)	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=FXO
+CG	The Carlyle Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CG.US&back=FXO
+IVZ	Invesco Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=IVZ.US&back=FXO
+RITM	Rithm Capital Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=FXO
+FAF	First American Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FAF.US&back=FXO
+EVR	Evercore Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVR.US&back=FXO
+JHG	Janus Henderson Group Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JHG.US&back=FXO
+ORI	Old Republic International Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=FXO
+RE	Everest Re Group,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=RE.US&back=FXO
+OMF	OneMain Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OMF.US&back=FXO
+BHF	Brighthouse Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BHF.US&back=FXO
+AIZ	Assurant,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=FXO
+CACC	Credit Acceptance Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CACC.US&back=FXO
+GS	The Goldman Sachs Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=FXO
+WFC	Wells Fargo & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=FXO
+UNM	Unum Group	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=FXO
+AMG	Affiliated Managers Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMG.US&back=FXO
+OZK	Bank OZK	/etf/ea/ETZCW.djhtm?c=1&etfid=OZK.US&back=FXO
+NYCB	New York Community Bancorp,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=FXO
+C	Citigroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=FXO
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=FXO
+AIG	American International Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=FXO
+SEIC	SEI Investments Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=FXO
+ALLY	Ally Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=FXO
+PACW	PacWest Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=PACW.US&back=FXO
+HIG	The Hartford Financial Services Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=FXO
+VIRT	Virtu Financial,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=VIRT.US&back=FXO
+AXS	Axis Capital Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=AXS.US&back=FXO
+MKL	Markel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=FXO
+AGO	Assured Guaranty Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGO.US&back=FXO
+RJF	Raymond James Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=FXO
+RF	Regions Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=FXO
+LAZ	Lazard Ltd (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=LAZ.US&back=FXO
+AJG	Arthur J. Gallagher & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=FXO
+STT	State Street Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=FXO
+CINF	Cincinnati Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=FXO
+AFL	Aflac Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=FXO
+RKT	Rocket Companies,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=RKT.US&back=FXO
+SF	Stifel Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SF.US&back=FXO
+VOYA	Voya Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=FXO
+CFG	Citizens Financial Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=FXO
+KEY	KeyCorp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=FXO
+ACGL	Arch Capital Group Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGL.US&back=FXO
+BPOP	Popular,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BPOP.US&back=FXO
+BK	The Bank of New York Mellon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=FXO
+PRU	Prudential Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=FXO
+LNC	Lincoln National Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=FXO
+CB	Chubb Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=FXO
+TRV	The Travelers Companies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=FXO
+L	Loews Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=FXO
+RNR	RenaissanceRe Holdings Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR.US&back=FXO
+BOKF	BOK Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BOKF.US&back=FXO
+EQH	Equitable Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH.US&back=FXO
+ERIE	Erie Indemnity Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ERIE.US&back=FXO
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=FXO
+PNFP	Pinnacle Financial Partners,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNFP.US&back=FXO
+SNV	Synovus Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV.US&back=FXO
+STWD	Starwood Property Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STWD.US&back=FXO
+FNB	F.N.B. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FNB.US&back=FXO
+CMA	Comerica Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=FXO
+BAC	Bank of America Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=FXO
+WAL	Western Alliance Bancorporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WAL.US&back=FXO
+ZION	Zions Bancorporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ZION.US&back=FXO
+WTW	Willis Towers Watson Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTW.US&back=FXO
+PB	Prosperity Bancshares,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PB.US&back=FXO
+MMC	Marsh & McLennan Companies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=FXO
+MET	MetLife,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=FXO
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=FXO
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=FXO
+TFC	Truist Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=FXO
+ALL	The Allstate Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=FXO
+	US Dollar	
+FCNCA	First Citizens BancShares,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=FCNCA.US&back=FXO
+BR	Broadridge Financial Solutions,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=FXO
+FHB	First Hawaiian,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FHB.US&back=FXO
+MTB	M&T Bank Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=FXO
+PFG	Principal Financial Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=FXO
+KKR	KKR & Co. Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=KKR.US&back=FXO
+HBAN	Huntington Bancshares Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=FXO
+EWBC	East West Bancorp,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EWBC.US&back=FXO
+ICE	Intercontinental Exchange,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=FXO
+WTFC	Wintrust Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFC.US&back=FXO
+GL	Globe Life Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GL.US&back=FXO
+PNC	The PNC Financial Services Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=FXO
+NTRS	Northern Trust Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=FXO
+USB	U.S. Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=FXO
+SBNY	Signature Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNY.US&back=FXO
+SLM	SLM Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SLM.US&back=FXO
+WRB	W.R. Berkley Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=FXO
+AFG	American Financial Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=FXO
+THG	The Hanover Insurance Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=FXO
+UPST	Upstart Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UPST.US&back=FXO

@@ -1,0 +1,26 @@
+ARGT
+MELI	MERCADOLIBRE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MELI.US&back=ARGT
+YPF	YPF S.A.-SPONSORED ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=YPF.US&back=ARGT
+ASR	GRUPO GALICI-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ASR.US&back=ARGT
+PAM	PAMPA ENERGIA SA-SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PAM.US&back=ARGT
+ACA	ARCOS DORADOS-A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACA.US&back=ARGT
+BMA	BANCO MACRO SA-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BMA.US&back=ARGT
+	Embotelladora Andina SA	
+AGRO	ADECOAGRO SA	/etf/ea/ETZCW.djhtm?c=1&etfid=AGRO.US&back=ARGT
+	CENCOSUD SA	
+AC	CIA CERVECERIAS UNIDAS SA	/etf/ea/ETZCW.djhtm?c=1&etfid=AC.US&back=ARGT
+SSRM	SSR MINING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=ARGT
+AUY	YAMANA GOLD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AUY.US&back=ARGT
+DESP	DESPEGAR.COM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DESP.US&back=ARGT
+AMTI	TRANSPORT GA-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=AMTI.US&back=ARGT
+BIOX	BIOCERES CROP SO	/etf/ea/ETZCW.djhtm?c=1&etfid=BIOX.US&back=ARGT
+CHT	TELECOM ARGE-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CHT.US&back=ARGT
+CEE	CENTRAL PUERTO-A	/etf/ea/ETZCW.djhtm?c=1&etfid=CEE.US&back=ARGT
+LOMA	LOMA NEGRA C-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=LOMA.US&back=ARGT
+CRESY	CRESUD S.A.-SPONS ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CRESY.US&back=ARGT
+CAAP	CORP AMERICA AIRPORTS SA	/etf/ea/ETZCW.djhtm?c=1&etfid=CAAP.US&back=ARGT
+BBAR	BBVA ARGENTINA SA-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BBAR.US&back=ARGT
+	IRSA -SP ADR	
+EDN	EMP DISTRIB-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=EDN.US&back=ARGT
+ASR	GRUPO SV-SP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ASR.US&back=ARGT
+	CASH	

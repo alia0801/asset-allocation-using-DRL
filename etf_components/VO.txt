@@ -1,0 +1,21 @@
+VO
+CNC	Centene Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=VO
+SNPS	Synopsys Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=VO
+CDNS	Cadence Design Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=VO
+DVN	Devon Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=VO
+CTVA	Corteva Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=VO
+APH	Amphenol Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=VO
+O	Realty Income Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=VO
+MSI	Motorola Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=VO
+IQV	IQVIA Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=VO
+ENPH	Enphase Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=VO
+AJG	Arthur J Gallagher & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=VO
+LNG	Cheniere Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=VO
+MCHP	Microchip Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=VO
+NUE	Nucor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=VO
+CTAS	Cintas Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=VO
+WCN	Waste Connections Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WCN.US&back=VO
+WELL	Welltower Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=VO
+DLR	Digital Realty Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=VO
+SBAC	SBA Communications Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=VO
+MSCI	MSCI Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSCI.US&back=VO

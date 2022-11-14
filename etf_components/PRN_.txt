@@ -1,0 +1,41 @@
+PRN
+WSO	Watsco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WSO.US&back=PRN
+AME	AMETEK Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AME.US&back=PRN
+GPK	Graphic Packaging Holding Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GPK.US&back=PRN
+TT	Trane Technologies PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=PRN
+UNP	Union Pacific Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=PRN
+HUBB	Hubbell Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=PRN
+WCC	WESCO International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC.US&back=PRN
+GWW	WW Grainger Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=PRN
+CTAS	Cintas Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=PRN
+WMS	Advanced Drainage Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WMS.US&back=PRN
+PWR	Quanta Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=PRN
+WSC	WillScot Mobile Mini Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WSC.US&back=PRN
+CSL	Carlisle Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=PRN
+ADP	Automatic Data Processing Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=PRN
+BR	Broadridge Financial Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=PRN
+IEX	IDEX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=PRN
+FISV	Fiserv Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=PRN
+WM	Waste Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=PRN
+ROL	Rollins Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROL.US&back=PRN
+RSG	Republic Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=PRN
+KBR	KBR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KBR.US&back=PRN
+BAH	Booz Allen Hamilton Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=PRN
+ENVX	Enovix Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ENVX.US&back=PRN
+VRTV	Veritiv Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTV.US&back=PRN
+HRI	Herc Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HRI.US&back=PRN
+TDG	TransDigm Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=PRN
+STEM	Stem Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STEM.US&back=PRN
+TRTN	Triton International Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=TRTN.US&back=PRN
+ARCB	ArcBest Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCB.US&back=PRN
+INSW	International Seaways Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INSW.US&back=PRN
+NSP	Insperity Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NSP.US&back=PRN
+FIX	Comfort Systems USA Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FIX.US&back=PRN
+FLNC	Fluence Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLNC.US&back=PRN
+MYRG	MYR Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MYRG.US&back=PRN
+CBZ	CBIZ Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CBZ.US&back=PRN
+CSWI	CSW Industrials Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSWI.US&back=PRN
+RUSHA	Rush Enterprises Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RUSHA.US&back=PRN
+NVEE	NV5 Global Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NVEE.US&back=PRN
+ERII	Energy Recovery Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ERII.US&back=PRN
+	Invesco Government & Agency Portfolio	

@@ -1,0 +1,52 @@
+DDIV
+RITM	Rithm Capital Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=DDIV
+STWD	Starwood Property Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STWD.US&back=DDIV
+BXMT	Blackstone Mortgage Trust,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=BXMT.US&back=DDIV
+OKE	ONEOK,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=DDIV
+KMI	Kinder Morgan,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=DDIV
+SRC	Spirit Realty Capital,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=DDIV
+WMB	The Williams Companies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=DDIV
+DTM	DT Midstream,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=DDIV
+IRM	Iron Mountain Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=DDIV
+LAMR	Lamar Advertising Company	/etf/ea/ETZCW.djhtm?c=1&etfid=LAMR.US&back=DDIV
+BRX	Brixmor Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRX.US&back=DDIV
+VICI	VICI Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=DDIV
+LYB	LyondellBasell Industries N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=DDIV
+PRU	Prudential Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=DDIV
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=DDIV
+FE	FirstEnergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=DDIV
+UBSI	United Bankshares,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBSI.US&back=DDIV
+CUBE	CubeSmart	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBE.US&back=DDIV
+REG	Regency Centers Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=REG.US&back=DDIV
+AIRC	Apartment Income REIT Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=DDIV
+WHR	Whirlpool Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=DDIV
+PFG	Principal Financial Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=DDIV
+KIM	Kimco Realty Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=DDIV
+LSI	Life Storage,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=DDIV
+NRG	NRG Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=DDIV
+UNM	Unum Group	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=DDIV
+SNV	Synovus Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV.US&back=DDIV
+RF	Regions Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=DDIV
+CMA	Comerica Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=DDIV
+WSO	Watsco,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WSO.US&back=DDIV
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=DDIV
+EXR	Extra Space Storage Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=DDIV
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=DDIV
+VTR	Ventas,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=DDIV
+PKG	Packaging Corporation of America	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=DDIV
+CCI	Crown Castle Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=DDIV
+EMN	Eastman Chemical Company	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=DDIV
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=DDIV
+MET	MetLife,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=DDIV
+TPR	Tapestry,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=DDIV
+MTB	M&T Bank Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=DDIV
+OGN	Organon & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=DDIV
+AAP	Advance Auto Parts,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=DDIV
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=DDIV
+AXS	Axis Capital Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=AXS.US&back=DDIV
+NFG	National Fuel Gas Company	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=DDIV
+RYN	Rayonier Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=DDIV
+JNPR	Juniper Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=DDIV
+WELL	Welltower Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=DDIV
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=DDIV
+	US Dollar	

@@ -1,0 +1,126 @@
+IGE
+XOM	EXXON MOBIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=IGE
+CVX	CHEVRON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=IGE
+COP	CONOCOPHILLIPS	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=IGE
+ENB	ENBRIDGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=IGE
+EOG	EOG RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=IGE
+CNQ	CANADIAN NATURAL RESOURCES LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CNQ.US&back=IGE
+OXY	OCCIDENTAL PETROLEUM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=IGE
+PXD	PIONEER NATURAL RESOURCE	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=IGE
+MPC	MARATHON PETROLEUM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=IGE
+SLB	SCHLUMBERGER NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=IGE
+TRP	TC ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=IGE
+VLO	VALERO ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=IGE
+SU	SUNCOR ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SU.US&back=IGE
+DVN	DEVON ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=IGE
+PSX	PHILLIPS 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=IGE
+FCX	FREEPORT MCMORAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=IGE
+WMB	WILLIAMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=IGE
+LNG	CHENIERE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=IGE
+KMI	KINDER MORGAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=IGE
+HES	HESS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=IGE
+NEM	NEWMONT	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=IGE
+OKE	ONEOK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=IGE
+HAL	HALLIBURTON	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=IGE
+GOLD	BARRICK GOLD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GOLD.US&back=IGE
+CTRA	COTERRA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=IGE
+BKR	BAKER HUGHES CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=IGE
+CVE	CENOVUS ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVE.US&back=IGE
+FNV	FRANCO NEVADA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FNV.US&back=IGE
+FANG	DIAMONDBACK ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=IGE
+VMC	VULCAN MATERIALS	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=IGE
+MLM	MARTIN MARIETTA MATERIALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MLM.US&back=IGE
+PBA	PEMBINA PIPELINE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PBA.US&back=IGE
+AEM	AGNICO EAGLE MINES LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=AEM.US&back=IGE
+MRO	MARATHON OIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=IGE
+AMCR	AMCOR PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=IGE
+BALL	BALL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BALL.US&back=IGE
+TECK	TECK RESOURCES SUBORDINATE VOTING	/etf/ea/ETZCW.djhtm?c=1&etfid=TECK.US&back=IGE
+TRGP	TARGA RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=IGE
+IP	INTERNATIONAL PAPER	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=IGE
+AVY	AVERY DENNISON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=IGE
+EQT	EQT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=IGE
+WPM	WHEATON PRECIOUS METALS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WPM.US&back=IGE
+OVV	OVINTIV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=IGE
+APA	APA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=IGE
+PKG	PACKAGING CORP OF AMERICA	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=IGE
+CCJ	CAMECO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CCJ.US&back=IGE
+TPL	TEXAS PACIFIC LAND CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=IGE
+CHK	CHESAPEAKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=IGE
+AR	ANTERO RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=IGE
+CCK	CROWN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CCK.US&back=IGE
+WRK	WESTROCK	/etf/ea/ETZCW.djhtm?c=1&etfid=WRK.US&back=IGE
+AA	ALCOA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=IGE
+RRC	RANGE RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=IGE
+SWN	SOUTHWESTERN ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=IGE
+DINO	HF SINCLAIR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=IGE
+SEE	SEALED AIR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SEE.US&back=IGE
+BERY	BERRY GLOBAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BERY.US&back=IGE
+NOV	NOV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOV.US&back=IGE
+ATR	APTARGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATR.US&back=IGE
+MTDR	MATADOR RESOURCES	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=IGE
+PDCE	PDC ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=IGE
+GPK	GRAPHIC PACKAGING HOLDING	/etf/ea/ETZCW.djhtm?c=1&etfid=GPK.US&back=IGE
+SON	SONOCO PRODUCTS	/etf/ea/ETZCW.djhtm?c=1&etfid=SON.US&back=IGE
+RGLD	ROYAL GOLD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=IGE
+WFG	WEST FRASER TIMBER LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=WFG.US&back=IGE
+CHRD	CHORD ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=IGE
+MUR	MURPHY OIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MUR.US&back=IGE
+SM	SM ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=IGE
+DTM	DT MIDSTREAM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=IGE
+CIVI	CIVITAS RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=IGE
+EXP	EAGLE MATERIALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXP.US&back=IGE
+HP	HELMERICH & PAYNE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HP.US&back=IGE
+DEN	DENBURY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DEN.US&back=IGE
+LPX	LOUISIANA PACIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=IGE
+CHX	CHAMPIONX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHX.US&back=IGE
+VET	VERMILION ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VET.US&back=IGE
+KGC	KINROSS GOLD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KGC.US&back=IGE
+AUY	YAMANA GOLD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AUY.US&back=IGE
+CPG	CRESCENT POINT ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CPG.US&back=IGE
+CLR	CONTINENTAL RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=IGE
+CRC	CALIFORNIA RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CRC.US&back=IGE
+SLGN	SILGAN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SLGN.US&back=IGE
+ETRN	EQUITRANS MIDSTREAM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ETRN.US&back=IGE
+ERF	ENERPLUS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ERF.US&back=IGE
+MGY	MAGNOLIA OIL GAS CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=IGE
+FTI	TECHNIPFMC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=FTI.US&back=IGE
+CNX	CNX RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=IGE
+SUM	SUMMIT MATERIALS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SUM.US&back=IGE
+VAL	VALARIS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=VAL.US&back=IGE
+AM	ANTERO MIDSTREAM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AM.US&back=IGE
+PBF	PBF ENERGY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=IGE
+BTG	B2GOLD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BTG.US&back=IGE
+PTEN	PATTERSON UTI ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTEN.US&back=IGE
+KOS	KOSMOS ENERGY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=KOS.US&back=IGE
+PAAS	PAN AMERICAN SILVER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PAAS.US&back=IGE
+LAC	LITHIUM AMERICAS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LAC.US&back=IGE
+	BLK CSH FND TREASURY SL AGENCY	
+SSRM	SSR MINING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=IGE
+AGI	ALAMOS GOLD INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AGI.US&back=IGE
+TRQ	TURQUOISE HILL RESOURCES LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TRQ.US&back=IGE
+	USD CASH	
+ARNC	ARCONIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ARNC.US&back=IGE
+BTU	PEABODY ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BTU.US&back=IGE
+MP	MP MATERIALS CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MP.US&back=IGE
+WHD	CACTUS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=WHD.US&back=IGE
+NFE	NEW FORTRESS ENERGY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NFE.US&back=IGE
+RIG	TRANSOCEAN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RIG.US&back=IGE
+	CAD CASH	
+HL	HECLA MINING	/etf/ea/ETZCW.djhtm?c=1&etfid=HL.US&back=IGE
+NOG	NORTHERN OIL AND GAS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOG.US&back=IGE
+OI	O I GLASS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OI.US&back=IGE
+CPE	CALLON PETROLEUM	/etf/ea/ETZCW.djhtm?c=1&etfid=CPE.US&back=IGE
+EVA	ENVIVA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVA.US&back=IGE
+GEF	GREIF INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GEF.US&back=IGE
+CRK	COMSTOCK RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=IGE
+AG	FIRST MAJESTIC SILVER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AG.US&back=IGE
+LBRT	LIBERTY ENERGY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRT.US&back=IGE
+INT	WORLD FUEL SERVICES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INT.US&back=IGE
+NEX	NEXTIER OILFIELD SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEX.US&back=IGE
+CMP	COMPASS MINERALS INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CMP.US&back=IGE
+NG	NOVAGOLD RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NG.US&back=IGE
+EQX	EQUINOX GOLD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EQX.US&back=IGE
+CVI	CVR ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=IGE
+	CASH COLLATERAL USD SGAFT	
+PTVE	PACTIV EVERGREEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTVE.US&back=IGE

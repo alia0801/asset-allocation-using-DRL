@@ -1,0 +1,103 @@
+QQQ
+AAPL	Apple Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=QQQ
+MSFT	Microsoft Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=QQQ
+AMZN	Amazon.com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=QQQ
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=QQQ
+GOOG	Alphabet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=QQQ
+GOOGL	Alphabet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=QQQ
+META	Meta Platforms Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=QQQ
+NVDA	NVIDIA Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=QQQ
+PEP	PepsiCo Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=QQQ
+COST	Costco Wholesale Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=QQQ
+AVGO	Broadcom Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=QQQ
+TMUS	T-Mobile US Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=QQQ
+CSCO	Cisco Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=QQQ
+TXN	Texas Instruments Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=QQQ
+CMCSA	Comcast Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=QQQ
+ADBE	Adobe Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=QQQ
+QCOM	QUALCOMM Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=QQQ
+AMGN	Amgen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=QQQ
+HON	Honeywell International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=QQQ
+INTU	Intuit Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=QQQ
+INTC	Intel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=QQQ
+NFLX	Netflix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=QQQ
+AMD	Advanced Micro Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=QQQ
+PYPL	PayPal Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=QQQ
+SBUX	Starbucks Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=QQQ
+ADP	Automatic Data Processing Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=QQQ
+GILD	Gilead Sciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=QQQ
+MDLZ	Mondelez International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=QQQ
+VRTX	Vertex Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=QQQ
+REGN	Regeneron Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=QQQ
+ADI	Analog Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=QQQ
+AMAT	Applied Materials Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=QQQ
+ISRG	Intuitive Surgical Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=QQQ
+BKNG	Booking Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=QQQ
+FISV	Fiserv Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=QQQ
+ATVI	Activision Blizzard Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=QQQ
+CSX	CSX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=QQQ
+MU	Micron Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=QQQ
+KDP	Keurig Dr Pepper Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=QQQ
+LRCX	Lam Research Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=QQQ
+PANW	Palo Alto Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=QQQ
+CHTR	Charter Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=QQQ
+SNPS	Synopsys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=QQQ
+MRNA	Moderna Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=QQQ
+MNST	Monster Beverage Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=QQQ
+MAR	Marriott International Inc/MD	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=QQQ
+CDNS	Cadence Design Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=QQQ
+ORLY	O'Reilly Automotive Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=QQQ
+AEP	American Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=QQQ
+KLAC	KLA Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=QQQ
+ABNB	Airbnb Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=QQQ
+MELI	MercadoLibre Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MELI.US&back=QQQ
+KHC	Kraft Heinz Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=QQQ
+ADSK	Autodesk Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=QQQ
+PAYX	Paychex Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=QQQ
+CTAS	Cintas Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=QQQ
+BIIB	Biogen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=QQQ
+FTNT	Fortinet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=QQQ
+NXPI	NXP Semiconductors NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=QQQ
+EXC	Exelon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=QQQ
+MRVL	Marvell Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=QQQ
+ASML	ASML Holding NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=QQQ
+CRWD	Crowdstrike Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=QQQ
+XEL	Xcel Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=QQQ
+LULU	Lululemon Athletica Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=QQQ
+MCHP	Microchip Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=QQQ
+AZN	AstraZeneca PLC ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=QQQ
+EA	Electronic Arts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=QQQ
+DXCM	Dexcom Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=QQQ
+WDAY	Workday Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=QQQ
+TEAM	Atlassian Corp PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=TEAM.US&back=QQQ
+DLTR	Dollar Tree Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=QQQ
+ILMN	Illumina Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=QQQ
+CTSH	Cognizant Technology Solutions Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=QQQ
+ROST	Ross Stores Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=QQQ
+PDD	Pinduoduo Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PDD.US&back=QQQ
+PCAR	PACCAR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=QQQ
+ODFL	Old Dominion Freight Line Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=QQQ
+WBA	Walgreens Boots Alliance Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=QQQ
+CEG	Constellation Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=QQQ
+IDXX	IDEXX Laboratories Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=QQQ
+VRSK	Verisk Analytics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=QQQ
+FAST	Fastenal Co	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=QQQ
+DDOG	Datadog Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=QQQ
+JD	JD.com Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=JD.US&back=QQQ
+CPRT	Copart Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRT.US&back=QQQ
+SGEN	Seagen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=QQQ
+LCID	Lucid Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LCID.US&back=QQQ
+ZS	Zscaler Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=QQQ
+SIRI	Sirius XM Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=QQQ
+BIDU	Baidu Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BIDU.US&back=QQQ
+EBAY	eBay Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=QQQ
+ANSS	ANSYS Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=QQQ
+VRSN	VeriSign Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=QQQ
+ZM	Zoom Video Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=QQQ
+ALGN	Align Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=QQQ
+SWKS	Skyworks Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=QQQ
+MTCH	Match Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MTCH.US&back=QQQ
+SPLK	Splunk Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=QQQ
+NTES	NetEase Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NTES.US&back=QQQ
+DOCU	DocuSign Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCU.US&back=QQQ
+OKTA	Okta Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=QQQ

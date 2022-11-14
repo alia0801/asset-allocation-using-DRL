@@ -1,0 +1,89 @@
+PSCI
+EXPO	Exponent Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPO.US&back=PSCI
+UFPI	UFP Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UFPI.US&back=PSCI
+AIT	Applied Industrial Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AIT.US&back=PSCI
+FIX	Comfort Systems USA Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FIX.US&back=PSCI
+MLI	Mueller Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MLI.US&back=PSCI
+FELE	Franklin Electric Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FELE.US&back=PSCI
+AJRD	Aerojet Rocketdyne Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AJRD.US&back=PSCI
+REZI	Resideo Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REZI.US&back=PSCI
+ACA	Arcosa Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ACA.US&back=PSCI
+JBT	John Bean Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=JBT.US&back=PSCI
+KFY	Korn Ferry	/etf/ea/ETZCW.djhtm?c=1&etfid=KFY.US&back=PSCI
+ABM	ABM Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABM.US&back=PSCI
+HI	Hillenbrand Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HI.US&back=PSCI
+UNF	UniFirst Corp/MA	/etf/ea/ETZCW.djhtm?c=1&etfid=UNF.US&back=PSCI
+SPXC	SPX Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPXC.US&back=PSCI
+AAWW	Atlas Air Worldwide Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAWW.US&back=PSCI
+AIN	Albany International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AIN.US&back=PSCI
+FWRD	Forward Air Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FWRD.US&back=PSCI
+MATX	Matson Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MATX.US&back=PSCI
+HUBG	Hub Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBG.US&back=PSCI
+BCC	Boise Cascade Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BCC.US&back=PSCI
+FSS	Federal Signal Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FSS.US&back=PSCI
+AAON	AAON Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAON.US&back=PSCI
+WIRE	Encore Wire Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WIRE.US&back=PSCI
+AVAV	AeroVironment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVAV.US&back=PSCI
+MOG.A	Moog Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MOG.A.US&back=PSCI
+BRC	Brady Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BRC.US&back=PSCI
+ESE	ESCO Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESE.US&back=PSCI
+ARCB	ArcBest Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCB.US&back=PSCI
+NPO	EnPro Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NPO.US&back=PSCI
+TRN	Trinity Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TRN.US&back=PSCI
+GMS	GMS Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GMS.US&back=PSCI
+LNN	Lindsay Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LNN.US&back=PSCI
+NVEE	NV5 Global Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NVEE.US&back=PSCI
+B	Barnes Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=B.US&back=PSCI
+MYRG	MYR Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MYRG.US&back=PSCI
+GFF	Griffon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GFF.US&back=PSCI
+VRTV	Veritiv Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTV.US&back=PSCI
+KAR	KAR Auction Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KAR.US&back=PSCI
+ROCK	Gibraltar Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROCK.US&back=PSCI
+ALG	Alamo Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALG.US&back=PSCI
+PGTI	PGT Innovations Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PGTI.US&back=PSCI
+AIR	AAR Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AIR.US&back=PSCI
+ALGT	Allegiant Travel Co	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGT.US&back=PSCI
+GVA	Granite Construction Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GVA.US&back=PSCI
+DNOW	NOW Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DNOW.US&back=PSCI
+MRTN	Marten Transport Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=MRTN.US&back=PSCI
+HNI	HNI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HNI.US&back=PSCI
+TNC	Tennant Co	/etf/ea/ETZCW.djhtm?c=1&etfid=TNC.US&back=PSCI
+CXW	CoreCivic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CXW.US&back=PSCI
+DDD	3D Systems Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DDD.US&back=PSCI
+EPAC	Enerpac Tool Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAC.US&back=PSCI
+PRLB	Proto Labs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRLB.US&back=PSCI
+SXI	Standex International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SXI.US&back=PSCI
+GEO	GEO Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=GEO.US&back=PSCI
+AZZ	AZZ Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AZZ.US&back=PSCI
+HCSG	Healthcare Services Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HCSG.US&back=PSCI
+APOG	Apogee Enterprises Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=APOG.US&back=PSCI
+SKYW	SkyWest Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SKYW.US&back=PSCI
+GBX	Greenbrier Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=GBX.US&back=PSCI
+KAMN	Kaman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KAMN.US&back=PSCI
+WNC	Wabash National Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WNC.US&back=PSCI
+AMWD	American Woodmark Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AMWD.US&back=PSCI
+DLX	Deluxe Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DLX.US&back=PSCI
+ASTE	Astec Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ASTE.US&back=PSCI
+MATW	Matthews International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MATW.US&back=PSCI
+HA	Hawaiian Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HA.US&back=PSCI
+HTLD	Heartland Express Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HTLD.US&back=PSCI
+VVI	Viad Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VVI.US&back=PSCI
+TBI	TrueBlue Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TBI.US&back=PSCI
+TWI	Titan International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TWI.US&back=PSCI
+NX	Quanex Building Products Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NX.US&back=PSCI
+RGP	Resources Connection Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RGP.US&back=PSCI
+TGI	Triumph Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TGI.US&back=PSCI
+TILE	Interface Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TILE.US&back=PSCI
+IIIN	Insteel Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IIIN.US&back=PSCI
+HSII	Heidrick & Struggles International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HSII.US&back=PSCI
+KELYA	Kelly Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KELYA.US&back=PSCI
+SNCY	Sun Country Airlines Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNCY.US&back=PSCI
+FORR	Forrester Research Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FORR.US&back=PSCI
+PBI	Pitney Bowes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PBI.US&back=PSCI
+DXPE	DXP Enterprises Inc/TX	/etf/ea/ETZCW.djhtm?c=1&etfid=DXPE.US&back=PSCI
+CIR	CIRCOR International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CIR.US&back=PSCI
+NPK	National Presto Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NPK.US&back=PSCI
+HSC	Harsco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HSC.US&back=PSCI
+PKE	Park Aerospace Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PKE.US&back=PSCI
+POWL	Powell Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=POWL.US&back=PSCI
+	Invesco Government & Agency Portfolio	

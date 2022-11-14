@@ -1,0 +1,47 @@
+XTL
+CALX	Calix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CALX.US&back=XTL
+COMM	CommScope Holding Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COMM.US&back=XTL
+ANET	Arista Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=XTL
+IRDM	Iridium Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IRDM.US&back=XTL
+UI	Ubiquiti Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UI.US&back=XTL
+MSI	Motorola Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=XTL
+EXTR	Extreme Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXTR.US&back=XTL
+CIEN	Ciena Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=XTL
+TMUS	T-Mobile US Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=XTL
+VSAT	ViaSat Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VSAT.US&back=XTL
+FYBR	Frontier Communications Parent Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FYBR.US&back=XTL
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=XTL
+TDS	Telephone and Data Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS.US&back=XTL
+LITE	Lumentum Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=XTL
+FFIV	F5 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=XTL
+VIAV	Viavi Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VIAV.US&back=XTL
+JNPR	Juniper Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=XTL
+INFN	Infinera Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INFN.US&back=XTL
+LBTYK	Liberty Global Plc Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBTYK.US&back=XTL
+CCOI	Cogent Communications Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCOI.US&back=XTL
+LUMN	Lumen Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=XTL
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=XTL
+CLFD	Clearfield Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLFD.US&back=XTL
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=XTL
+BAND	Bandwidth Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BAND.US&back=XTL
+GOGO	Gogo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GOGO.US&back=XTL
+NTCT	NetScout Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTCT.US&back=XTL
+RADI	Radius Global Infrastructure Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RADI.US&back=XTL
+LILAK	Liberty Latin America Ltd. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=LILAK.US&back=XTL
+ADTN	ADTRAN Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADTN.US&back=XTL
+GSAT	Globalstar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GSAT.US&back=XTL
+SATS	EchoStar Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SATS.US&back=XTL
+NTGR	NETGEAR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTGR.US&back=XTL
+HLIT	Harmonic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HLIT.US&back=XTL
+SHEN	Shenandoah Telecommunications Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SHEN.US&back=XTL
+IDT	IDT Corporation Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=IDT.US&back=XTL
+ATEX	Anterix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATEX.US&back=XTL
+DGII	Digi International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DGII.US&back=XTL
+USM	United States Cellular Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=USM.US&back=XTL
+CMTL	Comtech Telecommunications Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMTL.US&back=XTL
+CNSL	Consolidated Communications Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNSL.US&back=XTL
+ATNI	ATN International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATNI.US&back=XTL
+RBBN	Ribbon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RBBN.US&back=XTL
+OOMA	Ooma Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OOMA.US&back=XTL
+	STATE STREET INSTITUTIONAL LIQ STATE STR	
+	U.S. Dollar	

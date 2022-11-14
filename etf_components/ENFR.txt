@@ -1,0 +1,32 @@
+ENFR
+	Enbridge Inc.	
+EPD	Enterprise Products Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=ENFR
+ET	Energy Transfer LP	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=ENFR
+LNG	Cheniere Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=ENFR
+	TC Energy Corp.	
+KMI	Kinder Morgan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=ENFR
+PAGP	Plains GP Holdings LP	/etf/ea/ETZCW.djhtm?c=1&etfid=PAGP.US&back=ENFR
+WMB	The Williams Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=ENFR
+	Pembina Pipeline Corp.	
+TRGP	Targa Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=ENFR
+DTM	DT Midstream Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=ENFR
+OKE	ONEOK Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=ENFR
+	Keyera Corp.	
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=ENFR
+ETRN	Equitrans Midstream Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ETRN.US&back=ENFR
+MMP	Magellan Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=ENFR
+AM	Antero Midstream Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AM.US&back=ENFR
+ENLC	EnLink Midstream LLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENLC.US&back=ENFR
+	Gibson Energy Inc.	
+WES	Western Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=ENFR
+TELL	Tellurian Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TELL.US&back=ENFR
+HESM	Hess Midstream LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=ENFR
+CEQP	Crestwood Equity Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=ENFR
+SHLX	Shell Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLX.US&back=ENFR
+KNTK	Kinetik Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KNTK.US&back=ENFR
+NS	NuStar Energy LP	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=ENFR
+	Cash and Equivalents	
+GEL	Genesis Energy LP	/etf/ea/ETZCW.djhtm?c=1&etfid=GEL.US&back=ENFR
+HEP	Holly Energy Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=ENFR
+NEXT	NextDecade Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEXT.US&back=ENFR
+DKL	Delek Logistics Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DKL.US&back=ENFR

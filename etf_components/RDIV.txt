@@ -1,0 +1,61 @@
+RDIV
+CAH	Cardinal Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=RDIV
+VLO	Valero Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=RDIV
+CVX	Chevron Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=RDIV
+GILD	Gilead Sciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=RDIV
+ABBV	AbbVie Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=RDIV
+PRU	Prudential Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=RDIV
+MMM	3M Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=RDIV
+WBA	Walgreens Boots Alliance Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=RDIV
+C	Citigroup Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=RDIV
+DUK	Duke Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=RDIV
+SO	Southern Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=RDIV
+PFG	Principal Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=RDIV
+IP	International Paper Co	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=RDIV
+UNM	Unum Group	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=RDIV
+GPS	Gap Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=GPS.US&back=RDIV
+K	Kellogg Co	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=RDIV
+OMC	Omnicom Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=RDIV
+ED	Consolidated Edison Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=RDIV
+AMCR	Amcor PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=RDIV
+CAG	Conagra Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=RDIV
+FE	FirstEnergy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=RDIV
+ETR	Entergy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=RDIV
+ORI	Old Republic International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=RDIV
+BEN	Franklin Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=RDIV
+NWL	Newell Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=RDIV
+KEY	KeyCorp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=RDIV
+CFG	Citizens Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=RDIV
+HRB	H&R Block Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HRB.US&back=RDIV
+LEG	Leggett & Platt Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LEG.US&back=RDIV
+HBI	Hanesbrands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HBI.US&back=RDIV
+PNW	Pinnacle West Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=RDIV
+MSM	MSC Industrial Direct Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MSM.US&back=RDIV
+NAVI	Navient Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NAVI.US&back=RDIV
+ENR	Energizer Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENR.US&back=RDIV
+BXP	Boston Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BXP.US&back=RDIV
+OGE	OGE Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=RDIV
+JHG	Janus Henderson Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JHG.US&back=RDIV
+O	Realty Income Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=RDIV
+SR	Spire Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SR.US&back=RDIV
+PEAK	Healthpeak Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=RDIV
+LAMR	Lamar Advertising Co	/etf/ea/ETZCW.djhtm?c=1&etfid=LAMR.US&back=RDIV
+VLY	Valley National Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=VLY.US&back=RDIV
+FNB	FNB Corp/PA	/etf/ea/ETZCW.djhtm?c=1&etfid=FNB.US&back=RDIV
+UMPQ	Umpqua Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UMPQ.US&back=RDIV
+ALE	ALLETE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALE.US&back=RDIV
+NWE	NorthWestern Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NWE.US&back=RDIV
+ASB	Associated Banc-Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ASB.US&back=RDIV
+REG	Regency Centers Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=REG.US&back=RDIV
+BRX	Brixmor Property Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRX.US&back=RDIV
+FULT	Fulton Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FULT.US&back=RDIV
+FRT	Federal Realty Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT.US&back=RDIV
+DEI	Douglas Emmett Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DEI.US&back=RDIV
+MAC	Macerich Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=MAC.US&back=RDIV
+HR	Healthcare Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HR.US&back=RDIV
+NNN	National Retail Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=RDIV
+OFC	Corporate Office Properties Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=OFC.US&back=RDIV
+KRG	Kite Realty Group Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=KRG.US&back=RDIV
+EPR	EPR Properties	/etf/ea/ETZCW.djhtm?c=1&etfid=EPR.US&back=RDIV
+	Invesco Government & Agency Portfolio	
+	Cash/Receivables/Payables	

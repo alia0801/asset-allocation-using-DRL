@@ -1,0 +1,48 @@
+PFI
+MA	Mastercard Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=PFI
+PGR	Progressive Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=PFI
+LPLA	LPL Financial Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LPLA.US&back=PFI
+ELS	Equity LifeStyle Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ELS.US&back=PFI
+AMP	Ameriprise Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=PFI
+V	Visa Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=PFI
+ARES	Ares Management Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ARES.US&back=PFI
+NDAQ	Nasdaq Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NDAQ.US&back=PFI
+AJG	Arthur J Gallagher & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=PFI
+KNSL	Kinsale Capital Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KNSL.US&back=PFI
+CUBE	CubeSmart	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBE.US&back=PFI
+RJF	Raymond James Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=PFI
+MMC	Marsh & McLennan Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=PFI
+BRO	Brown & Brown Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=PFI
+AON	Aon PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=PFI
+WRB	W R Berkley Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=PFI
+UNM	Unum Group	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=PFI
+GL	Globe Life Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GL.US&back=PFI
+COOP	Mr Cooper Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COOP.US&back=PFI
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=PFI
+LSI	Life Storage Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=PFI
+AXP	American Express Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=PFI
+FR	First Industrial Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FR.US&back=PFI
+FCNCA	First Citizens BancShares Inc/NC	/etf/ea/ETZCW.djhtm?c=1&etfid=FCNCA.US&back=PFI
+FDS	FactSet Research Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=PFI
+FBP	First BanCorp/Puerto Rico	/etf/ea/ETZCW.djhtm?c=1&etfid=FBP.US&back=PFI
+AFG	American Financial Group Inc/OH	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=PFI
+RHP	Ryman Hospitality Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RHP.US&back=PFI
+DFIN	Donnelley Financial Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DFIN.US&back=PFI
+ABCB	Ameris Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=ABCB.US&back=PFI
+SFBS	ServisFirst Bancshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SFBS.US&back=PFI
+WTFC	Wintrust Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFC.US&back=PFI
+BANF	BancFirst Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BANF.US&back=PFI
+BPOP	Popular Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BPOP.US&back=PFI
+HWC	Hancock Whitney Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HWC.US&back=PFI
+ABR	Arbor Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABR.US&back=PFI
+RC	Ready Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RC.US&back=PFI
+FRME	First Merchants Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FRME.US&back=PFI
+SYBT	Stock Yards Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SYBT.US&back=PFI
+LKFN	Lakeland Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LKFN.US&back=PFI
+OFG	OFG Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=OFG.US&back=PFI
+PLMR	Palomar Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLMR.US&back=PFI
+IMXI	International Money Express Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IMXI.US&back=PFI
+FPI	Farmland Partners Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FPI.US&back=PFI
+SKT	Tanger Factory Outlet Centers Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SKT.US&back=PFI
+EFC	Ellington Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EFC.US&back=PFI
+	Invesco Government & Agency Portfolio	

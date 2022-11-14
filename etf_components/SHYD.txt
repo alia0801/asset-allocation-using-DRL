@@ -1,0 +1,649 @@
+SHYD
+	Commonwealth Of Puerto Rico 5.375 07/01/2025	
+	New York Transportation Development Cor 5 01/01/2031	
+	Commonwealth Of Puerto Rico 5.625 07/01/2029	
+	California Municipal Finance Authority 4 07/15/2029	
+	Chicago Board Of Education 5 12/01/2031	
+	Puerto Rico Commonwealth Aqueduct & Sew 5 07/01/2030	
+	Louisiana Local Government Environmenta 3.5 11/01/2032	
+	City Of Houston Tx Airport System Reven 5 07/15/2027	
+	Florida Development Finance Corp 6.375 01/01/2049	
+	Florida Development Finance Corp 6.5 01/01/2049	
+	New York State Dormitory Authority 5 08/01/2031	
+	City Of Houston Tx Airport System Reven 5 07/01/2029	
+	Calhoun County Navigation Industrial De 3.625 07/01/2026	
+	Commonwealth Of Puerto Rico 5.75 07/01/2031	
+	Tuscaloosa County Industrial Developmen 4.5 05/01/2032	
+	Washington State Convention Center Publ 4 07/01/2031	
+	Chicago Board Of Education 5 12/01/2030	
+	State Of Illinois 6 11/01/2026	
+	Chicago Board Of Education 5 12/01/2031	
+	Chicago Board Of Education 5 12/01/2032	
+	Central Texas Regional Mobility Authori 5 01/01/2027	
+	Arkansas Development Finance Authority 5 09/01/2044	
+	Chicago Board Of Education 5 12/01/2032	
+	Puerto Rico Commonwealth Aqueduct & Sew 5 07/01/2033	
+	North Carolina Turnpike Authority 5 02/01/2024	
+	Polk County Industrial Development Auth 5.875 01/01/2033	
+	New Jersey Economic Development Authori 5.25 09/15/2029	
+	California Pollution Control Financing 3.625 07/01/2027	
+	Tobacco Settlement Financing Corp 5 06/01/2023	
+	Indiana Finance Authority 4.125 12/01/2026	
+	New York Transportation Development Cor 4 10/01/2030	
+	New York Transportation Development Cor 5 08/01/2031	
+	Pefa Inc 5 09/01/2049	
+	Florida Development Finance Corp 6.25 01/01/2049	
+	California Housing Finance Agency 4 03/20/2033	
+	Ohio Air Quality Development Authority 3.25 09/01/2029	
+	New York Transportation Development Cor 3 08/01/2031	
+	Brooklyn Arena Local Development Corp 5 07/15/2030	
+	County Of Grand Forks Nd 6.625 12/15/2031	
+	Commonwealth Of Puerto Rico 4 07/01/2033	
+	Public Finance Authority 5 12/01/2027	
+	State Of New Jersey 2 06/01/2030	
+	State Of Illinois 3.5 06/01/2031	
+	Dauphin County General Authority 4.25 10/15/2026	
+	Brooklyn Arena Local Development Corp 5 07/15/2024	
+	Allentown Neighborhood Improvement Zone 5 05/01/2028	
+	Tennergy Corp/Tn 4 12/01/2051	
+	Kansas City Land Clearance Redevelopmen 4.375 02/01/2031	
+	Parish Of St James La 6.1 06/01/2038	
+	New Jersey Economic Development Authori 5 03/01/2027	
+	City Of Chicago Il 5 01/01/2030	
+	Chicago Board Of Education 5 12/01/2033	
+	Roanoke County Economic Development Aut 4.75 09/01/2029	
+	Tulsa Airports Improvement Trust 5 06/01/2035	
+	Wayne County Airport Authority 5 12/01/2027	
+	City Of Houston Tx Airport System Reven 5 07/15/2028	
+	Chicago Board Of Education 5 12/01/2033	
+	State Of Hawaii Department Of Budget & 3.1 05/01/2026	
+	State Of Illinois 5 11/01/2026	
+	New Jersey Economic Development Authori 5 03/01/2026	
+	Niagara Area Development Corp 3.5 11/01/2024	
+	New Jersey Transportation Trust Fund Au 5 06/15/2032	
+	California Municipal Finance Authority 5 05/15/2030	
+	California Health Facilities Financing 5 04/01/2032	
+	Berks County Municipal Authority/The 5 02/01/2040	
+	California Public Finance Authority 3.125 05/15/2029	
+	Capital Trust Agency Inc 3.375 07/01/2031	
+	City Of Farmington Nm 2.15 04/01/2033	
+	Clifton Higher Education Finance Corp 6 03/01/2029	
+	State Of Illinois 5 12/01/2025	
+	Puerto Rico Sales Tax Financing Corp Sa 0 07/01/2031	
+	State Of Illinois 5 11/01/2025	
+	George L Smith Ii Congress Center Autho 2.375 01/01/2031	
+	Chicago Board Of Education 5 12/01/2030	
+	Chicago Board Of Education 5 12/01/2029	
+	Allentown Neighborhood Improvement Zone 5 05/01/2027	
+	Northern California Energy Authority 4 07/01/2049	
+	Roanoke Economic Development Authority 4.3 09/01/2030	
+	New Jersey Transportation Trust Fund Au 5 06/15/2031	
+	Austin Convention Enterprises Inc 5 01/01/2033	
+	Austin Convention Enterprises Inc 5 01/01/2032	
+	Build Nyc Resource Corp 5 12/31/2028	
+	Chicago Board Of Education 0 12/01/2028	
+	Dominion Water & Sanitation District 5.25 12/01/2027	
+	State Of Illinois 5 11/01/2027	
+	Trust For Cultural Resources Of The Cit 5 12/01/2031	
+	State Of Illinois Sales Tax Revenue 5 06/15/2031	
+	Puerto Rico Highway & Transportation Au 5.25 07/01/2032	
+	New Jersey Transportation Trust Fund Au 5 06/15/2033	
+	New Jersey Transportation Trust Fund Au 5 12/15/2026	
+	New Jersey Transportation Trust Fund Au 5.25 06/15/2032	
+	New Jersey Economic Development Authori 2.05 10/01/2039	
+	Geisinger Authority 5 04/01/2043	
+	City Of Salt Lake City Ut Airport Reven 5 07/01/2031	
+	City Of Chicago Il 5 01/01/2025	
+	Chicago Board Of Education 5 12/01/2030	
+	Chicago Transit Authority Capital Grant 5 06/01/2025	
+	Chicago Transit Authority Capital Grant 5 06/01/2025	
+	Chicago Board Of Education 5 12/01/2029	
+	Calcasieu Parish Memorial Hospital Serv 5 12/01/2027	
+	Commonwealth Of Puerto Rico 5.625 07/01/2027	
+	Great Lakes Water Authority Water Suppl 5 07/01/2031	
+	Harbor Point Infrastructure Improvement 5 04/01/2030	
+	Matching Fund Special Purpose Securitiz 5 10/01/2032	
+	New Jersey Economic Development Authori 5 07/01/2033	
+	State Of Illinois 5 10/01/2032	
+	San Francisco Community College Distric 5 06/15/2025	
+	Territory Of Guam 5 01/01/2030	
+	Territory Of Guam 5 01/01/2031	
+	Territory Of Guam 5 12/01/2024	
+	Tennessee Energy Acquisition Corp 5 05/01/2052	
+	Southeast Alabama Gas Supply District/T 4 04/01/2049	
+	Southern Ohio Port Authority 10 12/01/2027	
+	State Of Florida Department Of Transpor 5 07/01/2023	
+	State Of Illinois Sales Tax Revenue 4 06/15/2030	
+	Puerto Rico Commonwealth Aqueduct & Sew 5 07/01/2028	
+	Public Finance Authority 2.625 11/01/2025	
+	Public Finance Authority 4.3 11/01/2030	
+	New Jersey Economic Development Authori 5.625 11/15/2030	
+	New York State Dormitory Authority 5 09/01/2027	
+	New York State Dormitory Authority 5 08/01/2029	
+	Michigan Finance Authority 6.25 07/01/2029	
+	Mission Economic Development Corp 4.625 10/01/2031	
+	Montgomery County Industrial Developmen 4 01/01/2025	
+	District Of Columbia 4.125 07/01/2027	
+	City Of Houston Tx Airport System Reven 5 07/15/2027	
+	California Community Choice Financing A 4 10/01/2052	
+	Arizona Industrial Development Authorit 6.75 07/01/2030	
+	Arizona Industrial Development Authorit 5 06/01/2031	
+	Chicago Board Of Education 5 12/01/2030	
+	Chicago Board Of Education 5 12/01/2024	
+	Capital Trust Agency Inc 4.375 06/15/2027	
+	Capital Trust Agency Inc 4.5 06/15/2028	
+	City & County Of Denver Co 5 10/01/2032	
+	Berks County Industrial Development Aut 5 11/01/2024	
+	Berks County Industrial Development Aut 5 11/01/2025	
+	City Of Houston Tx Airport System Reven 5 07/15/2030	
+	Development Authority Of Burke County/T 3.25 11/01/2045	
+	Compton Public Finance Authority 4.5 09/01/2032	
+	County Of Cuyahoga Oh 5 05/15/2032	
+	Duluth Economic Development Authority 4 07/01/2031	
+	Iowa Finance Authority 4 12/01/2050	
+	Huntington Local Development Corp 4 07/01/2027	
+	Love Field Airport Modernization Corp 5 11/01/2028	
+	Lower Alabama Gas District/The 4 12/01/2050	
+	Main Street Natural Gas Inc 4 03/01/2050	
+	Main Street Natural Gas Inc 4 08/01/2052	
+	New York State Dormitory Authority 5 08/01/2030	
+	Oklahoma Development Finance Authority 5 08/15/2026	
+	Puerto Rico Sales Tax Financing Corp Sa 0 07/01/2029	
+	Syracuse Industrial Development Agency 5 01/01/2029	
+	Sumter County Industrial Development Au 6 07/15/2052	
+	West Virginia Economic Development Auth 4.125 07/01/2045	
+	Washington State Convention Center Publ 4 07/01/2032	
+	Virgin Islands Public Finance Authority 5 10/01/2030	
+	Transport Metropolitan District No 3 4.125 12/01/2031	
+	Rhode Island Health And Educational Bui 5 09/01/2031	
+	New Jersey Transportation Trust Fund Au 5 12/15/2028	
+	New Hope Cultural Education Facilities 4 08/15/2030	
+	Iowa Higher Education Loan Authority 4 10/01/2025	
+	City Of Coralville Ia 4 06/01/2029	
+	Allentown Neighborhood Improvement Zone 5 05/01/2028	
+	California Pollution Control Financing 7.5 07/01/2032	
+	Indiana Finance Authority 3 11/01/2030	
+	Delaware State Economic Development Aut 1.25 10/01/2045	
+	Colorado Health Facilities Authority 3.5 05/15/2030	
+	City Of Sparks Nv 2.75 06/15/2028	
+	New Hope Cultural Education Facilities 5 11/15/2031	
+	Monroe County Industrial Development Co 4 01/01/2030	
+	New Hope Cultural Education Facilities 4 07/01/2028	
+	Maryland Economic Development Corp 3.25 09/01/2030	
+	New York Transportation Development Cor 5.25 08/01/2031	
+	New Jersey Transportation Trust Fund Au 5 06/15/2027	
+	South Carolina Jobs-Economic Developmen 6 06/01/2031	
+	Windler Public Improvement Authority 4 12/01/2031	
+	City Of Pompano Beach Fl 2 01/01/2029	
+	Illinois Finance Authority 4 07/01/2031	
+	Illinois Finance Authority 5 02/15/2027	
+	Illinois Municipal Electric Agency 5 02/01/2026	
+	County Of Miami-Dade Fl Aviation Revenu 5 10/01/2030	
+	Central Texas Regional Mobility Authori 5 01/01/2032	
+	South Carolina Ports Authority 5.25 07/01/2055	
+	State Of Illinois Sales Tax Revenue 4 06/15/2027	
+	Public Finance Authority 3.75 02/01/2032	
+	New York Transportation Development Cor 5 01/01/2029	
+	New York Transportation Development Cor 5 01/01/2030	
+	Klickitat County Public Hospital Distri 4 12/01/2027	
+	New York Transportation Development Cor 2.25 08/01/2026	
+	Puerto Rico Municipal Finance Agency 5 08/01/2030	
+	Chicago Midway International Airport 5 01/01/2030	
+	Albemarle County Economic Development A 4.625 01/01/2032	
+	Fulton County Industrial Development Au 4 07/01/2028	
+	Utah Charter School Finance Authority 4.5 06/15/2027	
+	Virginia College Building Authority 5.25 07/01/2030	
+	Pennsylvania Turnpike Commission 6 12/01/2030	
+	State Of Illinois 5 11/01/2024	
+	New Jersey Transportation Trust Fund Au 5 12/15/2023	
+	New Jersey Economic Development Authori 4 06/15/2029	
+	New Jersey Economic Development Authori 4 07/01/2032	
+	Maryland Economic Development Corp 5.75 09/01/2025	
+	New Jersey Economic Development Authori 5 06/15/2028	
+	Other/Cash	
+	Berks County Municipal Authority/The 5 02/01/2030	
+	Tobacco Settlement Financing Corp 5 06/01/2030	
+	Tobacco Settlement Financing Corp 5 06/01/2028	
+	Syracuse Industrial Development Agency 5 01/01/2028	
+	Town Of Oyster Bay Ny 3.25 02/01/2029	
+	California Municipal Finance Authority 5 06/30/2027	
+	City Of Austin Tx Airport System Revenu 5 11/15/2025	
+	Kentucky State Property & Building Comm 5 11/01/2025	
+	County Of Ohio Wv 4.75 06/01/2031	
+	City Of Orlando Fl Tourist Development 5 11/01/2027	
+	New Jersey Economic Development Authori 5.125 09/15/2023	
+	Minneapolis-St Paul Metropolitan Airpor 5 01/01/2025	
+	Louisiana Local Government Environmenta 5.5 11/15/2025	
+	New York Transportation Development Cor 5 08/01/2026	
+	State Of Illinois 5 02/01/2029	
+	State Of Illinois 5 09/01/2027	
+	Denver Convention Center Hotel Authorit 5 12/01/2027	
+	Kentucky Asset Liability Commission 5 09/01/2023	
+	Florida Development Finance Corp 5 06/01/2031	
+	Chicago Board Of Education 0 12/01/2028	
+	Virginia Small Business Financing Autho 4 01/01/2031	
+	Virgin Islands Water & Power Authority 5 07/01/2027	
+	Central Florida Expressway Authority 5 07/01/2033	
+	Chicago Transit Authority Capital Grant 5 06/01/2026	
+	California Pollution Control Financing 7 07/01/2023	
+	Build Nyc Resource Corp 4 06/01/2031	
+	American Municipal Power Inc 5 02/15/2029	
+	Antelope Valley Healthcare District 5 03/01/2026	
+	Fountain Urban Renewal Authority 4.5 11/01/2029	
+	Illinois Sports Facilities Authority/Th 5 06/15/2029	
+	County Of Santa Barbara Ca 5 12/01/2030	
+	City Of Orlando Fl Tourist Development 5 11/01/2028	
+	City Of Shreveport La Water & Sewer Rev 5 12/01/2026	
+	Clark County School District 5 06/15/2031	
+	Springfield School District No R-12 4.625 11/01/2030	
+	Philadelphia Authority For Industrial D 4 06/01/2031	
+	New York State Environmental Facilities 2.75 09/01/2050	
+	Metropolitan Transportation Authority 5 11/15/2030	
+	Metropolitan Transportation Authority 5 11/15/2031	
+	Monroe County Industrial Development Co 5 12/01/2031	
+	Massachusetts Development Finance Agenc 5 07/01/2028	
+	Metropolitan Pier & Exposition Authorit 5 12/15/2028	
+	New Jersey Transportation Trust Fund Au 5 12/15/2024	
+	New Jersey Transportation Trust Fund Au 5 12/15/2025	
+	New Jersey Transportation Trust Fund Au 5.25 12/15/2023	
+	New Jersey Turnpike Authority 5.25 01/01/2026	
+	New York Convention Center Development 5 11/15/2026	
+	New Jersey Economic Development Authori 5 06/15/2031	
+	New Jersey Transportation Trust Fund Au 5 06/15/2031	
+	New Jersey Transportation Trust Fund Au 5 06/15/2031	
+	Port Authority Of New York & New Jersey 3 10/01/2028	
+	Port Authority Of New York & New Jersey 5 10/15/2030	
+	North Carolina Turnpike Authority 5 01/01/2032	
+	River Islands Public Financing Authorit 5 09/01/2034	
+	Public Finance Authority 4.1 06/15/2026	
+	State Of Illinois 5 02/01/2026	
+	State Of Illinois 5 02/01/2027	
+	South Carolina Public Service Authority 5 12/01/2031	
+	San Francisco City & County Airport Com 5 05/01/2026	
+	San Francisco City & County Airport Com 5 05/01/2027	
+	San Francisco City & County Airport Com 5 05/01/2029	
+	State Of Illinois 5 10/01/2028	
+	State Of Illinois 5 03/01/2029	
+	State Of Illinois 5 03/01/2030	
+	State Of New Jersey 5 06/01/2026	
+	State Of New Jersey 5 06/01/2027	
+	State Of Nevada Department Of Business 4.5 12/15/2029	
+	Clark County School District 5 06/15/2024	
+	City Of Oroville Ca 5 04/01/2030	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2030	
+	City Of Houston Tx Airport System Reven 4.75 07/01/2024	
+	County Of Cook Il 5 11/15/2028	
+	Indianapolis Local Public Improvement B 5 01/01/2029	
+	Great Lakes Water Authority Water Suppl 5 07/01/2027	
+	Housing & Redevelopment Authority Of Th 5 07/01/2028	
+	Hillsborough County Aviation Authority 5 10/01/2025	
+	Escambia County Health Facilities Autho 5 08/15/2031	
+	Arizona Industrial Development Authorit 6.75 07/01/2028	
+	City Of Detroit Mi 5 04/01/2032	
+	Central Plains Energy Project 5 09/01/2027	
+	Capital Projects Finance Authority/Fl 5 10/01/2030	
+	Chicago Board Of Education 5 12/01/2027	
+	Tennessee Energy Acquisition Corp 5.25 09/01/2026	
+	Stc Metropolitan District No 2 4 12/01/2029	
+	Susquehanna Area Regional Airport Autho 5 01/01/2027	
+	Town Of Hamden Ct 5 01/01/2030	
+	Washington Health Care Facilities Autho 5 08/01/2049	
+	Washington State Housing Finance Commis 4 01/01/2026	
+	Chicago Board Of Education 0 12/01/2025	
+	Chesapeake Bay Bridge & Tunnel District 5 11/01/2023	
+	City Of Chicago Il 4 01/01/2032	
+	Alabama Special Care Facilities Financi 5.5 06/01/2030	
+	Austin Convention Enterprises Inc 5 01/01/2030	
+	Arista Metropolitan District 4.375 12/01/2028	
+	Arizona Industrial Development Authorit 4 07/01/2029	
+	Arizona Industrial Development Authorit 4 07/15/2030	
+	Arizona Industrial Development Authorit 4.5 07/15/2029	
+	Allegheny County Industrial Development 4.875 11/01/2024	
+	Capital Trust Agency Inc 4 06/15/2031	
+	California Statewide Communities Develo 2.625 11/01/2033	
+	El Centro Financing Authority 4.5 07/01/2029	
+	Florida Development Finance Corp 5 08/15/2032	
+	Florida Development Finance Corp 5 10/01/2032	
+	Florida Development Finance Corp 5 05/01/2029	
+	Florida Development Finance Corp 5.25 06/15/2029	
+	Guam Government Waterworks Authority 5.5 07/01/2043	
+	County Of Palm Beach Fl 5 04/01/2029	
+	Dauphin County General Authority 5 10/15/2030	
+	District Of Columbia 4 06/01/2030	
+	Collegiate Charter School Of Lowell 5 06/15/2029	
+	Clifton Higher Education Finance Corp 5.25 08/15/2026	
+	State Of Illinois 5.5 07/01/2025	
+	State Of Illinois 5 06/01/2027	
+	State Of Illinois 5 02/01/2024	
+	State Of Illinois 4 10/01/2032	
+	St Louis County Industrial Development 5 09/01/2028	
+	Public Finance Authority 4 09/01/2029	
+	Rocky Mountain Rail Park Metropolitan D 5 12/01/2031	
+	Orlando-Orange County Expressway Author 5 07/01/2029	
+	Painted Prairie Public Improvement Auth 4 12/01/2029	
+	New Jersey Transportation Trust Fund Au 5 06/15/2026	
+	New Jersey Economic Development Authori 4 11/01/2025	
+	Mississippi Business Finance Corp 5 02/01/2036	
+	Michigan Finance Authority 4 05/01/2031	
+	New Jersey Economic Development Authori 4.25 06/15/2026	
+	New Jersey Economic Development Authori 5 03/01/2024	
+	Maryland Economic Development Corp 5 06/01/2028	
+	New Jersey Economic Development Authori 5 06/15/2024	
+	New Jersey Transportation Trust Fund Au 5.25 06/15/2028	
+	Ohio Air Quality Development Authority 2.4 12/01/2038	
+	Port Beaumont Navigation District 2.625 01/01/2031	
+	Rhode Island Commerce Corp 5 05/15/2031	
+	Plaza At Noah's Ark Community Improveme 3 05/01/2030	
+	State Of Illinois Sales Tax Revenue 3 06/15/2032	
+	Hoover Industrial Development Board 6.375 11/01/2050	
+	Foothill-Eastern Transportation Corrido 6 01/15/2053	
+	Florida Development Finance Corp 4 09/15/2030	
+	Illinois Finance Authority 5 05/15/2033	
+	Arizona Industrial Development Authorit 3.625 05/20/2033	
+	Berks County Municipal Authority/The 5 02/01/2040	
+	City Of Farmington Nm 1.8 04/01/2029	
+	Chicago Board Of Education 0 12/01/2024	
+	Chicago Board Of Education 0 12/01/2029	
+	Village Community Development District 3.8 05/01/2028	
+	University Of Connecticut 5 03/15/2025	
+	Chicago Board Of Education 0 12/01/2029	
+	Chicago Board Of Education 0 12/01/2026	
+	City Of Chicago Il 5 01/01/2024	
+	City Of Austin Tx Airport System Revenu 5 11/15/2028	
+	Blount County Health & Educational Faci 5 01/01/2031	
+	California Pollution Control Financing 3.375 07/01/2025	
+	Illinois Sports Facilities Authority/Th 5 06/15/2028	
+	Georgia Local Government 4.75 06/01/2028	
+	City Of Hartford Ct 5 04/01/2024	
+	State Of Nevada Department Of Business 5.875 12/15/2027	
+	Salt Verde Financial Corp 5.5 12/01/2029	
+	South Carolina Jobs-Economic Developmen 5 06/15/2029	
+	Public Finance Authority 4.25 05/01/2029	
+	Puerto Rico Commonwealth Aqueduct & Sew 6.125 07/01/2024	
+	Oakland Unified School District/Alameda 5 08/01/2026	
+	New Mexico Hospital Equipment Loan Coun 2.375 07/01/2024	
+	New Jersey Economic Development Authori 5.5 09/01/2023	
+	New Jersey Transportation Trust Fund Au 5 06/15/2030	
+	New Jersey Economic Development Authori 5 06/15/2026	
+	New Jersey Economic Development Authori 5 06/15/2026	
+	New Jersey Transportation Trust Fund Au 5.25 06/15/2029	
+	North Carolina Turnpike Authority 5 01/01/2025	
+	Maryland Heights Industrial Development 4.375 03/15/2030	
+	Massachusetts Development Finance Agenc 5 07/01/2028	
+	Industrial Pollution Control Financing 5 12/01/2024	
+	Lower Colorado River Authority 5 05/15/2031	
+	New Jersey Economic Development Authori 4 11/01/2027	
+	Northern Illinois Municipal Power Agenc 5 12/01/2029	
+	South Carolina Jobs-Economic Developmen 4 11/15/2027	
+	County Of Frederick Md 5 09/01/2027	
+	County Of Cuyahoga Oh 5 02/15/2027	
+	Kentucky State Property & Building Comm 5 11/01/2028	
+	California Statewide Communities Develo 5 12/01/2026	
+	Berks County Municipal Authority/The 5 02/01/2031	
+	Berks County Industrial Development Aut 5 11/01/2026	
+	City Of Blaine Mn 5.125 07/01/2025	
+	City Of Brooklyn Park Mn 5.25 07/01/2030	
+	Capital Trust Agency Inc 5 08/01/2027	
+	Ulster County Capital Resource Corp 4 09/15/2025	
+	Territory Of Guam 5 11/15/2027	
+	Texas Municipal Gas Acquisition & Suppl 5 12/15/2028	
+	Washington State Housing Finance Commis 5 01/01/2031	
+	Yamhill County Hospital Authority 5 11/15/2031	
+	Chicago Board Of Education 0 12/01/2023	
+	City & County Of Denver Co Airport Syst 5 12/01/2029	
+	California Statewide Communities Develo 5 05/15/2033	
+	Industrial Development Authority Of The 4 07/01/2025	
+	Iowa Finance Authority 5 03/01/2028	
+	Georgia State Road & Tollway Authority 5 06/01/2025	
+	Gulf Coast Industrial Development Autho 4.875 05/01/2025	
+	City Of New Orleans La Water System Rev 5 12/01/2045	
+	School District Of Broward County/Fl 5 07/01/2030	
+	State Of Illinois 3.5 06/01/2030	
+	State Of Illinois 5 11/01/2029	
+	North Texas Tollway Authority 0 01/01/2029	
+	Miami-Dade County Industrial Developmen 5 06/01/2030	
+	M-S-R Energy Authority 6.125 11/01/2029	
+	Massachusetts Development Finance Agenc 5 07/01/2028	
+	New Jersey Economic Development Authori 5 06/15/2030	
+	New Jersey Transportation Trust Fund Au 5 06/15/2024	
+	New Jersey Health Care Facilities Finan 5 10/01/2024	
+	New Jersey Transportation Trust Fund Au 0 12/15/2026	
+	New Jersey Economic Development Authori 5.75 09/15/2027	
+	New Jersey Transportation Trust Fund Au 5 06/15/2026	
+	New Jersey Transportation Trust Fund Au 5.25 12/15/2023	
+	Massachusetts Educational Financing Aut 5 01/01/2027	
+	Long Beach Bond Finance Authority 5.5 11/15/2030	
+	Port Authority Of New York & New Jersey 5 09/01/2030	
+	Peninsula Town Center Community Develop 4.5 09/01/2028	
+	Port Authority Of New York & New Jersey 5 09/01/2033	
+	Rhode Island Commerce Corp 5 05/15/2033	
+	Reno Redevelopment Agency 5.4 06/01/2027	
+	State Of Illinois 5.25 07/01/2029	
+	State Of Illinois 5.5 07/01/2024	
+	State Of Illinois Sales Tax Revenue 5 06/15/2025	
+	St Lucie County School Board 5 10/01/2025	
+	State Of Illinois 4.125 03/01/2028	
+	South Carolina Public Service Authority 5 12/01/2026	
+	Clark County School District 5 06/15/2029	
+	Clark County School District 5 06/15/2030	
+	Clark County School District 5 06/15/2030	
+	County Of Sacramento Ca Airport System 5 07/01/2027	
+	County Of Broward Fl Airport System Rev 5 10/01/2029	
+	County Of Suffolk Ny 5 10/15/2026	
+	Georgia State Road & Tollway Authority 5 06/01/2028	
+	Dutchess County Local Development Corp 5 07/01/2028	
+	Dutchess County Local Development Corp 5 07/01/2030	
+	Hospitals & Higher Education Facilities 5 07/01/2029	
+	California Municipal Finance Authority 5 06/30/2031	
+	American Samoa Economic Development Aut 6.5 09/01/2028	
+	City Of Anderson In 4.75 10/01/2027	
+	Chicago O'Hare International Airport 4 01/01/2029	
+	Chicago O'Hare International Airport 5 01/01/2031	
+	City Of Chicago Il 5 01/01/2025	
+	City Of Chicago Il Waterworks Revenue 5 11/01/2029	
+	Chicago Board Of Education 0 12/01/2024	
+	Tarrant County Cultural Education Facil 4 05/15/2027	
+	Virgin Islands Public Finance Authority 5 10/01/2024	
+	Village Community Development District 2.625 05/01/2024	
+	Tarrant County Cultural Education Facil 6.25 11/15/2031	
+	Territory Of Guam 5 11/01/2028	
+	Wisconsin Health & Educational Faciliti 5 08/01/2027	
+	Washington State Convention Center Publ 4 07/01/2033	
+	Chicago Board Of Education 0 12/01/2026	
+	Chicago Board Of Education 5 12/01/2029	
+	Chicago Board Of Education 5.5 12/01/2026	
+	Chicago Midway International Airport 5 01/01/2027	
+	Austin Convention Enterprises Inc 5 01/01/2026	
+	California Municipal Finance Authority 5 06/30/2028	
+	California Statewide Communities Develo 5 07/01/2029	
+	Build Nyc Resource Corp 4 06/15/2031	
+	Illinois Finance Authority 5 11/01/2028	
+	Illinois Finance Authority 4 02/15/2027	
+	Kentucky Asset Liability Commission 5.25 09/01/2023	
+	Kentucky Asset Liability Commission 5.25 09/01/2025	
+	Doylestown Hospital Authority 5 07/01/2028	
+	Grand Rapids Economic Development Corp 4 11/01/2027	
+	Guam Department Of Education 3.625 02/01/2025	
+	Harris County-Houston Sports Authority 0 11/15/2029	
+	Cook County Community College District 5.25 12/01/2029	
+	Dauphin County General Authority 5 10/15/2027	
+	County Of Suffolk Ny 5 02/01/2026	
+	Development Authority Of Burke County/T 2.925 11/01/2053	
+	Development Authority Of Floyd County 5.5 12/01/2028	
+	Development Authority Of The City Of Ma 5 11/01/2027	
+	Development Authority Of White County 5 10/01/2029	
+	County Of Cuyahoga Oh 5 02/15/2025	
+	City Of Goddard Ks 3.6 06/01/2030	
+	City Of Houston Tx Airport System Reven 5 07/01/2027	
+	State Of Illinois Sales Tax Revenue 5 06/15/2026	
+	Puerto Rico Electric Power Authority 5 07/01/2024	
+	Port Authority Of New York & New Jersey 5 09/01/2032	
+	Oklahoma Development Finance Authority 5 08/15/2027	
+	Palomar Health 5 11/01/2025	
+	Lake Elsinore Public Financing Authorit 5 09/01/2024	
+	Metropolitan Transportation Authority 5 11/15/2028	
+	Metropolitan Transportation Authority 5 11/15/2029	
+	Mesquite Health Facilities Development 5 02/15/2030	
+	Massachusetts Development Finance Agenc 4 10/01/2027	
+	Maricopa County Industrial Development 4 07/01/2029	
+	New Hampshire Business Finance Authorit 4 11/01/2027	
+	Mid-Bay Bridge Authority 5 10/01/2023	
+	Mid-Bay Bridge Authority 5 10/01/2024	
+	Metropolitan Transportation Authority 5 11/15/2030	
+	Metropolitan Transportation Authority 5 11/15/2030	
+	New York State Dormitory Authority 5 08/01/2024	
+	North Carolina Medical Care Commission 5 06/01/2033	
+	New Jersey Transportation Trust Fund Au 5 12/15/2030	
+	New Jersey Transportation Trust Fund Au 0 12/15/2029	
+	New Jersey Economic Development Authori 5 03/01/2025	
+	New Hope Cultural Education Facilities 5.25 08/15/2027	
+	Lower Colorado River Authority 5 05/15/2033	
+	North Texas Tollway Authority 5 01/01/2027	
+	Port Of Oakland 5 11/01/2023	
+	Salt Verde Financial Corp 5.25 12/01/2023	
+	State Of Illinois Sales Tax Revenue 5 06/15/2024	
+	State Public School Building Authority 5 06/01/2029	
+	Southlands Metropolitan District No 1 3.5 12/01/2027	
+	San Francisco Community College Distric 5 06/15/2026	
+	State Of Illinois 5 01/01/2026	
+	City Of Houston Tx Airport System Reven 5 07/01/2027	
+	City Of Houston Tx Airport System Reven 6.5 07/15/2030	
+	City Of Sparks Nv 2.5 06/15/2024	
+	Clifton Higher Education Finance Corp 5.125 08/15/2030	
+	County Of Howard Md 4 02/15/2028	
+	Illinois Sports Facilities Authority/Th 0 06/15/2026	
+	Industrial Development Authority Of The 3.875 11/15/2029	
+	Arizona Industrial Development Authorit 4.75 07/01/2029	
+	City Of Baltimore Md 4 09/01/2027	
+	Chicago O'Hare International Airport 5 01/01/2029	
+	City Of Forsyth Mt 2 08/01/2023	
+	Chicago Board Of Education 7 12/01/2026	
+	Chicago Board Of Education 5 12/01/2029	
+	Western Hills Water District 4 09/01/2099	
+	Yonkers Economic Development Corp 4 10/15/2029	
+	Village Community Development District 3 05/01/2029	
+	Tobacco Settlement Financing Corp 5 06/01/2029	
+	West Virginia Hospital Finance Authorit 5 06/01/2026	
+	Washington State Housing Finance Commis 3.75 07/01/2026	
+	Virgin Islands Water & Power Authority 5 07/01/2023	
+	City Of Chicago Il 5.25 01/01/2029	
+	City Of Chicago Il Waterworks Revenue 5 11/01/2028	
+	Arizona Industrial Development Authorit 5 07/01/2026	
+	Berks County Industrial Development Aut 4 11/01/2031	
+	Calcasieu Parish Memorial Hospital Serv 5 12/01/2029	
+	Kentucky Municipal Power Agency 5 09/01/2030	
+	Kentucky State Property & Building Comm 5 08/01/2026	
+	Kentucky State Property & Building Comm 5 08/01/2028	
+	Florida Development Finance Corp 5.125 06/15/2027	
+	State Of Illinois 5 02/01/2025	
+	State Of Illinois 3.25 11/01/2026	
+	State Of Illinois 4 08/01/2025	
+	Public Authority For Colorado Energy 6.25 11/15/2028	
+	Rhode Island Commerce Corp 5 06/15/2026	
+	Public Finance Authority 5 06/15/2027	
+	Main Street Natural Gas Inc 5.5 09/15/2025	
+	Los Angeles Unified School District/Ca 5 10/01/2027	
+	Maryland Economic Development Corp 3.75 07/01/2027	
+	New Jersey Economic Development Authori 4.125 07/01/2030	
+	Michigan Strategic Fund 5 06/30/2030	
+	New Jersey Educational Facilities Autho 5 06/15/2025	
+	New Jersey Educational Facilities Autho 5 06/15/2026	
+	New Jersey Transportation Trust Fund Au 0 12/15/2025	
+	New Jersey Transportation Trust Fund Au 5 06/15/2029	
+	New Jersey Economic Development Authori 5.5 06/15/2028	
+	New Jersey Economic Development Authori 5.5 06/15/2030	
+	New Jersey Economic Development Authori 4.375 06/15/2027	
+	New Jersey Economic Development Authori 5 11/01/2025	
+	New Jersey Economic Development Authori 5 11/01/2030	
+	New Jersey Transportation Trust Fund Au 5.25 06/15/2027	
+	North Carolina Eastern Municipal Power 6 01/01/2025	
+	Newark Housing Authority 5 01/01/2032	
+	Metropolitan Pier & Exposition Authorit 0 12/15/2024	
+	New Hampshire Health And Education Faci 5.25 07/01/2027	
+	Massachusetts Development Finance Agenc 5 07/01/2028	
+	Matagorda County Navigation District No 4.55 05/01/2030	
+	Lees Summit Industrial Development Auth 5 08/15/2032	
+	Main Street Natural Gas Inc 5.5 09/15/2023	
+	Puerto Rico Industrial Tourist Educatio 6.625 06/01/2026	
+	Riverside County Public Financing Autho 5 11/01/2023	
+	Sa Energy Acquisition Public Facility C 5.5 08/01/2025	
+	Sa Energy Acquisition Public Facility C 5.5 08/01/2027	
+	Poway Unified School District Public Fi 5 09/01/2024	
+	Pennsylvania Economic Development Finan 5 06/30/2026	
+	Pennsylvania Economic Development Finan 5 12/31/2023	
+	Pennsylvania Turnpike Commission 5 06/01/2030	
+	Philadelphia Gas Works Co 5 10/01/2026	
+	State Of Illinois 5 05/01/2027	
+	State Of Illinois 5 06/01/2026	
+	State Of Illinois 5 11/01/2028	
+	State Of New Jersey 5 06/01/2027	
+	State Of Illinois 5 02/01/2024	
+	School Board Of Miami-Dade County/The 5 02/01/2030	
+	San Francisco City & County Redevelopme 5 08/01/2023	
+	Hospitals & Higher Education Facilities 5 07/01/2026	
+	King County Public Hospital District No 5 12/01/2025	
+	Irvine Unified School District 5 09/01/2026	
+	Jea Electric System Revenue 5 10/01/2029	
+	Housing & Redevelopment Authority Of Th 5 09/01/2026	
+	County Of Clark Department Of Aviation 5 07/01/2025	
+	Connecticut State Health & Educational 4 07/01/2030	
+	County Of Sacramento Ca Airport System 5 07/01/2028	
+	County Of Cuyahoga Oh 5 02/15/2028	
+	Clark County School District 5 06/15/2028	
+	Brooklyn Arena Local Development Corp 5 07/15/2026	
+	Brooklyn Arena Local Development Corp 5 07/15/2027	
+	Brooklyn Arena Local Development Corp 5 07/15/2028	
+	Atlanta Development Authority/The 6 01/01/2023	
+	Amherst Industrial Development Authorit 4.75 09/01/2030	
+	City Of Chicago Il Waterworks Revenue 5 11/01/2030	
+	City Of Chicago Il Waterworks Revenue 5 11/01/2030	
+	Chicago Transit Authority Capital Grant 5 06/01/2024	
+	Chicago O'Hare International Airport 5 01/01/2026	
+	Chicago Board Of Education 0 12/01/2030	
+	Central Texas Turnpike System 5 08/15/2024	
+	Central Plains Energy Project 5 09/01/2028	
+	Central Plains Energy Project 5 09/01/2030	
+	Town Of Ramapo Ny 4 05/15/2027	
+	Texas Municipal Gas Acquisition And Sup 5.25 12/15/2025	
+	Tsasc Inc/Ny 5 06/01/2027	
+	Tsasc Inc/Ny 5 06/01/2028	
+	Town Of Ramapo Ny 4.125 05/15/2028	
+	Texas Municipal Gas Acquisition And Sup 5.25 12/15/2024	
+	Virgin Islands Water & Power Authority 5 07/01/2024	
+	City Of Anoka Mn 4.25 11/01/2027	
+	City Of Chicago Il Waterworks Revenue 5 11/01/2028	
+	California Statewide Communities Develo 5 07/01/2024	
+	Illinois Finance Authority 5.4 04/01/2027	
+	Kansas Development Finance Authority 4 11/15/2025	
+	Kentucky Economic Development Finance A 5 05/15/2026	
+	State Of Illinois 4.125 11/01/2031	
+	State Of Illinois 4 01/01/2029	
+	State Of New Jersey 3 06/01/2026	
+	Philadelphia Gas Works Co 5 08/01/2025	
+	Public Authority For Colorado Energy 6.125 11/15/2023	
+	Palomar Health 5 11/01/2027	
+	Salt Verde Financial Corp 5.25 12/01/2024	
+	Memphis-Shelby County Industrial Develo 4.75 07/01/2027	
+	Metropolitan Pier & Exposition Authorit 0 06/15/2028	
+	New Hope Cultural Education Facilities 5 07/01/2023	
+	New Hope Cultural Education Facilities 5 07/01/2024	
+	New Jersey Economic Development Authori 4.375 01/01/2024	
+	New Jersey Economic Development Authori 5 03/01/2027	
+	Salem County Pollution Control Financin 5 12/01/2023	
+	Sa Energy Acquisition Public Facility C 5.5 08/01/2024	
+	Oregon State Business Development Commi 11.5 04/01/2031	
+	State Of Illinois 5.5 07/01/2026	
+	Clifton Higher Education Finance Corp 4.625 08/15/2025	
+	County Of Cuyahoga Oh 5 02/15/2026	
+	California Municipal Finance Authority 5 02/01/2027	
+	California Municipal Finance Authority 5 02/01/2028	
+	Board Of Regents Of The University Of T 5 08/15/2031	
+	Virgin Islands Water & Power Authority 5 07/01/2025	
+	Texas Municipal Gas Acquisition And Sup 5.25 12/15/2023	
+	California Statewide Communities Develo 5.75 07/01/2024	
+	County Of Clark Nv 2.1 06/01/2031	
+	City Of Modesto Ca 5 11/01/2023	
+	Salt Verde Financial Corp 5.25 12/01/2028	
+	New Jersey Transportation Trust Fund Au 0 12/15/2032	
+	Louisiana Public Facilities Authority 7 07/01/2024	
+	Louisiana Public Facilities Authority 7.5 07/01/2023	

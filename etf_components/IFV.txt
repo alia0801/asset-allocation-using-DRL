@@ -1,0 +1,6 @@
+IFV
+NFTY	First Trust India NIFTY 50 Equal Weight ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=NFTY.US&back=IFV
+FNI	First Trust Chindia ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=FNI.US&back=IFV
+FLN	First Trust Latin America AlphaDEX Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FLN.US&back=IFV
+FKU	First Trust United Kingdom AlphaDEX Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FKU.US&back=IFV
+FGD	First Trust Dow Jones Global Select Dividend Index Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FGD.US&back=IFV

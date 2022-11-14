@@ -1,0 +1,63 @@
+HACK
+NET	CLOUDFLARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=HACK
+PANW	PALO ALTO NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=HACK
+CRWD	CROWDSTRIKE HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=HACK
+VRSN	VERISIGN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=HACK
+CSCO	CISCO SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=HACK
+	BAE SYSTEMS	
+OKTA	OKTA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=HACK
+AKAM	AKAMAI TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=HACK
+ZS	ZSCALER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=HACK
+SPLK	SPLUNK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=HACK
+NLOK	NORTONLIFELOCK INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=HACK
+LDOS	LEIDOS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=HACK
+FTNT	FORTINET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=HACK
+BAH	BOOZ ALLEN HAMILTON HLDG CORP CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=HACK
+CHKP	CHECK POINT SOFTWARE TECH LTD ORD	/etf/ea/ETZCW.djhtm?c=1&etfid=CHKP.US&back=HACK
+FFIV	F5 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=HACK
+JNPR	JUNIPER NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=HACK
+4704.JP&back=HACK	TREND MICRO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=4704.JP&back=HACK
+S	SENTINELONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=S.US&back=HACK
+CACI	CACI INTL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=HACK
+CYBR	CYBERARK SOFTWARE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CYBR.US&back=HACK
+QLYS	QUALYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=QLYS.US&back=HACK
+	MANDIANT INC	
+SAIC	SCIENCE APPLICATIONS INTL CORP COM	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=HACK
+	AVAST PLC	
+TENB	TENABLE HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TENB.US&back=HACK
+PSN	PARSONS CORP DEL	/etf/ea/ETZCW.djhtm?c=1&etfid=PSN.US&back=HACK
+	BLACKBERRY LTD	
+RPD	RAPID7 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RPD.US&back=HACK
+KNBE	KNOWBE4 INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KNBE.US&back=HACK
+VRNS	VARONIS SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNS.US&back=HACK
+	MANTECH INTERNATIONAL CORP	
+CVLT	COMMVAULT SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVLT.US&back=HACK
+NTCT	NETSCOUT SYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTCT.US&back=HACK
+	QINETIQ GROUP	
+PING	PING IDENTITY HLDG CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PING.US&back=HACK
+	Cash & Other	
+EVBG	EVERBRIDGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVBG.US&back=HACK
+	DARKTRACE PLC	
+RAMP	LIVERAMP HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RAMP.US&back=HACK
+FORG	FORGEROCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FORG.US&back=HACK
+SUMO	SUMO LOGIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SUMO.US&back=HACK
+ATEN	A10 NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATEN.US&back=HACK
+RDWR	RADWARE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RDWR.US&back=HACK
+	NCC GROUP	
+NABL	N-ABLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NABL.US&back=HACK
+SCWX	SECUREWORKS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SCWX.US&back=HACK
+	ABSOLUTE SOFTWARE CORP OC-SHS	
+2326.JP&back=HACK	DIGITAL ARTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=2326.JP&back=HACK
+	KAPE TECHNOLOGIES	
+TLS	TELOS CORP MD	/etf/ea/ETZCW.djhtm?c=1&etfid=TLS.US&back=HACK
+OSPN	ONESPAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OSPN.US&back=HACK
+SWI	SOLARWINDS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SWI.US&back=HACK
+CGNT	COGNYTE SOFTWARE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CGNT.US&back=HACK
+	SECUNET SECURITY A	
+	F-SECURE OYJ (NEW)	
+	WITHSECURE OYJ	
+	FINGERPRINT CARDS	
+ALLT	ALLOT LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLT.US&back=HACK
+ARQQ	ARQIT QUANTUM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ARQQ.US&back=HACK
+4493.JP&back=HACK	CYBER SECURITY CLO	/etf/ea/ETZCW.djhtm?c=1&etfid=4493.JP&back=HACK
+CISO	CERBERUS CYBER SENTINEL CORP COM	/etf/ea/ETZCW.djhtm?c=1&etfid=CISO.US&back=HACK

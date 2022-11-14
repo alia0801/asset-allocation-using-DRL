@@ -1,0 +1,32 @@
+EINC
+LNG	Cheniere Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=EINC
+ENB	Enbridge Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=EINC
+TRP	Tc Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=EINC
+WMB	Williams Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=EINC
+KMI	Kinder Morgan Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=EINC
+PBA	Pembina Pipeline Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PBA.US&back=EINC
+OKE	Oneok Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=EINC
+DTM	Dt Midstream Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=EINC
+ET	Energy Transfer Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=EINC
+EPD	Enterprise Products Partners Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=EINC
+	Keyera Corp	
+TRGP	Targa Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=EINC
+MPLX	Mplx Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=EINC
+MMP	Magellan Midstream Partners Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=EINC
+AM	Antero Midstream Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AM.US&back=EINC
+ETRN	Equitrans Midstream Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ETRN.US&back=EINC
+	Gibson Energy Inc	
+ENLC	Enlink Midstream Llc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENLC.US&back=EINC
+CNX	Cnx Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=EINC
+WES	Western Midstream Partners Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=EINC
+PAGP	Plains Gp Holdings Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=PAGP.US&back=EINC
+PAA	Plains All American Pipeline Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=PAA.US&back=EINC
+DCP	Dcp Midstream Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP.US&back=EINC
+HESM	Hess Midstream Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=EINC
+SHLX	Shell Midstream Partners Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLX.US&back=EINC
+CEQP	Crestwood Equity Partners Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=EINC
+AROC	Archrock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AROC.US&back=EINC
+NS	Nustar Energy Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=EINC
+GEL	Genesis Energy Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=GEL.US&back=EINC
+HEP	Holly Energy Partners Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=EINC
+	Other/Cash	

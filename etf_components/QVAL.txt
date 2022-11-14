@@ -1,0 +1,52 @@
+QVAL
+PBF	PBF ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=QVAL
+BTU	PEABODY ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BTU.US&back=QVAL
+DINO	HF SINCLAIR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=QVAL
+DK	DELEK US HLDGS INC NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=DK.US&back=QVAL
+MPC	MARATHON PETE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=QVAL
+VLO	VALERO ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=QVAL
+LEN	LENNAR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=QVAL
+SKY	SKYLINE CHAMPION CORPORATION COM	/etf/ea/ETZCW.djhtm?c=1&etfid=SKY.US&back=QVAL
+CVI	CVR ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=QVAL
+ARCB	ARCBEST CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCB.US&back=QVAL
+NVR	NVR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=QVAL
+RS	RELIANCE STEEL & ALUMINUM CO COM	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=QVAL
+TOL	TOLL BROTHERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TOL.US&back=QVAL
+WIRE	ENCORE WIRE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WIRE.US&back=QVAL
+WU	WESTERN UN CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=QVAL
+CF	CF INDS HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=QVAL
+DDS	DILLARDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DDS.US&back=QVAL
+MU	MICRON TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=QVAL
+STLD	STEEL DYNAMICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=QVAL
+OXY	OCCIDENTAL PETE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=QVAL
+WLK	WESTLAKE CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=QVAL
+M	MACYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=M.US&back=QVAL
+DOW	DOW INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=QVAL
+HUN	HUNTSMAN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HUN.US&back=QVAL
+AN	AUTONATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=QVAL
+SHOO	MADDEN STEVEN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=SHOO.US&back=QVAL
+THO	THOR INDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=THO.US&back=QVAL
+OVV	OVINTIV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=QVAL
+KFY	KORN FERRY	/etf/ea/ETZCW.djhtm?c=1&etfid=KFY.US&back=QVAL
+NUE	NUCOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=QVAL
+MOS	MOSAIC CO NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=QVAL
+EXPD	EXPEDITORS INTL WASH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=QVAL
+TSN	TYSON FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=QVAL
+X	UNITED STATES STL CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=QVAL
+ARCH	ARCH RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCH.US&back=QVAL
+PXD	PIONEER NAT RES CO	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=QVAL
+ASO	ACADEMY SPORTS & OUTDOORS INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=ASO.US&back=QVAL
+COP	CONOCOPHILLIPS	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=QVAL
+FANG	DIAMONDBACK ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=QVAL
+MATX	MATSON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MATX.US&back=QVAL
+OLN	OLIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OLN.US&back=QVAL
+CRK	COMSTOCK RES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=QVAL
+CTRA	COTERRA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=QVAL
+CLF	CLEVELAND-CLIFFS INC NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=QVAL
+DVN	DEVON ENERGY CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=QVAL
+MGY	MAGNOLIA OIL & GAS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=QVAL
+WDC	WESTERN DIGITAL CORP.	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=QVAL
+MRO	MARATHON OIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=QVAL
+APA	APA CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=QVAL
+AA	ALCOA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=QVAL
+	Cash & Other	

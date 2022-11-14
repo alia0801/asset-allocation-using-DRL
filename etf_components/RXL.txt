@@ -1,0 +1,141 @@
+RXL
+	DJ U.S. HEALTH CARE INDEX SWAP UBS AG	
+	DJ U.S. HEALTH CARE INDEX SWAP GOLDMAN SACHS INTERNATIONAL	
+	DJ U.S. HEALTH CARE INDEX SWAP BANK OF AMERICA NA	
+	DJ U.S. HEALTH CARE INDEX SWAP CITIBANK NA	
+UNH	UNITEDHEALTH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=RXL
+JNJ	JOHNSON & JOHNSON	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=RXL
+LLY	ELI LILLY & CO	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=RXL
+PFE	PFIZER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=RXL
+ABBV	ABBVIE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=RXL
+MRK	MERCK & CO. INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=RXL
+TMO	THERMO FISHER SCIENTIFIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=RXL
+ABT	ABBOTT LABORATORIES	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=RXL
+DHR	DANAHER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=RXL
+	DJ U.S. HEALTH CARE INDEX SWAP SOCIETE GENERALE	
+BMY	BRISTOL-MYERS SQUIBB CO	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=RXL
+CVS	CVS HEALTH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=RXL
+AMGN	AMGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=RXL
+ELV	ELEVANCE HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=RXL
+MDT	MEDTRONIC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=RXL
+CI	CIGNA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=RXL
+GILD	GILEAD SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=RXL
+VRTX	VERTEX PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=RXL
+REGN	REGENERON PHARMACEUTICALS	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=RXL
+ZTS	ZOETIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=RXL
+SYK	STRYKER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SYK.US&back=RXL
+ISRG	INTUITIVE SURGICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=RXL
+BDX	BECTON DICKINSON AND CO	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=RXL
+HUM	HUMANA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=RXL
+BSX	BOSTON SCIENTIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BSX.US&back=RXL
+EW	EDWARDS LIFESCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=RXL
+MCK	MCKESSON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=RXL
+CNC	CENTENE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=RXL
+HCA	HCA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=RXL
+MRNA	MODERNA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=RXL
+BIIB	BIOGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=RXL
+A	AGILENT TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=RXL
+IQV	IQVIA HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=RXL
+RMD	RESMED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=RXL
+DXCM	DEXCOM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=RXL
+ILMN	ILLUMINA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=RXL
+	DJ U.S. HEALTH CARE INDEX SWAP MORGAN STANLEY & CO. INTERNATIONAL PLC	
+BAX	BAXTER INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=RXL
+IDXX	IDEXX LABORATORIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=RXL
+MTD	METTLER-TOLEDO INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=MTD.US&back=RXL
+ALNY	ALNYLAM PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALNY.US&back=RXL
+ZBH	ZIMMER BIOMET HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=RXL
+MOH	MOLINA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=RXL
+LH	LABORATORY CRP OF AMER HLDGS	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=RXL
+SGEN	SEAGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=RXL
+WST	WEST PHARMACEUTICAL SERVICES	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=RXL
+STE	STERIS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=STE.US&back=RXL
+WAT	WATERS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=RXL
+HOLX	HOLOGIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=RXL
+BMRN	BIOMARIN PHARMACEUTICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BMRN.US&back=RXL
+PODD	INSULET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PODD.US&back=RXL
+ALGN	ALIGN TECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=RXL
+RPRX	ROYALTY PHARMA PLC- CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=RPRX.US&back=RXL
+HZNP	HORIZON THERAPEUTICS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=HZNP.US&back=RXL
+DGX	QUEST DIAGNOSTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=RXL
+CTLT	CATALENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLT.US&back=RXL
+COO	COOPER COS INC/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=COO.US&back=RXL
+AVTR	AVANTOR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVTR.US&back=RXL
+INCY	INCYTE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=RXL
+ABMD	ABIOMED INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABMD.US&back=RXL
+TECH	BIO-TECHNE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TECH.US&back=RXL
+VTRS	VIATRIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=RXL
+NBIX	NEUROCRINE BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NBIX.US&back=RXL
+UTHR	UNITED THERAPEUTICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=RXL
+SWAV	SHOCKWAVE MEDICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWAV.US&back=RXL
+SRPT	SAREPTA THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SRPT.US&back=RXL
+RGEN	REPLIGEN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RGEN.US&back=RXL
+CRL	CHARLES RIVER LABORATORIES	/etf/ea/ETZCW.djhtm?c=1&etfid=CRL.US&back=RXL
+BHVN	BIOHAVEN PHARMACEUTICAL HOLD	/etf/ea/ETZCW.djhtm?c=1&etfid=BHVN.US&back=RXL
+TFX	TELEFLEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=RXL
+BIO	BIO-RAD LABORATORIES-A	/etf/ea/ETZCW.djhtm?c=1&etfid=BIO.US&back=RXL
+HSIC	HENRY SCHEIN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HSIC.US&back=RXL
+JAZZ	JAZZ PHARMACEUTICALS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JAZZ.US&back=RXL
+MASI	MASIMO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MASI.US&back=RXL
+NVCR	NOVOCURE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NVCR.US&back=RXL
+PEN	PENUMBRA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEN.US&back=RXL
+ACHC	ACADIA HEALTHCARE CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHC.US&back=RXL
+APLS	APELLIS PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=APLS.US&back=RXL
+CHE	CHEMED CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=RXL
+IONS	IONIS PHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=RXL
+OGN	ORGANON & CO	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=RXL
+UHS	UNIVERSAL HEALTH SERVICES-B	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=RXL
+XRAY	DENTSPLY SIRONA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XRAY.US&back=RXL
+EXAS	EXACT SCIENCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXAS.US&back=RXL
+GH	GUARDANT HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GH.US&back=RXL
+HALO	HALOZYME THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HALO.US&back=RXL
+HQY	HEALTHEQUITY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HQY.US&back=RXL
+BRKR	BRUKER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BRKR.US&back=RXL
+ELAN	ELANCO ANIMAL HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ELAN.US&back=RXL
+THC	TENET HEALTHCARE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=THC.US&back=RXL
+NVST	ENVISTA HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVST.US&back=RXL
+OPCH	OPTION CARE HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OPCH.US&back=RXL
+PRGO	PERRIGO CO PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGO.US&back=RXL
+LHCG	LHC GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LHCG.US&back=RXL
+SYNH	SYNEOS HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNH.US&back=RXL
+EXEL	EXELIXIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=RXL
+CRSP	CRISPR THERAPEUTICS AG	/etf/ea/ETZCW.djhtm?c=1&etfid=CRSP.US&back=RXL
+AGL	AGILON HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AGL.US&back=RXL
+GMED	GLOBUS MEDICAL INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=GMED.US&back=RXL
+DVA	DAVITA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=RXL
+EHC	ENCOMPASS HEALTH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EHC.US&back=RXL
+TDOC	TELADOC HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=RXL
+NTLA	INTELLIA THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTLA.US&back=RXL
+NTRA	NATERA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRA.US&back=RXL
+OMCL	OMNICELL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OMCL.US&back=RXL
+QDEL	QUIDELORTHO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=QDEL.US&back=RXL
+MEDP	MEDPACE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MEDP.US&back=RXL
+PINC	PREMIER INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PINC.US&back=RXL
+HAE	HAEMONETICS CORP/MASS	/etf/ea/ETZCW.djhtm?c=1&etfid=HAE.US&back=RXL
+ALKS	ALKERMES PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALKS.US&back=RXL
+BPMC	BLUEPRINT MEDICINES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BPMC.US&back=RXL
+AZTA	AZENTA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZTA.US&back=RXL
+ARWR	ARROWHEAD PHARMACEUTICALS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=ARWR.US&back=RXL
+AMED	AMEDISYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMED.US&back=RXL
+IART	INTEGRA LIFESCIENCES HOLDING	/etf/ea/ETZCW.djhtm?c=1&etfid=IART.US&back=RXL
+ICUI	ICU MEDICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ICUI.US&back=RXL
+DOCS	DOXIMITY INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCS.US&back=RXL
+STAA	STAAR SURGICAL CO	/etf/ea/ETZCW.djhtm?c=1&etfid=STAA.US&back=RXL
+TNDM	TANDEM DIABETES CARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TNDM.US&back=RXL
+MRTX	MIRATI THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRTX.US&back=RXL
+MRVI	MARAVAI LIFESCIENCES HLDGS-A	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVI.US&back=RXL
+RARE	ULTRAGENYX PHARMACEUTICAL IN	/etf/ea/ETZCW.djhtm?c=1&etfid=RARE.US&back=RXL
+RCM	R1 RCM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RCM.US&back=RXL
+OSH	OAK STREET HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OSH.US&back=RXL
+ONEM	1LIFE HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ONEM.US&back=RXL
+TXG	10X GENOMICS INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TXG.US&back=RXL
+DNLI	DENALI THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DNLI.US&back=RXL
+BEAM	BEAM THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BEAM.US&back=RXL
+CVET	COVETRUS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVET.US&back=RXL
+ENOV	ENOVIS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ENOV.US&back=RXL
+SGFY	SIGNIFY HEALTH INC -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SGFY.US&back=RXL
+NUVA	NUVASIVE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NUVA.US&back=RXL
+NVAX	NOVAVAX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NVAX.US&back=RXL
+VIR	VIR BIOTECHNOLOGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VIR.US&back=RXL
+FATE	FATE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FATE.US&back=RXL
+SHC	SOTERA HEALTH CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SHC.US&back=RXL

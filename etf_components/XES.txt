@@ -1,0 +1,33 @@
+XES
+FTI	TechnipFMC Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=FTI.US&back=XES
+SLCA	U.S. Silica Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLCA.US&back=XES
+VAL	Valaris Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=VAL.US&back=XES
+CHX	ChampionX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CHX.US&back=XES
+LBRT	Liberty Energy Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRT.US&back=XES
+NOV	NOV Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOV.US&back=XES
+HP	Helmerich & Payne Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HP.US&back=XES
+NEX	NexTier Oilfield Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEX.US&back=XES
+RIG	Transocean Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=RIG.US&back=XES
+PTEN	Patterson-UTI Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PTEN.US&back=XES
+NE	Noble Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NE.US&back=XES
+SLB	Schlumberger NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=XES
+WHD	Cactus Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WHD.US&back=XES
+NBR	Nabors Industries Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=NBR.US&back=XES
+HAL	Halliburton Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=XES
+BKR	Baker Hughes Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=XES
+RES	RPC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RES.US&back=XES
+WFRD	Weatherford International Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=WFRD.US&back=XES
+PUMP	ProPetro Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PUMP.US&back=XES
+OII	Oceaneering International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OII.US&back=XES
+CLB	Core Laboratories NV	/etf/ea/ETZCW.djhtm?c=1&etfid=CLB.US&back=XES
+HLX	Helix Energy Solutions Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HLX.US&back=XES
+DRQ	Dril-Quip Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DRQ.US&back=XES
+AROC	Archrock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AROC.US&back=XES
+XPRO	Expro Group Holdings N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=XPRO.US&back=XES
+TDW	Tidewater Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDW.US&back=XES
+OIS	Oil States International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OIS.US&back=XES
+TTI	TETRA Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTI.US&back=XES
+BOOM	DMC Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BOOM.US&back=XES
+WTTR	Select Energy Services Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=WTTR.US&back=XES
+VTOL	Bristow Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTOL.US&back=XES
+	STATE STREET INSTITUTIONAL LIQ STATE STR	

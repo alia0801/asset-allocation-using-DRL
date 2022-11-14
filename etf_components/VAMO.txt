@@ -1,0 +1,95 @@
+VAMO
+	Cash Equivalent	
+CF	CF Industries Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=VAMO
+UNM	Unum Group	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=VAMO
+SANM	Sanmina Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SANM.US&back=VAMO
+METC	Ramaco Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=METC.US&back=VAMO
+RFP	Resolute Forest Products Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RFP.US&back=VAMO
+CMC	Commercial Metals Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMC.US&back=VAMO
+NRG	NRG Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=VAMO
+SIGA	SIGA Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SIGA.US&back=VAMO
+WLK	Westlake Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=VAMO
+TRV	Travelers Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=VAMO
+Y	Alleghany Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=Y.US&back=VAMO
+AVT	Avnet Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVT.US&back=VAMO
+L	Loews Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=VAMO
+MTDR	Matador Resources Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=VAMO
+CHRD	Chord Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=VAMO
+EOG	EOG Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=VAMO
+ARCB	ArcBest Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCB.US&back=VAMO
+PR	Permian Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PR.US&back=VAMO
+DDS	Dillard's Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DDS.US&back=VAMO
+AMR	Alpha Metallurgical Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMR.US&back=VAMO
+TMST	TimkenSteel Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMST.US&back=VAMO
+BCC	Boise Cascade Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BCC.US&back=VAMO
+CEIX	CONSOL Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CEIX.US&back=VAMO
+AR	Antero Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=VAMO
+MRO	Marathon Oil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=VAMO
+PDCE	PDC Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=VAMO
+BTU	Peabody Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BTU.US&back=VAMO
+STLD	Steel Dynamics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=VAMO
+CLR	Continental Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=VAMO
+MLI	Mueller Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MLI.US&back=VAMO
+CHK	Chesapeake Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=VAMO
+COOP	Mr Cooper Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COOP.US&back=VAMO
+OVV	Ovintiv Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=VAMO
+PFG	Principal Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=VAMO
+MCK	McKesson Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=VAMO
+HAFC	Hanmi Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=HAFC.US&back=VAMO
+NUE	Nucor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=VAMO
+PAG	Penske Automotive Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=VAMO
+PTEN	Patterson-UTI Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PTEN.US&back=VAMO
+CIVI	Civitas Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=VAMO
+VOYA	Voya Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=VAMO
+VRTV	Veritiv Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTV.US&back=VAMO
+XOM	Exxon Mobil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=VAMO
+CI	Cigna Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=VAMO
+MPC	Marathon Petroleum Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=VAMO
+EGY	VAALCO Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EGY.US&back=VAMO
+FANG	Diamondback Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=VAMO
+RYI	Ryerson Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RYI.US&back=VAMO
+VLO	Valero Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=VAMO
+FHN	First Horizon Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN.US&back=VAMO
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=VAMO
+BXC	BlueLinx Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BXC.US&back=VAMO
+APA	APA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=VAMO
+ESTE	Earthstone Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTE.US&back=VAMO
+CNX	CNX Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=VAMO
+MET	MetLife Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=VAMO
+WIRE	Encore Wire Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=WIRE.US&back=VAMO
+SD	SandRidge Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SD.US&back=VAMO
+HLX	Helix Energy Solutions Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HLX.US&back=VAMO
+PXD	Pioneer Natural Resources Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=VAMO
+CRC	California Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRC.US&back=VAMO
+AN	AutoNation Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=VAMO
+ANDE	Andersons Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANDE.US&back=VAMO
+AAWW	Atlas Air Worldwide Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAWW.US&back=VAMO
+ARCH	Arch Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCH.US&back=VAMO
+BHLB	Berkshire Hills Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BHLB.US&back=VAMO
+ORI	Old Republic International Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=VAMO
+IIIN	Insteel Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IIIN.US&back=VAMO
+SCHL	Scholastic Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHL.US&back=VAMO
+JEF	Jefferies Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JEF.US&back=VAMO
+RF	Regions Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=VAMO
+PAGP	Plains GP Holdings LP	/etf/ea/ETZCW.djhtm?c=1&etfid=PAGP.US&back=VAMO
+CALM	Cal-Maine Foods Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CALM.US&back=VAMO
+ATGE	Adtalem Global Education Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATGE.US&back=VAMO
+AEL	American Equity Investment Life Holding Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEL.US&back=VAMO
+AFG	American Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=VAMO
+AIG	American International Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=VAMO
+AA	Alcoa Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=VAMO
+OLN	Olin Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=OLN.US&back=VAMO
+RS	Reliance Steel & Aluminum Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=VAMO
+IPI	Intrepid Potash Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IPI.US&back=VAMO
+HCC	Warrior Met Coal Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HCC.US&back=VAMO
+VST	Vistra Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=VAMO
+MOS	Mosaic Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=VAMO
+CVX	Chevron Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=VAMO
+SXC	SunCoke Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SXC.US&back=VAMO
+GPI	Group 1 Automotive Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GPI.US&back=VAMO
+IMKTA	Ingles Markets Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IMKTA.US&back=VAMO
+PLAB	Photronics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLAB.US&back=VAMO
+SPTN	SpartanNash Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTN.US&back=VAMO
+X	United States Steel Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=VAMO
+HOPE	Hope Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOPE.US&back=VAMO
+	S&P 500 Emini Future	

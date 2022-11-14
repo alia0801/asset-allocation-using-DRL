@@ -1,0 +1,1935 @@
+SPMB
+	Freddie Mac 2 11/01/2051	
+	Freddie Mac 2.5 09/01/2051	
+	Fannie Mae 2.5 10/01/2051	
+	Fannie Mae 1.5 01/01/2037	
+	Fannie Mae 2.5 01/01/2052	
+	Fannie Mae 2 01/01/2051	
+	Freddie Mac 2.5 11/01/2051	
+	Fannie Mae 2 07/01/2051	
+	FNMA PASS-THRU   LNG 30 YEAR 2 06/01/2051	
+	Government National Mortgage A 2 06/20/2051	
+	Fannie Mae 2 11/01/2051	
+	Freddie Mac 2 04/01/2051	
+	Fannie Mae or Freddie Mac 3.5 12/31/2049	
+	Fannie Mae or Freddie Mac 4.5 12/31/2049	
+	Government National Mortgage A 2 01/20/2052	
+	Fannie Mae 2.5 01/01/2052	
+	Fannie Mae 1.5 03/01/2037	
+	Fannie Mae 2 02/01/2052	
+	Fannie Mae 2.5 08/01/2051	
+	Fannie Mae 2 04/01/2051	
+	Freddie Mac 2 02/01/2051	
+	Fannie Mae 2 05/01/2036	
+	Government National Mortgage A 2 01/20/2051	
+	Fannie Mae 2 10/01/2050	
+	Fannie Mae or Freddie Mac 4 12/31/2049	
+	Fannie Mae 2 11/01/2051	
+	Freddie Mac 2 12/01/2050	
+	Freddie Mac 2 01/01/2051	
+	Government National Mortgage A 2.5 02/20/2051	
+	Fannie Mae 1.5 10/01/2051	
+	Freddie Mac 2 11/01/2050	
+	Government National Mortgage A 4 12/31/2049	
+	Fannie Mae or Freddie Mac 5 12/31/2049	
+	Fannie Mae 2 12/01/2036	
+	Fannie Mae 2 05/01/2051	
+	Fannie Mae 2.5 07/01/2051	
+	Government National Mortgage A 4.5 12/31/2049	
+	Government National Mortgage A 2.5 06/20/2051	
+	Freddie Mac 2 09/01/2051	
+	Fannie Mae 2 06/01/2051	
+	Fannie Mae 2.5 09/01/2051	
+	Fannie Mae 1.5 12/01/2050	
+	Freddie Mac 3 06/01/2051	
+	Government National Mortgage A 2 04/20/2051	
+	Fannie Mae 4 08/01/2052	
+	Government National Mortgage A 2.5 01/20/2052	
+	Fannie Mae 2 02/01/2051	
+	Fannie Mae 3.5 06/01/2052	
+	Government National Mortgage A 2 05/20/2051	
+	Fannie Mae 2.5 04/01/2051	
+	Freddie Mac 2.5 10/01/2050	
+	Fannie Mae 2 11/01/2050	
+	Government National Mortgage A 2 03/20/2051	
+	Fannie Mae 2 01/01/2051	
+	Government National Mortgage A 2.5 10/20/2050	
+	Freddie Mac 2.5 12/01/2051	
+	Freddie Mac 2.5 10/01/2050	
+	Freddie Mac 2.5 09/01/2050	
+	Government National Mortgage A 2.5 04/20/2051	
+	Fannie Mae 2.5 07/01/2050	
+	Fannie Mae 2 05/01/2051	
+	Freddie Mac 3 03/01/2052	
+	Fannie Mae 2 03/01/2051	
+	GNMA PASS-THRU M SINGLE FAMILY 2.5 07/20/2051	
+	Fannie Mae 2 01/01/2051	
+	Government National Mortgage A 3 01/20/2050	
+	Government National Mortgage A 2.5 01/20/2051	
+	Fannie Mae 3 04/01/2052	
+	Government National Mortgage A 3.5 12/31/2049	
+	Government National Mortgage A 2.5 09/20/2050	
+	Freddie Mac 2 02/01/2052	
+	Freddie Mac 2.5 10/01/2050	
+	Government National Mortgage A 2 12/20/2051	
+	Fannie Mae 2.5 05/01/2051	
+	Fannie Mae or Freddie Mac 3 12/31/2049	
+	Freddie Mac 1.5 06/01/2051	
+	Freddie Mac 4 02/01/2051	
+	Freddie Mac 2 09/01/2051	
+	Freddie Mac 2.5 10/01/2050	
+	Fannie Mae 2 10/01/2035	
+	Freddie Mac 3.5 12/01/2049	
+	Government National Mortgage A 2 09/20/2051	
+	Government National Mortgage A 2.5 02/20/2052	
+	Fannie Mae 2 03/01/2051	
+	Fannie Mae 2 01/01/2041	
+	Freddie Mac 3.5 12/01/2049	
+	Fannie Mae 2 03/01/2051	
+	Fannie Mae 2.5 11/01/2049	
+	Government National Mortgage A 3 04/20/2050	
+	Government National Mortgage A 3 07/20/2050	
+	Fannie Mae 2 09/01/2051	
+	Government National Mortgage A 3 06/20/2050	
+	Government National Mortgage A 2.5 09/20/2051	
+	Freddie Mac 2 10/01/2050	
+	Fannie Mae 4 04/01/2044	
+	Fannie Mae 2 02/01/2051	
+	Freddie Mac 3 03/01/2052	
+	Fannie Mae 1.5 11/01/2051	
+	Fannie Mae 2.5 09/01/2050	
+	Government National Mortgage A 2.5 10/20/2051	
+	Freddie Mac 2 02/01/2051	
+	Fannie Mae 2.5 08/01/2050	
+	Fannie Mae 3 05/01/2052	
+	Freddie Mac 2.5 08/01/2050	
+	Government National Mortgage A 2 08/20/2051	
+	Fannie Mae 2.5 10/01/2050	
+	Fannie Mae 2 01/01/2052	
+	Government National Mortgage A 3 08/20/2042	
+	Freddie Mac 2.5 11/01/2050	
+	Fannie Mae 2 07/01/2050	
+	Fannie Mae 2.5 02/01/2052	
+	Government National Mortgage A 3 12/31/2049	
+	Government National Mortgage A 2 11/20/2051	
+	Freddie Mac 3.5 01/01/2050	
+	Freddie Mac 2.5 06/01/2050	
+	Government National Mortgage A 4 07/20/2049	
+	Fannie Mae 2.5 08/01/2050	
+	Fannie Mae 3 08/01/2050	
+	Government National Mortgage A 3 05/20/2050	
+	Fannie Mae 3 09/01/2051	
+	Fannie Mae 3 04/01/2048	
+	Freddie Mac 1.5 10/01/2051	
+	Government National Mortgage A 3.5 08/20/2051	
+	Freddie Mac 2 08/01/2041	
+	Fannie Mae 2.5 07/01/2051	
+	Fannie Mae 4 03/01/2046	
+	Fannie Mae 5 12/01/2049	
+	Fannie Mae 2.5 07/01/2050	
+	Government National Mortgage A 3.5 07/20/2046	
+	Freddie Mac 3.5 01/01/2050	
+	Government National Mortgage A 3 05/20/2052	
+	Fannie Mae 2 11/01/2050	
+	Government National Mortgage A 2.5 03/20/2051	
+	Fannie Mae 2 02/01/2051	
+	Government National Mortgage A 2.5 08/20/2050	
+	Fannie Mae 1.5 07/01/2036	
+	Freddie Mac 1.5 02/01/2051	
+	Government National Mortgage A 2 12/20/2050	
+	Government National Mortgage A 3.5 10/20/2049	
+	Fannie Mae 3 04/01/2047	
+	Fannie Mae 2 11/01/2041	
+	Fannie Mae 1.5 03/01/2051	
+	Government National Mortgage A 3.5 02/20/2050	
+	Freddie Mac 2 11/01/2035	
+	Government National Mortgage A 3 08/20/2046	
+	Fannie Mae 3 09/01/2050	
+	Government National Mortgage A 2.5 12/20/2050	
+	Fannie Mae 3 08/01/2051	
+	Fannie Mae 2 08/01/2035	
+	Fannie Mae 2 11/01/2051	
+	Freddie Mac 2 09/01/2036	
+	Government National Mortgage A 2.5 11/20/2051	
+	Freddie Mac 5 09/01/2049	
+	Government National Mortgage A 3 06/20/2045	
+	Freddie Mac 2 11/01/2051	
+	Freddie Mac 3 02/01/2050	
+	Government National Mortgage A 3.5 01/20/2050	
+	Fannie Mae 3.5 12/01/2047	
+	Fannie Mae 2.5 09/01/2051	
+	Fannie Mae 2 02/01/2051	
+	Fannie Mae 2.5 06/01/2035	
+	Government National Mortgage A 3 08/20/2051	
+	Freddie Mac 2.5 06/01/2051	
+	Fannie Mae 2.5 06/01/2050	
+	Fannie Mae 2 11/01/2040	
+	Fannie Mae 3.5 03/01/2046	
+	Government National Mortgage A 3.5 06/20/2050	
+	Government National Mortgage A 2 10/20/2051	
+	Fannie Mae 3.5 05/01/2047	
+	Fannie Mae 1.5 01/01/2051	
+	Government National Mortgage A 2.5 09/20/2048	
+	Government National Mortgage A 3 05/20/2051	
+	Fannie Mae 2.5 06/01/2050	
+	Fannie Mae 2 12/01/2050	
+	Fannie Mae 3 06/01/2051	
+	Fannie Mae 2 12/01/2050	
+	Fannie Mae 4 07/01/2049	
+	Government National Mortgage A 4 03/20/2050	
+	Fannie Mae 2 12/01/2035	
+	Fannie Mae 4 04/01/2047	
+	Fannie Mae                     MA42-69 1.5 02/01/2036	
+	Freddie Mac 2 01/01/2037	
+	Freddie Mac 2 07/01/2041	
+	Government National Mortgage A 2.5 12/31/2049	
+	Fannie Mae 3.5 07/01/2032	
+	Fannie Mae 3.5 09/01/2030	
+	Government National Mortgage A 2.5 05/20/2052	
+	Freddie Mac 3 07/01/2046	
+	Fannie Mae 3.5 05/01/2050	
+	Fannie Mae 3 01/01/2052	
+	Government National Mortgage A 3 04/20/2045	
+	Fannie Mae 4 09/01/2047	
+	Fannie Mae 3 02/01/2050	
+	Fannie Mae 2 07/01/2036	
+	Fannie Mae 3 11/01/2041	
+	Freddie Mac 2.5 02/01/2052	
+	Freddie Mac 2.5 02/01/2052	
+	Freddie Mac 2.5 01/01/2051	
+	Freddie Mac 2 08/01/2051	
+	Fannie Mae 2 09/01/2035	
+	Fannie Mae 2 05/01/2037	
+	Fannie Mae 2.5 12/01/2051	
+	Fannie Mae 4.5 11/01/2049	
+	Fannie Mae 3.5 05/01/2047	
+	Government National Mortgage A 3 12/20/2051	
+	Fannie Mae 2.5 08/01/2050	
+	Fannie Mae 3 05/01/2051	
+	Fannie Mae 4 04/01/2047	
+	Freddie Mac 2.5 09/01/2050	
+	Freddie Mac 2.5 09/01/2051	
+	Fannie Mae 2.5 02/01/2041	
+	Freddie Mac 2 09/01/2035	
+	Government National Mortgage A 3.5 01/20/2048	
+	Fannie Mae 2 08/01/2050	
+	Fannie Mae 3 03/01/2050	
+	Fannie Mae 3.5 07/01/2048	
+	Fannie Mae 2.5 06/01/2050	
+	Freddie Mac 3 07/01/2035	
+	Government National Mortgage A 3 08/20/2050	
+	Government National Mortgage A 4 06/20/2050	
+	Fannie Mae 3.5 04/01/2050	
+	Fannie Mae 2.5 05/01/2051	
+	Fannie Mae 2.5 04/01/2051	
+	Fannie Mae 3 10/01/2047	
+	Freddie Mac 2 04/01/2037	
+	Freddie Mac 2.5 01/01/2037	
+	Fannie Mae 4 01/01/2048	
+	Fannie Mae 1.5 05/01/2041	
+	Fannie Mae 3.5 07/01/2048	
+	Fannie Mae 2.5 04/01/2042	
+	Fannie Mae 3 02/01/2052	
+	Government National Mortgage A 2.5 08/20/2051	
+	Fannie Mae 3 06/01/2046	
+	Fannie Mae 3 02/01/2050	
+	Fannie Mae 2.5 11/01/2051	
+	Fannie Mae 3.5 07/01/2047	
+	Fannie Mae 2.5 07/01/2035	
+	Fannie Mae 2 03/01/2052	
+	Fannie Mae 4 09/01/2048	
+	Freddie Mac 2 03/01/2052	
+	Freddie Mac 2 02/01/2052	
+	Fannie Mae 4 06/01/2049	
+	Fannie Mae 3 07/01/2047	
+	Fannie Mae 3.5 06/01/2049	
+	Freddie Mac 2 03/01/2052	
+	Fannie Mae 2.5 11/01/2051	
+	Fannie Mae 2.5 06/01/2029	
+	Fannie Mae 2.5 08/01/2050	
+	Fannie Mae 1.5 01/01/2042	
+	Fannie Mae 2.5 10/01/2051	
+	Freddie Mac 2 10/01/2051	
+	Freddie Mac 1.5 12/01/2035	
+	Fannie Mae 3 01/01/2050	
+	Government National Mortgage A 3.5 12/20/2050	
+	Fannie Mae 2 10/01/2041	
+	Fannie Mae 4.5 10/01/2048	
+	Fannie Mae 2.5 03/01/2050	
+	Government National Mortgage A 3.5 02/20/2046	
+	Fannie Mae 3 09/01/2033	
+	Fannie Mae 2.5 01/01/2043	
+	Fannie Mae 2 01/01/2036	
+	Fannie Mae 2.5 08/01/2050	
+	Freddie Mac 2.5 07/01/2035	
+	Fannie Mae 2 03/01/2051	
+	Freddie Mac 1.5 05/01/2041	
+	Fannie Mae 2.5 08/01/2035	
+	Fannie Mae 3 05/01/2051	
+	Government National Mortgage A 2 08/20/2050	
+	Freddie Mac 3 12/01/2034	
+	Fannie Mae or Freddie Mac 2 12/31/2049	
+	Freddie Mac 2 03/01/2051	
+	Fannie Mae 3 08/01/2050	
+	Freddie Mac 2 10/01/2051	
+	Freddie Mac 3 10/01/2051	
+	Freddie Mac 3.5 12/01/2049	
+	Fannie Mae 4.5 11/01/2048	
+	Fannie Mae 3.5 02/01/2045	
+	Government National Mortgage A 2 02/20/2051	
+	Government National Mortgage A 3 02/20/2050	
+	Fannie Mae 4.5 02/01/2048	
+	Freddie Mac 3 02/01/2052	
+	Fannie Mae 2 02/01/2042	
+	Fannie Mae 3 05/01/2035	
+	Government National Mortgage A 4 04/20/2048	
+	Fannie Mae 2 11/01/2050	
+	Fannie Mae 2 09/01/2035	
+	Freddie Mac 2 04/01/2036	
+	Freddie Mac 4.5 08/01/2049	
+	Freddie Mac 2 10/01/2036	
+	Fannie Mae 3 04/01/2047	
+	Fannie Mae 2 12/01/2040	
+	Freddie Mac 3 09/01/2050	
+	Fannie Mae 3 03/01/2050	
+	Government National Mortgage A 3.5 06/20/2052	
+	Fannie Mae 2 09/01/2050	
+	Government National Mortgage A 4.5 04/20/2050	
+	Fannie Mae 3.5 01/01/2048	
+	Fannie Mae 2 09/01/2035	
+	Government National Mortgage A 3 07/20/2051	
+	Fannie Mae 2.5 02/01/2051	
+	Government National Mortgage A 2 04/20/2052	
+	Fannie Mae 2.5 06/01/2050	
+	Fannie Mae 3 02/01/2050	
+	Fannie Mae 2 12/01/2035	
+	Government National Mortgage A 4 06/20/2048	
+	Fannie Mae 3.5 03/01/2048	
+	Fannie Mae 3 11/01/2049	
+	Fannie Mae 3 03/01/2040	
+	Fannie Mae 2.5 06/01/2050	
+	Fannie Mae 2 11/01/2050	
+	Fannie Mae 2 11/01/2035	
+	Government National Mortgage A 3 06/20/2046	
+	Fannie Mae 2 07/01/2050	
+	Government National Mortgage A 2.5 06/20/2052	
+	Government National Mortgage A 3 07/20/2047	
+	Fannie Mae 2.5 02/01/2040	
+	Fannie Mae 3 07/01/2050	
+	Freddie Mac 3 02/01/2047	
+	Fannie Mae 2.5 05/01/2051	
+	Fannie Mae 2.5 06/01/2041	
+	Freddie Mac 2 12/01/2050	
+	Freddie Mac 2 05/01/2041	
+	Fannie Mae 3 09/01/2049	
+	Fannie Mae 4.5 02/01/2049	
+	Fannie Mae 4 10/01/2047	
+	Fannie Mae 2 02/01/2051	
+	Fannie Mae 4.5 08/01/2052	
+	Fannie Mae 4 02/01/2048	
+	Government National Mortgage A 2 05/20/2052	
+	Government National Mortgage A 3 11/20/2047	
+	Government National Mortgage A 4.5 10/20/2050	
+	Freddie Mac 2 05/01/2051	
+	Fannie Mae 2.5 08/01/2035	
+	Fannie Mae 2.5 01/01/2035	
+	Fannie Mae 4.5 03/01/2050	
+	Fannie Mae 4 10/01/2048	
+	(CI) UMBS Conventional Con 15 years 1.5 02/01/2036	
+	Freddie Mac 3 01/01/2035	
+	Fannie Mae 3 06/01/2037	
+	Fannie Mae 2 03/01/2051	
+	Freddie Mac 3.5 03/01/2048	
+	Government National Mortgage A 3 07/20/2043	
+	Freddie Mac 3 02/01/2052	
+	Freddie Mac 2.5 09/01/2040	
+	Fannie Mae or Freddie Mac 3 12/31/2049	
+	Fannie Mae 3.5 01/01/2047	
+	Fannie Mae 2.5 07/01/2051	
+	Freddie Mac 3.5 09/01/2047	
+	Freddie Mac 2 09/01/2050	
+	Freddie Mac 2 03/01/2052	
+	Freddie Mac 3.5 02/01/2047	
+	Government National Mortgage A 4.5 06/20/2049	
+	Freddie Mac 3 05/01/2051	
+	Fannie Mae 3 08/01/2043	
+	Fannie Mae 2 10/01/2040	
+	Fannie Mae 4 11/01/2046	
+	Freddie Mac 3.5 07/01/2046	
+	Fannie Mae 1.5 04/01/2037	
+	Fannie Mae 3 04/01/2046	
+	Freddie Mac 2 03/01/2051	
+	Fannie Mae 3 01/01/2047	
+	Fannie Mae 2.5 12/01/2033	
+	Government National Mortgage A 3 09/20/2046	
+	Fannie Mae 2 04/01/2042	
+	Government National Mortgage A 4 02/20/2048	
+	Freddie Mac 2.5 02/01/2040	
+	Fannie Mae 3.5 05/01/2032	
+	Freddie Mac 2.5 04/01/2033	
+	Fannie Mae 2 03/01/2036	
+	Fannie Mae 3.5 09/01/2049	
+	Government National Mortgage A 4 06/20/2049	
+	Fannie Mae 3 07/01/2050	
+	GNMA PASS-THRU M SINGLE FAMILY 2 07/20/2051	
+	Government National Mortgage A 3.5 09/20/2051	
+	Freddie Mac 2 06/01/2052	
+	Fannie Mae 2 10/01/2051	
+	Freddie Mac 3 02/01/2050	
+	Government National Mortgage A 2 09/20/2050	
+	Freddie Mac 3 12/01/2032	
+	Fannie Mae 3.5 08/01/2049	
+	Fannie Mae 4 03/01/2049	
+	Freddie Mac 2.5 08/01/2035	
+	Freddie Mac 3 06/01/2051	
+	Government National Mortgage A 3.5 01/20/2046	
+	Fannie Mae 2 10/01/2041	
+	Freddie Mac 2 12/01/2051	
+	Fannie Mae 2.5 09/01/2051	
+	Freddie Mac 2.5 09/01/2035	
+	Fannie Mae 2 04/01/2051	
+	Fannie Mae 2.5 06/01/2032	
+	Government National Mortgage A 2.5 05/20/2051	
+	Freddie Mac 3 12/01/2046	
+	Fannie Mae 3.5 04/01/2050	
+	Fannie Mae 2.5 03/01/2051	
+	Freddie Mac 3 02/01/2050	
+	Government National Mortgage A 3 02/20/2046	
+	Fannie Mae 3.5 04/01/2050	
+	Government National Mortgage A 2.5 07/20/2050	
+	Freddie Mac 3 10/01/2049	
+	Freddie Mac 2 04/01/2051	
+	Fannie Mae 2 04/01/2036	
+	Fannie Mae 2 11/01/2050	
+	Fannie Mae 4 10/01/2048	
+	Fannie Mae 3.5 04/01/2049	
+	Government National Mortgage A 3.5 06/20/2049	
+	Freddie Mac 2 04/01/2051	
+	Fannie Mae 3 10/01/2046	
+	Fannie Mae 2 06/01/2050	
+	Government National Mortgage A 3.5 03/20/2050	
+	Fannie Mae 3 01/01/2051	
+	Government National Mortgage A 4.5 01/20/2046	
+	Fannie Mae 2 01/01/2051	
+	Freddie Mac 3 03/01/2033	
+	Government National Mortgage A 3 11/20/2049	
+	Fannie Mae 2 12/01/2050	
+	Freddie Mac 1.5 05/01/2051	
+	Fannie Mae 3 08/01/2038	
+	Freddie Mac 3 04/01/2033	
+	Freddie Mac 5 10/01/2049	
+	Fannie Mae 2 02/01/2036	
+	Government National Mortgage A 4 05/20/2049	
+	Government National Mortgage A 3 09/20/2049	
+	Fannie Mae 4 06/01/2047	
+	Government National Mortgage A 3.5 09/20/2049	
+	Fannie Mae 4.5 03/01/2047	
+	Freddie Mac 3 02/01/2047	
+	Government National Mortgage A 4.5 02/20/2050	
+	Fannie Mae 3 04/01/2051	
+	Fannie Mae 3.5 01/01/2048	
+	Freddie Mac 3 12/01/2051	
+	Government National Mortgage A 3.5 09/20/2047	
+	Freddie Mac 1.5 12/01/2050	
+	Freddie Mac 2.5 07/01/2036	
+	Freddie Mac 3 06/01/2046	
+	Fannie Mae 3.5 03/01/2048	
+	Government National Mortgage A 4.5 01/20/2049	
+	Fannie Mae 3 02/01/2050	
+	Fannie Mae 2.5 02/01/2036	
+	Fannie Mae 2.5 06/01/2050	
+	Fannie Mae 2 03/01/2051	
+	Freddie Mac 4 04/01/2049	
+	Government National Mortgage A 3.5 10/20/2047	
+	Fannie Mae 1.5 01/01/2036	
+	Fannie Mae 4 04/01/2050	
+	Fannie Mae 3.5 06/01/2051	
+	Freddie Mac 4 06/01/2048	
+	Freddie Mac 3 04/01/2050	
+	Fannie Mae 4 09/01/2046	
+	Government National Mortgage A 2.5 06/20/2050	
+	Freddie Mac 1.5 11/01/2051	
+	Government National Mortgage A 4 05/20/2048	
+	Government National Mortgage A 2.5 02/20/2051	
+	Fannie Mae 4 10/01/2048	
+	Government National Mortgage A 2 11/20/2050	
+	Freddie Mac 2 05/01/2051	
+	Freddie Mac 2.5 12/01/2033	
+	Fannie Mae 3.5 02/01/2048	
+	Fannie Mae 3.5 02/01/2048	
+	Government National Mortgage A 3.5 06/20/2044	
+	Fannie Mae 3 09/01/2050	
+	Fannie Mae 3.5 01/01/2051	
+	Freddie Mac 2 02/01/2032	
+	Freddie Mac 1.5 03/01/2052	
+	Government National Mortgage A 3.5 04/20/2046	
+	Fannie Mae 3 10/01/2046	
+	Fannie Mae 2.5 03/01/2051	
+	Fannie Mae 4 08/01/2048	
+	Fannie Mae 4 06/01/2048	
+	Government National Mortgage A 3.5 07/20/2050	
+	Fannie Mae 3 07/01/2051	
+	Fannie Mae 2.5 03/01/2051	
+	Fannie Mae 2 09/01/2050	
+	Freddie Mac 5 03/01/2050	
+	Freddie Mac 4 01/01/2047	
+	Freddie Mac 1.5 04/01/2036	
+	Fannie Mae 2 02/01/2051	
+	Government National Mortgage A 4 11/20/2051	
+	Fannie Mae 4 06/01/2038	
+	Freddie Mac 3 06/01/2042	
+	Fannie Mae 2.5 06/01/2050	
+	Fannie Mae 3 11/01/2032	
+	Freddie Mac 5 09/01/2048	
+	Fannie Mae 2.5 11/01/2049	
+	Fannie Mae 4.5 05/01/2047	
+	Government National Mortgage A 4 07/20/2047	
+	Freddie Mac 3.5 06/01/2051	
+	Fannie Mae 3 07/01/2051	
+	Fannie Mae 3 12/01/2047	
+	Government National Mortgage A 3.5 11/20/2046	
+	Government National Mortgage A 3.5 04/20/2045	
+	Fannie Mae 3 08/01/2036	
+	Freddie Mac 2.5 01/01/2035	
+	Freddie Mac 3 07/01/2051	
+	Fannie Mae 4.5 04/01/2050	
+	Fannie Mae 2 02/01/2036	
+	Fannie Mae 4 07/01/2047	
+	Fannie Mae 2 11/01/2050	
+	Fannie Mae 2 10/01/2050	
+	Freddie Mac 2.5 06/01/2050	
+	Freddie Mac 3 11/01/2051	
+	Fannie Mae 2.5 11/01/2050	
+	Fannie Mae 2.5 07/01/2036	
+	Fannie Mae 4 12/01/2039	
+	Fannie Mae 2.5 05/01/2040	
+	Fannie Mae 3 12/01/2034	
+	Government National Mortgage A 3.5 12/20/2041	
+	Freddie Mac 2.5 10/01/2051	
+	Fannie Mae 2.5 02/01/2035	
+	Fannie Mae 4 09/01/2049	
+	Fannie Mae 4.5 09/01/2050	
+	Fannie Mae 3 06/01/2036	
+	Fannie Mae 3 04/01/2040	
+	Freddie Mac 2.5 05/01/2050	
+	Government National Mortgage A 3.5 05/20/2050	
+	Freddie Mac 2.5 07/01/2035	
+	Fannie Mae 3 09/01/2046	
+	Fannie Mae 3.5 09/01/2049	
+	Freddie Mac 3.5 09/01/2049	
+	Freddie Mac 3 04/01/2051	
+	Government National Mortgage A 3 09/20/2050	
+	Freddie Mac 3 02/01/2047	
+	Fannie Mae 3 09/01/2048	
+	Fannie Mae 3 04/01/2050	
+	Fannie Mae 2.5 07/01/2035	
+	Freddie Mac 1.5 01/01/2042	
+	Fannie Mae 4 12/01/2049	
+	Fannie Mae 2.5 08/01/2051	
+	Fannie Mae 2.5 10/01/2031	
+	Fannie Mae 3 09/01/2046	
+	Freddie Mac 3 09/01/2050	
+	Fannie Mae 4.5 02/01/2049	
+	Freddie Mac 2.5 04/01/2052	
+	Government National Mortgage A 3.5 10/20/2044	
+	Fannie Mae 4 12/01/2048	
+	Fannie Mae 3 02/01/2050	
+	Freddie Mac 3.5 03/01/2048	
+	Government National Mortgage A 4.5 12/20/2048	
+	Government National Mortgage A 2.5 03/20/2051	
+	Fannie Mae 2 05/01/2051	
+	Fannie Mae 4 05/01/2029	
+	Fannie Mae 2 02/01/2051	
+	Fannie Mae 4 02/01/2048	
+	Fannie Mae 2 05/01/2041	
+	Fannie Mae 2.5 05/01/2051	
+	Fannie Mae 2.5 12/01/2050	
+	Fannie Mae 3.5 11/01/2047	
+	Fannie Mae 3.5 01/01/2048	
+	Fannie Mae 2 04/01/2051	
+	Fannie Mae 3.5 02/01/2036	
+	Government National Mortgage A 5 06/20/2049	
+	Freddie Mac 2.5 05/01/2035	
+	Freddie Mac 2 09/01/2050	
+	Fannie Mae 3 07/01/2050	
+	Fannie Mae 3.5 11/01/2047	
+	Fannie Mae 2 04/01/2036	
+	Government National Mortgage A 3 12/20/2047	
+	Government National Mortgage A 3.5 01/20/2051	
+	Freddie Mac 3.5 11/01/2047	
+	Freddie Mac 2.5 11/01/2035	
+	Fannie Mae 3.5 01/01/2050	
+	Fannie Mae 4 10/01/2050	
+	Fannie Mae 2 03/01/2051	
+	Fannie Mae 3 11/01/2032	
+	Government National Mortgage A 3 12/20/2050	
+	Fannie Mae 2 03/01/2051	
+	Government National Mortgage A 4 08/20/2048	
+	Fannie Mae 2.5 09/01/2050	
+	Fannie Mae 3 09/01/2046	
+	Fannie Mae 4 03/01/2045	
+	Fannie Mae 2.5 12/01/2028	
+	Fannie Mae 2 02/01/2036	
+	Fannie Mae 3 08/01/2050	
+	Fannie Mae 4.5 06/01/2044	
+	Government National Mortgage A 3.5 02/20/2051	
+	Government National Mortgage A 4 03/20/2048	
+	Freddie Mac 3 10/01/2049	
+	Fannie Mae 3.5 08/01/2045	
+	Fannie Mae 3.5 11/01/2045	
+	Freddie Mac 3.5 03/01/2049	
+	Fannie Mae 4.5 06/01/2050	
+	UMBS ONVENTIONAL 15 YEARS 1.5	
+	Freddie Mac 4 03/01/2049	
+	Fannie Mae 3 06/01/2051	
+	Government National Mortgage A 3 08/20/2049	
+	Freddie Mac 3 09/01/2034	
+	Government National Mortgage A 3 10/20/2047	
+	Fannie Mae 3 06/01/2042	
+	Fannie Mae 1.5 11/01/2035	
+	Fannie Mae 4 07/01/2044	
+	Government National Mortgage A 4 11/20/2047	
+	Freddie Mac 4 01/01/2050	
+	Government National Mortgage A 4.5 09/20/2048	
+	Fannie Mae 3.5 12/01/2045	
+	Fannie Mae 3.5 08/01/2051	
+	Fannie Mae 2 09/01/2035	
+	Fannie Mae 2.5 12/01/2049	
+	Fannie Mae 3 02/01/2040	
+	Freddie Mac 1.5 04/01/2037	
+	Freddie Mac 3.5 06/01/2047	
+	Fannie Mae 3.5 05/01/2047	
+	Freddie Mac 4.5 03/01/2049	
+	Fannie Mae 2.5 10/01/2050	
+	Fannie Mae 3.5 11/01/2047	
+	Freddie Mac 2 08/01/2035	
+	Fannie Mae 3.5 07/01/2048	
+	Fannie Mae 2.5 06/01/2050	
+	Fannie Mae 4.5 08/01/2040	
+	Fannie Mae 3 10/01/2044	
+	Fannie Mae 3.5 07/01/2049	
+	Fannie Mae 3.5 08/01/2045	
+	Freddie Mac 3 04/01/2043	
+	Fannie Mae 3 02/01/2036	
+	Fannie Mae 3 03/01/2051	
+	Fannie Mae 3 06/01/2051	
+	Fannie Mae 3 03/01/2050	
+	Government National Mortgage A 3 12/20/2049	
+	Fannie Mae 2.5 07/01/2050	
+	Fannie Mae 3 01/01/2048	
+	Fannie Mae 2 05/01/2035	
+	Fannie Mae 4 04/01/2050	
+	Freddie Mac 4.5 09/01/2048	
+	Fannie Mae 3 11/01/2046	
+	Fannie Mae 4 07/01/2048	
+	Freddie Mac 3 08/01/2049	
+	Fannie Mae 3.5 02/01/2028	
+	Freddie Mac 5 05/01/2049	
+	Fannie Mae 3.5 08/01/2050	
+	Fannie Mae 2.5 10/01/2050	
+	Fannie Mae 3.5 08/01/2046	
+	Fannie Mae 3.5 03/01/2048	
+	Fannie Mae 3.5 08/01/2046	
+	Fannie Mae 2 12/01/2051	
+	Fannie Mae 2.5 08/01/2034	
+	Fannie Mae 4.5 09/01/2040	
+	Fannie Mae 2 08/01/2051	
+	Fannie Mae 3 07/01/2036	
+	Fannie Mae 3.5 11/01/2048	
+	Freddie Mac 4 02/01/2046	
+	Fannie Mae 3 08/01/2050	
+	Fannie Mae 4 06/01/2045	
+	Freddie Mac 3.5 01/01/2050	
+	Government National Mortgage A 2.5 03/20/2051	
+	Fannie Mae 4.5 03/01/2049	
+	Fannie Mae 2 03/01/2051	
+	Freddie Mac 2 01/01/2036	
+	Fannie Mae 4 12/01/2044	
+	Freddie Mac 2 06/01/2051	
+	Fannie Mae 2 09/01/2050	
+	Government National Mortgage A 2.5 12/20/2046	
+	Government National Mortgage A 2.5 11/20/2050	
+	Fannie Mae 1.5 07/01/2051	
+	Freddie Mac 3 09/01/2046	
+	Fannie Mae 2 02/01/2051	
+	Freddie Mac 2 07/01/2035	
+	Government National Mortgage A 3.5 12/20/2046	
+	Freddie Mac 2.5 10/01/2035	
+	Fannie Mae 2.5 12/01/2034	
+	Fannie Mae 3.5 10/01/2049	
+	Fannie Mae 3.5 12/01/2044	
+	Fannie Mae 4.5 03/01/2050	
+	Fannie Mae 3.5 04/01/2049	
+	Government National Mortgage A 3.5 12/20/2047	
+	Freddie Mac 3.5 08/01/2049	
+	Freddie Mac 3 01/01/2048	
+	Fannie Mae 2.5 07/01/2030	
+	Government National Mortgage A 3.5 08/20/2049	
+	Government National Mortgage A 3.5 05/20/2048	
+	Freddie Mac 2.5 04/01/2050	
+	Fannie Mae 4.5 05/01/2049	
+	Fannie Mae 2 12/01/2035	
+	Fannie Mae 4.5 08/01/2047	
+	Freddie Mac 4 02/01/2047	
+	Fannie Mae 3 01/01/2050	
+	Fannie Mae 2 01/01/2051	
+	Government National Mortgage A 3 06/20/2051	
+	Government National Mortgage A 3.5 12/20/2049	
+	Fannie Mae 2 12/01/2050	
+	Fannie Mae 4.5 09/01/2049	
+	Freddie Mac 2 06/01/2036	
+	Fannie Mae 3 01/01/2031	
+	Fannie Mae 3.5 05/01/2048	
+	Fannie Mae 4 12/01/2048	
+	Freddie Mac 3 03/01/2050	
+	Fannie Mae 1.5 04/01/2036	
+	Freddie Mac 3 08/01/2046	
+	Fannie Mae 3 12/01/2049	
+	Fannie Mae 3.5 04/01/2050	
+	Fannie Mae 3 11/01/2048	
+	Fannie Mae 3 01/01/2043	
+	Freddie Mac 1.5 12/01/2036	
+	Freddie Mac 2.5 09/01/2032	
+	Fannie Mae 3 10/01/2049	
+	Fannie Mae 3.5 05/01/2035	
+	Fannie Mae 2.5 05/01/2050	
+	Government National Mortgage A 3 01/20/2051	
+	Freddie Mac 5 11/01/2049	
+	Fannie Mae 3 02/01/2048	
+	Fannie Mae 3 03/01/2030	
+	Fannie Mae 2.5 08/01/2050	
+	Freddie Mac 2 05/01/2051	
+	Freddie Mac 3 09/01/2049	
+	Freddie Mac 4.5 06/01/2048	
+	Fannie Mae 3.5 08/01/2046	
+	Government National Mortgage A 4 07/20/2050	
+	Freddie Mac 4 09/01/2048	
+	Fannie Mae 2.5 04/01/2035	
+	Freddie Mac 3 04/01/2033	
+	Freddie Mac 3 10/01/2049	
+	Freddie Mac 3.5 02/01/2047	
+	Fannie Mae 2.5 08/01/2030	
+	Fannie Mae 4.5 05/01/2050	
+	Fannie Mae 5 03/01/2050	
+	Fannie Mae 4.5 05/01/2049	
+	Freddie Mac 4 01/01/2049	
+	Fannie Mae 3.5 07/01/2045	
+	Fannie Mae 1.5 10/01/2036	
+	Fannie Mae 4.5 09/01/2049	
+	Freddie Mac 3 04/01/2050	
+	Government National Mortgage A 3.5 11/20/2050	
+	Fannie Mae 2.5 10/01/2036	
+	Government National Mortgage A 4 03/20/2049	
+	Freddie Mac 2.5 07/01/2050	
+	Government National Mortgage A 3 01/20/2047	
+	Fannie Mae 2 12/01/2050	
+	Fannie Mae 1.5 12/01/2035	
+	Government National Mortgage A 3.5 01/20/2046	
+	Government National Mortgage A 4.5 08/20/2048	
+	Fannie Mae 1.5 06/01/2036	
+	Fannie Mae 2.5 11/01/2050	
+	Fannie Mae 5 10/01/2048	
+	Fannie Mae 3 10/01/2047	
+	Fannie Mae 1.5 02/01/2036	
+	Fannie Mae or Freddie Mac 2.5 12/31/2049	
+	Government National Mortgage A 4.5 07/20/2049	
+	Fannie Mae 3.5 11/01/2037	
+	Fannie Mae 5 08/01/2049	
+	Government National Mortgage A 3 02/20/2046	
+	Fannie Mae 3 08/01/2032	
+	Government National Mortgage A 2.5 02/20/2050	
+	Fannie Mae 3 01/01/2050	
+	Freddie Mac 2.5 10/01/2036	
+	Government National Mortgage A 3.5 10/20/2042	
+	Freddie Mac 2.5 10/01/2051	
+	Fannie Mae 3 10/01/2046	
+	Fannie Mae 3.5 01/01/2048	
+	Freddie Mac 2 11/01/2051	
+	Fannie Mae 3 08/01/2046	
+	Freddie Mac 3.5 07/01/2049	
+	Freddie Mac 3 07/01/2033	
+	Freddie Mac 1.5 07/01/2036	
+	Fannie Mae 5.5 04/01/2050	
+	Government National Mortgage A 3.5 02/20/2047	
+	Fannie Mae 4 09/01/2048	
+	Fannie Mae 3.5 02/01/2045	
+	Fannie Mae 2.5 09/01/2031	
+	Freddie Mac 3.5 10/01/2047	
+	Freddie Mac 3.5 01/01/2050	
+	Fannie Mae 3 07/01/2034	
+	Government National Mortgage A 4 01/20/2050	
+	Fannie Mae 3 03/01/2038	
+	Fannie Mae 2.5 09/01/2028	
+	Fannie Mae 3.5 11/01/2050	
+	Fannie Mae 1.5 11/01/2035	
+	Fannie Mae 4 12/01/2045	
+	Fannie Mae 2 08/01/2051	
+	Government National Mortgage A 1.5 09/20/2051	
+	Government National Mortgage A 3 07/20/2045	
+	Freddie Mac 4 12/01/2048	
+	Freddie Mac 2 05/01/2051	
+	Government National Mortgage A 4.5 04/20/2048	
+	Government National Mortgage A 3.5 11/20/2045	
+	Freddie Mac 1.5 10/01/2035	
+	Fannie Mae 4 01/01/2048	
+	Government National Mortgage A 4 10/20/2049	
+	Fannie Mae 4 10/01/2047	
+	Freddie Mac 3 05/01/2043	
+	Fannie Mae 3 08/01/2050	
+	Fannie Mae 2.5 06/01/2030	
+	Freddie Mac 2.5 01/01/2036	
+	Fannie Mae 4.5 02/01/2050	
+	Fannie Mae 2.5 04/01/2033	
+	Fannie Mae 2 04/01/2036	
+	Government National Mortgage A 3.5 05/20/2046	
+	Fannie Mae 3.5 02/01/2043	
+	Government National Mortgage A 3.5 03/20/2044	
+	Fannie Mae 3 02/01/2034	
+	Fannie Mae 2.5 11/01/2031	
+	Fannie Mae 4.5 09/01/2048	
+	Fannie Mae 4 07/01/2049	
+	Fannie Mae 1.5 05/01/2051	
+	Fannie Mae 3.5 05/01/2047	
+	Fannie Mae 4 09/01/2050	
+	Fannie Mae 2.5 02/01/2050	
+	Government National Mortgage A 3.5 07/20/2049	
+	FANNIE MAE POOL 1.5	
+	Government National Mortgage A 2.5 01/20/2050	
+	Fannie Mae 3.5 12/01/2047	
+	Freddie Mac 3 01/01/2050	
+	Government National Mortgage A 3.5 02/20/2048	
+	Fannie Mae 3.5 04/01/2050	
+	Freddie Mac 4.5 04/01/2050	
+	Fannie Mae 2 01/01/2051	
+	Fannie Mae 2 04/01/2051	
+	Fannie Mae 3 09/01/2050	
+	Freddie Mac 3 12/01/2046	
+	Fannie Mae 2 07/01/2036	
+	Fannie Mae 3.5 06/01/2047	
+	Fannie Mae 4.5 06/01/2040	
+	Fannie Mae 3 01/01/2047	
+	Government National Mortgage A 1.5 02/20/2051	
+	Fannie Mae 4 06/01/2050	
+	Government National Mortgage A 3 02/20/2046	
+	Fannie Mae 2.5 10/01/2046	
+	Government National Mortgage A 3 03/20/2050	
+	Fannie Mae 4 11/01/2048	
+	Freddie Mac 2.5 08/01/2051	
+	Government National Mortgage A 4.5 03/20/2048	
+	Fannie Mae 4 05/01/2026	
+	Fannie Mae 4 03/01/2050	
+	Government National Mortgage A 3.5 11/20/2048	
+	Government National Mortgage A 3.5 09/20/2042	
+	Fannie Mae 4 06/01/2049	
+	Fannie Mae 3 05/01/2043	
+	Fannie Mae 4 08/01/2034	
+	Fannie Mae 2 09/01/2035	
+	Government National Mortgage A 2.5 12/20/2049	
+	Fannie Mae 2 02/01/2032	
+	Fannie Mae 4 07/01/2048	
+	Freddie Mac 2 09/01/2035	
+	Freddie Mac 2.5 07/01/2050	
+	Fannie Mae 3 04/01/2035	
+	Fannie Mae 4 12/01/2050	
+	Freddie Mac 3.5 11/01/2048	
+	Fannie Mae 3.5 09/01/2032	
+	Fannie Mae 3 10/01/2049	
+	Fannie Mae 3.5 08/01/2043	
+	Freddie Mac 2.5 08/01/2040	
+	Fannie Mae 5 10/01/2049	
+	Fannie Mae 3 09/01/2046	
+	Fannie Mae 3 08/01/2050	
+	Fannie Mae 5 06/01/2041	
+	Fannie Mae 1.5 11/01/2035	
+	Freddie Mac 2.5 04/01/2036	
+	Fannie Mae 4 06/01/2049	
+	Fannie Mae 3 10/01/2034	
+	Fannie Mae 3.5 02/01/2047	
+	Fannie Mae 3.5 11/01/2049	
+	Fannie Mae 4 03/01/2045	
+	Government National Mortgage A 4 12/20/2049	
+	Fannie Mae 2.5 01/01/2050	
+	Fannie Mae 4 10/01/2046	
+	Freddie Mac 3 07/01/2047	
+	Government National Mortgage A 4.5 05/20/2050	
+	Freddie Mac 3 09/01/2046	
+	Fannie Mae 3.5 09/01/2035	
+	Fannie Mae 2 11/01/2050	
+	Fannie Mae 3 06/01/2028	
+	Freddie Mac 4 07/01/2049	
+	Freddie Mac 2.5 12/01/2035	
+	Freddie Mac 4 12/01/2043	
+	Fannie Mae 2.5 01/01/2035	
+	Fannie Mae 4.5 08/01/2049	
+	Fannie Mae 4.5 06/01/2049	
+	Freddie Mac 3.5 10/01/2041	
+	Freddie Mac 2 06/01/2051	
+	Government National Mortgage A 3 10/20/2043	
+	Freddie Mac 3.5 07/01/2046	
+	Fannie Mae 4 10/01/2047	
+	Freddie Mac 4 11/01/2048	
+	Freddie Mac 3 03/01/2048	
+	Freddie Mac 3 11/01/2042	
+	Freddie Mac 3 10/01/2048	
+	Government National Mortgage A 5 05/20/2050	
+	Government National Mortgage A 3 01/20/2048	
+	Fannie Mae 3.5 06/01/2043	
+	Fannie Mae 3 05/01/2030	
+	Fannie Mae 2 08/01/2040	
+	Fannie Mae 3.5 08/01/2043	
+	Freddie Mac 4 10/01/2048	
+	Fannie Mae 3.5 05/01/2050	
+	Government National Mortgage A 3.5 01/20/2045	
+	Fannie Mae 3 01/01/2035	
+	Fannie Mae 3 11/01/2034	
+	Freddie Mac 4 06/01/2049	
+	Fannie Mae 2.5 09/01/2031	
+	Freddie Mac 3.5 12/01/2043	
+	Fannie Mae 4 01/01/2049	
+	Freddie Mac 3.5 10/01/2049	
+	Fannie Mae 3 01/01/2050	
+	Fannie Mae 3 06/01/2029	
+	Fannie Mae 3 07/01/2050	
+	Government National Mortgage A 3.5 10/20/2043	
+	Fannie Mae 4 06/01/2050	
+	Government National Mortgage A 3 12/20/2046	
+	Fannie Mae 3.5 10/01/2042	
+	Fannie Mae 5 09/01/2048	
+	Freddie Mac 4 07/01/2049	
+	Freddie Mac 5 08/01/2048	
+	Fannie Mae 2 06/01/2041	
+	Freddie Mac 4 01/01/2047	
+	Fannie Mae 1.5 08/01/2036	
+	Government National Mortgage A 2 03/20/2051	
+	Fannie Mae 4.5 10/01/2045	
+	Freddie Mac 3 04/01/2050	
+	Fannie Mae 3.5 09/01/2047	
+	Freddie Mac 4.5 02/01/2050	
+	Fannie Mae 3.5 09/01/2032	
+	Fannie Mae 1.5 12/01/2035	
+	Freddie Mac 2.5 10/01/2031	
+	Fannie Mae 2.5 02/01/2032	
+	Freddie Mac 2.5 01/01/2052	
+	Freddie Mac 4 10/01/2048	
+	Government National Mortgage A 2.5 08/20/2046	
+	Government National Mortgage A 5 05/20/2041	
+	Fannie Mae 3.5 10/01/2028	
+	Fannie Mae 2.5 02/01/2051	
+	Fannie Mae 5 11/01/2048	
+	Fannie Mae 2 02/01/2028	
+	Freddie Mac 3 01/01/2050	
+	Government National Mortgage A 3.5 01/20/2046	
+	Fannie Mae 3.5 04/01/2048	
+	Fannie Mae 2 02/01/2051	
+	Fannie Mae 3 05/01/2046	
+	Freddie Mac 3 12/01/2030	
+	Fannie Mae 2.5 02/01/2043	
+	Fannie Mae 3.5 02/01/2038	
+	Fannie Mae 3.5 01/01/2048	
+	Fannie Mae 3 03/01/2050	
+	Fannie Mae 3.5 12/01/2045	
+	Freddie Mac 3.5 08/01/2042	
+	Fannie Mae 4 09/01/2040	
+	Freddie Mac 3.5 04/01/2049	
+	Freddie Mac 3 12/01/2049	
+	Freddie Mac 3 01/01/2047	
+	Government National Mortgage A 3.5 11/20/2043	
+	Government National Mortgage A 5 01/20/2049	
+	Government National Mortgage A 3.5 07/20/2043	
+	Freddie Mac 3 09/01/2050	
+	Freddie Mac 4 10/01/2040	
+	Freddie Mac 3 10/01/2046	
+	Fannie Mae 4.5 12/01/2043	
+	Fannie Mae 4 01/01/2049	
+	Government National Mortgage A 4.5 03/20/2047	
+	Fannie Mae 3 11/01/2046	
+	Fannie Mae 3 11/01/2046	
+	Freddie Mac 3 02/01/2043	
+	Government National Mortgage A 3.5 02/20/2043	
+	Fannie Mae 4 07/01/2050	
+	Government National Mortgage A 3.5 06/20/2046	
+	Fannie Mae 3.5 11/01/2044	
+	Fannie Mae 3 10/01/2046	
+	Fannie Mae 3 11/01/2046	
+	Government National Mortgage A 4.5 06/20/2047	
+	Government National Mortgage A 3 04/20/2048	
+	Fannie Mae 4 06/01/2049	
+	Fannie Mae 1.5 12/01/2035	
+	Government National Mortgage A 4 09/20/2047	
+	Fannie Mae 4.5 03/01/2029	
+	Freddie Mac 3.5 12/01/2049	
+	Freddie Mac 3 03/01/2027	
+	Fannie Mae 4.5 10/01/2050	
+	Fannie Mae 3 07/01/2030	
+	Fannie Mae 2.5 09/01/2028	
+	Government National Mortgage A 4.5 07/20/2048	
+	Freddie Mac 3 02/01/2031	
+	Fannie Mae 3 08/01/2046	
+	Fannie Mae 4 11/01/2046	
+	Fannie Mae 2.5 10/01/2032	
+	Freddie Mac 3.5 03/01/2046	
+	Freddie Mac 3 08/01/2045	
+	Freddie Mac 2.5 06/01/2041	
+	Freddie Mac 3 07/01/2045	
+	Fannie Mae 4 02/01/2039	
+	Government National Mortgage A 3.5 04/20/2042	
+	Government National Mortgage A 4.5 06/20/2048	
+	Fannie Mae 3 07/01/2050	
+	Fannie Mae 3.5 03/01/2050	
+	Fannie Mae 3 03/01/2050	
+	Freddie Mac 4 09/01/2049	
+	Freddie Mac 3 07/01/2046	
+	Fannie Mae 2.5 12/01/2027	
+	Fannie Mae 2.5 01/01/2036	
+	Freddie Mac 3 12/01/2046	
+	Fannie Mae 3.5 06/01/2050	
+	Fannie Mae 3.5 01/01/2048	
+	Fannie Mae 3 12/01/2044	
+	Freddie Mac 2.5 06/01/2031	
+	Government National Mortgage A 3 10/20/2046	
+	Fannie Mae 3.5 11/01/2034	
+	Fannie Mae 3.5 04/01/2046	
+	Fannie Mae 2 07/01/2051	
+	Fannie Mae 4 07/01/2045	
+	Fannie Mae 3 11/01/2049	
+	Fannie Mae 4 03/01/2049	
+	Freddie Mac 4 02/01/2048	
+	Freddie Mac 3 05/01/2050	
+	Fannie Mae 3.5 10/01/2046	
+	Fannie Mae 2.5 08/01/2031	
+	Fannie Mae 3.5 11/01/2045	
+	Fannie Mae 3.5 06/01/2050	
+	Government National Mortgage A 1.5 11/20/2051	
+	Freddie Mac 3.5 02/01/2048	
+	Fannie Mae 4 10/01/2041	
+	Government National Mortgage A 1.5 10/20/2051	
+	Fannie Mae 3 06/01/2049	
+	Freddie Mac 4 05/01/2045	
+	Government National Mortgage A 4 02/20/2050	
+	Government National Mortgage A 2.5 04/20/2051	
+	Fannie Mae 3 01/01/2050	
+	Fannie Mae 3.5 09/01/2045	
+	Fannie Mae 2.5 08/01/2035	
+	Fannie Mae 3.5 01/01/2050	
+	Freddie Mac 3.5 10/01/2044	
+	Freddie Mac 1.5 05/01/2036	
+	Fannie Mae 3 08/01/2043	
+	Fannie Mae 4 03/01/2047	
+	Government National Mortgage A 4.5 02/20/2049	
+	Freddie Mac 4 06/01/2050	
+	Fannie Mae 4.5 05/01/2046	
+	Fannie Mae 3 03/01/2033	
+	Freddie Mac 3.5 03/01/2029	
+	Freddie Mac 3 01/01/2043	
+	Freddie Mac 3.5 09/01/2029	
+	Fannie Mae 3.5 03/01/2031	
+	Freddie Mac 3 01/01/2045	
+	Fannie Mae 3.5 10/01/2037	
+	Fannie Mae 3.5 02/01/2045	
+	Fannie Mae 3.5 04/01/2034	
+	Government National Mortgage A 3.5 10/20/2046	
+	Fannie Mae 3.5 12/01/2047	
+	Freddie Mac 3.5 01/01/2045	
+	Fannie Mae 3 08/01/2047	
+	Fannie Mae 3.5 09/01/2040	
+	Government National Mortgage A 4 08/20/2050	
+	Freddie Mac 4 02/01/2045	
+	Fannie Mae 3 09/01/2047	
+	Freddie Mac 3 02/01/2038	
+	Fannie Mae 3 04/01/2050	
+	Fannie Mae 4.5 10/01/2042	
+	Fannie Mae 3.5 02/01/2046	
+	Fannie Mae 1.5 12/01/2036	
+	Fannie Mae 3 09/01/2030	
+	Fannie Mae 3 08/01/2045	
+	Fannie Mae 3.5 01/01/2048	
+	Fannie Mae 3.5 02/01/2046	
+	Fannie Mae 2.5 01/01/2033	
+	Freddie Mac 3 08/01/2036	
+	Freddie Mac 4 05/01/2045	
+	Fannie Mae 4 06/01/2026	
+	Fannie Mae 4 08/01/2048	
+	Government National Mortgage A 4 02/20/2049	
+	Fannie Mae 2.5 05/01/2050	
+	Cash_USD	
+	Fannie Mae 4.5 11/01/2048	
+	Freddie Mac 2 06/01/2036	
+	Freddie Mac 2 08/01/2036	
+	Government National Mortgage A 4.5 09/20/2049	
+	Fannie Mae 4.5 02/01/2048	
+	Fannie Mae 3.5 04/01/2033	
+	Fannie Mae 3 03/01/2043	
+	Fannie Mae 3 10/01/2044	
+	Freddie Mac 3 09/01/2034	
+	Fannie Mae 4 12/01/2046	
+	Freddie Mac 4 10/01/2045	
+	Fannie Mae 2.5 08/01/2031	
+	Fannie Mae 3.5 12/01/2047	
+	Government National Mortgage A 3 03/20/2048	
+	Fannie Mae 3 09/01/2049	
+	Fannie Mae 4.5 08/01/2044	
+	Fannie Mae 2.5 04/01/2032	
+	Freddie Mac 4 03/01/2049	
+	Fannie Mae 3.5 06/01/2031	
+	Fannie Mae 4.5 07/01/2047	
+	Government National Mortgage A 3.5 09/20/2046	
+	Fannie Mae 2.5 12/01/2050	
+	Freddie Mac 3 02/01/2038	
+	Fannie Mae 2.5 05/01/2051	
+	Fannie Mae 3 07/01/2047	
+	Fannie Mae 2.5 01/01/2033	
+	Freddie Mac 3.5 01/01/2044	
+	Fannie Mae 4 09/01/2048	
+	Freddie Mac 4.5 01/01/2049	
+	Fannie Mae 2.5 10/01/2031	
+	Fannie Mae 3.5 02/01/2045	
+	Freddie Mac 3.5 02/01/2048	
+	Fannie Mae 2.5 08/01/2032	
+	Fannie Mae 3 04/01/2047	
+	Fannie Mae 4 06/01/2045	
+	Fannie Mae 3 10/01/2046	
+	Government National Mortgage A 2 03/20/2051	
+	Government National Mortgage A 5 02/20/2049	
+	Fannie Mae 4.5 09/01/2048	
+	Government National Mortgage A 3.5 03/20/2047	
+	Government National Mortgage A 3 01/20/2046	
+	Fannie Mae 2.5 08/01/2050	
+	Freddie Mac 2.5 04/01/2027	
+	Fannie Mae 4.5 07/01/2049	
+	Fannie Mae 2.5 11/01/2031	
+	Fannie Mae 4 08/01/2045	
+	Fannie Mae 4.5 01/01/2048	
+	Fannie Mae 3.5 06/01/2045	
+	Freddie Mac 3.5 02/01/2042	
+	Freddie Mac 3 04/01/2050	
+	Government National Mortgage A 4 04/20/2049	
+	Fannie Mae 5 05/01/2048	
+	Fannie Mae 4.5 10/01/2042	
+	Fannie Mae 3 12/01/2032	
+	Fannie Mae 4.5 11/01/2048	
+	Government National Mortgage A 3.5 10/20/2045	
+	Government National Mortgage A 4 10/20/2048	
+	Fannie Mae 3.5 04/01/2046	
+	Freddie Mac 4.5 05/01/2049	
+	Fannie Mae 3.5 09/01/2049	
+	Freddie Mac 4 01/01/2046	
+	Freddie Mac 4.5 07/01/2047	
+	Freddie Mac 2 08/01/2036	
+	Government National Mortgage A 3.5 08/20/2046	
+	Freddie Mac 2 02/01/2051	
+	Fannie Mae 4 12/01/2049	
+	Freddie Mac 3 04/01/2033	
+	Freddie Mac 4 07/01/2047	
+	Fannie Mae 3.5 05/01/2044	
+	Government National Mortgage A 4 11/20/2043	
+	Fannie Mae 3.5 12/01/2049	
+	Fannie Mae 3.5 08/01/2045	
+	Freddie Mac 4 02/01/2046	
+	Fannie Mae 3.5 09/01/2042	
+	Government National Mortgage A 3.5 07/20/2045	
+	Freddie Mac 3.5 06/01/2050	
+	Fannie Mae 3 09/01/2046	
+	Freddie Mac 3.5 03/01/2034	
+	Fannie Mae 2.5 11/01/2032	
+	Freddie Mac 3.5 03/01/2046	
+	Fannie Mae 4 11/01/2044	
+	Freddie Mac 4.5 03/01/2049	
+	Government National Mortgage A 3.5 08/20/2047	
+	Fannie Mae 3.5 05/01/2032	
+	Fannie Mae 3.5 03/01/2047	
+	Freddie Mac 4.5 03/01/2047	
+	Fannie Mae 3 07/01/2050	
+	Fannie Mae 4 12/01/2048	
+	Fannie Mae 2.5 05/01/2028	
+	Fannie Mae 3 05/01/2045	
+	Freddie Mac 4 05/01/2050	
+	Freddie Mac 3 05/01/2032	
+	Fannie Mae 2.5 07/01/2040	
+	Freddie Mac 3 02/01/2047	
+	Government National Mortgage A 4 05/20/2046	
+	Fannie Mae 3 03/01/2047	
+	Fannie Mae 4.5 07/01/2048	
+	Fannie Mae 4.5 12/01/2044	
+	Government National Mortgage A 3.5 05/20/2051	
+	Freddie Mac 6 07/01/2040	
+	Freddie Mac 2.5 12/01/2051	
+	Freddie Mac 2.5 01/01/2028	
+	Fannie Mae 2.5 10/01/2031	
+	Fannie Mae 3.5 02/01/2045	
+	Freddie Mac 3.5 09/01/2047	
+	Fannie Mae 4.5 05/01/2045	
+	Government National Mortgage A 3 02/20/2048	
+	Fannie Mae 3 03/01/2030	
+	Fannie Mae 2.5 04/01/2048	
+	Fannie Mae 3 07/01/2049	
+	Government National Mortgage A 5 12/20/2045	
+	Fannie Mae 3 01/01/2047	
+	Fannie Mae 2.5 12/01/2042	
+	Freddie Mac 3 06/01/2035	
+	Fannie Mae 3.5 03/01/2034	
+	Fannie Mae 4.5 02/01/2049	
+	Freddie Mac 5 12/01/2039	
+	Fannie Mae 5 08/01/2039	
+	Government National Mortgage A 3 08/20/2043	
+	Freddie Mac 3 01/01/2047	
+	Fannie Mae 3 07/01/2032	
+	Fannie Mae 2.5 08/01/2046	
+	Freddie Mac 3.5 08/01/2049	
+	Fannie Mae 3.5 10/01/2045	
+	Freddie Mac 3 12/01/2047	
+	Fannie Mae 3.5 07/01/2045	
+	Fannie Mae 4 06/01/2048	
+	Fannie Mae 2.5 08/01/2031	
+	Freddie Mac 4 10/01/2039	
+	Fannie Mae 2.5 02/01/2043	
+	Fannie Mae 3 03/01/2050	
+	Freddie Mac 3 10/01/2046	
+	Fannie Mae 2.5 08/01/2029	
+	Freddie Mac 4 11/01/2045	
+	Fannie Mae 3.5 09/01/2045	
+	Freddie Mac 3.5 03/01/2048	
+	Freddie Mac 3 08/01/2050	
+	Government National Mortgage A 3.5 05/20/2047	
+	Fannie Mae 2.5 04/01/2043	
+	Freddie Mac 3 03/01/2027	
+	Fannie Mae 2.5 11/01/2034	
+	Fannie Mae 4 12/01/2045	
+	Fannie Mae 2.5 10/01/2031	
+	Fannie Mae 4 04/01/2049	
+	Government National Mortgage A 3 09/20/2048	
+	Freddie Mac 3 04/01/2035	
+	Fannie Mae 3.5 02/01/2045	
+	Freddie Mac 3.5 12/01/2045	
+	Fannie Mae 3 01/01/2045	
+	Fannie Mae 2.5 11/01/2050	
+	Fannie Mae 3.5 05/01/2032	
+	Fannie Mae 3.5 04/01/2047	
+	Fannie Mae 3 12/01/2036	
+	Fannie Mae 3.5 07/01/2046	
+	Fannie Mae 3 10/01/2042	
+	Fannie Mae 3 12/01/2032	
+	Freddie Mac 2 03/01/2028	
+	Fannie Mae 3.5 05/01/2033	
+	Government National Mortgage A 5 04/20/2049	
+	Fannie Mae 4 12/01/2045	
+	Fannie Mae 3.5 10/01/2046	
+	Fannie Mae 4 08/01/2044	
+	Freddie Mac 5 08/01/2048	
+	Fannie Mae 2 04/01/2035	
+	Fannie Mae 3.5 07/01/2048	
+	Fannie Mae 4 02/01/2042	
+	Fannie Mae 4 06/01/2049	
+	Fannie Mae 4 12/01/2042	
+	Fannie Mae 2 02/01/2051	
+	Freddie Mac 4 02/01/2048	
+	Fannie Mae 4 12/01/2049	
+	Freddie Mac 3.5 09/01/2049	
+	Fannie Mae 4.5 04/01/2049	
+	Freddie Mac 3.5 01/01/2046	
+	Fannie Mae 2.5 10/01/2034	
+	Fannie Mae 4 05/01/2044	
+	Fannie Mae 4 05/01/2047	
+	Fannie Mae 4 05/01/2047	
+	Government National Mortgage A 5 07/20/2049	
+	Freddie Mac 3.5 11/01/2047	
+	Government National Mortgage A 4 01/20/2047	
+	Government National Mortgage A 4 11/20/2048	
+	Fannie Mae 3 02/01/2043	
+	Fannie Mae 3.5 02/01/2047	
+	Fannie Mae 3 01/01/2047	
+	Fannie Mae 3 01/01/2031	
+	Government National Mortgage A 3 09/20/2045	
+	Freddie Mac 3 11/01/2042	
+	Freddie Mac 4 12/01/2040	
+	Freddie Mac 5 12/01/2033	
+	Freddie Mac 2.5 09/01/2027	
+	Freddie Mac 2 10/01/2035	
+	Government National Mortgage A 3.5 06/20/2042	
+	Fannie Mae 2 03/01/2051	
+	Fannie Mae 5 06/01/2039	
+	Fannie Mae 4 08/01/2047	
+	Freddie Mac 4.5 07/01/2044	
+	Fannie Mae 3.5 03/01/2033	
+	Fannie Mae 4 07/01/2047	
+	Fannie Mae 3 10/01/2046	
+	Fannie Mae 3 06/01/2043	
+	Fannie Mae 3 11/01/2030	
+	Freddie Mac 3.5 03/01/2045	
+	Government National Mortgage A 4.5 12/20/2046	
+	Fannie Mae 1.5 09/01/2051	
+	Government National Mortgage A 2.5 03/20/2043	
+	Fannie Mae 4 09/01/2047	
+	Fannie Mae 4 09/01/2048	
+	Fannie Mae 3 12/01/2046	
+	Freddie Mac 4 01/01/2041	
+	Freddie Mac 3 09/01/2036	
+	Fannie Mae 3.5 04/01/2032	
+	Fannie Mae 4 02/01/2049	
+	Freddie Mac 3.5 05/01/2043	
+	Fannie Mae 2 07/01/2035	
+	Freddie Mac 3.5 07/01/2051	
+	Fannie Mae 3.5 07/01/2046	
+	Freddie Mac 3.5 12/01/2047	
+	Fannie Mae 3 08/01/2027	
+	Fannie Mae 5 07/01/2048	
+	Fannie Mae 2.5 12/01/2027	
+	Government National Mortgage A 4.5 04/20/2049	
+	Fannie Mae 4 08/01/2047	
+	Fannie Mae 2.5 11/01/2031	
+	Freddie Mac 4.5 03/01/2046	
+	Fannie Mae 3 12/01/2049	
+	Fannie Mae 3.5 04/01/2046	
+	Fannie Mae 3.5 02/01/2045	
+	Fannie Mae 2.5 06/01/2034	
+	Freddie Mac 3 12/01/2046	
+	Freddie Mac 3 06/01/2045	
+	Freddie Mac 4 11/01/2047	
+	Fannie Mae 3.5 01/01/2047	
+	Government National Mortgage A 3 01/20/2043	
+	Fannie Mae 4.5 02/01/2049	
+	Freddie Mac 3 07/01/2047	
+	Fannie Mae 3 03/01/2050	
+	Government National Mortgage A 3.5 02/20/2048	
+	Fannie Mae 2.5 12/01/2031	
+	Fannie Mae 4 04/01/2046	
+	Fannie Mae 4.5 08/01/2048	
+	Freddie Mac 4 11/01/2044	
+	Freddie Mac 3 04/01/2036	
+	Freddie Mac 4.5 07/01/2045	
+	Fannie Mae 3.5 08/01/2045	
+	Fannie Mae 3.5 02/01/2046	
+	Fannie Mae 3 08/01/2043	
+	Fannie Mae 4.5 02/01/2050	
+	Fannie Mae 3 10/01/2046	
+	Fannie Mae 3 01/01/2047	
+	Fannie Mae 3.5 05/01/2048	
+	Fannie Mae 3.5 02/01/2048	
+	Freddie Mac 4 08/01/2049	
+	Government National Mortgage A 3 12/20/2044	
+	Fannie Mae 4.5 12/01/2050	
+	Fannie Mae 2.5 05/01/2043	
+	Fannie Mae 4 12/01/2045	
+	Fannie Mae 3.5 11/01/2034	
+	Freddie Mac 5 12/01/2044	
+	Government National Mortgage A 3.5 08/20/2045	
+	Fannie Mae 3 05/01/2030	
+	Fannie Mae 4 07/01/2046	
+	Fannie Mae 3.5 04/01/2045	
+	Fannie Mae 3 08/01/2043	
+	Fannie Mae 4 10/01/2043	
+	Fannie Mae 4 09/01/2043	
+	Fannie Mae 3 09/01/2036	
+	Freddie Mac 3.5 01/01/2046	
+	Fannie Mae 4 05/01/2047	
+	Fannie Mae 3.5 05/01/2042	
+	Fannie Mae 4 04/01/2042	
+	Fannie Mae 4 09/01/2045	
+	Fannie Mae 3 01/01/2045	
+	Fannie Mae 5.5 01/01/2035	
+	Freddie Mac 4.5 01/01/2049	
+	Government National Mortgage A 3.5 02/20/2045	
+	Fannie Mae 4 11/01/2048	
+	Freddie Mac 4 12/01/2046	
+	Fannie Mae 3 11/01/2046	
+	Government National Mortgage A 3 02/20/2047	
+	Fannie Mae 4.5 09/01/2048	
+	Fannie Mae 3 04/01/2043	
+	Government National Mortgage A 4 07/20/2045	
+	Fannie Mae 2.5 02/01/2043	
+	Fannie Mae 5 08/01/2048	
+	Freddie Mac 3.5 08/01/2043	
+	Freddie Mac 3.5 12/01/2046	
+	Fannie Mae 3.5 11/01/2046	
+	Freddie Mac 3 11/01/2030	
+	Freddie Mac 3 03/01/2043	
+	Freddie Mac 3.5 07/01/2047	
+	Fannie Mae 2.5 04/01/2030	
+	Fannie Mae 3 05/01/2043	
+	Government National Mortgage A 4.5 05/20/2049	
+	Fannie Mae 4.5 08/01/2048	
+	Freddie Mac 3.5 02/01/2048	
+	Government National Mortgage A 3.5 07/20/2047	
+	Freddie Mac 4 08/01/2047	
+	Government National Mortgage A 3.5 05/20/2045	
+	Fannie Mae 3 12/01/2046	
+	Fannie Mae 3 12/01/2047	
+	Fannie Mae 4 12/01/2045	
+	Government National Mortgage A 4 09/20/2048	
+	Fannie Mae 3.5 04/01/2043	
+	Fannie Mae 4 11/01/2047	
+	Freddie Mac 5 07/01/2048	
+	Fannie Mae 2.5 11/01/2031	
+	Government National Mortgage A 4 11/20/2045	
+	Freddie Mac 4 03/01/2048	
+	Freddie Mac 3 11/01/2046	
+	Fannie Mae 3.5 05/01/2045	
+	Freddie Mac 3.5 10/01/2047	
+	Fannie Mae 3 04/01/2043	
+	Freddie Mac 3.5 03/01/2039	
+	Freddie Mac 3.5 12/01/2045	
+	Fannie Mae 2.5 01/01/2032	
+	Fannie Mae 4 04/01/2047	
+	Fannie Mae 3 04/01/2031	
+	Freddie Mac 4 07/01/2050	
+	Freddie Mac 3 07/01/2035	
+	Fannie Mae 3 08/01/2027	
+	Government National Mortgage A 5 05/20/2048	
+	Freddie Mac 3 06/01/2045	
+	Freddie Mac 4.5 10/01/2041	
+	Freddie Mac 3.5 05/01/2048	
+	Fannie Mae 3 04/01/2035	
+	Fannie Mae 4.5 08/01/2046	
+	Fannie Mae 3 05/01/2043	
+	Fannie Mae 3.5 05/01/2045	
+	Freddie Mac 3 11/01/2031	
+	Fannie Mae 3.5 06/01/2042	
+	Government National Mortgage A 3 09/20/2042	
+	Government National Mortgage A 3.5 11/20/2044	
+	Government National Mortgage A 3 05/20/2032	
+	Fannie Mae 2.5 08/01/2031	
+	Freddie Mac 4.5 08/01/2048	
+	Fannie Mae 3.5 09/01/2047	
+	Fannie Mae 4 09/01/2048	
+	Fannie Mae 2.5 11/01/2030	
+	Fannie Mae 4 09/01/2047	
+	Fannie Mae 3 11/01/2039	
+	Fannie Mae 3.5 08/01/2048	
+	Freddie Mac 3.5 02/01/2047	
+	Fannie Mae 3 05/01/2030	
+	Fannie Mae 3 09/01/2046	
+	Government National Mortgage A 3 03/20/2043	
+	Fannie Mae 4.5 09/01/2043	
+	Freddie Mac 4.5 04/01/2049	
+	Fannie Mae 4 02/01/2047	
+	Fannie Mae 3.5 06/01/2048	
+	Freddie Mac 3.5 08/01/2047	
+	Freddie Mac 2 08/01/2050	
+	Fannie Mae 3.5 04/01/2047	
+	Fannie Mae 3.5 09/01/2044	
+	Fannie Mae 3.5 05/01/2042	
+	Fannie Mae 3 03/01/2047	
+	Fannie Mae 3 06/01/2032	
+	Government National Mortgage A 4 02/20/2045	
+	Freddie Mac 3.5 04/01/2029	
+	Freddie Mac 3 10/01/2032	
+	Government National Mortgage A 3.5 03/20/2049	
+	Freddie Mac 3 08/01/2042	
+	Fannie Mae 4 01/01/2045	
+	Fannie Mae 3 12/01/2035	
+	Freddie Mac 3.5 06/01/2047	
+	Fannie Mae 3.5 03/01/2046	
+	Freddie Mac 4 01/01/2041	
+	Fannie Mae 4 11/01/2047	
+	Fannie Mae 2.5 03/01/2029	
+	Freddie Mac 4 04/01/2048	
+	Fannie Mae 3 01/01/2032	
+	Freddie Mac 3.5 05/01/2046	
+	Fannie Mae 3.5 09/01/2047	
+	Freddie Mac 3.5 10/01/2049	
+	Freddie Mac 3 03/01/2027	
+	Fannie Mae 3 10/01/2046	
+	Fannie Mae 4 08/01/2048	
+	Freddie Mac 4.5 12/01/2047	
+	Fannie Mae 3.5 09/01/2047	
+	Government National Mortgage A 3.5 06/20/2047	
+	Government National Mortgage A 4 12/20/2044	
+	Fannie Mae 2.5 07/01/2028	
+	Freddie Mac 5.5 08/01/2038	
+	Government National Mortgage A 4 03/20/2047	
+	Freddie Mac 4.5 09/01/2044	
+	Fannie Mae 3 07/01/2043	
+	Fannie Mae 4 02/01/2048	
+	Fannie Mae 3 12/01/2042	
+	Freddie Mac 3 11/01/2026	
+	Government National Mortgage A 3.5 04/20/2048	
+	Freddie Mac 2.5 04/01/2028	
+	Fannie Mae 3 06/01/2043	
+	Fannie Mae 3 04/01/2045	
+	Freddie Mac 3.5 12/01/2044	
+	Fannie Mae 4.5 12/01/2047	
+	Fannie Mae 3 08/01/2043	
+	Freddie Mac 3.5 01/01/2046	
+	Freddie Mac 3 09/01/2046	
+	Freddie Mac 3.5 09/01/2042	
+	Fannie Mae 3.5 05/01/2045	
+	Fannie Mae 4 09/01/2046	
+	Fannie Mae 4.5 09/01/2047	
+	Freddie Mac 2.5 05/01/2028	
+	Fannie Mae 3 07/01/2027	
+	Government National Mortgage A 4 04/20/2046	
+	Freddie Mac 3.5 06/01/2048	
+	Freddie Mac 4.5 08/01/2046	
+	Government National Mortgage A 3 12/20/2042	
+	Freddie Mac 3.5 12/01/2045	
+	Government National Mortgage A 4 08/20/2044	
+	Freddie Mac 3 02/01/2033	
+	Fannie Mae 3.5 04/01/2048	
+	Fannie Mae 3 05/01/2043	
+	Fannie Mae 3 08/01/2043	
+	Fannie Mae 3.5 12/01/2044	
+	Freddie Mac 4 02/01/2027	
+	Fannie Mae 4 07/01/2047	
+	Fannie Mae 4.5 12/01/2043	
+	Freddie Mac 4 09/01/2046	
+	Freddie Mac 4 12/01/2045	
+	Freddie Mac 4 11/01/2044	
+	Fannie Mae 4 04/01/2046	
+	Fannie Mae 3.5 12/01/2047	
+	Freddie Mac 4 09/01/2048	
+	Fannie Mae 4 11/01/2044	
+	Freddie Mac 3 10/01/2030	
+	Freddie Mac 5 01/01/2040	
+	Fannie Mae 4 06/01/2046	
+	Government National Mortgage A 4 11/20/2049	
+	Fannie Mae 3 03/01/2044	
+	Freddie Mac 4 05/01/2048	
+	Fannie Mae 2.5 02/01/2043	
+	Fannie Mae 3.5 12/01/2045	
+	Freddie Mac 3.5 07/01/2035	
+	Fannie Mae 4 02/01/2041	
+	Fannie Mae 3.5 11/01/2047	
+	Freddie Mac 3.5 11/01/2045	
+	Fannie Mae 4.5 12/01/2048	
+	Fannie Mae 3 04/01/2045	
+	Fannie Mae 3.5 11/01/2048	
+	Fannie Mae 3.5 06/01/2046	
+	Fannie Mae 5 08/01/2048	
+	Freddie Mac 2.5 05/01/2040	
+	Freddie Mac 3 08/01/2031	
+	Freddie Mac 3.5 12/01/2046	
+	Fannie Mae 2.5 03/01/2028	
+	Government National Mortgage A 2.5 10/20/2046	
+	Freddie Mac 3 01/01/2038	
+	Freddie Mac 3.5 06/01/2049	
+	Fannie Mae 4 09/01/2045	
+	Freddie Mac 5 09/01/2048	
+	Fannie Mae 4.5 07/01/2046	
+	Government National Mortgage A 4.5 11/20/2045	
+	Fannie Mae 3 02/01/2030	
+	Fannie Mae 3 11/01/2045	
+	Fannie Mae 3.5 06/01/2034	
+	Freddie Mac 4 02/01/2042	
+	Freddie Mac 3 05/01/2046	
+	Fannie Mae 3.5 06/01/2046	
+	Fannie Mae 3.5 02/01/2033	
+	Fannie Mae 3 01/01/2033	
+	Government National Mortgage A 3.5 09/20/2043	
+	Fannie Mae 3 06/01/2043	
+	Fannie Mae 4.5 06/01/2049	
+	Fannie Mae 3.5 08/01/2044	
+	Freddie Mac 3 08/01/2029	
+	Freddie Mac 3 04/01/2043	
+	Freddie Mac 3 07/01/2032	
+	Fannie Mae 4.5 06/01/2048	
+	Freddie Mac 3 09/01/2042	
+	Fannie Mae 3 08/01/2046	
+	Fannie Mae 3.5 05/01/2043	
+	Government National Mortgage A 3 05/20/2046	
+	Freddie Mac 3 11/01/2042	
+	Fannie Mae 3 10/01/2029	
+	Fannie Mae 3.5 10/01/2044	
+	Fannie Mae 4 08/01/2044	
+	Government National Mortgage A 3 12/20/2048	
+	Fannie Mae 4 04/01/2047	
+	Freddie Mac 3 05/01/2049	
+	Freddie Mac 2.5 11/01/2032	
+	Fannie Mae 3 12/01/2042	
+	Freddie Mac 3.5 08/01/2034	
+	Government National Mortgage A 3 07/20/2042	
+	Fannie Mae 3.5 02/01/2042	
+	Fannie Mae 5 06/01/2040	
+	Fannie Mae 3.5 04/01/2049	
+	Fannie Mae 3 08/01/2037	
+	Fannie Mae 4 03/01/2047	
+	Fannie Mae 3.5 05/01/2046	
+	Fannie Mae 4 01/01/2034	
+	Fannie Mae 3 04/01/2050	
+	Freddie Mac 3 02/01/2048	
+	Freddie Mac 4 10/01/2048	
+	Fannie Mae 4 09/01/2038	
+	Fannie Mae 4 12/01/2044	
+	Fannie Mae 2.5 03/01/2029	
+	Freddie Mac 3.5 02/01/2045	
+	Freddie Mac 4 10/01/2043	
+	Fannie Mae 3 02/01/2030	
+	Fannie Mae 3 02/01/2043	
+	Government National Mortgage A 4 08/20/2047	
+	Freddie Mac 3.5 05/01/2044	
+	Fannie Mae 3.5 07/01/2037	
+	Fannie Mae 4 05/01/2048	
+	Freddie Mac 5.5 07/01/2037	
+	Freddie Mac 3.5 08/01/2045	
+	Freddie Mac 3 01/01/2033	
+	Freddie Mac 4.5 01/01/2049	
+	Fannie Mae 2.5 10/01/2034	
+	Freddie Mac 3 02/01/2043	
+	Freddie Mac 3 12/01/2044	
+	Government National Mortgage A 3.5 05/20/2043	
+	Fannie Mae 3.5 08/01/2047	
+	Fannie Mae 2.5 08/01/2028	
+	Fannie Mae 4 10/01/2040	
+	Fannie Mae 4.5 01/01/2042	
+	Fannie Mae 4 01/01/2048	
+	Fannie Mae 4 10/01/2043	
+	Government National Mortgage A 3.5 09/20/2045	
+	Freddie Mac 3.5 06/01/2050	
+	Freddie Mac 4 12/01/2047	
+	Freddie Mac 3.5 05/01/2046	
+	Fannie Mae 4.5 10/01/2043	
+	Government National Mortgage A 3 12/20/2045	
+	Fannie Mae 3 04/01/2027	
+	Government National Mortgage A 3 11/20/2044	
+	Fannie Mae 4 04/01/2046	
+	Fannie Mae 5 03/01/2042	
+	Fannie Mae 3.5 03/01/2045	
+	Fannie Mae 3 09/01/2028	
+	Fannie Mae 2.5 12/01/2032	
+	Fannie Mae 3.5 05/01/2046	
+	Fannie Mae 3.5 06/01/2046	
+	Government National Mortgage A 3 04/20/2043	
+	Freddie Mac 3 11/01/2039	
+	Freddie Mac 3.5 10/01/2045	
+	Fannie Mae 3 10/01/2044	
+	Freddie Mac 3 02/01/2032	
+	Freddie Mac 3.5 01/01/2034	
+	Fannie Mae 3 10/01/2042	
+	Freddie Mac 2.5 09/01/2046	
+	Fannie Mae 4 04/01/2048	
+	Government National Mortgage A 4 06/20/2047	
+	Government National Mortgage A 4.5 06/20/2046	
+	Government National Mortgage A 3 06/20/2049	
+	Fannie Mae 3.5 11/01/2045	
+	Fannie Mae 3.5 05/01/2043	
+	Freddie Mac 3 06/01/2027	
+	Government National Mortgage A 3.5 01/20/2046	
+	Government National Mortgage A 4.5 07/20/2041	
+	Government National Mortgage A 3.5 02/20/2043	
+	Fannie Mae 3.5 02/01/2048	
+	Freddie Mac 2.5 10/01/2027	
+	Fannie Mae 5 01/01/2049	
+	Government National Mortgage A 3.5 02/15/2042	
+	Freddie Mac 2.5 01/01/2031	
+	Freddie Mac 3.5 11/01/2047	
+	Freddie Mac 2.5 01/01/2028	
+	Fannie Mae 3.5 10/01/2047	
+	Fannie Mae 3.5 12/01/2040	
+	Fannie Mae 3 02/01/2047	
+	Fannie Mae 3 05/01/2045	
+	Freddie Mac 3 08/01/2046	
+	Fannie Mae 5.5 04/01/2036	
+	Fannie Mae 4 07/01/2048	
+	Fannie Mae 3 10/01/2044	
+	Government National Mortgage A 3.5 05/20/2044	
+	Fannie Mae 3.5 12/01/2038	
+	Fannie Mae 3 08/01/2043	
+	Freddie Mac 4 06/01/2047	
+	Fannie Mae 2 11/01/2031	
+	Freddie Mac 4 09/01/2047	
+	Government National Mortgage A 6 01/20/2046	
+	Government National Mortgage A 4 05/20/2047	
+	Fannie Mae 4 05/01/2047	
+	Freddie Mac 3.5 04/01/2039	
+	Fannie Mae 3 09/01/2042	
+	Freddie Mac 3 06/01/2046	
+	Freddie Mac 2.5 02/01/2033	
+	Fannie Mae 3 07/01/2043	
+	Freddie Mac 3.5 12/01/2044	
+	Fannie Mae 4.5 10/01/2044	
+	Fannie Mae 4 12/01/2040	
+	Fannie Mae 4 02/01/2034	
+	Freddie Mac 5 09/01/2039	
+	Fannie Mae 4 05/01/2048	
+	Freddie Mac 4 09/01/2045	
+	Fannie Mae 3.5 06/01/2033	
+	Fannie Mae 3 02/01/2035	
+	Government National Mortgage A 5 10/20/2048	
+	Fannie Mae 3.5 03/01/2046	
+	Freddie Mac 4 05/01/2047	
+	Fannie Mae 3.5 01/01/2041	
+	Fannie Mae 3.5 07/01/2042	
+	Fannie Mae 3 09/01/2046	
+	Government National Mortgage A 3.5 04/20/2044	
+	Freddie Mac 3 10/01/2026	
+	Fannie Mae 3 12/01/2045	
+	Government National Mortgage A 3 05/20/2045	
+	Fannie Mae 3.5 03/01/2047	
+	Freddie Mac 3 05/01/2033	
+	Freddie Mac 4 06/01/2035	
+	Fannie Mae 4 08/01/2047	
+	Freddie Mac 5.5 04/01/2038	
+	Freddie Mac 3 10/01/2028	
+	Freddie Mac 3 09/01/2046	
+	Fannie Mae 3 04/01/2030	
+	Freddie Mac 3.5 03/01/2043	
+	Freddie Mac 4 10/01/2045	
+	Fannie Mae 3.5 11/01/2045	
+	Fannie Mae 3 02/01/2043	
+	Government National Mortgage A 3 07/20/2046	
+	Freddie Mac 3 07/01/2043	
+	Fannie Mae 5.5 07/01/2041	
+	Fannie Mae 3 02/01/2034	
+	Government National Mortgage A 3.5 01/20/2047	
+	Fannie Mae 3 05/01/2043	
+	Fannie Mae 3.5 12/01/2046	
+	Government National Mortgage A 4.5 12/20/2041	
+	Fannie Mae 3 01/01/2044	
+	Freddie Mac 4 06/01/2042	
+	Fannie Mae 3 04/01/2031	
+	Government National Mortgage A 4.5 11/20/2048	
+	Fannie Mae 3 04/01/2050	
+	Government National Mortgage A 3.5 04/20/2043	
+	Fannie Mae 4.5 05/01/2041	
+	Freddie Mac 4 07/01/2044	
+	Fannie Mae 3 05/01/2046	
+	Government National Mortgage A 4.5 01/20/2048	
+	Freddie Mac 4 08/01/2044	
+	Fannie Mae 4 02/01/2046	
+	Fannie Mae 3 04/01/2047	
+	Freddie Mac 3.5 08/01/2049	
+	Fannie Mae 3 01/01/2050	
+	Government National Mortgage A 3 02/15/2045	
+	Fannie Mae 4 12/01/2044	
+	Fannie Mae 4.5 08/01/2047	
+	Fannie Mae 3 05/01/2033	
+	Freddie Mac 4.5 07/01/2041	
+	Fannie Mae 3.5 06/01/2034	
+	Fannie Mae 3 09/01/2043	
+	Government National Mortgage A 3.5 01/20/2044	
+	Freddie Mac 4 06/01/2025	
+	Freddie Mac 3.5 11/01/2045	
+	Fannie Mae 3.5 12/01/2030	
+	Government National Mortgage A 3.5 03/20/2043	
+	Fannie Mae 4 05/01/2049	
+	Government National Mortgage A 5 11/20/2042	
+	Freddie Mac 3.5 01/01/2045	
+	Fannie Mae 4.5 05/01/2044	
+	Government National Mortgage A 4.5 08/20/2047	
+	Fannie Mae 3.5 01/01/2045	
+	Freddie Mac 4 10/01/2044	
+	Freddie Mac 4 07/01/2044	
+	Freddie Mac 4 07/01/2048	
+	Fannie Mae 3.5 05/01/2029	
+	Fannie Mae 3.5 04/01/2046	
+	Fannie Mae 4 05/01/2037	
+	Government National Mortgage A 4 07/15/2044	
+	Freddie Mac 4 12/01/2045	
+	Fannie Mae 3.5 12/01/2045	
+	Fannie Mae 3.5 12/01/2045	
+	Fannie Mae 3 12/01/2026	
+	Fannie Mae 3 11/01/2028	
+	Freddie Mac 3.5 02/01/2042	
+	Government National Mortgage A 3.5 02/20/2049	
+	Government National Mortgage A 3 09/20/2047	
+	Government National Mortgage A 3.5 06/20/2048	
+	Fannie Mae 4 02/01/2044	
+	Fannie Mae 2.5 07/01/2028	
+	Fannie Mae 6 10/01/2040	
+	Fannie Mae 3 01/01/2035	
+	Government National Mortgage A 4 10/20/2045	
+	Freddie Mac 4 01/01/2049	
+	Government National Mortgage A 3.5 08/20/2044	
+	Freddie Mac 4.5 03/01/2044	
+	Government National Mortgage A 4.5 04/20/2044	
+	Freddie Mac 4 07/01/2048	
+	Fannie Mae 4 12/01/2045	
+	Fannie Mae 3.5 01/01/2045	
+	Freddie Mac 3.5 10/01/2026	
+	Government National Mortgage A 5 08/20/2043	
+	Government National Mortgage A 5.5 02/20/2049	
+	Freddie Mac 3.5 07/01/2045	
+	Fannie Mae 3.5 06/01/2039	
+	Fannie Mae 4 09/01/2027	
+	Freddie Mac 3 07/01/2049	
+	Fannie Mae 4 12/01/2043	
+	Fannie Mae 3 03/01/2047	
+	Freddie Mac 3.5 06/01/2044	
+	Freddie Mac 4 11/01/2048	
+	Government National Mortgage A 5.5 03/15/2039	
+	Government National Mortgage A 5 07/20/2044	
+	Fannie Mae 4.5 10/01/2048	
+	Government National Mortgage A 5 07/20/2048	
+	Freddie Mac 3 07/01/2045	
+	Freddie Mac 4.5 10/01/2044	
+	Fannie Mae 4.5 06/01/2044	
+	Fannie Mae 4 07/01/2044	
+	Freddie Mac 3.5 02/01/2039	
+	Fannie Mae 3.5 01/01/2043	
+	Government National Mortgage A 4 07/20/2044	
+	Fannie Mae 3.5 01/01/2028	
+	Government National Mortgage A 4.5 12/20/2043	
+	Fannie Mae 5 07/01/2040	
+	Government National Mortgage A 4 03/20/2044	
+	Freddie Mac 4.5 10/01/2043	
+	Freddie Mac 2.5 01/01/2050	
+	Fannie Mae 4 03/01/2049	
+	Fannie Mae 4 03/01/2049	
+	Government National Mortgage A 4 08/20/2043	
+	Fannie Mae 4 03/01/2046	
+	Government National Mortgage A 3 05/15/2042	
+	Government National Mortgage A 4 04/15/2040	
+	Government National Mortgage A 4 02/20/2042	
+	Freddie Mac 3 10/01/2043	
+	Fannie Mae 4.5 06/01/2044	
+	Fannie Mae 3 11/01/2045	
+	Freddie Mac 5 12/01/2041	
+	Fannie Mae 3.5 01/01/2044	
+	Freddie Mac 4.5 07/01/2048	
+	Freddie Mac 3 08/01/2043	
+	Fannie Mae 5 09/01/2040	
+	Freddie Mac 3 09/01/2043	
+	Fannie Mae 3 07/01/2029	
+	Government National Mortgage A 4 01/20/2045	
+	Fannie Mae 6 06/01/2040	
+	Fannie Mae 2.5 05/01/2030	
+	Government National Mortgage A 4.5 07/20/2046	
+	Government National Mortgage A 3 06/20/2047	
+	Freddie Mac 3.5 11/01/2048	
+	Fannie Mae 3.5 01/01/2029	
+	Freddie Mac 3 06/01/2045	
+	Government National Mortgage A 4 11/20/2041	
+	Government National Mortgage A 4 05/20/2042	
+	Freddie Mac 4 07/01/2047	
+	Fannie Mae 3 07/01/2043	
+	Government National Mortgage A 4.5 04/15/2040	
+	Freddie Mac 2.5 06/01/2028	
+	Fannie Mae 3.5 07/01/2034	
+	Government National Mortgage A 4.5 09/20/2040	
+	Freddie Mac 3.5 02/01/2026	
+	Fannie Mae 2.5 10/01/2028	
+	Freddie Mac 3 06/01/2043	
+	Government National Mortgage A 3.5 04/20/2043	
+	Government National Mortgage A 3.5 08/20/2048	
+	Freddie Mac 4 07/01/2049	
+	Government National Mortgage A 3.5 03/20/2043	
+	Fannie Mae 3.5 05/01/2046	
+	Government National Mortgage A 4.5 01/20/2044	
+	Freddie Mac 3.5 11/01/2044	
+	Government National Mortgage A 4.5 10/20/2045	
+	Fannie Mae 5.5 11/01/2038	
+	Fannie Mae 3 12/01/2030	
+	Fannie Mae 3 05/01/2043	
+	Government National Mortgage A 3.5 07/20/2044	
+	Government National Mortgage A 5 04/20/2043	
+	Freddie Mac 4 12/01/2041	
+	Fannie Mae 4 02/01/2049	
+	Fannie Mae 2.5 07/01/2030	
+	Fannie Mae 4.5 09/01/2041	
+	Freddie Mac 4.5 02/01/2039	
+	Government National Mortgage A 4 01/20/2046	
+	Fannie Mae 4 11/01/2033	
+	Freddie Mac 3.5 07/01/2045	
+	Government National Mortgage A 3.5 02/20/2046	
+	Fannie Mae 3.5 01/01/2045	
+	Government National Mortgage A 3.5 04/20/2045	
+	Freddie Mac 3.5 04/01/2049	
+	Freddie Mac 3.5 12/01/2045	
+	Freddie Mac 3.5 05/01/2048	
+	Government National Mortgage A 5 05/20/2044	
+	Government National Mortgage A 4.5 12/20/2047	
+	Freddie Mac 3 07/01/2029	
+	Fannie Mae 4 06/01/2047	
+	Fannie Mae 5 02/01/2041	
+	Government National Mortgage A 3 03/15/2045	
+	Government National Mortgage A 3 08/20/2045	
+	Freddie Mac 4.5 03/01/2049	
+	Freddie Mac 4 11/01/2033	
+	Government National Mortgage A 3.5 06/20/2045	
+	Fannie Mae 5 07/01/2044	
+	Fannie Mae 3 10/01/2028	
+	Fannie Mae 3 06/01/2029	
+	Fannie Mae 2.5 02/01/2030	
+	Freddie Mac 3.5 06/01/2048	
+	Government National Mortgage A 4 04/20/2047	
+	Fannie Mae 5.5 12/01/2039	
+	Government National Mortgage A 2.5 01/20/2043	
+	Fannie Mae 3.5 12/01/2025	
+	Fannie Mae 4.5 07/01/2048	
+	Freddie Mac 4 10/01/2040	
+	Freddie Mac 3.5 06/01/2029	
+	Fannie Mae 3 08/01/2029	
+	Fannie Mae 3 08/01/2029	
+	Fannie Mae 2.5 11/01/2031	
+	Government National Mortgage A 6 09/15/2040	
+	Government National Mortgage A 4 08/20/2045	
+	Fannie Mae 4 12/01/2041	
+	Freddie Mac 3.5 11/01/2043	
+	Fannie Mae 4 10/01/2041	
+	Fannie Mae 4 08/01/2049	
+	Fannie Mae 4 07/01/2044	
+	Fannie Mae 4.5 03/01/2044	
+	Fannie Mae 4 06/01/2044	
+	Fannie Mae 3 06/01/2030	
+	Government National Mortgage A 4.5 05/20/2045	
+	Fannie Mae 3 09/01/2030	
+	Fannie Mae 4.5 04/01/2031	
+	Freddie Mac 4.5 11/01/2048	
+	Government National Mortgage A 5.5 09/15/2035	
+	Fannie Mae 4.5 09/01/2043	
+	Government National Mortgage A 4.5 06/15/2040	
+	Government National Mortgage A 3.5 04/15/2042	
+	Fannie Mae 3.5 01/01/2027	
+	Government National Mortgage A 5 04/20/2048	
+	Freddie Mac 4 05/01/2044	
+	Fannie Mae 4 09/01/2045	
+	Government National Mortgage A 4.5 03/15/2041	
+	Government National Mortgage A 4 06/15/2045	
+	Freddie Mac 3.5 08/01/2044	
+	Government National Mortgage A 4.5 07/15/2041	
+	Fannie Mae 6 09/01/2037	
+	Freddie Mac 3 09/01/2029	
+	Freddie Mac 4 04/01/2045	
+	Government National Mortgage A 5 05/15/2039	
+	Fannie Mae 3 09/01/2029	
+	Freddie Mac 2.5 10/01/2029	
+	Freddie Mac 3.5 01/01/2045	
+	Fannie Mae 3.5 10/01/2029	
+	Government National Mortgage A 3.5 12/20/2045	
+	Fannie Mae 3.5 05/01/2043	
+	Fannie Mae 3.5 09/01/2048	
+	Fannie Mae 5 01/01/2045	
+	Fannie Mae 4.5 07/01/2048	
+	Government National Mortgage A 4 08/20/2042	
+	Freddie Mac 2.5 06/01/2028	
+	Freddie Mac 3 02/01/2029	
+	Government National Mortgage A 5 06/20/2044	
+	Fannie Mae 3 12/01/2026	
+	Freddie Mac 4 04/01/2042	
+	Fannie Mae 4.5 04/01/2044	
+	Government National Mortgage A 3.5 03/20/2045	
+	Fannie Mae 6 09/01/2039	
+	Freddie Mac 5 09/01/2038	
+	Freddie Mac 4.5 09/01/2041	
+	Government National Mortgage A 4.5 10/20/2043	
+	Government National Mortgage A 6 08/15/2040	
+	Government National Mortgage A 3 03/20/2045	
+	Freddie Mac 3.5 01/01/2029	
+	Freddie Mac 4.5 08/01/2045	
+	Freddie Mac 4 12/01/2044	
+	Fannie Mae 5.5 12/01/2038	
+	Freddie Mac 3.5 08/01/2029	
+	Fannie Mae 6 01/01/2037	
+	Fannie Mae 4 09/01/2044	
+	Government National Mortgage A 5 12/15/2038	
+	Government National Mortgage A 4 05/15/2045	
+	Fannie Mae 3.5 12/01/2025	
+	Government National Mortgage A 3.5 12/20/2044	
+	Freddie Mac 4 05/01/2044	
+	Government National Mortgage A 5 03/20/2043	
+	Fannie Mae 4 08/01/2026	
+	Fannie Mae 4 10/01/2044	
+	Government National Mortgage A 5 05/20/2043	
+	Government National Mortgage A 3.5 11/20/2042	
+	Freddie Mac 3.5 02/01/2030	
+	Freddie Mac 3.5 07/01/2042	
+	Fannie Mae 3 02/01/2027	
+	Government National Mortgage A 4.5 06/15/2041	
+	Freddie Mac 5.5 12/01/2036	
+	Fannie Mae 4 10/01/2044	
+	Government National Mortgage A 4.5 06/15/2039	
+	Government National Mortgage A 5.5 07/15/2038	
+	Fannie Mae 4.5 11/01/2024	
+	Freddie Mac 3.5 12/01/2049	
+	Government National Mortgage A 4 02/15/2040	
+	Fannie Mae 3.5 01/01/2026	
+	Freddie Mac 5.5 09/01/2035	
+	Freddie Mac 5.5 05/01/2038	

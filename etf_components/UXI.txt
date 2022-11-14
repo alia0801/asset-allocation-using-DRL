@@ -1,0 +1,210 @@
+UXI
+	DJ U.S. INDUSTRIALS INDEX SWAP CITIBANK NA	
+	DJ U.S. INDUSTRIALS INDEX SWAP BANK OF AMERICA NA	
+	DJ U.S. INDUSTRIALS INDEX SWAP GOLDMAN SACHS INTERNATIONAL	
+	DJ U.S. INDUSTRIALS INDEX SWAP UBS AG	
+	DJ U.S. INDUSTRIALS INDEX SWAP SOCIETE GENERALE	
+	U.S. IND. INDEX SWAP BNP PARIBAS CITIBANK NA	
+	DJ U.S. INDUSTRIALS INDEX SWAP MORGAN STANLEY & CO. INTERNATIONAL PLC	
+ACN	ACCENTURE PLC-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=UXI
+UNP	UNION PACIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=UXI
+RTX	RAYTHEON TECHNOLOGIES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=UXI
+UPS	UNITED PARCEL SERVICE-CL B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=UXI
+HON	HONEYWELL INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=UXI
+PYPL	PAYPAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=UXI
+ADP	AUTOMATIC DATA PROCESSING	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=UXI
+DE	DEERE & CO	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=UXI
+LMT	LOCKHEED MARTIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=UXI
+CAT	CATERPILLAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=UXI
+NOC	NORTHROP GRUMMAN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=UXI
+GE	GENERAL ELECTRIC CO	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=UXI
+BA	BOEING CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=UXI
+MMM	3M CO	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=UXI
+WM	WASTE MANAGEMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=UXI
+FISV	FISERV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=UXI
+CSX	CSX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=UXI
+ETN	EATON CORP PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=UXI
+ITW	ILLINOIS TOOL WORKS	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=UXI
+NSC	NORFOLK SOUTHERN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=UXI
+SHW	SHERWIN-WILLIAMS CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=UXI
+GD	GENERAL DYNAMICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=UXI
+FIS	FIDELITY NATIONAL INFO SERV	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=UXI
+EMR	EMERSON ELECTRIC CO	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=UXI
+APH	AMPHENOL CORP-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=UXI
+LHX	L3HARRIS TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=UXI
+PAYX	PAYCHEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=UXI
+FDX	FEDEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=UXI
+TEL	TE CONNECTIVITY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=UXI
+JCI	JOHNSON CONTROLS INTERNATION	/etf/ea/ETZCW.djhtm?c=1&etfid=JCI.US&back=UXI
+CTAS	CINTAS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=UXI
+TT	TRANE TECHNOLOGIES PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=UXI
+PH	PARKER HANNIFIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=UXI
+GPN	GLOBAL PAYMENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=UXI
+CARR	CARRIER GLOBAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=UXI
+PCAR	PACCAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=UXI
+SQ	BLOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=UXI
+CMI	CUMMINS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=UXI
+KEYS	KEYSIGHT TECHNOLOGIES IN	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=UXI
+RSG	REPUBLIC SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=UXI
+TDG	TRANSDIGM GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=UXI
+OTIS	OTIS WORLDWIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=UXI
+VRSK	VERISK ANALYTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=UXI
+FAST	FASTENAL CO	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=UXI
+AME	AMETEK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AME.US&back=UXI
+ROK	ROCKWELL AUTOMATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROK.US&back=UXI
+ODFL	OLD DOMINION FREIGHT LINE	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=UXI
+GLW	CORNING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=UXI
+GWW	WW GRAINGER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=UXI
+FTV	FORTIVE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FTV.US&back=UXI
+EFX	EQUIFAX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EFX.US&back=UXI
+VMC	VULCAN MATERIALS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=UXI
+MLM	MARTIN MARIETTA MATERIALS	/etf/ea/ETZCW.djhtm?c=1&etfid=MLM.US&back=UXI
+URI	UNITED RENTALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=URI.US&back=UXI
+PWR	QUANTA SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=UXI
+IR	INGERSOLL-RAND INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IR.US&back=UXI
+BR	BROADRIDGE FINANCIAL SOLUTIO	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=UXI
+DOV	DOVER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=UXI
+AMCR	AMCOR PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=UXI
+TDY	TELEDYNE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=UXI
+XYL	XYLEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=UXI
+PKI	PERKINELMER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PKI.US&back=UXI
+BALL	BALL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BALL.US&back=UXI
+IEX	IDEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=UXI
+WAB	WABTEC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WAB.US&back=UXI
+EXPD	EXPEDITORS INTL WASH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=UXI
+CSL	CARLISLE COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=UXI
+J	JACOBS SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=J.US&back=UXI
+ZBRA	ZEBRA TECHNOLOGIES CORP-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBRA.US&back=UXI
+TRMB	TRIMBLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=UXI
+JBHT	HUNT (JB) TRANSPRT SVCS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JBHT.US&back=UXI
+JKHY	JACK HENRY & ASSOCIATES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=UXI
+FLT	FLEETCOR TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=UXI
+AVY	AVERY DENNISON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=UXI
+BAH	BOOZ ALLEN HAMILTON HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=UXI
+TXT	TEXTRON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXT.US&back=UXI
+CHRW	C.H. ROBINSON WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=UXI
+HUBB	HUBBELL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=UXI
+LDOS	LEIDOS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=UXI
+NDSN	NORDSON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NDSN.US&back=UXI
+HWM	HOWMET AEROSPACE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=UXI
+IP	INTERNATIONAL PAPER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=UXI
+GNRC	GENERAC HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GNRC.US&back=UXI
+TRU	TRANSUNION	/etf/ea/ETZCW.djhtm?c=1&etfid=TRU.US&back=UXI
+PKG	PACKAGING CORP OF AMERICA	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=UXI
+SSNC	SS&C TECHNOLOGIES HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=UXI
+SNA	SNAP-ON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNA.US&back=UXI
+MAS	MASCO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=UXI
+GGG	GRACO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GGG.US&back=UXI
+NLSN	NIELSEN HOLDINGS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLSN.US&back=UXI
+CCK	CROWN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CCK.US&back=UXI
+BLDR	BUILDERS FIRSTSOURCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDR.US&back=UXI
+ACM	AECOM	/etf/ea/ETZCW.djhtm?c=1&etfid=ACM.US&back=UXI
+RRX	REGAL REXNORD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RRX.US&back=UXI
+TTC	TORO CO	/etf/ea/ETZCW.djhtm?c=1&etfid=TTC.US&back=UXI
+HII	HUNTINGTON INGALLS INDUSTRIE	/etf/ea/ETZCW.djhtm?c=1&etfid=HII.US&back=UXI
+WSC	WILLSCOT MOBILE MINI HOLDING	/etf/ea/ETZCW.djhtm?c=1&etfid=WSC.US&back=UXI
+WSO	WATSCO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSO.US&back=UXI
+RHI	ROBERT HALF INTL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RHI.US&back=UXI
+WMS	ADVANCED DRAINAGE SYSTEMS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=WMS.US&back=UXI
+WRK	WESTROCK CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WRK.US&back=UXI
+HEI.A	HEICO CORP-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.A.US&back=UXI
+JBL	JABIL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=UXI
+KNX	KNIGHT-SWIFT TRANSPORTATION	/etf/ea/ETZCW.djhtm?c=1&etfid=KNX.US&back=UXI
+ALLE	ALLEGION PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLE.US&back=UXI
+AXON	AXON ENTERPRISE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AXON.US&back=UXI
+OC	OWENS CORNING	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=UXI
+CGNX	COGNEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CGNX.US&back=UXI
+LECO	LINCOLN ELECTRIC HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=LECO.US&back=UXI
+LII	LENNOX INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LII.US&back=UXI
+G	GENPACT LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=G.US&back=UXI
+GTLS	CHART INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GTLS.US&back=UXI
+MIDD	MIDDLEBY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MIDD.US&back=UXI
+FBHS	FORTUNE BRANDS HOME & SECURI	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=UXI
+PNR	PENTAIR PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=UXI
+TTEK	TETRA TECH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TTEK.US&back=UXI
+SEE	SEALED AIR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SEE.US&back=UXI
+CACI	CACI INTERNATIONAL INC -CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=UXI
+ATR	APTARGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATR.US&back=UXI
+AOS	SMITH (A.O.) CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=UXI
+AGCO	AGCO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AGCO.US&back=UXI
+ARW	ARROW ELECTRONICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=UXI
+BERY	BERRY GLOBAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BERY.US&back=UXI
+DCI	DONALDSON CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DCI.US&back=UXI
+HEI	HEICO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.US&back=UXI
+GPK	GRAPHIC PACKAGING HOLDING CO	/etf/ea/ETZCW.djhtm?c=1&etfid=GPK.US&back=UXI
+KBR	KBR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KBR.US&back=UXI
+ST	SENSATA TECHNOLOGIES HOLDING	/etf/ea/ETZCW.djhtm?c=1&etfid=ST.US&back=UXI
+RBC	RBC BEARINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RBC.US&back=UXI
+RUN	SUNRUN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RUN.US&back=UXI
+VMI	VALMONT INDUSTRIES	/etf/ea/ETZCW.djhtm?c=1&etfid=VMI.US&back=UXI
+WCC	WESCO INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC.US&back=UXI
+WEX	WEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WEX.US&back=UXI
+SON	SONOCO PRODUCTS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SON.US&back=UXI
+MDU	MDU RESOURCES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDU.US&back=UXI
+ITT	ITT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ITT.US&back=UXI
+CW	CURTISS-WRIGHT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CW.US&back=UXI
+CLH	CLEAN HARBORS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLH.US&back=UXI
+FCN	FTI CONSULTING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FCN.US&back=UXI
+EME	EMCOR GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EME.US&back=UXI
+AYI	ACUITY BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AYI.US&back=UXI
+LFUS	LITTELFUSE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LFUS.US&back=UXI
+LSTR	LANDSTAR SYSTEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LSTR.US&back=UXI
+NVT	NVENT ELECTRIC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NVT.US&back=UXI
+NATI	NATIONAL INSTRUMENTS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NATI.US&back=UXI
+SAIA	SAIA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIA.US&back=UXI
+SAIC	SCIENCE APPLICATIONS INTE	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=UXI
+WU	WESTERN UNION CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=UXI
+XPO	XPO LOGISTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XPO.US&back=UXI
+TOST	TOAST INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TOST.US&back=UXI
+TREX	TREX COMPANY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TREX.US&back=UXI
+WWD	WOODWARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WWD.US&back=UXI
+SITE	SITEONE LANDSCAPE SUPPLY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SITE.US&back=UXI
+OSK	OSHKOSH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OSK.US&back=UXI
+ASGN	ASGN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ASGN.US&back=UXI
+BWXT	BWX TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BWXT.US&back=UXI
+CNXC	CONCENTRIX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=UXI
+COHR	COHERENT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=COHR.US&back=UXI
+CR	CRANE HOLDINGS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CR.US&back=UXI
+CLVT	CLARIVATE PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=CLVT.US&back=UXI
+EXP	EAGLE MATERIALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXP.US&back=UXI
+HXL	HEXCEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HXL.US&back=UXI
+GXO	GXO LOGISTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GXO.US&back=UXI
+UFPI	UFP INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UFPI.US&back=UXI
+UNVR	UNIVAR SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UNVR.US&back=UXI
+SRCL	STERICYCLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SRCL.US&back=UXI
+TKR	TIMKEN CO	/etf/ea/ETZCW.djhtm?c=1&etfid=TKR.US&back=UXI
+KEX	KIRBY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KEX.US&back=UXI
+NSP	INSPERITY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NSP.US&back=UXI
+MTZ	MASTEC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MTZ.US&back=UXI
+MSA	MSA SAFETY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSA.US&back=UXI
+LPX	LOUISIANA-PACIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=UXI
+CHPT	CHARGEPOINT HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHPT.US&back=UXI
+AWI	ARMSTRONG WORLD INDUSTRIES	/etf/ea/ETZCW.djhtm?c=1&etfid=AWI.US&back=UXI
+AIT	APPLIED INDUSTRIAL TECH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIT.US&back=UXI
+AFRM	AFFIRM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFRM.US&back=UXI
+AL	AIR LEASE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AL.US&back=UXI
+ALSN	ALLISON TRANSMISSION HOLDING	/etf/ea/ETZCW.djhtm?c=1&etfid=ALSN.US&back=UXI
+AVT	AVNET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVT.US&back=UXI
+EEFT	EURONET WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EEFT.US&back=UXI
+MAN	MANPOWERGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MAN.US&back=UXI
+MSM	MSC INDUSTRIAL DIRECT CO-A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSM.US&back=UXI
+MMS	MAXIMUS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MMS.US&back=UXI
+SLGN	SILGAN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SLGN.US&back=UXI
+ZWS	ZURN ELKAY WATER SOLUTIONS C	/etf/ea/ETZCW.djhtm?c=1&etfid=ZWS.US&back=UXI
+VRT	VERTIV HOLDINGS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=VRT.US&back=UXI
+MQ	MARQETA INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=MQ.US&back=UXI
+IPGP	IPG PHOTONICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=IPGP.US&back=UXI
+HTZ	HERTZ GLOBAL HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HTZ.US&back=UXI
+FLS	FLOWSERVE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FLS.US&back=UXI
+DNB	DUN & BRADSTREET HOLDINGS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=DNB.US&back=UXI
+ENS	ENERSYS	/etf/ea/ETZCW.djhtm?c=1&etfid=ENS.US&back=UXI
+MRCY	MERCURY SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRCY.US&back=UXI
+VNT	VONTIER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VNT.US&back=UXI
+TNET	TRINET GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TNET.US&back=UXI
+SHLS	SHOALS TECHNOLOGIES GROUP -A	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLS.US&back=UXI
+FOUR	SHIFT4 PAYMENTS INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOUR.US&back=UXI
+ALIT	ALIGHT INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ALIT.US&back=UXI
+CNM	CORE & MAIN INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CNM.US&back=UXI
+AMBP	ARDAGH METAL PACKAGING SA	/etf/ea/ETZCW.djhtm?c=1&etfid=AMBP.US&back=UXI
+GTES	GATES INDUSTRIAL CORP PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=GTES.US&back=UXI
+NKLA	NIKOLA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NKLA.US&back=UXI

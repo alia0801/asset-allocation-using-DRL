@@ -1,0 +1,84 @@
+PSCH
+LNTH	Lantheus Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LNTH.US&back=PSCH
+AMN	AMN Healthcare Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMN.US&back=PSCH
+CYTK	Cytokinetics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CYTK.US&back=PSCH
+ENSG	Ensign Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=ENSG.US&back=PSCH
+MMSI	Merit Medical Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MMSI.US&back=PSCH
+GKOS	Glaukos Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GKOS.US&back=PSCH
+PBH	Prestige Consumer Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PBH.US&back=PSCH
+CORT	Corcept Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CORT.US&back=PSCH
+CNMD	CONMED Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNMD.US&back=PSCH
+PCRX	Pacira BioSciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCRX.US&back=PSCH
+SEM	Select Medical Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SEM.US&back=PSCH
+CVET	Covetrus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CVET.US&back=PSCH
+ITGR	Integer Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ITGR.US&back=PSCH
+OMI	Owens & Minor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OMI.US&back=PSCH
+SUPN	Supernus Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SUPN.US&back=PSCH
+MDRX	Allscripts Healthcare Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDRX.US&back=PSCH
+EMBC	Embecta Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EMBC.US&back=PSCH
+XNCR	Xencor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=XNCR.US&back=PSCH
+MYGN	Myriad Genetics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MYGN.US&back=PSCH
+ADUS	Addus HomeCare Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ADUS.US&back=PSCH
+AMEH	Apollo Medical Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMEH.US&back=PSCH
+VIR	Vir Biotechnology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VIR.US&back=PSCH
+AHCO	AdaptHealth Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AHCO.US&back=PSCH
+MD	Pediatrix Medical Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MD.US&back=PSCH
+LGND	Ligand Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LGND.US&back=PSCH
+IRWD	Ironwood Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IRWD.US&back=PSCH
+VIVO	Meridian Bioscience Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VIVO.US&back=PSCH
+RCUS	Arcus Biosciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RCUS.US&back=PSCH
+HRMY	Harmony Biosciences Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HRMY.US&back=PSCH
+CRVL	CorVel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CRVL.US&back=PSCH
+MODV	ModivCare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MODV.US&back=PSCH
+DVAX	Dynavax Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DVAX.US&back=PSCH
+CPRX	Catalyst Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRX.US&back=PSCH
+CDMO	Avid Bioservices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDMO.US&back=PSCH
+VCEL	Vericel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VCEL.US&back=PSCH
+NEO	NeoGenomics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEO.US&back=PSCH
+AMPH	Amphastar Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMPH.US&back=PSCH
+CCRN	Cross Country Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCRN.US&back=PSCH
+AVNS	Avanos Medical Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVNS.US&back=PSCH
+ENTA	Enanta Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENTA.US&back=PSCH
+RGNX	REGENXBIO Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RGNX.US&back=PSCH
+RDNT	RadNet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RDNT.US&back=PSCH
+USPH	US Physical Therapy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=USPH.US&back=PSCH
+LMAT	LeMaitre Vascular Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LMAT.US&back=PSCH
+NXGN	NextGen Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NXGN.US&back=PSCH
+EBS	Emergent BioSolutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBS.US&back=PSCH
+VREX	Varex Imaging Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VREX.US&back=PSCH
+CUTR	Cutera Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CUTR.US&back=PSCH
+ANGO	AngioDynamics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANGO.US&back=PSCH
+SLP	Simulations Plus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLP.US&back=PSCH
+BLFS	BioLife Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BLFS.US&back=PSCH
+FLGT	Fulgent Genetics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLGT.US&back=PSCH
+QURE	uniQure NV	/etf/ea/ETZCW.djhtm?c=1&etfid=QURE.US&back=PSCH
+HSKA	Heska Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HSKA.US&back=PSCH
+INVA	Innoviva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INVA.US&back=PSCH
+MLAB	Mesa Laboratories Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MLAB.US&back=PSCH
+EHAB	Enhabit Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EHAB.US&back=PSCH
+CHRS	Coherus Biosciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRS.US&back=PSCH
+NKTR	Nektar Therapeutics	/etf/ea/ETZCW.djhtm?c=1&etfid=NKTR.US&back=PSCH
+CSII	Cardiovascular Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSII.US&back=PSCH
+VNDA	Vanda Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VNDA.US&back=PSCH
+AORT	Artivion Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AORT.US&back=PSCH
+INGN	Inogen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INGN.US&back=PSCH
+COLL	Collegium Pharmaceutical Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COLL.US&back=PSCH
+HSTM	HealthStream Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HSTM.US&back=PSCH
+ITOS	iTeos Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ITOS.US&back=PSCH
+SRDX	Surmodics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRDX.US&back=PSCH
+CARA	Cara Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CARA.US&back=PSCH
+CPSI	Computer Programs and Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CPSI.US&back=PSCH
+ANIP	ANI Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANIP.US&back=PSCH
+OFIX	Orthofix Medical Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OFIX.US&back=PSCH
+ANIK	Anika Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANIK.US&back=PSCH
+PNTG	Pennant Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PNTG.US&back=PSCH
+EGRX	Eagle Pharmaceuticals Inc/DE	/etf/ea/ETZCW.djhtm?c=1&etfid=EGRX.US&back=PSCH
+OSUR	OraSure Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OSUR.US&back=PSCH
+PAHC	Phibro Animal Health Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PAHC.US&back=PSCH
+CYH	Community Health Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CYH.US&back=PSCH
+OPRX	OptimizeRx Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OPRX.US&back=PSCH
+ORGO	Organogenesis Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORGO.US&back=PSCH
+JYNT	Joint Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=JYNT.US&back=PSCH
+ZIMV	Zimvie Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZIMV.US&back=PSCH
+ZYXI	Zynex Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZYXI.US&back=PSCH
+	Invesco Government & Agency Portfolio	

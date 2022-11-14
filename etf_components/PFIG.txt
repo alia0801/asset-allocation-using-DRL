@@ -1,0 +1,644 @@
+PFIG
+	JPMorgan Chase & Co 2.95 10/01/2026	
+	Microsoft Corp 3.3 02/06/2027	
+	Invesco Government & Agency Portfolio	
+	AT&T Inc 4.25 03/01/2027	
+	Cisco Systems Inc 2.5 09/20/2026	
+	American International Group Inc 3.9 04/01/2026	
+	Apple Inc 1.65 02/08/2031	
+	Exxon Mobil Corp 2.61 10/15/2030	
+	General Electric Co 6.75 03/15/2032	
+	Bank of America Corp 3.25 10/21/2027	
+	Exxon Mobil Corp 3.04 03/01/2026	
+	Walmart Inc 3.4 06/26/2023	
+	Walmart Inc 1.8 09/22/2031	
+	Wells Fargo & Co 4.15 01/24/2029	
+	Verizon Communications Inc 4.12 03/16/2027	
+	Morgan Stanley 3.62 01/20/2027	
+	Cardinal Health Inc 3.41 06/15/2027	
+	Verizon Communications Inc 4.33 09/21/2028	
+	Marathon Petroleum Corp 4.7 05/01/2025	
+	Citigroup Inc 4.45 09/29/2027	
+	Wells Fargo & Co 3 04/22/2026	
+	Johnson & Johnson 2.45 03/01/2026	
+	Goldman Sachs Group Inc/The 3.5 04/01/2025	
+	Amazon.com Inc 2.1 05/12/2031	
+	Apple Inc 2.4 05/03/2023	
+	Chevron Corp 2.24 05/11/2030	
+	Citigroup Inc 6.62 06/15/2032	
+	ConocoPhillips Co 6.95 04/15/2029	
+	Alphabet Inc 1.1 08/15/2030	
+	Johnson & Johnson 1.3 09/01/2030	
+	International Business Machines Corp 3 05/15/2024	
+	Bank of America Corp 3.3 01/11/2023	
+	Berkshire Hathaway Energy Co 3.7 07/15/2030	
+	Berkshire Hathaway Inc 3.12 03/15/2026	
+	Home Depot Inc/The 2.95 06/15/2029	
+	McKesson Corp 3.8 03/15/2024	
+	International Business Machines Corp 3.5 05/15/2029	
+	Home Depot Inc/The 3 04/01/2026	
+	Pfizer Inc 3 12/15/2026	
+	Travelers Property Casualty Corp 6.38 03/15/2033	
+	AT&T Inc 4.3 02/15/2030	
+	Coca-Cola Co/The 1.45 06/01/2027	
+	PepsiCo Inc 2.75 03/01/2023	
+	Philip Morris International Inc 3.25 11/10/2024	
+	Principal Financial Group Inc 3.7 05/15/2029	
+	Intel Corp 2.45 11/15/2029	
+	Manufacturers & Traders Trust Co 2.9 02/06/2025	
+	US Bancorp 2.38 07/22/2026	
+	UnitedHealth Group Inc 3.75 07/15/2025	
+	Procter & Gamble Co/The 1.9 02/01/2027	
+	Coca-Cola Co/The 2.25 01/05/2032	
+	General Motors Co 6.12 10/01/2025	
+	Truist Bank 3.62 09/16/2025	
+	Walt Disney Co/The 1.75 08/30/2024	
+	PNC Financial Services Group Inc/The 3.5 01/23/2024	
+	MetLife Inc 3.6 04/10/2024	
+	Hewlett Packard Enterprise Co 4.9 10/15/2025	
+	United Parcel Service Inc 3.9 04/01/2025	
+	US Bancorp 1.38 07/22/2030	
+	Weyerhaeuser Co 7.38 03/15/2032	
+	Procter & Gamble Co/The 3 03/25/2030	
+	Best Buy Co Inc 1.95 10/01/2030	
+	Bank of New York Mellon Corp/The 2.2 08/16/2023	
+	Boeing Co/The 4.88 05/01/2025	
+	Colgate-Palmolive Co 3.25 03/15/2024	
+	Comcast Corp 3.7 04/15/2024	
+	Costco Wholesale Corp 1.38 06/20/2027	
+	Costco Wholesale Corp 1.6 04/20/2030	
+	Gilead Sciences Inc 3.65 03/01/2026	
+	Jackson Financial Inc 3.12 11/23/2031	
+	LyondellBasell Industries NV 5.75 04/15/2024	
+	Lockheed Martin Corp 3.55 01/15/2026	
+	Johnson Controls International plc / Tyco Fire & Security Fi 1.75 09/15/2030	
+	Kimberly-Clark Corp 3.2 04/25/2029	
+	Kroger Co/The 2.65 10/15/2026	
+	Prudential Financial Inc 1.5 03/10/2026	
+	Amgen Inc 2.2 02/21/2027	
+	Altria Group Inc 4.4 02/14/2026	
+	Franklin Resources Inc 1.6 10/30/2030	
+	Prudential Financial Inc 2.1 03/10/2030	
+	MetLife Inc 4.55 03/23/2030	
+	Merck & Co Inc 3.4 03/07/2029	
+	Lowe's Cos Inc 2.5 04/15/2026	
+	QUALCOMM Inc 3.25 05/20/2027	
+	PPL Capital Funding Inc 3.1 05/15/2026	
+	3M Co 2.88 10/15/2027	
+	Charles Schwab Corp/The 0.75 03/18/2024	
+	Consolidated Edison Co of New York Inc 2.4 06/15/2031	
+	Walt Disney Co/The 2.65 01/13/2031	
+	Abbott Laboratories 3.75 11/30/2026	
+	American Express Co 2.25 03/04/2025	
+	Walgreens Boots Alliance Inc 3.45 06/01/2026	
+	Virginia Electric and Power Co 2.75 03/15/2023	
+	Amgen Inc 2 01/15/2032	
+	Chubb INA Holdings Inc 3.35 05/03/2026	
+	Alphabet Inc 2 08/15/2026	
+	BlackRock Inc 3.5 03/18/2024	
+	Cigna Corp 4.38 10/15/2028	
+	Duke Energy Corp 2.55 06/15/2031	
+	Discover Bank 4.65 09/13/2028	
+	Southern Co/The 3.25 07/01/2026	
+	Southern Co/The 3.7 04/30/2030	
+	T-Mobile USA Inc 3.88 04/15/2030	
+	Eli Lilly & Co 3.38 03/15/2029	
+	Kroger Co/The 4.5 01/15/2029	
+	Kinder Morgan Inc 4.3 06/01/2025	
+	Kinder Morgan Inc 4.3 03/01/2028	
+	Hershey Co/The 2.3 08/15/2026	
+	Kraft Heinz Foods Co 3 06/01/2026	
+	State Street Corp 3.55 08/18/2025	
+	Texas Instruments Inc 1.38 03/12/2025	
+	Charles Schwab Corp/The 2 03/20/2028	
+	Old Republic International Corp 3.88 08/26/2026	
+	Exelon Corp 3.95 06/15/2025	
+	Gilead Sciences Inc 1.65 10/01/2030	
+	WW Grainger Inc 1.85 02/15/2025	
+	Discover Bank 3.45 07/27/2026	
+	Chevron Corp 2.95 05/16/2026	
+	Chubb INA Holdings Inc 1.38 09/15/2030	
+	Amazon.com Inc 3.15 08/22/2027	
+	Visa Inc 3.15 12/14/2025	
+	United Parcel Service Inc 3.05 11/15/2027	
+	Raytheon Technologies Corp 3.95 08/16/2025	
+	UnitedHealth Group Inc 2 05/15/2030	
+	Raytheon Technologies Corp 4.12 11/16/2028	
+	Union Pacific Corp 2.75 03/01/2026	
+	Valero Energy Corp 2.8 12/01/2031	
+	Elevance Health Inc 2.38 01/15/2025	
+	AmerisourceBergen Corp 2.7 03/15/2031	
+	Archer-Daniels-Midland Co 2.5 08/11/2026	
+	Avnet Inc 4.62 04/15/2026	
+	Regeneron Pharmaceuticals Inc 1.75 09/15/2030	
+	Hormel Foods Corp 1.8 06/11/2030	
+	Lockheed Martin Corp 3.9 06/15/2032	
+	Micron Technology Inc 4.18 02/15/2027	
+	NextEra Energy Capital Holdings Inc 3.55 05/01/2027	
+	Newmont Corp 2.25 10/01/2030	
+	McDonald's Corp 3.8 04/01/2028	
+	Lincoln National Corp 3.8 03/01/2028	
+	Marathon Oil Corp 4.4 07/15/2027	
+	Mastercard Inc 3.38 04/01/2024	
+	Honeywell International Inc 1.75 09/01/2031	
+	Kraft Heinz Foods Co 3.75 04/01/2030	
+	PNC Financial Services Group Inc/The 2.55 01/22/2030	
+	Ryder System Inc 3.65 03/18/2024	
+	Target Corp 2.25 04/15/2025	
+	State Street Corp 2.4 01/24/2030	
+	Southwestern Electric Power Co 1.65 03/15/2026	
+	TJX Cos Inc/The 2.25 09/15/2026	
+	Starbucks Corp 3.8 08/15/2025	
+	Equitable Holdings Inc 3.9 04/20/2023	
+	BlackRock Inc 1.9 01/28/2031	
+	BorgWarner Inc 2.65 07/01/2027	
+	Bristol-Myers Squibb Co 3.4 07/26/2029	
+	Broadcom Inc 2.45 02/15/2031	
+	Capital One Financial Corp 3.8 01/31/2028	
+	ABT 1.40000 '30 06/30/2030	
+	Caterpillar Financial Services Corp 3.4 05/13/2025	
+	Tyson Foods Inc 3.55 06/02/2027	
+	Union Pacific Corp 3.95 09/10/2028	
+	Western Union Co/The 1.35 03/15/2026	
+	Whirlpool Corp 4.75 02/26/2029	
+	Darden Restaurants Inc 3.85 05/01/2027	
+	General Mills Inc 4 04/17/2025	
+	Aflac Inc 3.6 04/01/2030	
+	Elevance Health Inc 3.65 12/01/2027	
+	AutoNation Inc 3.85 03/01/2032	
+	American Electric Power Co Inc 3.2 11/13/2027	
+	Amphenol Corp 2.8 02/15/2030	
+	Sysco Corp 3.3 07/15/2026	
+	ONEOK Inc 5.85 01/15/2026	
+	Northrop Grumman Corp 3.25 01/15/2028	
+	NSTAR Electric Co 3.2 05/15/2027	
+	HP Inc 4.2 04/15/2032	
+	Halliburton Co 2.92 03/01/2030	
+	Mastercard Inc 3.35 03/26/2030	
+	Mondelez International Inc 2.75 04/13/2030	
+	NextEra Energy Capital Holdings Inc 2.25 06/01/2030	
+	LYB International Finance III LLC 2.25 10/01/2030	
+	Hess Corp 4.3 04/01/2027	
+	HP Inc 3 06/17/2027	
+	Intel Corp 3.7 07/29/2025	
+	JB Hunt Transport Services Inc 3.88 03/01/2026	
+	KLA Corp 4.65 07/15/2032	
+	PACCAR Financial Corp 3.55 08/11/2025	
+	Northrop Grumman Corp 2.93 01/15/2025	
+	Raymond James Financial Inc 4.65 04/01/2030	
+	Progressive Corp/The 2.45 01/15/2027	
+	Starbucks Corp 2.55 11/15/2030	
+	TJX Cos Inc/The 1.6 05/15/2031	
+	Thermo Fisher Scientific Inc 2 10/15/2031	
+	Truist Financial Corp 1.95 06/05/2030	
+	Schlumberger Investment SA 3.65 12/01/2023	
+	PulteGroup Inc 5.5 03/01/2026	
+	American Tower Corp 3.5 01/31/2023	
+	Archer-Daniels-Midland Co 3.25 03/27/2030	
+	Atmos Energy Corp 3 06/15/2027	
+	Carrier Global Corp 2.24 02/15/2025	
+	CSX Corp 3.25 06/01/2027	
+	Cigna Corp 4.12 11/15/2025	
+	Equitable Holdings Inc 4.35 04/20/2028	
+	General Mills Inc 4.2 04/17/2028	
+	Fidelity National Financial Inc 3.4 06/15/2030	
+	Fifth Third Bancorp 3.65 01/25/2024	
+	Emerson Electric Co 0.88 10/15/2026	
+	Xcel Energy Inc 3.3 06/01/2025	
+	Waste Management Inc 0.75 11/15/2025	
+	Tyson Foods Inc 4.35 03/01/2029	
+	Westlake Corp 3.6 08/15/2026	
+	WEC Energy Group Inc 0.55 09/15/2023	
+	Exelon Corp 4.05 04/15/2030	
+	Fortive Corp 3.15 06/15/2026	
+	General Motors Financial Co Inc 3.1 01/12/2032	
+	Cummins Inc 3.65 10/01/2023	
+	DH Europe Finance II Sarl 2.2 11/15/2024	
+	Biogen Inc 4.05 09/15/2025	
+	CVS Health Corp 3.88 07/20/2025	
+	Bunge Ltd Finance Corp 1.63 08/17/2025	
+	CME Group Inc 3 03/15/2025	
+	Automatic Data Processing Inc 1.25 09/01/2030	
+	American Express Co 4.05 05/03/2029	
+	Simon Property Group LP 2.45 09/13/2029	
+	Phillips 66 3.9 03/15/2028	
+	Linde Inc/CT 3.2 01/30/2026	
+	Regions Financial Corp 2.25 05/18/2025	
+	Pfizer Inc 3.45 03/15/2029	
+	Juniper Networks Inc 3.75 08/15/2029	
+	Keurig Dr Pepper Inc 4.6 05/25/2028	
+	Lear Corp 3.8 09/15/2027	
+	Lowe's Cos Inc 2.62 04/01/2031	
+	Molson Coors Beverage Co 3 07/15/2026	
+	Mid-America Apartments LP 3.6 06/01/2027	
+	NIKE Inc 2.4 03/27/2025	
+	NIKE Inc 2.85 03/27/2030	
+	Marsh & McLennan Cos Inc 3.88 03/15/2024	
+	Humana Inc 1.35 02/03/2027	
+	PayPal Holdings Inc 2.4 10/01/2024	
+	Norfolk Southern Corp 3.8 08/01/2028	
+	Regions Financial Corp 1.8 08/12/2028	
+	Ralph Lauren Corp 2.95 06/15/2030	
+	Progressive Corp/The 4 03/01/2029	
+	Globe Life Inc 4.55 09/15/2028	
+	Tractor Supply Co 1.75 11/01/2030	
+	Tapestry Inc 3.05 03/15/2032	
+	Steel Dynamics Inc 3.45 04/15/2030	
+	Stryker Corp 3.5 03/15/2026	
+	Applied Materials Inc 3.3 04/01/2027	
+	CH Robinson Worldwide Inc 4.2 04/15/2028	
+	Bunge Ltd Finance Corp 2.75 05/14/2031	
+	Bank of New York Mellon Corp/The 3.85 04/28/2028	
+	Brighthouse Financial Inc 3.7 06/22/2027	
+	Crown Castle Inc 3.65 09/01/2027	
+	Dell International LLC / EMC Corp 5.3 10/01/2029	
+	Devon Energy Corp 7.88 09/30/2031	
+	Goldman Sachs Group Inc/The 3.8 03/15/2030	
+	Fidelity National Information Services Inc 1.15 03/01/2026	
+	Eversource Energy 3.38 03/01/2032	
+	FedEx Corp 3.25 04/01/2026	
+	Electronic Arts Inc 1.85 02/15/2031	
+	Edison International 4.12 03/15/2028	
+	Entergy Corp 2.95 09/01/2026	
+	Entergy Corp 1.9 06/15/2028	
+	Xcel Energy Inc 4 06/15/2028	
+	Williams Cos Inc/The 3.75 06/15/2027	
+	Visa Inc 2.05 04/15/2030	
+	Vulcan Materials Co 3.5 06/01/2030	
+	Ventas Realty LP 3.5 02/01/2025	
+	Ventas Realty LP 4.4 01/15/2029	
+	WRKCo Inc 4.65 03/15/2026	
+	Equinix Inc 2.62 11/18/2024	
+	Ecolab Inc 4.8 03/24/2030	
+	Emerson Electric Co 2.2 12/21/2031	
+	Estee Lauder Cos Inc/The 2 12/01/2024	
+	General Dynamics Corp 3.75 05/15/2028	
+	Flowers Foods Inc 2.4 03/15/2031	
+	HCA Inc 5.38 02/01/2025	
+	Dick's Sporting Goods Inc 3.15 01/15/2032	
+	EOG Resources Inc 2.62 03/15/2023	
+	EOG Resources Inc 4.38 04/15/2030	
+	Dollar Tree Inc 4.2 05/15/2028	
+	DuPont de Nemours Inc 4.21 11/15/2023	
+	Cummins Inc 1.5 09/01/2030	
+	DH Europe Finance II Sarl 2.6 11/15/2029	
+	Comcast Corp 4.15 10/15/2028	
+	Caterpillar Inc 2.6 04/09/2030	
+	Becton Dickinson and Co 1.96 02/11/2031	
+	Avery Dennison Corp 4.88 12/06/2028	
+	Broadcom Corp / Broadcom Cayman Finance Ltd 3.88 01/15/2027	
+	CNA Financial Corp 3.9 05/01/2029	
+	Applied Materials Inc 1.75 06/01/2030	
+	Automatic Data Processing Inc 3.38 09/15/2025	
+	Aon Global Ltd 3.88 12/15/2025	
+	Air Products and Chemicals Inc 2.05 05/15/2030	
+	Amdocs Ltd 2.54 06/15/2030	
+	Alleghany Corp 3.62 05/15/2030	
+	Stryker Corp 1.95 06/15/2030	
+	Sempra Energy 3.3 04/01/2025	
+	Southwest Airlines Co 5.12 06/15/2027	
+	Republic Services Inc 2.5 08/15/2024	
+	Booking Holdings Inc 3.6 06/01/2026	
+	Phillips 66 3.85 04/09/2025	
+	Public Service Enterprise Group Inc 2.88 06/15/2024	
+	PWR 2.90000 '30 10/01/2030	
+	Norfolk Southern Corp 2.9 06/15/2026	
+	Northern Trust Corp 4 05/10/2027	
+	PayPal Holdings Inc 2.85 10/01/2029	
+	Huntington Bancshares Inc/OH 2.62 08/06/2024	
+	Illumina Inc 2.55 03/23/2031	
+	Welltower Inc 4 06/01/2025	
+	Keurig Dr Pepper Inc 4.42 05/25/2025	
+	Kellogg Co 3.25 04/01/2026	
+	Martin Marietta Materials Inc 2.4 07/15/2031	
+	Marriott International Inc/MD 4.62 06/15/2030	
+	Mondelez International Inc 1.5 05/04/2025	
+	Marsh & McLennan Cos Inc 4.38 03/15/2029	
+	L3Harris Technologies Inc 4.4 06/15/2028	
+	Leggett & Platt Inc 3.5 11/15/2027	
+	Loews Corp 3.75 04/01/2026	
+	Interpublic Group of Cos Inc/The 4.75 03/30/2030	
+	Huntington Bancshares Inc/OH 2.55 02/04/2030	
+	Pacific Gas and Electric Co 3.15 01/01/2026	
+	Otis Worldwide Corp 2.06 04/05/2025	
+	Northern Trust Corp 1.95 05/01/2030	
+	Nucor Corp 3.95 05/01/2028	
+	Omnicom Group Inc / Omnicom Capital Inc 3.6 04/15/2026	
+	ONEOK Inc 4.55 07/15/2028	
+	Public Service Enterprise Group Inc 2.45 11/15/2031	
+	Public Storage 1.5 11/09/2026	
+	Ross Stores Inc 4.6 04/15/2025	
+	Republic Services Inc 3.95 05/15/2028	
+	Schlumberger Investment SA 2.65 06/26/2030	
+	Sonoco Products Co 3.12 05/01/2030	
+	Targa Resources Partners LP / Targa Resources Partners Finan 5.5 03/01/2030	
+	Textron Inc 3 06/01/2030	
+	Allstate Corp/The 1.45 12/15/2030	
+	Air Products and Chemicals Inc 1.5 10/15/2025	
+	AutoZone Inc 3.12 07/15/2023	
+	American Tower Corp 3.8 08/15/2029	
+	CSX Corp 4.25 03/15/2029	
+	CVS Health Corp 4.3 03/25/2028	
+	CME Group Inc 2.65 03/15/2032	
+	Paramount Global 4 01/15/2026	
+	Becton Dickinson and Co 3.7 06/06/2027	
+	Colgate-Palmolive Co 3.25 08/15/2032	
+	Dollar General Corp 3.5 04/03/2030	
+	Flex Ltd 4.88 06/15/2029	
+	First American Financial Corp 2.4 08/15/2031	
+	Fiserv Inc 2.75 07/01/2024	
+	Estee Lauder Cos Inc/The 2.38 12/01/2029	
+	Ecolab Inc 2.7 11/01/2026	
+	Waste Management Inc 1.5 03/15/2031	
+	Paramount Global 4.95 01/15/2031	
+	Viatris Inc 2.7 06/22/2030	
+	Valero Energy Corp 2.15 09/15/2027	
+	VF Corp 2.4 04/23/2025	
+	WRKCo Inc 4.9 03/15/2029	
+	WEC Energy Group Inc 1.38 10/15/2027	
+	Zoetis Inc 3.25 02/01/2023	
+	Edwards Lifesciences Corp 4.3 06/15/2028	
+	Equinix Inc 3.2 11/18/2029	
+	Essential Utilities Inc 2.7 04/15/2030	
+	Extra Space Storage LP 2.35 03/15/2032	
+	Fiserv Inc 3.5 07/01/2029	
+	Flex Ltd 4.75 06/15/2025	
+	Fox Corp 4.03 01/25/2024	
+	Dollar Tree Inc 4 05/15/2025	
+	DTE Electric Co 2.62 03/01/2031	
+	ERP Operating LP 2.85 11/01/2026	
+	ERP Operating LP 2.5 02/15/2030	
+	CenterPoint Energy Inc 1.45 06/01/2026	
+	DR Horton Inc 2.5 10/15/2024	
+	Baxter International Inc 1.92 02/01/2027	
+	Black Hills Corp 4.25 11/30/2023	
+	Boston Scientific Corp 2.65 06/01/2030	
+	Carlisle Cos Inc 2.75 03/01/2030	
+	Aon Corp 2.8 05/15/2030	
+	Avangrid Inc 3.2 04/15/2025	
+	Arrow Electronics Inc 3.88 01/12/2028	
+	Ally Financial Inc 2.2 11/02/2028	
+	Adobe Inc 2.3 02/01/2030	
+	AbbVie Inc 3.2 11/21/2029	
+	AbbVie Inc 2.6 11/21/2024	
+	Sherwin-Williams Co/The 3.45 06/01/2027	
+	Southwest Gas Corp 4.05 03/15/2032	
+	Simon Property Group LP 2 09/13/2024	
+	SVB Financial Group 1.8 10/28/2026	
+	Salesforce Inc 3.25 04/11/2023	
+	Public Storage 1.85 05/01/2028	
+	PPG Industries Inc 1.2 03/15/2026	
+	Prologis LP 2.25 04/15/2030	
+	Otis Worldwide Corp 2.56 02/15/2030	
+	Pacific Gas and Electric Co 4.55 07/01/2030	
+	Parker-Hannifin Corp 3.25 06/14/2029	
+	Humana Inc 2.15 02/03/2032	
+	IDEX Corp 3 05/01/2030	
+	Hartford Financial Services Group Inc/The 2.8 08/19/2029	
+	Kellogg Co 7.45 04/01/2031	
+	KeyCorp 2.55 10/01/2029	
+	L3Harris Technologies Inc 3.85 06/15/2023	
+	Loews Corp 3.2 05/15/2030	
+	Lam Research Corp 3.75 03/15/2026	
+	Warnermedia Holdings Inc 4.28 03/15/2032	
+	Merck & Co Inc 2.75 02/10/2025	
+	NOV Inc 3.6 12/01/2029	
+	Motorola Solutions Inc 4.6 05/23/2029	
+	Utah Acquisition Sub Inc 3.95 06/15/2026	
+	Lam Research Corp 4 03/15/2029	
+	Laboratory Corp of America Holdings 3.6 02/01/2025	
+	Lennar Corp 4.5 04/30/2024	
+	Kilroy Realty LP 3.05 02/15/2030	
+	Jabil Inc 3.95 01/12/2028	
+	Illinois Tool Works Inc 2.65 11/15/2026	
+	Host Hotels & Resorts LP 3.38 12/15/2029	
+	Hudson Pacific Properties LP 4.65 04/01/2029	
+	PepsiCo Inc 3 10/15/2027	
+	Oracle Corp 2.88 03/25/2031	
+	Omnicom Group Inc 2.6 08/01/2031	
+	NVIDIA Corp 3.2 09/16/2026	
+	Primerica Inc 2.8 11/19/2031	
+	Pioneer Natural Resources Co 1.12 01/15/2026	
+	Philip Morris International Inc 3.38 08/15/2029	
+	Salesforce Inc 3.7 04/11/2028	
+	Reliance Steel & Aluminum Co 4.5 04/15/2023	
+	Ross Stores Inc 1.88 04/15/2031	
+	J M Smucker Co/The 3.5 03/15/2025	
+	J M Smucker Co/The 2.38 03/15/2030	
+	Stanley Black & Decker Inc 2.3 03/15/2030	
+	Texas Instruments Inc 2.25 09/04/2029	
+	Trimble Inc 4.9 06/15/2028	
+	Sun Communities Operating LP 2.7 07/15/2031	
+	Sysco Corp 5.95 04/01/2030	
+	Adobe Inc 3.25 02/01/2025	
+	Amcor Flexibles North America Inc 2.69 05/25/2031	
+	AutoZone Inc 4 04/15/2030	
+	American Water Capital Corp 3.4 03/01/2025	
+	Campbell Soup Co 4.15 03/15/2028	
+	CBRE Services Inc 2.5 04/01/2031	
+	Biogen Inc 2.25 05/01/2030	
+	DR Horton Inc 1.4 10/15/2027	
+	Comerica Inc 3.7 07/31/2023	
+	Comerica Inc 4 02/01/2029	
+	Conagra Brands Inc 4.3 05/01/2024	
+	Constellation Brands Inc 2.25 08/01/2031	
+	CNP 2.65000 '31 06/01/2031	
+	EPR Properties 3.75 08/15/2029	
+	Eastman Chemical Co 3.8 03/15/2025	
+	Eaton Corp 3.1 09/15/2027	
+	Duke Realty LP 2.25 01/15/2032	
+	Fidelity National Information Services Inc 2.25 03/01/2031	
+	Willis North America Inc 3.6 05/15/2024	
+	VMware Inc 3.9 08/21/2027	
+	VF Corp 2.95 04/23/2030	
+	Zimmer Biomet Holdings Inc 2.6 11/24/2031	
+	Fox Corp 4.71 01/25/2029	
+	General Dynamics Corp 3.25 04/01/2025	
+	Flowserve Corp 3.5 10/01/2030	
+	Healthpeak Properties Inc 3.25 07/15/2026	
+	Global Payments Inc 2.65 02/15/2025	
+	Evergy Inc 2.45 09/15/2024	
+	Expedia Group Inc 5 02/15/2026	
+	EI du Pont de Nemours and Co 1.7 07/15/2025	
+	EI du Pont de Nemours and Co 2.3 07/15/2030	
+	eBay Inc 3.6 06/05/2027	
+	Eastman Chemical Co 4.5 12/01/2028	
+	DXC Technology Co 1.8 09/15/2026	
+	DXC Technology Co 2.38 09/15/2028	
+	Cintas Corp No 2 3.7 04/01/2027	
+	Conagra Brands Inc 4.85 11/01/2028	
+	Booking Holdings Inc 4.62 04/13/2030	
+	Brighthouse Financial Inc 5.62 05/15/2030	
+	Boston Properties LP 3.65 02/01/2026	
+	Boston Properties LP 3.25 01/30/2031	
+	Brunswick Corp/DE 2.4 08/18/2031	
+	CBRE Services Inc 4.88 03/01/2026	
+	Campbell Soup Co 3.95 03/15/2025	
+	Analog Devices Inc 3.5 12/05/2026	
+	AvalonBay Communities Inc 3.45 06/01/2025	
+	AvalonBay Communities Inc 2.3 03/01/2030	
+	Amcor Finance USA Inc 3.62 04/28/2026	
+	Alexandria Real Estate Equities Inc 3.45 04/30/2025	
+	LifeStorage LP/CA 3.5 07/01/2026	
+	Spirit Realty LP 3.4 01/15/2030	
+	Sempra Energy 3.4 02/01/2028	
+	Southern California Edison Co 3.7 08/01/2025	
+	SVB Financial Group 3.12 06/05/2030	
+	Quest Diagnostics Inc 3.5 03/30/2025	
+	Quest Diagnostics Inc 2.95 06/30/2030	
+	NVIDIA Corp 2.85 04/01/2030	
+	O'Reilly Automotive Inc 3.6 09/01/2027	
+	PerkinElmer Inc 3.3 09/15/2029	
+	Huntsman International LLC 4.5 05/01/2029	
+	Hasbro Inc 3.55 11/19/2026	
+	Host Hotels & Resorts LP 4 06/15/2025	
+	Intuit Inc 0.95 07/15/2025	
+	Jefferies Group LLC / Jefferies Group Capital Finance Inc 4.85 01/15/2027	
+	Kyndryl Holdings Inc 3.15 10/15/2031	
+	Kirby Corp 4.2 03/01/2028	
+	Lennar Corp 4.75 11/29/2027	
+	Leidos Inc 3.62 05/15/2025	
+	Mosaic Co/The 4.05 11/15/2027	
+	NiSource Inc 3.6 05/01/2030	
+	NiSource Inc 0.95 08/15/2025	
+	Laboratory Corp of America Holdings 2.95 12/01/2029	
+	Kyndryl Holdings Inc 2.05 10/15/2026	
+	Hasbro Inc 3.9 11/19/2029	
+	Ingredion Inc 3.2 10/01/2026	
+	PPG Industries Inc 3.75 03/15/2028	
+	Realty Income Corp 3.25 01/15/2031	
+	QUALCOMM Inc 1.65 05/20/2032	
+	Office Properties Income Trust 4.5 02/01/2025	
+	Sherwin-Williams Co/The 2.95 08/15/2029	
+	Roper Technologies Inc 1 09/15/2025	
+	Take-Two Interactive Software Inc 4 04/14/2032	
+	Allstate Corp/The 3.28 12/15/2026	
+	Activision Blizzard Inc 3.4 09/15/2026	
+	Activision Blizzard Inc 1.35 09/15/2030	
+	Acuity Brands Lighting Inc 2.15 12/15/2030	
+	American Homes 4 Rent LP 4.25 02/15/2028	
+	Carrier Global Corp 2.72 02/15/2030	
+	Camden Property Trust 2.8 05/15/2030	
+	Broadridge Financial Solutions Inc 2.6 05/01/2031	
+	CNA Financial Corp 3.95 05/15/2024	
+	Cheniere Corpus Christi Holdings LLC 5.12 06/30/2027	
+	Dell International LLC / EMC Corp 6.02 06/15/2026	
+	Expedia Group Inc 3.8 02/15/2028	
+	Essex Portfolio LP 3 01/15/2030	
+	Healthpeak Properties Inc 3.5 07/15/2029	
+	Zimmer Biomet Holdings Inc 3.55 04/01/2025	
+	Willis North America Inc 2.95 09/15/2029	
+	Xilinx Inc 2.38 06/01/2030	
+	Walgreens Boots Alliance Inc 3.2 04/15/2030	
+	Welltower Inc 3.1 01/15/2030	
+	Universal Health Services Inc 2.65 10/15/2030	
+	Universal Health Services Inc 1.65 09/01/2026	
+	WP Carey Inc 2.4 02/01/2031	
+	Xylem Inc/NY 3.25 11/01/2026	
+	Williams Cos Inc/The 2.6 03/15/2031	
+	FMC Corp 3.2 10/01/2026	
+	Diamondback Energy Inc 3.5 12/01/2029	
+	DENTSPLY SIRONA Inc 3.25 06/01/2030	
+	Eagle Materials Inc 2.5 07/01/2031	
+	Cintas Corp No 2 4 05/01/2032	
+	Clorox Co/The 3.9 05/15/2028	
+	Broadridge Financial Solutions Inc 3.4 06/27/2026	
+	Brixmor Operating Partnership LP 3.85 02/01/2025	
+	Boeing Co/The 5.15 05/01/2030	
+	Autodesk Inc 3.5 06/15/2027	
+	Agilent Technologies Inc 2.3 03/12/2031	
+	Ovintiv Inc 7.38 11/01/2031	
+	Alexandria Real Estate Equities Inc 2 05/18/2032	
+	Ally Financial Inc 5.8 05/01/2025	
+	Altria Group Inc 4.8 02/14/2029	
+	Roper Technologies Inc 1.75 02/15/2031	
+	Pioneer Natural Resources Co 1.9 08/15/2030	
+	Oracle Corp 2.5 04/01/2025	
+	Jefferies Group LLC / Jefferies Group Capital Finance Inc 4.15 01/23/2030	
+	Intuit Inc 1.65 07/15/2030	
+	Interstate Power and Light Co 3.25 12/01/2024	
+	Interstate Power and Light Co 4.1 09/26/2028	
+	Leidos Inc 2.3 02/15/2031	
+	Marriott International Inc/MD 3.12 06/15/2026	
+	McCormick & Co Inc/MD 3.4 08/15/2027	
+	NetApp Inc 1.88 06/22/2025	
+	Nasdaq Inc 1.65 01/15/2031	
+	NetApp Inc 2.7 06/22/2030	
+	Eli Lilly & Co 2.75 06/01/2025	
+	Huntington Ingalls Industries Inc 3.84 05/01/2025	
+	Healthcare Realty Holdings LP 3.5 08/01/2026	
+	Regency Centers LP 3.6 02/01/2027	
+	Reliance Steel & Aluminum Co 2.15 08/15/2030	
+	ServiceNow Inc 1.4 09/01/2030	
+	T-Mobile USA Inc 3.75 04/15/2027	
+	3M Co 3.25 02/14/2024	
+	Avangrid Inc 3.8 06/01/2029	
+	American Water Capital Corp 4.45 06/01/2032	
+	AmerisourceBergen Corp 3.25 03/01/2025	
+	Ameriprise Financial Inc 4.5 05/13/2032	
+	Boston Scientific Corp 3.45 03/01/2024	
+	Brown & Brown Inc 4.2 09/15/2024	
+	CNO Financial Group Inc 5.25 05/30/2025	
+	Capital One Financial Corp 4.2 10/29/2025	
+	Corporate Office Properties LP 2.75 04/15/2031	
+	DuPont de Nemours Inc 4.72 11/15/2028	
+	John Deere Capital Corp 3.45 03/13/2025	
+	FMC Corp 3.45 10/01/2029	
+	Global Payments Inc 3.2 08/15/2029	
+	Genuine Parts Co 1.88 11/01/2030	
+	Fortune Brands Home & Security Inc 4 09/21/2023	
+	Fortune Brands Home & Security Inc 3.25 09/15/2029	
+	Xylem Inc/NY 2.25 01/30/2031	
+	WP Carey Inc 4.6 04/01/2024	
+	Verisk Analytics Inc 4 06/15/2025	
+	Verisk Analytics Inc 4.12 03/15/2029	
+	VeriSign Inc 2.7 06/15/2031	
+	Evergy Inc 2.9 09/15/2029	
+	Equifax Inc 2.6 12/01/2024	
+	DTE Energy Co 1.05 06/01/2025	
+	CNO Financial Group Inc 5.25 05/30/2029	
+	Brixmor Operating Partnership LP 4.12 05/15/2029	
+	Bio-Rad Laboratories Inc 3.7 03/15/2032	
+	Arrow Electronics Inc 3.25 09/08/2024	
+	Teledyne Technologies Inc 2.75 04/01/2031	
+	Omega Healthcare Investors Inc 5.25 01/15/2026	
+	Ingredion Inc 2.9 06/01/2030	
+	HII 3.48300 '27 12/01/2027	
+	Kimco Realty Corp 2.8 10/01/2026	
+	Keysight Technologies Inc 4.6 04/06/2027	
+	National Fuel Gas Co 2.95 03/01/2031	
+	NVR Inc 3 05/15/2030	
+	Marvell Technology Inc 1.65 04/15/2026	
+	Marvell Technology Inc 2.95 04/15/2031	
+	Mosaic Co/The 4.25 11/15/2023	
+	National Fuel Gas Co 3.75 03/01/2023	
+	McDonald's Corp 3.7 01/30/2026	
+	KLA Corp 4.65 11/01/2024	
+	Healthcare Realty Holdings LP 2 03/15/2031	
+	Omega Healthcare Investors Inc 3.38 02/01/2031	
+	Linde Inc/CT 1.1 08/10/2030	
+	Target Corp 3.38 04/15/2029	
+	Stanley Black & Decker Inc 3.4 03/01/2026	
+	Ameriprise Financial Inc 4 10/15/2023	
+	AES Corp/The 1.38 01/15/2026	
+	Bristol-Myers Squibb Co 2.9 07/26/2024	
+	Brown & Brown Inc 2.38 03/15/2031	
+	Dominion Energy Inc 3.38 04/01/2030	
+	Duke Energy Corp 2.65 09/01/2026	
+	Equifax Inc 2.35 09/15/2031	
+	FedEx Corp 3.1 08/05/2029	
+	Fortinet Inc 1 03/15/2026	
+	Fortinet Inc 2.2 03/15/2031	
+	Digital Realty Trust LP 3.7 08/15/2027	
+	Coterra Energy Inc 3.9 05/15/2027	
+	Reinsurance Group of America Inc 3.9 05/15/2029	
+	Honeywell International Inc 2.5 11/01/2026	
+	Lincoln National Corp 4 09/01/2023	
+	VeriSign Inc 5.25 04/01/2025	
+	Mohawk Industries Inc 3.62 05/15/2030	
+	Micron Technology Inc 4.66 02/15/2030	
+	Invitation Homes Operating Partnership LP 2 08/15/2031	
+	Ameren Corp 3.5 01/15/2031	
+	John Deere Capital Corp 2.8 07/18/2029	
+	HCA Inc 3.5 09/01/2030	
+	Essex Portfolio LP 3.5 04/01/2025	

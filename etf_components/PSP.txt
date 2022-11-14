@@ -1,0 +1,62 @@
+PSP
+	3i Group PLC	
+BX	Blackstone Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=PSP
+	EQT AB	
+KKR	KKR & Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KKR.US&back=PSP
+	Partners Group Holding AG	
+OWL	Blue Owl Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OWL.US&back=PSP
+TPG	TPG Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TPG.US&back=PSP
+	Sofina SA	
+CG	Carlyle Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=CG.US&back=PSP
+	Melrose Industries PLC	
+	Eurazeo SE	
+5987.JP&back=PSP	Onex Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5987.JP&back=PSP
+ARCC	Ares Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCC.US&back=PSP
+	Kinnevik AB	
+	Intermediate Capital Group PLC	
+	Seven Group Holdings Ltd	
+BBU	Brookfield Business Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=BBU.US&back=PSP
+IAC	IAC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IAC.US&back=PSP
+	Wendel SE	
+	HgCapital Trust PLC/Fund	
+0656.HK&back=PSP	Fosun International Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0656.HK&back=PSP
+HLNE	Hamilton Lane Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLNE.US&back=PSP
+	Bridgepoint Group PLC	
+GHC	Graham Holdings Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GHC.US&back=PSP
+	Petershill Partners PLC	
+FSK	FS KKR Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FSK.US&back=PSP
+STEP	StepStone Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STEP.US&back=PSP
+	HBM Healthcare Investments AG	
+ORCC	Owl Rock Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCC.US&back=PSP
+8595.JP&back=PSP	JAFCO Group Co ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8595.JP&back=PSP
+	Ratos AB	
+	Syncona Limited	
+	Apax Global Alpha Ltd	
+BXSL	Blackstone Secured Lending Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=BXSL.US&back=PSP
+CNNE	Cannae Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CNNE.US&back=PSP
+PAX	Patria Investments Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=PAX.US&back=PSP
+	Princess Private Equity Holding Ltd	
+	NB Private Equity Partners Ltd/Fund	
+	Oakley Capital Investments Ltd	
+4819.JP&back=PSP	Digital Garage Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4819.JP&back=PSP
+CODI	Compass Diversified Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=CODI.US&back=PSP
+	Gimv NV	
+MAIN	Main Street Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MAIN.US&back=PSP
+	IP Group PLC	
+	AURELIUS Equity Opportunities SE & Co KGaA	
+	Invesco Government & Agency Portfolio	
+	PureTech Health PLC	
+GBDC	Golub Capital BDC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GBDC.US&back=PSP
+NMFC	New Mountain Finance Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NMFC.US&back=PSP
+	Molten Ventures PLC	
+PSEC	Prospect Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PSEC.US&back=PSP
+	Alaris Equity Partners Income	
+	Chrysalis Investments Ltd	
+	Mutares SE & Co KGaA	
+OCSL	Oaktree Specialty Lending Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OCSL.US&back=PSP
+TSLX	Sixth Street Specialty Lending Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLX.US&back=PSP
+HTGC	Hercules Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HTGC.US&back=PSP
+GSBD	Goldman Sachs BDC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GSBD.US&back=PSP
+TRIN	Trinity Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TRIN.US&back=PSP
+BBDC	Barings BDC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBDC.US&back=PSP
+	CITI BROOKFIELD TRS ASSET LEG	

@@ -1,0 +1,34 @@
+PXI
+TPL	Texas Pacific Land Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=PXI
+LNG	Cheniere Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=PXI
+AMR	Alpha Metallurgical Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMR.US&back=PXI
+WFRD	Weatherford International PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=WFRD.US&back=PXI
+MTDR	Matador Resources Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=PXI
+SM	SM Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=PXI
+DVN	Devon Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=PXI
+AR	Antero Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=PXI
+CEIX	CONSOL Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CEIX.US&back=PXI
+CHRD	Chord Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=PXI
+MPC	Marathon Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=PXI
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=PXI
+OXY	Occidental Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=PXI
+RRC	Range Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=PXI
+CIVI	Civitas Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=PXI
+MRO	Marathon Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=PXI
+MUR	Murphy Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MUR.US&back=PXI
+EOG	EOG Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=PXI
+HES	Hess Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=PXI
+PXD	Pioneer Natural Resources Co	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=PXI
+CVI	CVR Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=PXI
+XOM	Exxon Mobil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=PXI
+CRK	Comstock Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=PXI
+CHK	Chesapeake Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=PXI
+WTI	W&T Offshore Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTI.US&back=PXI
+SD	SandRidge Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SD.US&back=PXI
+LEU	Centrus Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LEU.US&back=PXI
+VAL	Valaris Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=VAL.US&back=PXI
+RES	RPC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RES.US&back=PXI
+CRC	California Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CRC.US&back=PXI
+STR	Sitio Royalties Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=STR.US&back=PXI
+BRY	Berry Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BRY.US&back=PXI
+	Invesco Government & Agency Portfolio	

@@ -1,0 +1,80 @@
+FAS
+	Financial Select Sector Index SWAP	
+	FINANCIAL SELECT SECTOR  INDEX SWAP	
+	Financial Select Sector Index SWAP	
+	Financial Select Sector Index SWAP	
+	FINANCIAL SELECT SECTOR  INDEX SWAP	
+	FINANCIAL SELECT SECTOR  INDEX SWAP	
+	FINANCIAL SELECT SECTOR  INDEX SWAP	
+	BERKSHIRE HATHAWAY INC	
+	DREYFUS GOVT CASH MGMT	
+	DREYFUS GOVT CASH MGMT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+	DREYFUS TREASURY SECURITIES CASH MANAGEMENT	
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=FAS
+BAC	Bank of America Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=FAS
+WFC	Wells Fargo	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=FAS
+SPGI	S&P Global Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=FAS
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=FAS
+GS	Goldman Sachs Group	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=FAS
+SCHW	Charles Schwab	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=FAS
+BLK	BlackRock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=FAS
+C	CITIGROUP INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=FAS
+AXP	American Express	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=FAS
+MMC	Marsh & McLennan	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=FAS
+CB	CHUBB LTD NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=FAS
+PGR	Progressive Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=FAS
+CME	Chicago Mercantile Exchange	/etf/ea/ETZCW.djhtm?c=1&etfid=CME.US&back=FAS
+PNC	PNC Financial Services Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=FAS
+TFC	Truist Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=FAS
+	DREYFUS GOVT CASH MGMT	
+USB	US BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=FAS
+AON	AON PLC/IRELAND NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=FAS
+ICE	INTERCONTINENTALEXCHANGE G USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=FAS
+MCO	Moody's Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCO.US&back=FAS
+MET	MetLife Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=FAS
+COF	Capital One Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=FAS
+AIG	AMERICAN INTL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=FAS
+AJG	Gallagher(Arthur J.)	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=FAS
+MSCI	MSCI INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=MSCI.US&back=FAS
+PRU	Prudential Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=FAS
+AFL	Aflac Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=FAS
+ALL	Allstate Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=FAS
+	GOLDMAN FINL SQ TRSRY INST 506	
+MTB	M&T Bank Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=FAS
+BK	BANK NEW YORK MELLON CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=FAS
+AMP	AMERIPRISE FINANCIAL INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=FAS
+DFS	DISCOVER FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=FAS
+FRC	FIRST REP BK SAN FRANCISCO USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC.US&back=FAS
+TROW	T. Rowe Price Group	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=FAS
+STT	State Street Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=FAS
+SIVB	SVB FINL GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVB.US&back=FAS
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=FAS
+WTW	Wills Towers Watson PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTW.US&back=FAS
+HIG	Hartford Financial Svc.Gp.	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=FAS
+RJF	Raymond James Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=FAS
+NDAQ	Nasdaq Stock Market Inc Com	/etf/ea/ETZCW.djhtm?c=1&etfid=NDAQ.US&back=FAS
+NTRS	Northern Trust Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=FAS
+RF	Regions Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=FAS
+HBAN	Huntington Bancshares	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=FAS
+CFG	CITIZENS FINL GROUP INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=FAS
+PFG	Principal Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=FAS
+KEY	KEYCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=FAS
+SYF	SYNCHRONY FINL USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=FAS
+FDS	FactSet Research Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=FAS
+CINF	Cincinnati Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=FAS
+BRO	Brown & Brown Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=FAS
+WRB	W. R. Berkley Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=FAS
+CBOE	CBOE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CBOE.US&back=FAS
+SBNY	Signature Bank/New York NY	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNY.US&back=FAS
+RE	EVEREST RE GROUP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RE.US&back=FAS
+L	Loews Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=FAS
+CMA	Comerica Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=FAS
+MKTX	Marketaxess Hldgs Inc Com	/etf/ea/ETZCW.djhtm?c=1&etfid=MKTX.US&back=FAS
+GL	GLOBE LIFE INC USD 1.0	/etf/ea/ETZCW.djhtm?c=1&etfid=GL.US&back=FAS
+AIZ	Assurant Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=FAS
+ZION	Zions Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=ZION.US&back=FAS
+LNC	Lincoln National	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=FAS
+BEN	Franklin Resources	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=FAS
+IVZ	INVESCO LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=IVZ.US&back=FAS
+	GOLDMAN FS GOVT INST	

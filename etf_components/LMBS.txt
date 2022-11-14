@@ -1,0 +1,1373 @@
+LMBS
+	US Dollar	
+	U.S. Treasury Bill, 0%, due 09/13/2022	
+	U.S. Treasury Note, 1.50%, due 03/31/2023	
+	Fannie Mae or Freddie Mac TBA, 5.50%, due 09/01/2052	
+	U.S. Treasury Bill, 0%, due 10/11/2022	
+	U.S. Treasury Bill, 0%, due 11/03/2022	
+	Fannie Mae FN FS1780, 2.50%, due 04/01/2042	
+	Fannie Mae FN FS1524, 2.50%, due 04/01/2042	
+	Fannie Mae FN CB3507, 4%, due 04/01/2052	
+	Fannie Mae FN FS1268, 4%, due 04/01/2052	
+	Fannie Mae FN FS0697, 2.50%, due 02/01/2042	
+	GNMA Series 2022-68, Class XA, 3.50%, due 10/01/2051	
+	Fannie Mae FN FM3047, 4%, due 04/01/2045	
+	Fannie Mae Series 2022-18, Class DZ, 3.50%, due 04/25/2052	
+	Fannie Mae FN CB3631, 4.50%, due 05/01/2052	
+	Fannie Mae or Freddie Mac TBA, 4.50%, due 08/01/2052	
+	U.S. Treasury Note, 2.75%, due 04/30/2023	
+	Fannie Mae FN FM9263, 2%, due 10/01/2041	
+	FANNIE MAE Series 2019-68, Class KP, 2.50%, due 11/25/2049	
+	Fannie Mae FN FS1267, 4%, due 04/01/2052	
+	Fannie Mae FN FS1972, 2%, due 04/01/2042	
+	GNMA Series 2019-128, Class EF, Variable rate, due 10/20/2049	
+	GNMA Series 2021-188, Class PA, 2%, due 10/20/2051	
+	Fannie Mae FN FM8927, 4%, due 10/01/2049	
+	Fannie Mae or Freddie Mac TBA, 6%, due 02/01/2035	
+	Fannie Mae or Freddie Mac TBA, 5%, due 09/01/2052	
+	Fannie Mae Series 2020-5, Class BZ, 3%, due 02/25/2050	
+	FANNIE MAE Series 2018-76, Class ZL, 4%, due 10/25/2058	
+	U.S. Treasury Note, 0.25%, due 04/15/2023	
+	GNMA Series 2022-63, Class AZ, 3%, due 08/20/2051	
+	Freddie Mac Series 5224, Class DZ, 4%, due 04/25/2052	
+	FREMF Mortgage Trust Series 2013-K35, Class B, Variable rate, due 12/25/2046	
+	Fannie Mae FN FS1541, 3%, due 04/01/2042	
+	GNMA Series 2021-159, Class QE, 2%, due 02/01/2048	
+	Fannie Mae FN FS1670, 4%, due 04/01/2052	
+	Fannie Mae FN CA5569, 4%, due 04/01/2050	
+	FHLMC Multifamily Structured Pass Through Certs. Series K034, Class A2, Variable rate, due 07/25/2023	
+	Fannie Mae FN FS1671, 4%, due 05/01/2052	
+	Fannie Mae FN FS1672, 4%, due 05/01/2052	
+	Fannie Mae FN FS1573, 2.50%, due 11/01/2041	
+	FHLMC Multifamily Structured Pass Through Certs. Series K032, Class A2, Variable rate, due 05/25/2023	
+	Freddie Mac FR SD0927, 3.50%, due 04/01/2052	
+	Freddie Mac FR SD0959, 3.50%, due 04/01/2052	
+	Freddie Mac Series 4358, Class Z, 3%, due 06/15/2044	
+	Fannie Mae FN FS1973, 2%, due 02/01/2042	
+	FHLMC Multifamily Structured Pass Through Certs. Series K031, Class A2, Variable rate, due 04/25/2023	
+	GNMA Series 2018-170, Class Z, 2.50%, due 11/16/2060	
+	U.S. Treasury Note, 2.75%, due 05/31/2023	
+	FANNIE MAE Series 2019-70, Class WA, 0%, due 11/25/2042	
+	Fannie Mae Series 2022-29, Class JZ, 1.50%, due 06/25/2042	
+	FHLMC Multifamily Structured Pass Through Certs. Series K157, Class A2, Variable rate, due 05/25/2033	
+	Fannie Mae or Freddie Mac TBA, 2.50%, due 04/01/2052	
+	New Residential Mortgage Loan Trust Series 2018-4A, Class A1S, Variable rate, due 01/25/2048	
+	Vendee Mortgage Trust Series 2011-2, Class DZ, 3.75%, due 10/15/2041	
+	Fannie Mae FN FM9224, 4%, due 10/01/2051	
+	Fannie Mae FN FS2164, 3%, due 05/01/2042	
+	Fannie Mae FN CB4266, 4.50%, due 07/01/2037	
+	Freddie Mac Series 4680, Class GZ, 3.50%, due 03/15/2047	
+	Freddie Mac Series 4941, Class YZ, 3%, due 12/25/2049	
+	Flagship Credit Auto Trust Series 2021-4, Class A, 0.86%, due 07/17/2026	
+	Fannie Mae FN BN3925, 4.50%, due 01/01/2049	
+	FREMF Mortgage Trust Series 2015-K721, Class B, Variable rate, due 11/25/2047	
+	Santander Drive Auto Receivables Trust Series 2022-1, Class A3, 1.94%, due 11/17/2025	
+	GNMA Series 2022-63, Class HZ, 2.50%, due 11/20/2051	
+	GLS Auto Receivables Trust Series 2021-4A, Class A, 0.92%, due 07/15/2025	
+	FREDDIE MAC Series 4375, Class MZ, 3.50%, due 08/15/2044	
+	Freddie Mac FR QE3312, 4.50%, due 06/01/2052	
+	Flagstar Mortgage Trust Series 2021-9INV, Class A1, Variable rate, due 09/25/2041	
+	Fannie Mae FN FS1540, 3%, due 04/01/2042	
+	Freddie Mac Multiclass Certificates Series 2020-RR11, Class AX, Variable rate, due 01/27/2029	
+	GNMA Series 2022-63, Class BZ, 3.50%, due 11/20/2046	
+	GNMA Series 2022-43, Class Z, 2%, due 09/16/2061	
+	GNMA Series 2022-68, Class ZC, 3.50%, due 04/20/2052	
+	GNMA Series 2022-46, Class LY, 3%, due 03/20/2052	
+	Wells Fargo Commercial Mortgage Trust Series 2013-LC12, Class A3FL, Variable rate, due 07/15/2046	
+	FREMF Mortgage Trust Series 2013-K26, Class B, Variable rate, due 12/25/2045	
+	Freddie Mac Series 5223, Class GZ, 3%, due 07/01/2049	
+	GNMA Series 2015-30, Class DZ, 2.95%, due 05/16/2055	
+	GNMA Series 2012-120, Class Z, Variable rate, due 01/16/2055	
+	Freddie Mac Multiclass Certificates Series 2021-RR15, Class X, Variable rate, due 10/27/2034	
+	FANNIE MAE Series 2019-34, Class LA, 3%, due 07/25/2049	
+	GNMA Series 2022-106, Class Z, 2%, due 05/16/2063	
+	GNMA Series 2018-123, Class Z, 2.50%, due 06/16/2060	
+	GNMA Series 2019-7, Class Z, 2.50%, due 01/16/2061	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1517, Class X1, Variable rate, due 07/25/2035	
+	FANNIE MAE Series 2011-123, Class ZP, 4.50%, due 12/25/2041	
+	Fannie Mae FN CB3540, 3%, due 05/01/2042	
+	Freddie Mac FR QE1612, 4%, due 05/01/2052	
+	Freddie Mac Series 4582, Class GZ, Variable rate, due 03/15/2052	
+	Freddie Mac Series 5200, Class TZ, 2.50%, due 11/25/2049	
+	Freddie Mac Series 5225, Class NZ, 4%, due 05/25/2052	
+	Freddie Mac - SCRT Series 2022-1, Class MBU, 3.25%, due 11/25/2061	
+	Fannie Mae FN FS2067, 4.50%, due 06/01/2052	
+	GNMA Series 2018-97, Class DZ, 3.50%, due 07/20/2048	
+	Fannie Mae FN FM8953, 5%, due 11/01/2043	
+	Foursight Capital Automobile Receivables Trust Series 2022-1, Class A2, 0%, due 09/15/2025	
+	Freddie Mac - STACR Series 2020-HQA5, Class M2, Variable rate, due 11/25/2050	
+	Fannie Mae Series 2022-23, Class EZ, 3%, due 03/25/2052	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1516, Class X1, Variable rate, due 05/25/2035	
+	FANNIE MAE Series 2016-44, Class Z, 3.50%, due 07/25/2046	
+	Fannie Mae FN BM4122, 7.468%, due 01/01/2040	
+	Barclays Commercial Mortgage Securities LLC Series 2017-DELC, Class A, Variable rate, due 08/15/2036	
+	Freddie Mac FR QK1203, 2.50%, due 11/01/2041	
+	Freddie Mac FR QE0773, 4%, due 04/01/2052	
+	FREMF Mortgage Trust Series 2013-K32, Class B, Variable rate, due 10/25/2046	
+	GNMA Series 2019-18, Class TP, 3.50%, due 02/20/2049	
+	GNMA Series 2018-98, Class C, Variable rate, due 08/16/2060	
+	GNMA Series 2022-90, Class KZ, 3%, due 08/01/2049	
+	GNMA Series 2022-69, Class QL, 3%, due 06/01/2051	
+	UBS-Barclays Commercial Mortgage Trust Series 2013-C5, Class A4, 3.1847%, due 03/10/2046	
+	Freddie Mac Series 5208, Class Z, 3%, due 04/25/2052	
+	Freddie Mac Series 5220, Class KZ, 4%, due 02/25/2051	
+	COLT Funding LLC Series 2022-5, Class A1, Variable rate, due 04/25/2067	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1515, Class X1, Variable rate, due 11/01/2034	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1512, Class X1, Variable rate, due 04/25/2034	
+	FHLMC Multifamily Structured Pass Through Certs. Series K152, Class A2, 3.08%, due 01/25/2031	
+	FHLMC Multifamily Structured Pass Through Certs. Series K156, Class A3, Variable rate, due 06/25/2033	
+	Flagship Credit Auto Trust Series 2022-1, Class A, 1.67%, due 10/15/2026	
+	FHLMC Multifamily Structured Pass Through Certs. Series K110, Class X1, Variable rate, due 04/25/2030	
+	Fannie Mae Series 2017-50., Class BZ, 3%, due 07/25/2047	
+	Colony American Finance Ltd Series 2020-3, Class A, 1.358%, due 08/15/2053	
+	COMM Mortgage Trust Series 2014-CR15, Class AM, Variable rate, due 02/10/2047	
+	Fannie Mae FN FS1639, 4%, due 04/01/2052	
+	Fannie Mae FN FS2310, 5%, due 09/01/2048	
+	Freddie Mac Series 4650, Class VC, 3.50%, due 07/15/2037	
+	GNMA Series 2014-30, Class EA, Variable rate, due 02/16/2044	
+	GNMA Series 2017-122, Class CZ, 3%, due 08/20/2047	
+	U.S. Treasury Inflation Indexed Note, 0.125%, due 01/15/2030	
+	Towd Point Mortgage Trust Series 2018-3, Class A1, Variable rate, due 05/25/2058	
+	GNMA Series 2022-68, Class Z, 3.50%, due 04/20/2052	
+	GNMA Series 2022-68, Class MZ, 3.50%, due 04/20/2052	
+	Westlake Automobile Receivables Trust Series 2021-3A, Class A3, 0.95%, due 06/16/2025	
+	GNMA Series 2017-134, Class AZ, 3%, due 09/20/2047	
+	Freddie Mac Series 5208, Class HZ, 3.50%, due 01/01/2052	
+	Fannie Mae FN BU8953, 4%, due 04/01/2052	
+	DBWF Mortgage Trust Series 2018-GLS, Class A, Variable rate, due 12/19/2030	
+	FANNIE MAE Series 2019-66, Class C, 3%, due 11/25/2049	
+	FANNIE MAE Series 2019-26, Class GA, 3.50%, due 04/01/2049	
+	Flagship Credit Auto Trust Series 2022-3, Class A2, 4.06%, due 11/17/2025	
+	FHLMC Multifamily Structured Pass Through Certs. Series K115, Class X1, Variable rate, due 06/25/2030	
+	Fannie Mae Series 2016-50, Class GY, 3%, due 08/25/2046	
+	COMM Mortgage Trust Series 2013-CR13, Class AM, Variable rate, due 11/10/2046	
+	BPR Trust Series 2022-OANA, Class A, Variable rate, due 04/15/2024	
+	BX Trust Series 2019-IMC, Class A, Variable rate, due 04/15/2034	
+	Fannie Mae FN BR1090, 2.50%, due 06/01/2041	
+	Fannie Mae FN FS1884, 4%, due 05/01/2042	
+	Freddie Mac Series 5225, Class HZ, 4%, due 08/01/2049	
+	Westlake Automobile Receivables Trust Series 2022-1A, Class A3, 2.30%, due 07/15/2025	
+	GNMA Series 2022-78, Class AM, 3.50%, due 04/20/2052	
+	Santander Drive Auto Receivables Trust Series 2022-5, Class A2, 3.98%, due 01/15/2025	
+	Santander Drive Auto Receivables Trust Series 2021-4, Class A3, 0.51%, due 08/15/2025	
+	Sequoia Mortgage Trust Series 2020-1, Class A7, Variable rate, due 02/25/2050	
+	OSCAR US Funding Trust Series 2022-1A, Class A2, 1.60%, due 03/10/2025	
+	MFRA Trust Series 2022-INV1, Class A1, Variable rate, due 04/25/2066	
+	ReadyCap Commercial Mortgage Trust Series 2021-FL6, Class A, Variable rate, due 07/25/2036	
+	RUN NQM TRUST Series 2022-NQM1, Class A1, Variable rate, due 03/25/2067	
+	JP Morgan Chase Commercial Mortgage Sec Trust Series 2018-PHH, Class A, Variable rate, due 06/15/2035	
+	GNMA Series 2022-63, Class MZ, 3%, due 05/20/2051	
+	GNMA Series 2021-97, Class NI, 2.50%, due 08/20/2049	
+	GNMA Series 2018-134, Class KB, 3.50%, due 10/20/2048	
+	Verus Securitization Trust Series 2022-5, Class A1, Variable rate, due 04/25/2067	
+	Freddie Mac Multiclass Certificates Series 2021-RR18, Class X, Variable rate, due 10/27/2028	
+	Freddie Mac - SLST Series 2022-1, Class A2, 3.50%, due 05/25/2032	
+	Fannie Mae - CAS Series 2018-C06, Class 1M2, Variable rate, due 03/25/2031	
+	Fannie Mae FN 9396, 2.50%, due 11/01/2041	
+	FANNIE MAE Series 2019-57, Class JA, 2.50%, due 10/25/2049	
+	Fannie Mae Series 2020-74, Class IQ, 6%, due 10/25/2050	
+	FHLMC Multifamily Structured Pass Through Certs. Series KIR1, Class X, Variable rate, due 03/25/2026	
+	Fannie Mae Series 2017-49, Class ZJ, 4%, due 07/25/2057	
+	Fannie Mae - CAS Series 2022-R07, Class 1M1, Variable rate, due 06/25/2042	
+	Chase Auto Owner Trust Series 2022-AA, Class A2, 4.21%, due 10/27/2025	
+	American Credit Acceptance Receivables Trust Series 2022-1, Class B, 1.68%, due 09/14/2026	
+	Fannie Mae or Freddie Mac TBA, 2.50%, due 04/01/2052	
+	Vendee Mortgage Trust Series 2011-1, Class DZ, 3.75%, due 09/15/2046	
+	J.P. Morgan Wealth Management Series 2021-ATR1, Class A5, Variable rate, due 02/25/2050	
+	Hawaii Hotel Trust 2019-MAUI Series 2019-MAUI, Class A, Variable rate, due 05/15/2038	
+	Honda Auto Receivables Owner Trust Series 2022-2, Class A2, 3.81%, due 03/18/2025	
+	Starwood Mortgage Residential Trust Series 2022-3, Class A1, Variable rate, due 03/25/2067	
+	American Credit Acceptance Receivables Trust Series 2022-1, Class A, 0.99%, due 12/15/2025	
+	Arroyo Mortgage Trust Series 2019-2, Class M1, Variable rate, due 04/25/2049	
+	FHLMC Multifamily Structured Pass Through Certs. Series K113, Class XAM, Variable rate, due 06/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K027, Class A2, 2.637%, due 01/25/2023	
+	FANNIE MAE Series 2019-17, Class GZ, 4%, due 11/25/2056	
+	Freddie Mac Multiclass Certificates Series 2021-RR20, Class X, Variable rate, due 04/25/2033	
+	FREMF Mortgage Trust Series 2013-K29, Class B, Variable rate, due 05/25/2046	
+	Freddie Mac Series 5228, Class DZ, 4.50%, due 06/25/2052	
+	FREMF Mortgage Trust Series 2015-K45, Class B, Variable rate, due 04/25/2048	
+	GNMA G2 783590, 4.50%, due 06/20/2041	
+	Freddie Mac Multiclass Certificates Series 2020-RR10, Class XA, Variable rate, due 12/27/2027	
+	Freddie Mac FG G60940, 4%, due 09/01/2046	
+	Freddie Mac Series 5255, Class KZ, 4%, due 06/01/2052	
+	FANNIE MAE Series 2019-8, Class DY, 3.50%, due 03/25/2049	
+	Fannie Mae Series 2015-19, Class JB, 3.50%, due 04/25/2045	
+	Fannie Mae Series 2016-37, Class PY, 3%, due 06/25/2046	
+	Affirm Inc Series 2021-A, Class A, 0.88%, due 08/15/2025	
+	Barclays Commercial Mortgage Securities LLC Series 2018-TALL, Class A, Variable rate, due 03/15/2037	
+	Fannie Mae Seried 2022-15, Class ZH, 3%, due 04/25/2052	
+	Fannie Mae FN FM2001, 5%, due 09/01/2049	
+	Morgan Stanley BAML Trust Series 2014-C15, Class AS, 4.255%, due 04/15/2047	
+	GNMA Series 2018-155, Class KD, 4%, due 11/20/2048	
+	GNMA Series 2019-15, Class MZ, 4.50%, due 02/20/2049	
+	PRKCM Trust Series 2021-AFC1, Class A1, Variable rate, due 07/25/2056	
+	Wells Fargo Commercial Mortgage Trust Series 2015-NXS2, Class B, Variable rate, due 07/15/2058	
+	Fannie Mae FN FM8128, 4%, due 08/01/2051	
+	CoreVest American Finance Ltd Series 2020-1, Class A1, 1.832%, due 03/15/2050	
+	COMM Mortgage Trust Series 2012-CR3, Class AM, 3.416%, due 10/15/2045	
+	Fannie Mae Series 2022-18, Class Z, 3.50%, due 04/25/2052	
+	Freddie Mac - SCRT Series 2017-2, Class M1, Variable rate, due 08/25/2056	
+	FNA VI LLC Series 2021-1A, Class A, Variable rate, due 01/10/2032	
+	Freddie Mac Series 4660, Class PO, 0%, due 01/15/2033	
+	Freddie Mac FR QK1195, 2.50%, due 11/01/2041	
+	GNMA Series 2017-117, Class ZN, 3%, due 08/20/2047	
+	GNMA Series 2015-3, Class ZD, 4%, due 01/20/2045	
+	GNMA Series 2016-156, Class ZM, 3.50%, due 11/20/2046	
+	GNMA Series 2016-37, Class AF, Variable rate, due 11/20/2043	
+	GM Financial Automobile Leasing Trust Series 2022-3, Class A2A, 4.01%, due 10/21/2024	
+	Freddie Mac Series 5178, Class HL, 2%, due 01/25/2052	
+	Freddie Mac Series 4587, Class ZH, Variable rate, due 03/15/2044	
+	Freddie Mac Series 4170, Class CO, 0%, due 11/15/2032	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1520, Class X1, Variable rate, due 02/25/2036	
+	FHLMC Multifamily Structured Pass Through Certs. Series K159, Class A3, Variable rate, due 11/25/2033	
+	FANNIE MAE Series 2019-29, Class HT, 3%, due 06/25/2049	
+	COMM Mortgage Trust Series 2014-CR21, Class AM, 3.987%, due 12/10/2047	
+	RBSCF TRUST Series 2013-GSP, Class A, Variable rate, due 01/13/2032	
+	JP Morgan Mortgage Trust Series 2021-3, Class A11, Variable rate, due 07/01/2051	
+	GNMA Series 2020-143, Class B, Variable rate, due 03/16/2062	
+	GNMA Series 2020-146, Class CI, 2.50%, due 10/20/2050	
+	GNMA Series 2022-68, Class DZ, 3.50%, due 04/20/2052	
+	GNMA Series 2021-27, Class IO, 2.50%, due 02/20/2051	
+	MHC Commercial Mortgage Trust Series 2021-MHC, Class A, Variable rate, due 04/15/2038	
+	Verus Securitization Trust Series 2020-INV1, Class A3, Variable rate, due 03/25/2060	
+	Fannie Mae - CAS Series 2022-R03, Class 1M2, Variable rate, due 03/25/2042	
+	Banc of America Merrill Lynch Large Loan Inc Series 2013-WBRK, Class A, Variable rate, due 03/10/2037	
+	Angel Oak Mortgage Trust Series 2021-5, Class A1, Variable rate, due 07/25/2066	
+	Fannie Mae FN CA1576, 5%, due 01/01/2048	
+	Fannie Mae FN BT9797, 2.50%, due 11/01/2041	
+	Fannie Mae FN BD6438, 3%, due 10/01/2046	
+	Fannie Mae Series 2021-66, Class CI, 4%, due 11/01/2032	
+	FHLMC Multifamily Structured Pass Through Certs. Series K120, Class XAM, 1.21102%, due 10/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K739, Class X1, Variable rate, due 09/25/2027	
+	Freddie Mac Multiclass Certificates Series 2020-RR06, Class BX, Variable rate, due 05/27/2033	
+	Freddie Mac FG Q53219, 4.50%, due 12/01/2047	
+	FREMF Mortgage Trust Series 2013-K28, Class B, Variable rate, due 06/25/2046	
+	GNMA Series 2014-43, Class Z, 4%, due 03/20/2044	
+	Freddie Mac FR QO0807, 4.50%, due 09/01/2037	
+	Freddie Mac - STACR Series 2021-DNA5, Class M2, Variable rate, due 01/25/2034	
+	FHLMC Multifamily Structured Pass Through Certs. Series K116, Class XAM, Variable rate, due 09/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K117, Class XAM, Variable rate, due 09/25/2030	
+	FANNIE MAE Series 2019-34, Class JA, 3%, due 07/25/2049	
+	FANNIE MAE Series 2018-94, Class AZ, 4%, due 01/25/2049	
+	Fannie Mae FN BT7849, 5%, due 07/01/2052	
+	Fannie Mae FN BM5671, 4.50%, due 01/01/2049	
+	Ellington Financial Mortgage Trust Series 2022-2, Class A1, Variable rate, due 04/25/2067	
+	Colony American Finance Ltd Series 2020-4, Class A, 1.174%, due 12/15/2052	
+	Verus Securitization Trust Series 2022-INV1, Class A, Variable rate, due 08/25/2067	
+	Vista Point Securitization Trust Series 2020-1, Class M1, Variable rate, due 03/25/2065	
+	Verus Securitization Trust Series 2022-4, Class A1, Variable rate, due 04/25/2067	
+	Vendee Mortgage Trust Series 2010-1, Class DZ, 4.25%, due 04/15/2040	
+	MFRA Trust Series 2021-NQM2, Class A1, Variable rate, due 11/25/2064	
+	GNMA Series 2018-160, Class GY, 4.50%, due 11/20/2048	
+	GNMA Series 2017-76, Class B, 2.60%, due 12/16/2056	
+	GNMA Series 2017-33, Class PZ, 3%, due 02/20/2047	
+	GNMA Series 2018-78, Class EZ, 3%, due 04/20/2048	
+	GNMA Series 2020-169, Class Z, 1.83%, due 05/01/2055	
+	GNMA Series 2019-45, Class ZB, 3.50%, due 04/20/2049	
+	GNMA Series 2020-84, Class IO, 2.50%, due 04/20/2050	
+	GNMA Series 2022-90, Class ZG, 1.50%, due 02/20/2052	
+	GSAMP Trust Series 2006-SEA1, Class M2, Variable rate, due 05/25/2036	
+	JP Morgan Mortgage Trust Series 2018-7FRB, Class A2, Variable rate, due 04/25/2046	
+	New Residential Mortgage Loan Trust Series 2015-2A, Class B1, Variable rate, due 08/25/2055	
+	Wells Fargo Commercial Mortgage Trust Series 2020-SDAL, Class C, Variable rate, due 02/15/2037	
+	Diamond Resorts Owner Trust Series 2021-1A, Class A, 1.66%, due 11/21/2033	
+	Barclays Mortgage Loan Trust Series 2021-NQM1, Class A1, Variable rate, due 09/25/2051	
+	Fannie Mae FN BM4785, 4.50%, due 10/01/2038	
+	Fannie Mae FN BT7879, 4.50%, due 09/01/2037	
+	Fannie Mae FN BO5426, 4%, due 10/01/2049	
+	Fannie Mae FN CB4196, 4.50%, due 07/01/2037	
+	Fannie Mae FN FM2450, 3.50%, due 12/01/2039	
+	Fannie Mae FN FM9408, 4.50%, due 06/01/2046	
+	FHLMC Multifamily Structured Pass Through Certs. Series K115, Class XAM, Variable rate, due 07/25/2030	
+	Freddie Mac - STACR Series 2022-DNA2, Class M1B, Variable rate, due 02/25/2042	
+	FANNIE MAE Series 2018-86, Class DL, 3.50%, due 12/25/2048	
+	Freddie Mac Multiclass Certificates Series 2020-RR09, Class BX, Variable rate, due 02/27/2029	
+	Freddie Mac FR SD1289, 3%, due 10/01/2050	
+	Freddie Mac FG U69020, 5%, due 07/01/2044	
+	Freddie Mac FG Q55152, 4.50%, due 04/01/2048	
+	FREMF Mortgage Trust Series 2013-K24, Class B, Variable rate, due 11/25/2045	
+	Freddie Mac Series 5232, Class GO, 0%, due 08/25/2051	
+	GCAT Series 2022-NQM4, Class A1, Variable rate, due 09/25/2067	
+	FREMF Mortgage Trust Series 2013-K25, Class B, Variable rate, due 11/25/2045	
+	GNMA GN 720225, 4.50%, due 07/15/2039	
+	Freddie Mac FH 840359, Variable rate, due 06/01/2046	
+	Freddie Mac Multiclass Certificates Series 2020-RR09, Class AX, Variable rate, due 11/27/2028	
+	Freddie Mac Series 5222, Class BZ, 3.50%, due 05/25/2037	
+	FREDDIE MAC Series 4826, Class ME, 3.50%, due 09/15/2048	
+	FANNIE MAE Series 2010-2, Class LC, 5%, due 07/25/2039	
+	Fontainebleau Miami Beach Trust Series 2019-FBLU, Class C, 3.75%, due 12/10/2036	
+	FHLMC Multifamily Structured Pass Through Certs. Series K741, Class XAM, Variable rate, due 12/25/2027	
+	FHLMC Multifamily Structured Pass Through Certs. Series K744, Class X1, Variable rate, due 07/25/2028	
+	FHLMC Multifamily Structured Pass Through Certs. Series K118, Class X1, Variable rate, due 09/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K132, Class XAM, Variable rate, due 09/25/2031	
+	FHLMC Multifamily Structured Pass Through Certs. Series K148, Class XAM, Variable rate, due 08/25/2032	
+	FHLMC Multifamily Structured Pass Through Certs. Series K097, Class X1, Variable rate, due 07/25/2029	
+	FHLMC Multifamily Structured Pass Through Certs. Series K114, Class XAM, Variable rate, due 06/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K100, Class X1, Variable rate, due 09/25/2029	
+	Fannie Mae FN MA1373, 3.50%, due 03/01/2043	
+	Fannie Mae FN BV7981, 4.50%, due 08/01/2037	
+	BPR Trust Series 2021-WILL, Class A, Variable rate, due 06/15/2023	
+	Austin Fairmont Hotel Trust Series 2019-FAIR, Class A, Variable rate, due 09/15/2032	
+	BRAVO Residential Funding Trust Series 2021-NQM1, Class A3, Variable rate, due 02/25/2049	
+	American Credit Acceptance Receivables Trust Series 2022-2, Class A, 2.66%, due 02/13/2026	
+	Citigroup Commercial Mortgage Trust Series 2016-P4, Class XA, Variable rate, due 07/10/2049	
+	Verus Securitization Trust Series 2021-1, Class A1, Variable rate, due 01/25/2066	
+	United Auto Credit Securitization Trust Series 2022-1, Class A, 1.11%, due 07/10/2024	
+	Sierra Receivables Funding Co LLC Series 2020-2A, Class A, 1.33%, due 07/20/2037	
+	Mill City Mortgage Trust Series 2018-4, Class A1B, Variable rate, due 04/25/2066	
+	New Residential Mortgage Loan Trust Series 2019-NQM5, Class A1, Variable rate, due 11/25/2059	
+	Sequoia Mortgage Trust Series 2018-CH1, Class B1B, Variable rate, due 03/25/2048	
+	Mello Mortgage Capital Acceptance Trust Series 2018-MTG2, Class A9, Variable rate, due 10/25/2048	
+	M360 2018-CRE1, Ltd. Series 2021-CRE3, Class A, Variable rate, due 11/18/2036	
+	GNMA Series 2020-161, Class B, 2%, due 08/16/2062	
+	GNMA Series 2020-162, Class NI, 2.50%, due 10/20/2050	
+	GNMA Series 2020-104, Class AI, 3%, due 07/20/2050	
+	GS Mortgage Securities Trust Series 2014-GC18, Class A3, 3.801%, due 01/10/2047	
+	GNMA Series 2022-60, Class CZ, 3%, due 03/20/2052	
+	JP Morgan Mortgage Trust Series 2020-INV1, Class A15, Variable rate, due 08/25/2050	
+	Rialto Real Estate Fund LP Series 2022-FL8, Class A, Variable rate, due 01/19/2027	
+	Santander Drive Auto Receivables Trust Series 2022-5, Class A3, 4.11%, due 08/15/2026	
+	New Residential Mortgage Loan Trust Series 2016-1A, Class A1, Variable rate, due 03/25/2056	
+	WF-RBS COMMERCIAL MORTGAGE TRUST Series 2013-C18, Class A4, 3.896%, due 12/15/2046	
+	DT Auto Owner Trust Series 2021-4A, Class A, 0.56%, due 09/15/2025	
+	Fannie Mae - CAS Series 2022-R04, Class 1M2, Variable rate, due 03/25/2042	
+	CIG Auto Receivables Trust Series 2021-1A, Class A, 0.69%, due 04/14/2025	
+	Fannie Mae FN BQ3099, 3%, due 10/01/2050	
+	Fannie Mae FN BM6018, 5%, due 05/01/2049	
+	Fannie Mae FN AS8548, 3.50%, due 12/01/2046	
+	FHLMC Multifamily Structured Pass Through Certs. Series K102, Class XAM, Variable rate, due 10/25/2029	
+	FANNIE MAE Series 2019-27, Class HA, 3%, due 06/25/2049	
+	Fannie Mae Series 2020-20, Class KI, 4%, due 03/25/2050	
+	FANNIE MAE Series 2019-59, Class PT, 2.50%, due 10/25/2049	
+	FHLMC Multifamily Structured Pass Through Certs. Series K122, Class X1, Variable rate, due 11/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K099, Class XAM, Variable rate, due 09/25/2029	
+	Freddie Mac - STACR Series 2022-DNA3, Class M1B, Variable rate, due 04/25/2042	
+	FANNIE MAE Series 2005-86, Class WZ, 5.50%, due 10/25/2035	
+	FANNIE MAE Series 2016-2, Class EZ, 2.50%, due 02/25/2046	
+	Freddie Mac Multiclass Certificates Series 2020-RR11, Class BX, Variable rate, due 12/27/2028	
+	Freddie Mac - STACR Series 2019-HQA3, Class M2, Variable rate, due 09/25/2049	
+	FREMF Mortgage Trust Series 2015-K44, Class B, Variable rate, due 01/25/2048	
+	GNMA Series 2015-125, Class VA, Variable rate, due 05/16/2035	
+	GNMA Series 2012-84, Class SJ, Variable rate, due 07/16/2042	
+	GNMA Series 2009-57, Class VB, 5%, due 06/16/2039	
+	GNMA Series 2015-162, Class ZG, 4%, due 11/20/2045	
+	GNMA Series 2016-110, Class VA, 2.10%, due 01/16/2038	
+	GNMA GN 784752, 4%, due 03/15/2045	
+	Freddie Mac - SLST Series 2019-3, Class A1C, 2.75%, due 11/25/2029	
+	Freddie Mac Series 4347, Class YT, 3.50%, due 06/15/2044	
+	Freddie Mac Series 5086, Class MI, 2.50%, due 03/25/2051	
+	Fannie Mae Series 2017-84, Class ZK, 3.50%, due 10/25/2057	
+	FHLMC Multifamily Structured Pass Through Certs. Series K119, Class XAM, 1.13403%, due 10/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K130, Class XAM, Variable rate, due 07/25/2031	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1513, Class X1, Variable rate, due 08/25/2034	
+	FANNIE MAE Series 2019-37, Class A, 3%, due 03/01/2049	
+	Fannie Mae Series 2020-77, Class DI, 4%, due 11/25/2035	
+	Fannie Mae FN BV7979, 4.50%, due 08/01/2037	
+	Fannie Mae FN CA2947, 4%, due 12/01/2048	
+	BRAVO Residential Funding Trust Series 2021-NQM2, Class A1, Variable rate, due 03/25/2060	
+	Cascade Funding Mortgage Trust Series 2021-EBO1, Class M1, Variable rate, due 11/25/2050	
+	Arroyo Mortgage Trust Series 2021-1R, Class A3, Variable rate, due 10/25/2048	
+	Winwater Mortgage Loan Trust Series 2016-1, Class B1, Variable rate, due 01/20/2046	
+	Towd Point Mortgage Trust Series 2018-2, Class A1, Variable rate, due 03/25/2058	
+	Wells Fargo Commercial Mortgage Trust Series 2015-LC22, Class ASB, 3.571%, due 09/15/2058	
+	Metlife Securitization Trust Series 2018-1A, Class A, Variable rate, due 03/25/2057	
+	MF1 Multifamily Housing Mortgage Loan Trust Series 2021-FL7, Class A, Variable rate, due 10/18/2036	
+	JP Morgan Mortgage Trust Series 2021-6, Class A4, Variable rate, due 10/25/2051	
+	JP Morgan Mortgage Trust Series 2015-IVR2, Class A5, Variable rate, due 01/25/2045	
+	GNMA Series 2021-27, Class PI, 2%, due 09/01/2050	
+	GNMA Series 2019-35, Class BZ, 3.50%, due 03/20/2049	
+	GNMA Series 2020-62, Class WI, 2.50%, due 08/20/2049	
+	GNMA Series 2020-189, Class IV, 3%, due 10/20/2050	
+	GNMA Series 2021-91, Class IB, 3%, due 05/20/2051	
+	GNMA Series 2020-129, Class IO, 2.50%, due 09/20/2050	
+	GNMA Series 2018-4, Class Z, 2.50%, due 10/16/2059	
+	GNMA SEries 2017-35, Class Z, Variable rate, due 05/16/2059	
+	Homeward Opportunities Fund I Series 2022-1, Class A1, Variable rate, due 07/25/2067	
+	GS Mortgage-Backed Securities Trust Series 2021-PJ6, Class A8, Variable rate, due 11/25/2051	
+	PSMC Trust Series 2020-3, Class A1, Variable rate, due 11/25/2050	
+	Sequoia Mortgage Trust Series 2020-1, Class A19, Variable rate, due 02/25/2050	
+	Verus Securitization Trust Series 2019-INV3, Class A, Variable rate, due 11/25/2059	
+	VMC Finance LLC Series 2021-HT1, Class A, Variable rate, due 01/18/2037	
+	Towd Point Mortgage Trust Series 2019-1, Class A1, Variable rate, due 03/25/2058	
+	CIM Trust Series 2019-INV3, Class A11, Variable rate, due 08/25/2049	
+	Fannie Mae FN AE7733, 5%, due 11/01/2040	
+	Fannie Mae FN BV7982, 4.50%, due 08/01/2037	
+	Fannie Mae FN BK8883, 5%, due 09/01/2048	
+	Fannie Mae FN BK9599, 5%, due 08/01/2048	
+	Fannie Mae FN BN4328, 5%, due 01/01/2049	
+	Fannie Mae Series 2021-1, Class IB, 3.50%, due 02/25/2061	
+	FannieMae Whole Loan Series 2007-W10, Class 3A, Variable rate, due 06/25/2047	
+	FHLMC Multifamily Structured Pass Through Certs. Series K103, Class XAM, Variable rate, due 11/25/2029	
+	FHLMC Multifamily Structured Pass Through Certs. Series K101, Class X1, Variable rate, due 10/25/2029	
+	FHLMC Multifamily Structured Pass Through Certs. Series K112, Class XAM, Variable rate, due 05/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K099, Class X1, Variable rate, due 09/25/2029	
+	Flagstar Mortgage Trust Series 2020-1INV, Class A11, Variable rate, due 03/25/2050	
+	FHLMC Multifamily Structured Pass Through Certs. Series KG05, Class X1, Variable rate, due 01/25/2031	
+	FANNIE MAE Series 2018-92, Class DB, 3.50%, due 01/25/2049	
+	Freddie Mac Series 5051, Class CI, 4%, due 12/25/2035	
+	FREDDIE MAC Series 4872, Class BZ, 4%, due 04/15/2049	
+	Freddie Mac Series 3196, Class ZK, 6.50%, due 04/15/2032	
+	Freddie Mac FR QO0748, 4.50%, due 08/01/2037	
+	Freddie Mac FR QO0750, 4.50%, due 08/01/2037	
+	Freddie Mac FR QA4774, 4%, due 11/01/2049	
+	Freddie Mac FG U69041, 5%, due 11/01/2043	
+	GNMA G2 784063, 5%, due 09/20/2045	
+	GNMA Series 2017-179, Class IN, 5%, due 07/20/2044	
+	GNMA Series 2017-106, Class AE, 2.60%, due 12/16/2056	
+	GNMA Series 2009-29, Class PC, 7%, due 05/20/2039	
+	GNMA Series 2011-31, Class Z, Variable rate, due 09/16/2052	
+	GNMA G2 MA5714, 6%, due 01/20/2049	
+	FREMF Mortgage Trust Series 2020-KI05, Class B, Variable rate, due 07/25/2024	
+	Freddie Mac Multiclass Certificates Seroes 2021-P009, Class X, Variable rate, due 01/25/2031	
+	Freddie Mac FG Q58363, 5%, due 09/01/2048	
+	Freddie Mac FG G61160, 4.50%, due 11/01/2045	
+	Freddie Mac Series 4833, Class PY, 4%, due 10/15/2048	
+	Freddie Mac Series 5050, Class MI, 3.50%, due 07/01/2050	
+	Freddie Mac Series 4585, Class DS, Variable rate, due 05/15/2046	
+	FREDDIE MAC Series 4316, Class XZ, 4.50%, due 03/15/2044	
+	Fannie Mae Series 2016-40, Class MS, Variable rate, due 07/25/2046	
+	FANNIE MAE Series 2010-142, Class DL, 4%, due 12/25/2040	
+	FANNIE MAE Series 2009-85, Class J, 4.50%, due 10/25/2039	
+	FHLMC Multifamily Structured Pass Through Certs. Series KG06, Class X1, Variable rate, due 10/25/2031	
+	FHLMC Multifamily Structured Pass Through Certs. SErkes K122, Class XAM, Variable rate, due 11/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series KG04, Class X1, Variable rate, due 11/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K739, Class XAM, Variable rate, due 09/25/2027	
+	FHLMC Multifamily Structured Pass Through Certs. Series K129, Class XAM, Variable rate, due 05/25/2031	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1513, Class A2, 2.726%, due 12/25/2031	
+	FHLMC Multifamily Structured Pass Through Certs. Series K118, Class XAM, Variable rate, due 09/25/2030	
+	FCI Funding, LLC Series 2019-1A, Class A, 3.63%, due 02/18/2031	
+	Fannie Mae Series 2020-9, Class SJ, Variable rate, due 02/25/2050	
+	Fannie Mae Series 2020-34, Class AI, 3.50%, due 07/01/2031	
+	Fannie Mae Series 2020-37, Class QI, 4.50%, due 06/25/2050	
+	Fannie Mae FN AS1719, 5%, due 02/01/2044	
+	Fannie Mae - CAS Series 2022-R02, Class 2M2, Variable rate, due 01/25/2042	
+	Citigroup Commercial Mortgage Trust Series 2014-GC23, Class B, Variable rate, due 07/10/2047	
+	Arroyo Mortgage Trust Series 2019-3, Class A3, Variable rate, due 10/25/2048	
+	Arroyo Mortgage Trust Series 2021-1R, Class A2, Variable rate, due 10/25/2048	
+	Chase Mortgage Finance Corporation Series 2019-1, Class A11, Variable rate, due 03/25/2050	
+	Towd Point Mortgage Trust Series 2018-5, Class A1A, Variable rate, due 07/25/2058	
+	New Residential Mortgage Loan Trust Series 2018-4A, Class A1M, Variable rate, due 01/25/2048	
+	GNMA Series 2020-31, Class IO, 6.50%, due 03/20/2050	
+	GNMA Series 2020-62, Class IA, 5.50%, due 05/20/2050	
+	GNMA Series 2021-8, Class DI, 3.50%, due 11/01/2041	
+	GNMA Series 2017-23, Class Z, 2.50%, due 05/16/2059	
+	GNMA Series 2020-144, Class IK, 2.50%, due 09/20/2050	
+	Sierra Receivables Funding Co LLC Series 2019-1A, Class A, 3.20%, due 01/20/2036	
+	JP Morgan Mortgage Trust Series 2019-1, Class A5, Variable rate, due 05/25/2049	
+	Towd Point Mortgage Trust Series 2019-4, Class A1, Variable rate, due 10/25/2059	
+	BRAVO Residential Funding Trust Series 2021-NQM1, Class A2, Variable rate, due 02/25/2049	
+	CIM Trust Series 2018-J1, Class A22, Variable rate, due 03/25/2048	
+	Countrywide Asset-Backed Certificates Series 2004-5, Class M1, Variable rate, due 08/25/2034	
+	Fannie Mae - CAS Series 2019-R01, Class 2M2, Variable rate, due 07/25/2031	
+	Fannie Mae FN AL6513, 5%, due 07/01/2044	
+	Fannie Mae FN AL8652, 5%, due 07/01/2044	
+	Fannie Mae FN CA2520, 4%, due 10/01/2033	
+	FannieMae Grantor Trust Series 2005-T1, Class A1, Variable rate, due 05/25/2035	
+	FHLMC Multifamily Structured Pass Through Certs. Series K109, Class XAM, Variable rate, due 04/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K734, Class X1, Variable rate, due 02/25/2026	
+	FHLMC Multifamily Structured Pass Through Certs. Series K736, Class X1, Variable rate, due 07/25/2026	
+	FHLMC Multifamily Structured Pass Through Certs. Series K738, Class XAM, Variable rate, due 03/25/2027	
+	Flagstar Mortgage Trust Series 2018-4, Class B1, Variable rate, due 07/25/2048	
+	FANNIE MAE Series 2011-111, Class PZ, 4.50%, due 11/25/2041	
+	Fannie Mae Series 2015-40, Class AI, 6%, due 05/25/2037	
+	Fannie Mae Series 2017-87, Class ZA, 4%, due 11/25/2057	
+	FANNIE MAE Series 2018-17, Class Z, 3.50%, due 03/25/2048	
+	Freddie Mac Series 4943, Class NS, Variable rate, due 01/25/2050	
+	FREDDIE MAC Series 4098, Class PE, 4%, due 08/15/2042	
+	FREDDIE MAC Series 3925, Class ZD, 4.50%, due 09/15/2041	
+	Freddie Mac - STACR Series 2020-HQA2, Class M2, Variable rate, due 03/25/2050	
+	Freddie Mac FG Q56260, 5%, due 05/01/2048	
+	Freddie Mac FG Q61217, 4%, due 01/01/2049	
+	Freddie Mac FG U59020, 4%, due 06/01/2035	
+	Freddie Mac Series 3054, Class ZW, 6%, due 10/15/2035	
+	FREMF Mortgage Trust Series 2016-K55, Class B, Variable rate, due 04/25/2049	
+	FREMF Mortgage Trust Series 2013-K25, Class C, Variable rate, due 11/25/2045	
+	FreddieMac Strip Series 303, Class C33, 4.50%, due 01/15/2043	
+	GNMA G2 785020, 3%, due 05/20/2050	
+	GNMA G2 AC0197, 4%, due 12/20/2042	
+	GNMA Series 2005-78, Class ZA, 5%, due 10/16/2035	
+	GNMA Series 2012-149, Class PC, Variable rate, due 12/20/2042	
+	GNMA Series 2013-20, Class QM, 2.625%, due 02/16/2043	
+	GNMA Series 2013-4, Class IC, 4%, due 09/20/2042	
+	GNMA Series 2017-146, Class Z, 2.60%, due 09/16/2057	
+	GNMA Series 2015-99, Class EI, 5.50%, due 07/16/2045	
+	GNMA Series 2013-91, Class PB, 3.50%, due 09/20/2042	
+	GNMA Series 2015-40, Class IO, 4%, due 03/20/2045	
+	GNMA Series 2016-166, Class IO, Variable rate, due 04/16/2058	
+	GNMA Series 2010-116, Class JB, 5%, due 06/16/2040	
+	GNMA Series 2010-46, Class FC, Variable rate, due 03/20/2035	
+	GNMA Series 2003-35, Class TZ, 5.75%, due 04/16/2033	
+	GNMA Series 2004-92, Class BZ, 5.50%, due 11/16/2034	
+	GNMA G2 CB3161, 5.50%, due 03/20/2050	
+	Freddie Mac FR ZS2492. 6.50%, due 04/01/2035	
+	Freddie Mac FG Q58483, 4.50%, due 09/01/2048	
+	Freddie Mac FG Q50564, 4.50%, due 09/01/2047	
+	Freddie Mac FG G60921, 4.50%, due 02/01/2047	
+	Freddie Mac - STACR Series 2020-DNA1, Class M2, Variable rate, due 01/25/2050	
+	FREDDIE MAC Series 4000, Class PY, 4.50%, due 02/15/2042	
+	FREDDIE MAC Series 3895, Class PW, 4.50%, due 07/15/2041	
+	Freddie Mac Series 4570, Class ST, Variable rate, due 04/15/2046	
+	FREDDIE MAC Series 4247, Class AY, 4.50%, due 09/15/2043	
+	Fannie Mae Series 2017-18, Class AS, Variable rate, due 03/25/2047	
+	FANNIE MAE Series 2011-10, Class AY, 6%, due 02/25/2041	
+	FANNIE MAE Series 2009-37, Class NZ, 5.71154%, due 02/25/2037	
+	FANNIE MAE Series 2006-118, Class A1, Variable rate, due 12/25/2036	
+	Flagstar Mortgage Trust Series 2019-2, Class A11, Variable rate, due 12/25/2049	
+	FHLMC Multifamily Structured Pass Through Certs. Series K737, Class X1, Variable rate, due 10/25/2026	
+	FHLMC Multifamily Structured Pass Through Certs. Series K740, Class XAM, 1.11174%, due 10/25/2027	
+	FHLMC Multifamily Structured Pass Through Certs. Series K116, Class X1, Variable rate, due 07/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K128, Class XAM, Variable rate, due 03/25/2031	
+	FHLMC Multifamily Structured Pass Through Certs. Series K121, Class X1, Variable rate, due 10/25/2030	
+	FHLMC Multifamily Structured Pass Through Certs. Series K121, Class XAM, Variable rate, due 11/25/2030	
+	Fannie Mae Series 2020-93, Class NI, 3%, due 01/25/2051	
+	Fannie Mae Series 2019-41, Class SN, Variable rate, due 08/25/2049	
+	Fannie Mae FN FM1284, 3.50%, due 02/01/2046	
+	Fannie Mae FN FM1285, 4%, due 10/01/2043	
+	Fannie Mae FN BP8797, 3%, due 07/01/2050	
+	Fannie Mae FN BK9563, 4.50%, due 12/01/2048	
+	Fannie Mae FN AQ0411, 3.50%, due 10/01/2042	
+	Fannie Mae FN AL7905, 4.50%, due 03/01/2034	
+	CIM Trust Series 2019-INV1, Class A11, Variable rate, due 02/25/2049	
+	Chase Mortgage Finance Corporation Series 2019-ATR2, Class A11, Variable rate, due 07/25/2049	
+	Fannie Mae FN AI9124, 4%, due 08/01/2042	
+	Vendee Mortgage Trust Series 2003-2, Class Z, 5%, due 05/15/2033	
+	Wells Fargo Commercial Mortgage Trust Series 2016-C37, Class XA, Variable rate, due 12/15/2049	
+	JP Morgan Mortgage Trust Series 2018-8, Class A7, Variable rate, due 01/25/2049	
+	Sequoia Mortgage Trust Series 2017-2, Class A19, Variable rate, due 02/25/2047	
+	Mill City Mortgage Trust Series 2018-2, Class A1, Variable rate, due 05/25/2058	
+	Provident Funding Mortgage Trust Series 2020-1, Class A5, Variable rate, due 11/01/2049	
+	Onslow Bay Financial LLC Series 2018-EXP1, Class 1A3, Variable rate, due 04/25/2048	
+	GNMA Series 2020-188, Class IW, 2.50%, due 12/20/2050	
+	GNMA Series 2017-57, Class IO, 5%, due 04/20/2047	
+	GNMA Series 2019-104, Class Z, 2.80%, due 05/16/2061	
+	GNMA Series 2020-84, Class IM, 2.50%, due 05/20/2050	
+	GNMA Series 2021-15, Class JI, 2.50%, due 12/20/2050	
+	GNMA Series 2021-46, Class LI, 3%, due 03/20/2051	
+	GNMA Series 2021-46, Class IL, 3%, due 03/20/2051	
+	Onslow Bay Financial LLC Series 2018-EXP1, Class 2A1, Variable rate, due 04/25/2048	
+	Provident Funding Mortgage Trust Series 2019-1, Class A5, Variable rate, due 12/25/2049	
+	Mill City Mortgage Trust Series 2018-1, Class A1, Variable rate, due 05/25/2062	
+	JP Morgan Mortgage Trust Series 2018-5, Class A13, Variable rate, due 10/25/2048	
+	JP Morgan Mortgage Trust Series 2019-9, Class A11, Variable rate, due 05/25/2050	
+	JP Morgan Mortgage Trust Series 2019-INV2, Class A15, Variable rate, due 02/25/2050	
+	Winwater Mortgage Loan Trust Series 2016-1, Class 1A18, Variable rate, due 01/20/2046	
+	Fannie Mae FN AI9158, 6.50%, due 01/01/2041	
+	Fannie Mae FN AL4703, 3.50%, due 12/01/2028	
+	Fannie Mae FN AB2506, 5%, due 03/01/2041	
+	Fannie Mae FN AB2959, 4.50%, due 07/01/2040	
+	Fannie Mae FN 879015, 4%, due 10/01/2035	
+	Fannie Mae - CAS Series 2019-R02, Class 1M2, Variable rate, due 08/25/2031	
+	Fannie Mae - CAS Series 2019-R06, Class 2M2, Variable rate, due 09/25/2039	
+	Fannie Mae FN AL9777, 4.50%, due 01/01/2047	
+	Fannie Mae FN AR7582, 3.50%, due 03/01/2033	
+	Fannie Mae FN BJ9124, 4.50%, due 04/01/2048	
+	Fannie Mae FN BN4959, 4%, due 12/01/2048	
+	Fannie Mae FN MA2916, 4%, due 02/01/2047	
+	Fannie Mae Series 2020-66, Class IC, 6%, due 10/25/2047	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1510, Class X1, Variable rate, due 01/25/2034	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1512, Class A2, 2.988%, due 05/25/2031	
+	FHLMC Multifamily Structured Pass Through Certs. Series K734, Class XAM, Variable rate, due 02/25/2026	
+	FHLMC Multifamily Structured Pass Through Certs. Series K735, Class X1, Variable rate, due 05/25/2026	
+	FANNIE MAE Series 2006-57, Class KZ, 6%, due 07/25/2035	
+	FANNIE MAE Series 2009-103, Class PZ, 6%, due 12/25/2039	
+	FANNIE MAE Series 2007-57, Class ZG, 4.75%, due 06/25/2037	
+	FANNIE MAE Series 2010-2, Class LC, 5%, due 02/25/2040	
+	FANNIE MAE Series 2016-87, Class AF, Variable rate, due 11/25/2046	
+	FANNIE MAE Series 2015-16, Class MY, 3.50%, due 04/25/2045	
+	FANNIE MAE Series 2012-122, Class SD, Variable rate, due 11/25/2042	
+	FANNIE MAE Series 2012-146, Class QA, 1%, due 01/25/2043	
+	FANNIE MAE Series 2012-28, Class PT, 4%, due 03/25/2042	
+	FANNIE MAE Series 2013-130, Class QY, 4.50%, due 06/25/2041	
+	Fannie Mae Series 2013-54, Class LI, 7%, due 11/25/2034	
+	FREDDIE MAC Series 4193, Class PB, 4%, due 04/15/2043	
+	FREDDIE MAC Series 4203, Class US, Variable rate, due 05/15/2033	
+	FREDDIE MAC Series 4596, Class FL, Variable rate, due 11/15/2041	
+	Freddie Mac Series 4910, Class SA, Variable rate, due 06/15/2049	
+	Freddie Mac Series 4938, Class BS, Variable rate, due 12/25/2049	
+	Freddie Mac Series 4988, Class IJ, 4.50%, due 12/15/2047	
+	Freddie Mac Series 5013, Class HI, 5%, due 03/25/2040	
+	Freddie Mac Series 5013, Class IQ, 3.50%, due 09/25/2050	
+	FREDDIE MAC Series 4650, Class JH, 3%, due 01/15/2047	
+	Freddie Mac Series 3954, Class GS, Variable rate, due 11/15/2041	
+	FREDDIE MAC Series 4026, Class GZ, 4.50%, due 04/15/2042	
+	FREDDIE MAC Series 4176, Class HE, 4%, due 03/15/2043	
+	FREDDIE MAC Series 2973, Class GE, 5.50%, due 05/15/2035	
+	FREDDIE MAC Series 3542, Class ZP, 5%, due 06/15/2039	
+	FREDDIE MAC Series 3370, Class FM, Variable rate, due 10/15/2047	
+	FREDDIE MAC Series 3563, Class ZP, 5%, due 08/15/2039	
+	FREDDIE MAC Series 3605, Class NC, 5.50%, due 06/15/2037	
+	FREDDIE MAC Series 3174, Class LF, Variable rate, due 05/15/2036	
+	Freddie Mac FG G08854, 5%, due 12/01/2048	
+	Freddie Mac FG U64762, 4.50%, due 10/01/2045	
+	Freddie Mac FR QO0773, 4.50%, due 08/01/2037	
+	Freddie Mac FH 760043, Variable rate, due 12/01/2048	
+	FREDDIE MAC Series 2613, Class LL, 5%, due 05/15/2033	
+	FREDDIE MAC Series 2581, Class LL, 5.25%, due 03/15/2033	
+	GNMA G2 769102, 4.50%, due 07/20/2041	
+	GNMA G2 BB1216, 4.50%, due 06/20/2047	
+	FREMF Mortgage Trust Series 2013-K27, Class B, Variable rate, due 01/25/2046	
+	GNMA Series 2010-59, Class ZD, 6.50%, due 05/20/2040	
+	GNMA Series 2009-61, Class WQ, Variable rate, due 11/16/2035	
+	GNMA Series 2009-69, Class ZB, 6%, due 08/20/2039	
+	GNMA Series 2016-120, Class AS, Variable rate, due 09/20/2046	
+	GNMA Series 2016-34, Class IO, Variable rate, due 01/16/2058	
+	GNMA Series 2017-17, Class KZ, 4.50%, due 02/20/2047	
+	GNMA Series 2017-177, Class DI, 4.50%, due 11/16/2047	
+	GNMA Series 2017-123, Class IO, 5%, due 08/16/2047	
+	GNMA Series 2016-109, Class ZM, 3.50%, due 08/20/2036	
+	GNMA Series 2015-30, Class IO, Variable rate, due 07/16/2056	
+	GNMA Series 2016-113, Class IO, Variable rate, due 02/16/2058	
+	GNMA Series 2013-70, Class PM, 2.50%, due 05/20/2043	
+	GNMA Series 2015-137, Class WA, Variable rate, due 01/20/2038	
+	GNMA Series 2014-116, Class SB, Variable rate, due 08/20/2044	
+	GNMA Series 2014-94, Class Z, 4.50%, due 01/20/2044	
+	GNMA Series 2014-99, Class HI, 4.50%, due 06/20/2044	
+	GNMA Series 2016-111, Class PI, 3.50%, due 06/20/2045	
+	GNMA Series 2016-11, Class IO, Variable rate, due 01/16/2056	
+	GNMA Series 20156-66, Class LI, 5%, due 05/16/2045	
+	GNMA Series 2015-168, Class GI, 5.50%, due 02/16/2033	
+	GNMA Series 2013-23, Class IP, 3.50%, due 08/20/2042	
+	GNMA Series 2017-130, Class LS, Variable rate, due 08/16/2047	
+	GNMA Series 2017-133, Class JI, 7%, due 06/20/2041	
+	GNMA Series 2017-113, Class IE, 5.50%, due 07/20/2047	
+	GNMA Series 2016-89, Class HI, 3.50%, due 07/20/2046	
+	GNMA Series 2016-99, Class JA, Variable rate, due 11/20/2045	
+	GNMA Series 2017-12, Class SD, Variable rate, due 01/20/2047	
+	GNMA Series 2016-2, Class IO, Variable rate, due 04/16/2057	
+	GNMA Series 2016-52, Class IO, Variable rate, due 03/16/2058	
+	GNMA Series 2016-127, Class IO, Variable rate, due 05/16/2058	
+	GNMA Series 2016-141, Class PC, 5%, due 10/20/2046	
+	GNMA Series 2016-154, Class WF, Variable rate, due 11/20/2045	
+	GNMA Series 2009-75, Class JN, 5.50%, due 09/16/2039	
+	GNMA Series 2009-78, Class KZ, 5.50%, due 09/16/2039	
+	GNMA Series 2009-32, Class SZ, 5.50%, due 05/16/2039	
+	GNMA Series 2009-61, Class PZ, 7.50%, due 08/20/2039	
+	GNMA Series 2009-126, Class LB, 5%, due 12/20/2039	
+	GNMA Series 2008-47, Class ML, 5.25%, due 06/16/2038	
+	GNMA Series 2007-71, Class ZD, 6%, due 11/20/2037	
+	GNMA Series 2009-106, Class DZ, 5.50%, due 11/20/2039	
+	GNMA Series 2013-183, Class PB, 4.50%, due 12/20/2043	
+	GNMA Series 2003-18, Class PG, 5.50%, due 03/20/2033	
+	GNMA Series 2012-84, Class QS, Variable rate, due 07/16/2042	
+	GNMA Series 2011-35, Class BP, 4.50%, due 03/16/2041	
+	GNMA Series 2010-157, Class OP, 0%, due 12/20/2040	
+	GNMA Series 2011-61, Class WS, Variable rate, due 02/20/2038	
+	GNMA Series 2011-71, Class ZC, 5.50%, due 07/16/2034	
+	FreddieMac Strip Series 303, Class C12, 4%, due 12/15/2032	
+	FreddieMac Strip Series 304, Class C19, 5%, due 06/15/2042	
+	FreddieMac Strip Series 276, Class SS, Variable rate, due 09/15/2042	
+	GNMA G2 BB4731, 4%, due 07/20/2047	
+	GNMA G2 BB4757, 4%, due 08/20/2047	
+	GNMA G2 AI6317, 4.50%, due 06/20/2044	
+	GNMA G2 AK2389, 4.50%, due 11/20/2044	
+	GNMA G2 AD0026, 3.50%, due 06/20/2033	
+	GNMA G2 726317, 4.25%, due 06/20/2036	
+	GNMA G2 745478, 5%, due 08/20/2040	
+	GNMA G2 748939, 4%, due 09/20/2040	
+	GNMA G2 BD0483, 4.50%, due 11/20/2047	
+	GNMA G2 BF0415, 5%, due 06/20/2035	
+	GNMA G2 BL6909, 5%, due 03/20/2049	
+	GNMA G2 MA3459, 6%, due 08/20/2039	
+	GNMA G2 MA4076, 7%, due 01/20/2039	
+	GNMA GN 737673, 4.50%, due 11/15/2040	
+	GNMA GN 762905, 4.50%, due 04/15/2041	
+	GNMA GN 781623, 5%, due 06/15/2033	
+	GNMA GN 711563, 4.50%, due 03/15/2041	
+	GNMA GN 784343, 5%, due 02/15/2041	
+	GNMA Series 2004-49, Class MZ, 6%, due 06/20/2034	
+	GNMA Series 2006-145, Class LZ, 3%, due 10/20/2046	
+	GNMA Series 2006-17, Class TW, 6%, due 04/20/2036	
+	GNMA Series 2006-38, Class OH, 6.50%, due 08/20/2036	
+	GNMA Series 2007-16, Class OZ, 6%, due 04/20/2037	
+	FREDDIE MAC Series 2574, Class PE, 5.50%, due 02/15/2033	
+	FREDDIE MAC Series 2626, Class ZX, 5%, due 06/15/2033	
+	FREDDIE MAC Series 2771, Class NL, 6%, due 03/15/2034	
+	FREDDIE MAC Series 2793, Class PE, 5%, due 05/15/2034	
+	FREDDIE MAC Series 2891, Class ZA, 6.50%, due 11/15/2034	
+	FREDDIE MAC Series 2907, Class DZ, 4%, due 12/15/2034	
+	Freddie Mac FG U90690, 3.50%, due 06/01/2042	
+	Freddie Mac Multiclass Certificates Series 2021-P011, Class X1, Variable rate, due 09/25/2045	
+	Freddie Mac FG U50165, 4%, due 05/01/2032	
+	Freddie Mac FG Q14034, 3.50%, due 12/01/2042	
+	Freddie Mac FG Q54651, 4.50%, due 03/01/2048	
+	Freddie Mac FG Q55037, 4.50%, due 04/01/2048	
+	Freddie Mac FG N70081, 5.50%, due 07/01/2038	
+	Freddie Mac FG G07329, 4%, due 01/01/2043	
+	Freddie Mac FG G07683, 4%, due 03/01/2044	
+	Freddie Mac FG G60114, 5.50%, due 06/01/2041	
+	Freddie Mac FG G60168, 4.50%, due 07/01/2045	
+	Freddie Mac FG G14348, 4%, due 10/01/2026	
+	Freddie Mac FG A7828, 3.50%, due 08/01/2035	
+	Freddie Mac FG G07100, 5.50%, due 07/01/2040	
+	Freddie Mac FG B70791, 4%, due 06/01/2039	
+	FREDDIE MAC Series 3593, Class F, Variable rate, due 03/15/2036	
+	FREDDIE MAC Series 3667, Class PL, 5%, due 05/15/2040	
+	FREDDIE MAC Series 3704, Class ED, 4%, due 12/15/2036	
+	FREDDIE MAC Series 3714, Class PB, 4.75%, due 08/15/2040	
+	FREDDIE MAC Series 3622, Class PB, 5%, due 01/15/2040	
+	FREDDIE MAC Series 3632, Class BS, Variable rate, due 02/15/2040	
+	FREDDIE MAC Series 4177, Class GL, 3%, due 03/15/2033	
+	FREDDIE MAC Series 4048, Class FJ, Variable rate, due 07/15/2037	
+	FREDDIE MAC Series 4090, Class YZ, 4.50%, due 08/15/2042	
+	FREDDIE MAC Series 3999, Class WA, Variable rate, due 08/15/2040	
+	FREDDIE MAC Series 3890, Class ME, 5%, due 07/15/2041	
+	FREDDIE MAC Series 3844, Class PC, 5%, due 04/15/2041	
+	FREDDIE MAC Series 3796, Class PB, 5%, due 01/15/2041	
+	FREDDIE MAC Series 3820, Class NC, 4.50%, due 03/15/2041	
+	FREDDIE MAC Series 4681, Class JY, 2.50%, due 05/15/2047	
+	Freddie Mac Series 4774, Class SL, Variable rate, due 04/15/2048	
+	Freddie Mac Series 4790, Class IO, 4.50%, due 05/15/2048	
+	Freddie Mac Series 5034, Class IO, Variable rate, due 05/01/2039	
+	Freddie Mac Series 4974, Class IA, 3.50%, due 12/25/2049	
+	FREDDIE MAC Series 4600, Class WT, 3.50%, due 07/15/2036	
+	FREDDIE MAC Series 4615, Class GT, Variable rate, due 10/15/2042	
+	FREDDIE MAC Series 4641, Class DI, 5%, due 05/15/2041	
+	FREDDIE MAC Series 4572, Class LI, 4%, due 08/15/2045	
+	FREDDIE MAC Series 4097, Class SA, Variable rate, due 08/15/2042	
+	FREDDIE MAC Series 4546, Class ZT, 4%, due 01/15/2046	
+	Freddie Mac Series 4559, Class LI, 2.50%, due 03/15/2031	
+	FREDDIE MAC Series 4211, Class PB, 3%, due 05/15/2043	
+	FREDDIE MAC Series 4261, Class GS, Variable rate, due 01/15/2041	
+	FREDDIE MAC Series 4512, Class W, Variable rate, due 05/15/2038	
+	FANNIE MAE Series 2013-41, Class DB, 3%, due 05/25/2043	
+	Fannie Mae Series 2013-67, Class IL, 6.50%, due 07/25/2043	
+	FANNIE MAE Series 2011-105, Class MB, 4%, due 10/25/2041	
+	FANNIE MAE Series 2012-138, Class MA, 1%, due 12/25/2042	
+	FANNIE MAE Series 2013-10, Class HQ, 2.50%, due 02/25/2043	
+	FANNIE MAE Series 2013-105, Class BN, 4%, due 05/25/2043	
+	FANNIE MAE Series 2012-39, Class PB, 4.25%, due 04/25/2042	
+	FANNIE MAE Series 2012-52, Class BZ, 4%, due 05/25/2042	
+	FANNIE MAE Series 2011-52, Class GB, 5%, due 06/25/2041	
+	FANNIE MAE Series 2013-52, Class MD, 1.25%, due 06/25/2043	
+	FANNIE MAE Series 2014-82, Class GZ, 4%, due 12/25/2044	
+	FANNIE MAE Series 2016-62, Class SB, Variable rate, due 09/25/2046	
+	FANNIE MAE Series 2017-46, Class BY, 3%, due 06/25/2047	
+	FANNIE MAE Series 2016-84, Class DF, Variable rate, due 11/25/2046	
+	FANNIE MAE Series 2016-73, Class PI, 3%, due 08/25/2046	
+	Fannie Mae Series 2017-87, Class GI, 4%, due 06/25/2044	
+	Fannie Mae Series 2017-65, Class SA, Variable rate, due 09/25/2047	
+	FANNIE MAE Series 2011-123, Class JS, Variable rate, due 03/25/2041	
+	FANNIE MAE Series 2010-35, Class EP, 5.50%, due 04/25/2040	
+	FANNIE MAE Series 2010-35, Class SJ, Variable rate, due 04/25/2040	
+	FANNIE MAE Series 2010-38, Class KC, 4.50%, due 04/25/2040	
+	FANNIE MAE Series 2010-45, Class WB, 5%, due 05/25/2040	
+	FANNIE MAE Series 2007-60, Class ZS, 4.75%, due 07/25/2037	
+	FANNIE MAE Series 2007-68, Class AE, 6.50%, due 07/25/2037	
+	FANNIE MAE Series 2007-7, Class KA, 5.75%, due 08/25/2036	
+	FANNIE MAE Series 2007-28, Class ZA, 6%, due 04/25/2037	
+	FANNIE MAE Series 2009-109, Class PZ, 4.50%, due 01/25/2040	
+	FANNIE MAE Series 2006-110, Class PI, 5.50%, due 11/25/2036	
+	FANNIE MAE Series 2006-80, Class PH, 6%, due 08/25/2036	
+	FANNIE MAE Series 2007-116, Class PB, 5.50%, due 08/25/2035	
+	FANNIE MAE Series 2004-60, Class AC, 5.50%, due 04/25/2034	
+	FANNIE MAE Series 2005-52, Class TZ, 6.50%, due 06/25/2035	
+	FANNIE MAE Series 2004-18, Class EZ, 6%, due 04/25/2034	
+	FANNIE MAE Series 2005-104, Class UE, 5.50%, due 12/25/2035	
+	Flagstar Mortgage Trust Series 2018-2, Class A4, Variable rate, due 04/25/2048	
+	FHLMC Multifamily Structured Pass Through Certs. Series K024, Class A2, 2.573%, due 09/25/2022	
+	FANNIEMAE STRIP Series 417, Class C21, 4%, due 12/25/2042	
+	Fanniemae Strip Series 418, Class C1, 3.50%, due 08/25/2043	
+	FHLMC Multifamily Structured Pass Through Certs. Series K036, Class X1, Variable rate, due 10/25/2023	
+	Fannie Mae FN MA2099, 3.50%, due 11/01/2029	
+	FANNIE MAE Series 2003-45, Class JB, 5.50%, due 06/25/2033	
+	FANNIE MAE Series 2003-71, Class NH, 4.286%, due 08/25/2033	
+	Fannie Mae FN BN1027, 5.50%, due 03/01/2049	
+	Fannie Mae FN BJ9100, 4.50%, due 02/01/2048	
+	Fannie Mae FN BJ9111, 4.50%, due 03/01/2048	
+	Fannie Mae FN AS5236, 4%, due 05/01/2045	
+	Fannie Mae FN AS5515, 3.50%, due 06/01/2030	
+	Fannie Mae FN AL9143, 3.50%, due 09/01/2036	
+	Fannie Mae FN AQ1534, 3.50%, due 10/01/2032	
+	Fannie Mae FN AQ1607, 3.50%, due 11/01/2032	
+	Fannie Mae FN AL3093, 3.50%, due 02/01/2043	
+	Fannie Mae FN AL7637, 5%, due 01/01/2042	
+	Fannie Mae FN AL5890, 4.50%, due 03/01/2043	
+	Fannie Mae - CAS Series 2019-R03, Class 1M2, Variable rate, due 09/25/2031	
+	Fannie Mae FN 256576, 5.50%, due 01/01/2037	
+	CIM Trust Series 2017-7, Class A, Variable rate, due 04/25/2057	
+	Fannie Mae FN 735415, 6.50%, due 12/01/2032	
+	Fannie Mae FN 788149, 5.50%, due 05/01/2033	
+	Fannie Mae FN 889610, 5.50%, due 06/01/2038	
+	Fannie Mae FN 890556, 4.50%, due 10/01/2043	
+	Fannie Mae FN AB0460, 5.50%, due 02/01/2037	
+	Fannie Mae FN AL2551, 3.50%, due 10/01/2042	
+	Fannie Mae FN AI9114, 4%, due 06/01/2042	
+	Fannie Mae FN AK0765, 4%, due 03/01/2042	
+	Fannie Mae FN AB8676, 3.50%, due 05/01/2042	
+	Fannie Mae FN AE9959, 5%, due 03/01/2041	
+	Winwater Mortgage Loan Trust Series 2016-1, Class 2A3, Variable rate, due 12/20/2030	
+	First Trust Long Duration Opportunities ETF	
+	US ULTRA BOND CBT Dec22	
+	Wells Fargo Mortgage Backed Securities Trust Series 2019-1, Class A1, Variable rate, due 11/25/2048	
+	JP Morgan Mortgage Trust Series 2019-5, Class A15, Variable rate, due 11/25/2049	
+	JP Morgan Mortgage Trust Series 2019-8, Class A15, Variable rate, due 03/25/2050	
+	JP Morgan Mortgage Trust Series 2018-5, Class A1, Variable rate, due 10/25/2048	
+	Sequoia Mortgage Trust Series 20178-CH1, Class A13, Variable rate, due 08/25/2047	
+	GNMA Series 2020-62, Class IC, 2.50%, due 01/20/2050	
+	GS Mortgage-Backed Securities Trust Series 2019-PJ3, Class A1, Variable rate, due 03/25/2050	
+	GNMA Series 2018-79, Class IO, 5%, due 06/20/2048	
+	GNMA Series 2018-44, Class Z, 2.50%, due 09/20/2047	
+	GNMA Series 2018-131, Class IA, 5%, due 04/20/2044	
+	GNMA Series 2017-32, Class DI, 5.50%, due 05/20/2035	
+	GNMA Series 2017-56, Class BI, 6%, due 04/16/2047	
+	GNMA Series 2019-6, Class EI, 5%, due 09/20/2039	
+	GNMA Series 2020-129, Class IU, 2.50%, due 09/20/2050	
+	GNMA Series 2019-27, Class DI, 5.50%, due 01/20/2040	
+	GNMA Series 2017-32, Class IB, 5%, due 02/16/2047	
+	GNMA Series 2021-69, Class IX, 3%, due 04/20/2051	
+	GNMA Series 2021-24, Class XI, 2%, due 02/20/2051	
+	Salomon Brothers Mortgage Securities VII Series 2003-UP2, Class PO1, 0%, due 12/25/2018	
+	TIAA Bank Mortgage Loan Trust Series 2018-3, Class A1, Variable rate, due 11/25/2048	
+	Towd Point Mortgage Trust Series 2015-3, Class A4B, Variable rate, due 03/25/2054	
+	JP Morgan Mortgage Trust Series 2004-S2, Class 5A1, 5.50%, due 12/25/2019	
+	JP Morgan Mortgage Trust Series 2014-IVR3, Class 2A1, Variable rate, due 09/25/2044	
+	MASTR Seasoned Securitization Trust Series 2005-2, Class 3A1, 6%, due 02/25/2022	
+	JP Morgan Mortgage Trust Series 2019-LTV2, Class A11, Variable rate, due 12/25/2049	
+	JP Morgan Mortgage Trust Series 2019-LTV3, Class A15, Variable rate, due 03/25/2050	
+	JP Morgan Mortgage Trust Series 2021-INV4, Class A2, Variable rate, due 01/25/2052	
+	JP Morgan Mortgage Trust Series 2021-INV6, Class A2, Variable rate, due 04/25/2052	
+	Wells Fargo Mortgage Backed Securities Trust Series 2019-3, Class A1, Variable rate, due 07/25/2049	
+	Fannie Mae FN AH0979, 3.50%, due 01/01/2041	
+	Fannie Mae FN AH1089, 4%, due 11/01/2040	
+	Fannie Mae FN AH1141, 4.50%, due 12/01/2040	
+	Fannie Mae FN AH4404, 4%, due 01/01/2041	
+	Fannie Mae FN AH7204, 4%, due 03/01/2041	
+	Fannie Mae FN AI6093, 4.50%, due 06/01/2031	
+	Fannie Mae FN AI6581, 4.50%, due 07/01/2041	
+	Fannie Mae FN AI8779, 4%, due 11/01/2041	
+	Fannie Mae FN AC1232, 5%, due 07/01/2024	
+	Fannie Mae FN AC3267, 5.50%, due 09/01/2039	
+	Fannie Mae FN AD0889, 6%, due 09/01/2024	
+	Fannie Mae FN AD4317, 4%, due 04/01/2040	
+	Fannie Mae FN AD5222, 4.50%, due 05/01/2030	
+	Fannie Mae FN AD7137, 5.50%, due 07/01/2040	
+	Fannie Mae FN AE0137, 4.50%, due 03/01/2036	
+	Fannie Mae FN AE7005, 4%, due 10/01/2040	
+	Fannie Mae FN AK5555, 4%, due 04/01/2042	
+	Fannie Mae FN AL0212, 5.50%, due 02/01/2038	
+	Fannie Mae FN AL0241, 4%, due 04/01/2041	
+	Fannie Mae FN AL0399, 6%, due 08/01/2024	
+	Fannie Mae FN AL0446, 6%, due 05/01/2024	
+	Fannie Mae FN AL1195, 6%, due 09/01/2023	
+	Fannie Mae FN AL2142, 6.50%, due 09/01/2038	
+	Fannie Mae FN AE7746, 4%, due 03/01/2041	
+	Fannie Mae FN AE9284, 4%, due 11/01/2040	
+	Fannie Mae FN AL2589, 5.50%, due 05/01/2025	
+	Fannie Mae FN AL2892, 3.50%, due 12/01/2042	
+	Fannie Mae FN AL4962, 6%, due 05/01/2024	
+	Fannie Mae FN AL5616, 5.50%, due 09/01/2041	
+	Fannie Mae FN AB0731, 4%, due 06/01/2039	
+	Fannie Mae FN AB2092, 4%, due 01/01/2041	
+	Fannie Mae FN AB2133, 4%, due 01/01/2026	
+	Fannie Mae FN AB5174, 3.50%, due 05/01/2042	
+	Fannie Mae FN AB7859, 3.50%, due 02/01/2043	
+	Fannie Mae FN 953115, 5.50%, due 11/01/2038	
+	Fannie Mae FN 962556, 5%, due 04/01/2023	
+	Fannie Mae FN 973561, 5%, due 03/01/2023	
+	Fannie Mae FN 976871, 6.50%, due 08/01/2036	
+	Fannie Mae FN 995097, 6.50%, due 10/01/2037	
+	Fannie Mae FN 995149, 6.50%, due 10/01/2038	
+	Fannie Mae FN 995228, 6.50%, due 11/01/2038	
+	Fannie Mae FN 995252, 5%, due 12/01/2023	
+	Fannie Mae FN 995259, 6.50%, due 11/01/2023	
+	Fannie Mae FN AA3303, 5.50%, due 06/01/2038	
+	Fannie Mae FN 905917, 5.50%, due 01/01/2037	
+	Fannie Mae FN 922386, 5.50%, due 01/01/2037	
+	Fannie Mae FN 930562, 5%, due 02/01/2039	
+	Fannie Mae FN 931808, 5.50%, due 08/01/2039	
+	Fannie Mae FN 890149, 6.50%, due 10/01/2038	
+	Fannie Mae FN 890231, 5%, due 07/01/2025	
+	Fannie Mae FN 890314, 5.50%, due 12/01/2022	
+	Fannie Mae FN 890378, 6%, due 05/01/2024	
+	Fannie Mae FN 812741, 5.50%, due 02/01/2035	
+	Fannie Mae FN 827948, 5.50%, due 05/01/2035	
+	Fannie Mae FN 850000, 5.50%, due 01/01/2036	
+	Fannie Mae FN 871039, 5.50%, due 02/01/2037	
+	Fannie Mae FN 745875, 6.50%, due 09/01/2036	
+	Fannie Mae FN 747097, 6%, due 10/01/2029	
+	Fannie Mae FN 888001, 5.50%, due 10/01/2036	
+	Fannie Mae FN 888163, 7%, due 12/01/2033	
+	2022-09-23 US 5YR NOTE (CBT) Dec22 P 112	
+	2022-10-21 US 10YR NOTE (CBT)Dec22 C 118	
+	2022-10-21 US 10YR NOTE (CBT)Dec22 P 116	
+	2022-10-21 US 5YR NOTE (CBT) Dec22 C 112	
+	2022-10-21 US 5YR NOTE (CBT) Dec22 C 112.50	
+	2022-10-21 US LONG BOND(CBT) Dec22 C 144	
+	2022-10-21 US LONG BOND(CBT) Dec22 C 146	
+	2022-10-21 US LONG BOND(CBT) Dec22 P 132	
+	2022-10-21 US LONG BOND(CBT) Dec22 P 134	
+	Fannie Mae FN 256808, 5.50%, due 07/01/2037	
+	Fannie Mae FN 256936, 6%, due 10/01/2037	
+	Fannie Mae FN 545759, 6.50%, due 07/01/2032	
+	Fannie Mae FN 555851, 6.50%, due 01/01/2033	
+	Fannie Mae FN 683246, 5.50%, due 02/01/2033	
+	Fannie Mae FN 725014, 5.50%, due 12/01/2033	
+	Fannie Mae FN 190371, 6.50%, due 07/01/2036	
+	Fannie Mae FN 255190, 5.50%, due 05/01/2034	
+	Fannie Mae FN 255984, 4.50%, due 11/01/2025	
+	Fannie Mae FN 256181, 5.50%, due 03/01/2036	
+	Countrywide Home Loans Series 2004-8, Class 2A1, 4.50%, due 06/25/2019	
+	Fannie Mae FN AL6057, 6%, due 08/01/2024	
+	Fannie Mae FN AL6948, 5%, due 09/01/2025	
+	Fannie Mae FN AL7231, 3.50%, due 08/01/2045	
+	Fannie Mae FN AL8353, 3.50%, due 08/01/2044	
+	Fannie Mae FN AQ8715, 3%, due 01/01/2043	
+	Fannie Mae FN AQ9999, 3%, due 02/01/2043	
+	Fannie Mae FN AL9226, 5.50%, due 12/01/2041	
+	Fannie Mae FN AP1197, 3.50%, due 09/01/2042	
+	Fannie Mae FN AP7963, 4%, due 09/01/2042	
+	Fannie Mae FN AS7211, 3%, due 04/01/2046	
+	Fannie Mae FN AS9990, 4.50%, due 07/01/2047	
+	Fannie Mae FN AT0332, 3%, due 04/01/2043	
+	Fannie Mae FN AT4180, 3.50%, due 05/01/2033	
+	Fannie Mae FN AY0013, 4.50%, due 01/01/2045	
+	Fannie Mae FN AR7961, 3.50%, due 03/01/2033	
+	Fannie Mae FN BE3631, 4.50%, due 05/01/2047	
+	Fannie Mae FN BH9428, 4.50%, due 09/01/2047	
+	Fannie Mae FN BJ6232, 5%, due 04/01/2048	
+	Fannie Mae FN BK4769, 5%, due 08/01/2048	
+	Fannie Mae FN BK4851, 5%, due 05/01/2048	
+	Fannie Mae FN FM1725, 2.50%, due 11/01/2047	
+	FANNIE MAE Series 2004-10, Class ZB, 6%, due 02/25/2034	
+	FANNIE MAE Series 2003-63, Class F1, Variable rate, due 11/25/2027	
+	FANNIE MAE Series 2003-63, Class IP, 6%, due 07/25/2033	
+	Fannie Mae FN MA2454, 3.50%, due 09/01/2030	
+	Fannie Mae FN MA2509, 3%, due 01/01/2046	
+	Fannie Mae FN MA2024, 4%, due 07/01/2029	
+	Fannie Mae FN MA3101, 4.50%, due 08/01/2047	
+	Fannie Mae FN MA3123, 5%, due 08/01/2047	
+	Fannie Mae FN MA4325, 2%, due 05/01/2051	
+	FANNIE MAE Series 1992-185, Class ZB, 7%, due 10/25/2022	
+	FANNIE MAE Series 1993-169, Class L, 6.50%, due 09/25/2023	
+	FANNIE MAE Series 1993-171, Class SB, Variable rate, due 09/25/2023	
+	FANNIE MAE Series 1993-230, Class FA, Variable rate, due 12/25/2023	
+	FANNIE MAE Series 1993-39, Class Z, 7.50%, due 04/25/2023	
+	FANNIE MAE Series 1993-46, Class FH, Variable rate, due 04/25/2023	
+	FANNIE MAE Series 1994-61, Class FG, Variable rate, due 04/25/2024	
+	FANNIE MAE Series 1996-51, Class AY, 7%, due 12/18/2026	
+	FANNIE MAE Series 1998-37, Class VZ, 6%, due 06/17/2028	
+	FANNIE MAE Series 2000-45, Class SD, Variable rate, due 12/18/2030	
+	FANNIE MAE Series 2001-34, Class SR, Variable rate, due 08/18/2031	
+	FANNIE MAE Series 2001-42, Class SB, Variable rate, due 09/25/2031	
+	FANNIE MAE Series 2001-46, Class F, Variable rate, due 09/18/2031	
+	FANNIE MAE Series 2002-22, Class G, 6.50%, due 04/25/2032	
+	FANNIE MAE Series 2002-30, Class Z, 6%, due 05/25/2032	
+	FANNIE MAE Series 2002-80, Class CZ, 4.50%, due 09/25/2032	
+	FANNIE MAE Series 2003-109, Class YB, 6%, due 11/25/2033	
+	FANNIE MAE Series 2003-14, Class AT, 4%, due 03/25/2033	
+	FANNIE MAE Series 2003-21, Class OA, 4%, due 03/25/2033	
+	FANNIE MAE Series 2003-32, Class UI, 6%, due 05/25/2033	
+	Fannie Mae FN FM4681, 2.50%, due 11/01/2050	
+	Fannie Mae FN MA0096, 4.50%, due 06/01/2029	
+	Fannie Mae FN MA0293, 4.50%, due 01/01/2030	
+	Fannie Mae FN MA0295, 5%, due 01/01/2030	
+	Fannie Mae FN MA0353, 4.50%, due 03/01/2030	
+	Fannie Mae FN MA0444, 5%, due 06/01/2040	
+	Fannie Mae FN MA0633, 5%, due 01/01/2041	
+	Fannie Mae FN MA0777, 5%, due 06/01/2031	
+	Fannie Mae FN MA1222, 4%, due 10/01/2032	
+	Fannie Mae FN MA1228, 3%, due 09/01/2042	
+	FHLMC Multifamily Structured Pass Through Certs. Series K094, Class X1, Variable rate, due 06/25/2029	
+	FHLMC Multifamily Structured Pass Through Certs. Series K030, Class X1, Variable rate, due 04/25/2023	
+	FANNIE MAE Series G93-3, Class K, 7%, due 02/25/2023	
+	FANNIEMAE STRIP Series 214, Class 2, 7.50%, due 03/25/2023	
+	FANNIEMAE STRIP Series 222, Class 2, 7%, due 06/25/2023	
+	FANNIEMAE STRIP Series 320, Class 2, 7%, due 04/25/2032	
+	FANNIEMAE STRIP Series 323, Class 6, 6%, due 01/25/2032	
+	FANNIEMAE STRIP Series 324, Class 2, 6.50%, due 07/25/2032	
+	FANNIEMAE STRIP Series 343, Class 2, 4.50%, due 10/25/2033	
+	FANNIEMAE STRIP Series 345, Class 14, 6%, due 03/25/2034	
+	FANNIEMAE STRIP Series 348, Class 17, 7.50%, due 12/25/2033	
+	FANNIEMAE STRIP Series 348, Class 18, Variable rate, due 12/25/2033	
+	FANNIEMAE STRIP Series 359, Class 12, 5.50%, due 10/25/2035	
+	FANNIEMAE STRIP Series 359, Class 6, 5%, due 11/25/2035	
+	FANNIEMAE STRIP Series 362, Class 13, 6%, due 08/25/2035	
+	FANNIEMAE STRIP Series 389, Class 4, 6%, due 03/25/2038	
+	FANNIEMAE STRIP Series 397, Class 2, 5%, due 09/25/2039	
+	FANNIEMAE STRIP Series 398, Class C13, 4%, due 06/25/2024	
+	FANNIEMAE STRIP Series 409, Class 49, Variable rate, due 11/25/2041	
+	FANNIEMAE STRIP Series 409, Class 53, Variable rate, due 04/25/2042	
+	FHLMC Multifamily Structured Pass Through Certs. Series K158, Class X1, Variable rate, due 10/25/2033	
+	Freddie Mac FG A19763, 5%, due 04/01/2034	
+	Freddie Mac FG A47937, 5.50%, due 08/01/2035	
+	Freddie Mac FG A48972, 5.50%, due 05/01/2036	
+	Freddie Mac FG A54675, 5.50%, due 01/01/2036	
+	Freddie Mac FG A65324, 5.50%, due 09/01/2037	
+	FHLMC Multifamily Structured Pass Through Certs. Series K156, Class X1, Variable rate, due 06/25/2033	
+	FHLMC Multifamily Structured Pass Through Certs. Series K-1514, Class X1, Variable rate, due 10/25/2034	
+	FANNIE MAE Series 2005-2, Class S, Variable rate, due 02/25/2035	
+	FANNIE MAE Series 2005-2, Class TB, Variable rate, due 07/25/2033	
+	FANNIE MAE Series 2005-29, Class ZT, 5%, due 04/25/2035	
+	FANNIE MAE Series 2005-40, Class SA, Variable rate, due 05/25/2035	
+	FANNIE MAE Series 2004-25, Class LC, 5.50%, due 04/25/2034	
+	FANNIE MAE Series 2004-25, Class UC, 5.50%, due 04/25/2034	
+	FANNIE MAE Series 2004-28, Class ZH, 5.50%, due 05/25/2034	
+	FANNIE MAE Series 2005-67, Class SC, Variable rate, due 08/25/2035	
+	FANNIE MAE Series 2005-79, Class NS, Variable rate, due 09/25/2035	
+	FANNIE MAE Series 2005-102, Class DS, Variable rate, due 11/25/2035	
+	FANNIE MAE Series 2005-87, Class SC, Variable rate, due 10/25/2035	
+	FANNIE MAE Series 2005-90, Class ES, Variable rate, due 10/25/2035	
+	FANNIE MAE Series 2005-95, Class WZ, 6%, due 11/25/2035	
+	FANNIE MAE Series 2007-117, Class MD, 5.50%, due 07/25/2037	
+	FANNIE MAE Series 2007-25, Class FB, Variable rate, due 04/25/2037	
+	FANNIE MAE Series 2006-85, Class MZ, 6.50%, due 09/25/2036	
+	FANNIE MAE Series 2006-116, Class ES, Variable rate, due 12/25/2036	
+	FANNIE MAE Series 2006-117, Class GF, Variable rate, due 12/25/2036	
+	FANNIE MAE Series 2006-59, Class SL, Variable rate, due 07/25/2036	
+	FANNIE MAE Series 2006-15, Class IS, Variable rate, due 03/25/2036	
+	FANNIE MAE Series 2006-20, Class PI, Variable rate, due 11/25/2030	
+	FANNIE MAE Series 2006-31, Class PZ, 6%, due 05/25/2036	
+	FANNIE MAE Series 2006-42, Class CF, Variable rate, due 06/25/2036	
+	FANNIE MAE Series 2006-42, Class EI, Variable rate, due 06/25/2036	
+	FANNIE MAE Series 2006-5, Class 2A2, Variable rate, due 02/25/2035	
+	FANNIE MAE Series 2006-5, Class N2, Variable rate, due 02/25/2035	
+	FANNIE MAE Series 2009-11, Class PI, 5.50%, due 03/25/2036	
+	FANNIE MAE Series 2009-115, Class HZ, 5%, due 01/25/2040	
+	FANNIE MAE Series 2009-14, Class BS, Variable rate, due 03/25/2024	
+	FANNIE MAE Series 2009-106, Class SN, Variable rate, due 01/25/2040	
+	FANNIE MAE Series 2008-17, Class IP, 6.50%, due 02/25/2038	
+	FANNIE MAE Series 2008-3, Class FZ, Variable rate, due 02/25/2038	
+	FANNIE MAE Series 2008-8, Class ZA, 5%, due 02/25/2038	
+	FANNIE MAE Series 2009-10, Class AB, 5%, due 03/25/2024	
+	FANNIE MAE Series 2010-49, Class SC, Variable rate, due 03/25/2040	
+	FANNIE MAE Series 2010-68, Class BI, 5.50%, due 07/25/2050	
+	FANNIE MAE Series 2010-75, Class MT, Variable rate, due 12/25/2039	
+	FANNIE MAE Series 2011-101, Class EI, 3.50%, due 10/25/2026	
+	FANNIE MAE Series 2010-21, Class KO, 0%, due 03/25/2040	
+	FANNIE MAE Series 2010-3, Class DZ, 4.50%, due 02/25/2040	
+	FANNIE MAE Series 2009-91, Class HL, 5%, due 11/25/2039	
+	FANNIE MAE Series 2009-92, Class DB, 5%, due 11/25/2039	
+	FANNIE MAE Series 2010-110, Class KI, 5.50%, due 10/25/2025	
+	FANNIE MAE Series 2010-115, Class PO, 0%, due 04/25/2040	
+	FANNIE MAE Series 2010-129, Class SM, Variable rate, due 11/25/2040	
+	FANNIE MAE Series 2016-74, Class HI, 3.50%, due 10/25/2046	
+	FANNIE MAE Series 2016-71, Class NI, 3.50%, due 04/25/2046	
+	FANNIE MAE Series 2015-38, Class GI, 3%, due 09/25/2043	
+	FANNIE MAE Series 2014-84, Class LI, 3.50%, due 12/25/2026	
+	FANNIE MAE Series 2015-76, Class BI, 4%, due 10/25/2039	
+	FANNIE MAE Series 2015-93, Class KI, 3%, due 09/25/2044	
+	FANNIE MAE Series 2015-97, Class AI, 4%, due 09/25/2041	
+	FANNIE MAE Series 2011-73, Class PI, 4.50%, due 05/25/2041	
+	FANNIE MAE Series 2011-74, Class TQ, Variable rate, due 12/25/2033	
+	FANNIE MAE Series 2011-87, Class YI, 5%, due 09/25/2041	
+	FANNIE MAE Series 2011-9, Class AZ, 5%, due 05/25/2040	
+	FANNIE MAE Series 2012-101, Class AI, 3%, due 06/25/2027	
+	FANNIE MAE Series 2012-103, Class HI, 3%, due 09/25/2027	
+	FANNIE MAE Series 2012-111, Class B, 7%, due 10/25/2042	
+	FANNIE MAE Series 2012-118, Class IB, 3.50%, due 11/25/2042	
+	FANNIE MAE Series 2012-122, Class SD, 4%, due 05/25/2043	
+	FANNIE MAE Series 2012-65, Class IO, 5.50%, due 07/25/2040	
+	FANNIE MAE Series 2012-66, Class DI, 3.50%, due 06/25/2027	
+	FANNIE MAE Series 2012-133, Class KO, 0%, due 12/25/2042	
+	FANNIE MAE Series 2011-30, Class LS, Variable rate, due 04/25/2041	
+	FANNIE MAE Series 2011-30, Class ZB, 5%, due 04/25/2041	
+	FANNIE MAE Series 2013-105, Class KO, 0%, due 10/25/2043	
+	FANNIE MAE Series 2013-106, Class KN, 3%, due 10/25/2043	
+	FANNIE MAE Series 2013-13, Class IK, 2.50%, due 03/25/2028	
+	FANNIE MAE Series 2013-23, Class ZB, 3%, due 03/25/2043	
+	FANNIE MAE Series 2013-70, Class JZ, 3%, due 07/25/2043	
+	FANNIE MAE Series 2013-75, Class FC, Variable rate, due 07/25/2042	
+	FANNIE MAE Series 2014-29, Class GI, 3%, due 05/25/2029	
+	FANNIE MAE Series 2014-44, Class NI, 4.50%, due 08/25/2029	
+	FANNIE MAE Series 2014-46, Class KA, Variable rate, due 08/25/2044	
+	FANNIE MAE Series 2014-68, Class GI, 4.50%, due 10/25/2043	
+	FANNIE MAE Series 2013-51, Class PI, 3%, due 11/25/2032	
+	FANNIE MAE Series 2013-55, Class AI, 3%, due 06/25/2033	
+	FREDDIE MAC Series 4520, Class AI, 3.50%, due 10/15/2035	
+	FREDDIE MAC Series 4522, Class JZ, 2%, due 01/15/2045	
+	FREDDIE MAC Series 4546, Class PZ, 4%, due 12/15/2045	
+	FREDDIE MAC Series 4387, Class IE, 2.50%, due 11/15/2028	
+	FREDDIE MAC Series 4503, Class MI, 5%, due 08/15/2045	
+	FREDDIE MAC Series 4265, Class IB, 4.50%, due 12/15/2024	
+	FREDDIE MAC Series 4300, Class IM, 3%, due 03/15/2037	
+	FREDDIE MAC Series 4314, Class CI, 6%, due 03/15/2044	
+	FREDDIE MAC Series 4226, Class NS, Variable rate, due 01/15/2043	
+	FREDDIE MAC Series 4568, Class MZ, 4%, due 04/15/2046	
+	FREDDIE MAC Series 4591, Class GI, 4%, due 12/15/2044	
+	FREDDIE MAC Series 4605, Class KS, Variable rate, due 08/15/2043	
+	FREDDIE MAC Series 4609, Class YI, 4%, due 04/15/2054	
+	FreddieMac Strip Series 233, Class 12, 5%, due 09/15/2035	
+	FreddieMac Strip Series 234, Class IO, 4.50%, due 10/01/2035	
+	FreddieMac Strip Series 238, Class 8, 5%, due 04/15/2036	
+	FreddieMac Strip Series 243, Class 11, Variable rate, due 08/15/2036	
+	FreddieMac Strip Series 267, Class S5, Variable rate, due 08/15/2042	
+	FREDDIE MAC Series 3828, Class SY, Variable rate, due 02/15/2041	
+	FREDDIE MAC Series 3842, Class BS, Variable rate, due 04/15/2041	
+	FREDDIE MAC Series 3819, Class ZQ, 6%, due 04/15/2036	
+	FREDDIE MAC Series 3852, Class SW, Variable rate, due 05/15/2041	
+	FREDDIE MAC Series 4030, Class IL, 3.50%, due 04/15/2027	
+	FREDDIE MAC Series 4012, Class GC, 3.50%, due 06/15/2040	
+	FREDDIE MAC Series 4015, Class KB, 1.75%, due 05/15/2041	
+	FREDDIE MAC Series 4021, Class IP, 3%, due 03/15/2027	
+	FREDDIE MAC Series 4097, Class ES, Variable rate, due 08/15/2042	
+	FREDDIE MAC Series 4054, Class AI, 3%, due 04/15/2027	
+	FREDDIE MAC Series 4077, Class TS, Variable rate, due 05/15/2041	
+	FREDDIE MAC Series 4193, Class AI, 3%, due 04/15/2028	
+	FREDDIE MAC Series 4103, Class HI, 3%, due 09/15/2027	
+	FREDDIE MAC Series 4116, Class AS, Variable rate, due 10/15/2042	
+	FREDDIE MAC Series 4121, Class HI, 3.50%, due 10/15/2027	
+	FREDDIE MAC Series 4132, Class AI, 4%, due 10/15/2042	
+	FREDDIE MAC Series 4136, Class TU, Variable rate, due 08/15/2042	
+	FREDDIE MAC Series 4145, Class YI, 3%, due 12/15/2027	
+	FREDDIE MAC Series 4151, Class DI, 3.50%, due 11/15/2031	
+	FREDDIE MAC Series 4154, Class IB, 3.50%, due 01/15/2028	
+	FREDDIE MAC Series 3645, Class WD, 4.50%, due 02/15/2040	
+	FREDDIE MAC Series 3572, Class JS, Variable rate, due 09/15/2039	
+	FREDDIE MAC Series 3585, Class QZ, 5%, due 08/15/2039	
+	FREDDIE MAC Series 3587, Class FX, Variable rate, due 12/15/2037	
+	FREDDIE MAC Series 3735, Class IK, 3.50%, due 10/15/2025	
+	FREDDIE MAC Series 3735, Class JI, 4.50%, due 10/15/2030	
+	FREDDIE MAC Series 3740, Class SC, Variable rate, due 10/15/2040	
+	FREDDIE MAC Series 3770, Class GZ, 4.50%, due 10/15/2040	
+	FREDDIE MAC Series 3795, Class ED, 3%, due 10/15/2039	
+	FREDDIE MAC Series 3699, Class FD, Variable rate, due 07/15/2040	
+	FREDDIE MAC Series 3380, Class FS, Variable rate, due 11/15/2036	
+	FREDDIE MAC Series 3406, Class B, 6%, due 01/15/2038	
+	FREDDIE MAC Series 3413, Class B, 5.50%, due 04/15/2037	
+	FREDDIE MAC Series 3420, Class AZ, 5.50%, due 02/15/2038	
+	FREDDIE MAC Series 3448, Class SA, Variable rate, due 05/15/2038	
+	FREDDIE MAC Series 3522, Class SE, Variable rate, due 04/15/2039	
+	FREDDIE MAC Series 3523, Class SD, Variable rate, due 06/15/2036	
+	FREDDIE MAC Series 3550, Class LL, 4.50%, due 07/15/2039	
+	FREDDIE MAC Series 3031, Class BI, Variable rate, due 08/15/2035	
+	FREDDIE MAC Series 3262, Class KS, Variable rate, due 01/15/2037	
+	FREDDIE MAC Series 3274, Class B, 6%, due 02/15/2037	
+	FREDDIE MAC Series 3322, Class NF, Variable rate, due 05/15/2037	
+	FREDDIE MAC Series 3340, Class PF, Variable rate, due 07/15/2037	
+	FREDDIE MAC Series 3349, Class MY, 5.50%, due 07/15/2037	
+	FREDDIE MAC Series 3360, Class CB, 5.50%, due 08/15/2037	
+	Freddie Mac FG C01310, 6.50%, due 03/01/2032	
+	Freddie Mac FG C03458, 5%, due 02/01/2040	
+	Freddie Mac FG C03949, 3.50%, due 05/01/2042	
+	Freddie Mac FG C04269, 3%, due 10/01/2042	
+	Freddie Mac FG C91482, 3.50%, due 07/01/2032	
+	Freddie Mac FG E02883, 4%, due 04/01/2026	
+	Freddie Mac FG G01443, 6.50%, due 08/01/2032	
+	Freddie Mac FG G02017, 5%, due 12/01/2035	
+	Freddie Mac FG G04814, 5.50%, due 10/01/2038	
+	Freddie Mac FG G05173, 4.50%, due 11/01/2031	
+	Freddie Mac FG G05275, 5.50%, due 02/01/2039	
+	Freddie Mac FG G05449, 4.50%, due 05/01/2039	
+	Freddie Mac FG G06583, 5%, due 06/01/2041	
+	Freddie Mac FG G07266, 4%, due 12/01/2042	
+	Freddie Mac FG A97294, 4%, due 02/01/2041	
+	Freddie Mac FG G14376, 4%, due 09/01/2025	
+	Freddie Mac FG G14995, 5.50%, due 12/01/2024	
+	Freddie Mac FG G15821, 5%, due 07/01/2025	
+	Freddie Mac FG G15949, 4%, due 01/01/2029	
+	Freddie Mac FG G15957, 5.50%, due 12/01/2024	
+	Freddie Mac FG G18264, 5%, due 07/01/2023	
+	Freddie Mac FG G18287, 5.50%, due 12/01/2023	
+	Freddie Mac FG G60020, 4.50%, due 12/01/2043	
+	Freddie Mac FG G12959, 6.50%, due 10/01/2022	
+	Freddie Mac FG G12978, 5.50%, due 12/01/2022	
+	Freddie Mac FG G13625, 5.50%, due 01/01/2024	
+	Freddie Mac FG G13733, 5%, due 11/01/2024	
+	Freddie Mac FG G14088, 4%, due 02/01/2026	
+	Freddie Mac FG G14106, 6%, due 10/01/2024	
+	Freddie Mac FG G14167, 5.50%, due 07/01/2023	
+	Freddie Mac FG G14233, 6%, due 01/01/2024	
+	Freddie Mac FG G60194, 3.50%, due 08/01/2045	
+	Freddie Mac FG G60808, 3%, due 10/01/2046	
+	Freddie Mac FG G08113, 6.50%, due 02/01/2036	
+	Freddie Mac FG H09034, 5.50%, due 05/01/2037	
+	Freddie Mac FG J09465, 4%, due 04/01/2024	
+	Freddie Mac FG J09504, 4%, due 04/01/2024	
+	Freddie Mac FG J09798, 4%, due 05/01/2024	
+	Freddie Mac FG J10623, 4%, due 09/01/2024	
+	Freddie Mac FG N70075, 5%, due 01/01/2035	
+	Freddie Mac FG Q07189, 4%, due 04/01/2042	
+	Freddie Mac FG Q07479, 3.50%, due 04/01/2042	
+	Freddie Mac FG Q11791, 3.50%, due 10/01/2042	
+	Freddie Mac FG Q11836, 3.50%, due 10/01/2042	
+	Freddie Mac FG U90932, 3%, due 02/01/2043	
+	Freddie Mac FG U92272, 4.50%, due 12/01/2043	
+	Freddie Mac FG U99045, 3.50%, due 03/01/2043	
+	Freddie Mac FG U99084, 4.50%, due 02/01/2044	
+	Freddie Mac FG U99096, 4.50%, due 05/01/2044	
+	Freddie Mac FG U80068, 3.50%, due 10/01/2032	
+	Freddie Mac FG U80212, 3.50%, due 02/01/2033	
+	Freddie Mac FG U90245, 3.50%, due 10/01/2042	
+	Freddie Mac FR QC0580, 1.50%, due 04/01/2051	
+	Freddie Mac FN U99091, 4.50%, due 03/01/2044	
+	FREDDIE MAC Series 2626, Class ZW, 5%, due 06/15/2033	
+	FREDDIE MAC Series 3074, Class ZH, 5.50%, due 11/15/2035	
+	FREDDIE MAC Series 3117, Class ZU, 6%, due 02/15/2036	
+	FREDDIE MAC Series 3150, Class DZ, 5.50%, due 05/15/2036	
+	FREDDIE MAC Series 2801, Class SE, Variable rate, due 07/15/2032	
+	FREDDIE MAC Series 2835, Class QY, Variable rate, due 12/15/2032	
+	FREDDIE MAC Series 2890, Class ZA, 5%, due 11/15/2034	
+	FREDDIE MAC Series 2577, Class LI, 5.50%, due 02/15/2033	
+	FREDDIE MAC Series 2586, Class TG, 5.50%, due 03/15/2023	
+	FREDDIE MAC Series 2597, Class AE, 5.50%, due 04/15/2033	
+	Freddie Mac Series 1498, Class I, Variable rate, due 04/15/2023	
+	FREDDIE MAC Series 1552, Class I, Variable rate, due 08/15/2023	
+	FREDDIE MAC Series 1579, Class PM, 6.70%, due 09/15/2023	
+	FREDDIE MAC Series 1630, Class PK, 6%, due 11/15/2023	
+	FREDDIE MAC Series 1643, Class PK, 6.50%, due 12/15/2023	
+	FREDDIE MAC Series 1710, Class G, Variable rate, due 04/15/2024	
+	FREDDIE MAC Series 2089, Class PJ, 7%, due 10/15/2028	
+	FREDDIE MAC Series 2102, Class Z, 6%, due 12/15/2028	
+	Freddie Mac Series 2405, Class BF, 7%, due 03/25/2024	
+	Freddie Mac Series 2410, Class OG, 6.375%, due 02/15/2032	
+	Freddie Mac Series 2427, Class GE, 6%, due 03/15/2032	
+	Freddie Mac Series 2437, Class SA, Variable rate, due 01/15/2029	
+	FREDDIE MAC Series 2557, Class HL, 5.30%, due 01/15/2033	
+	FREDDIE MAC Series 2564, Class AC, 5.50%, due 02/15/2033	
+	GNMA Series 2007-27, Class SD, Variable rate, due 05/20/2037	
+	GNMA Series 2007-41, Class OL, 0%, due 07/20/2037	
+	GNMA Series 2007-42, Class SB, Variable rate, due 07/20/2037	
+	GNMA Series 2006-61, Class ZA, 5%, due 11/20/2036	
+	GNMA Series 2004-68, Class ZC, 6%, due 08/20/2034	
+	GNMA Series 2004-71, Class ST, Variable rate, due 09/20/2034	
+	GNMA Series 2004-83, Class AK, Variable rate, due 10/16/2034	
+	GNMA Series 2004-88, Class SM, Variable rate, due 10/16/2034	
+	GNMA Series 2004-92, Class AK, Variable rate, due 11/16/2034	
+	GNMA Series 2005-93, Class PO, 0%, due 06/20/2035	
+	GNMA Series 2005-3, Class JZ, 5%, due 01/16/2035	
+	GNMA Series 2005-3, Class KZ, 5%, due 01/16/2035	
+	GNMA Series 2005-33, Class AY, 5.50%, due 04/16/2035	
+	GNMA Series 2005-41, Class PA, 4%, due 05/20/2035	
+	GNMA Series 2005-44, Class IO, 5.50%, due 07/20/2035	
+	GNMA Series 2005-7, Class AJ, Variable rate, due 02/16/2035	
+	GNMA Series 2005-7, Class MA, Variable rate, due 12/17/2034	
+	GNMA Series 2003-4, Class MZ, 5.50%, due 01/20/2033	
+	GNMA Series 2003-62, Class MZ, 5.50%, due 07/20/2033	
+	GNMA Series 2003-84, Class Z, 5.50%, due 10/20/2033	
+	GNMA Series 2004-105, Class JZ, 5%, due 12/20/2034	
+	GNMA Series 2004-105, Class KA, 5%, due 12/16/2034	
+	GNMA Series 2004-37, Class B, 6%, due 04/17/2034	
+	GNMA GN AN4469, 5%, due 12/15/2040	
+	GNMA Series 2001-60, Class PZ, 6%, due 12/20/2031	
+	GNMA Series 2002-72, Class ZB, 6%, due 10/20/2032	
+	GNMA GN 781697, 6%, due 11/15/2033	
+	GNMA GN 781824, 5.50%, due 11/15/2034	
+	GNMA GN 781862, 5.50%, due 01/15/2035	
+	GNMA GN 782070, 7%, due 06/15/2032	
+	GNMA GN 782810, 4.50%, due 11/15/2039	
+	GNMA GN 783091, 5.50%, due 06/15/2040	
+	GNMA GN 783220, 5.50%, due 09/15/2024	
+	GNMA GN 783375, 5%, due 08/15/2041	
+	GNMA GN 783760, 5%, due 02/15/2042	
+	GNMA GN 737996, 4%, due 02/15/2041	
+	GNMA GN 739341, 3.50%, due 10/15/2041	
+	GNMA GN 743673, 4.50%, due 07/15/2040	
+	GNMA G2 MA1017, 6%, due 05/20/2043	
+	GNMA G2 MA1162, 6%, due 07/20/2043	
+	GNMA G2 MA2215, 3.50%, due 09/20/2044	
+	GNMA G2 MA2683, 6%, due 03/20/2045	
+	GNMA G2 MA2759, 6%, due 01/20/2045	
+	GNMA G2 MA2897, 6%, due 03/20/2045	
+	GNMA G2 MA2966, 6%, due 09/20/2039	
+	GNMA G2 MA3249, 6%, due 04/20/2040	
+	GNMA GN 723216, 4.50%, due 08/15/2040	
+	GNMA GN 723248, 5%, due 10/15/2039	
+	GNMA GN 724230, 5%, due 08/15/2039	
+	GNMA GN 724267, 5%, due 09/15/2039	
+	GNMA GN 724340, 4.50%, due 09/15/2039	
+	GNMA GN 725272, 4.50%, due 11/15/2039	
+	GNMA GN 726394, 4.50%, due 10/15/2039	
+	GNMA GN 728921, 4.50%, due 12/15/2024	
+	GNMA GN 733595, 4.50%, due 04/15/2040	
+	GNMA GN 733733, 5%, due 06/15/2040	
+	GNMA GN 736617, 4%, due 12/15/2035	
+	GNMA G2 754384, 4.50%, due 03/20/2042	
+	GNMA G2 AD0856, 3.75%, due 08/20/2033	
+	GNMA G2 AG8899, 4%, due 12/20/2043	
+	GNMA G2 AR8421, 5%, due 10/20/2041	
+	GNMA G2 BB4769, 4%, due 08/20/2047	
+	GNMA GN 455986, 5.25%, due 07/15/2025	
+	GNMA GN 487108, 6%, due 04/15/2029	
+	GNMA GN 553144, 5.50%, due 04/15/2033	
+	GNMA GN 604338, 5%, due 05/15/2033	
+	GNMA GN 604897, 5%, due 12/15/2033	
+	GNMA GN 605389, 5%, due 04/15/2034	
+	GNMA GN 615403, 4.50%, due 08/15/2033	
+	GNMA GN 627123, 5.50%, due 03/15/2034	
+	GNMA GN 638704, 5.50%, due 11/15/2036	
+	GNMA GN 653143, 4.90%, due 04/15/2036	
+	GNMA GN 658324, 5.50%, due 03/15/2037	
+	GNMA GN 677190, 5%, due 06/15/2038	
+	GNMA GN 687833, 6%, due 08/15/2038	
+	GNMA GN 706840, 4.50%, due 05/15/2040	
+	GNMA GN 706855, 4.50%, due 09/15/2040	
+	GNMA GN 711483, 4%, due 01/15/2040	
+	GNMA GN 711543, 4%, due 11/15/2040	
+	FreddieMac Strip Series 299, Class S1, Variable rate, due 01/15/2043	
+	FreddieMac Strip Series 304, Class C37, 3.50%, due 12/15/2027	
+	FreddieMac Strip Series 304, Class C40, 3.50%, due 09/15/2026	
+	FreddieMac Strip Series 303, Class C2, 3.50%, due 01/15/2028	
+	GMAC Mortgage Corporation Loan Trust Series 2003-J10, Class A1, 4.75%, due 01/25/2019	
+	GNMA G2 3149, 6%, due 10/20/2031	
+	GNMA G2 3172, 6%, due 12/20/2031	
+	GNMA G2 3227, 6%, due 04/20/2032	
+	GNMA G2 3474, 6%, due 11/20/2033	
+	GNMA G2 4251, 5.50%, due 10/20/2023	
+	GNMA Series 2011-81, Class IC, Variable rate, due 07/20/2035	
+	GNMA Series 2012-10, Class LI, 3.50%, due 07/20/2040	
+	GNMA Series 2012-108, Class KB, 2.75%, due 09/16/2042	
+	GNMA Series 2011-63, Class BI, 6%, due 02/20/2038	
+	GNMA Series 2012-143, Class TI, 3%, due 12/16/2027	
+	GNMA Series 2010-166, Class DI, 4.50%, due 02/20/2039	
+	GNMA Series 2010-4, Class WA, 3%, due 01/16/2040	
+	GNMA Series 2010-42, Class CO, 0%, due 06/16/2039	
+	GNMA Series 2011-4, Class PZ, 5%, due 01/20/2041	
+	GNMA Series 2011-48, Class LI, 5.50%, due 01/16/2041	
+	GNMA Series 2012-18, Class IA, Variable rate, due 07/20/2039	
+	GNMA Series 2012-48, Class MI, 5%, due 04/16/2042	
+	GNMA Series 2013-10, Class DI, 3.50%, due 09/20/2042	
+	GNMA Series 2013-130, Class WS, Variable rate, due 09/20/2043	
+	GNMA Series 2013-170, Class IG, 5.50%, due 11/16/2043	
+	GNMA Series 2013-194, Class AE, Variable rate, due 11/16/2044	
+	GNMA Series 2013-22, Class IO, 3%, due 02/20/2043	
+	GNMA Series 2013-5, Class IA, 3.50%, due 10/16/2042	
+	GNMA Series 2013-53, Class OI, 3.50%, due 04/20/2043	
+	GNMA Series 2013-69, Class AI, 3.50%, due 05/20/2043	
+	GNMA Series 2013-69, Class PI, 5%, due 05/20/2043	
+	GNMA Series 2009-106, Class SL, Variable rate, due 04/20/2036	
+	GNMA Series 2009-106, Class WZ, 5.50%, due 11/16/2039	
+	GNMA Series 2007-81, Class FZ, Variable rate, due 12/20/2037	
+	GNMA Series 2008-33, Class XS, Variable rate, due 04/16/2038	
+	GNMA Series 2008-54, Class PE, 5%, due 06/20/2038	
+	GNMA Series 2008-71, Class JI, 6%, due 04/20/2038	
+	GNMA Series 2009-10, Class PA, 4.50%, due 12/20/2038	
+	GNMA Series 2009-14, Class KI, 6.50%, due 03/20/2039	
+	GNMA Series 2009-14, Class KS, Variable rate, due 03/20/2039	
+	GNMA Series 2009-25, Class SE, Variable rate, due 09/20/2038	
+	GNMA Series 2009-42, Class BI, 6%, due 06/20/2039	
+	GNMA Series 2009-79, Class OK, 0%, due 11/16/2037	
+	GNMA Series 2009-81, Class TZ, 5.50%, due 09/20/2039	
+	GNMA Series 2009-87, Class EI, 5.50%, due 08/20/2039	
+	GNMA Series 2009-94, Class AL, 5%, due 10/20/2039	
+	GNMA Series 2010-116, Class BM, 4.50%, due 09/16/2040	
+	GNMA Series 2009-72, Class SM, Variable rate, due 08/16/2039	
+	GNMA Series 2010-14, Class BV, Variable rate, due 02/16/2040	
+	GNMA Series 2010-85, Class SL, Variable rate, due 07/20/2037	
+	GNMA Series 2011-112, Class IP, Variable rate, due 08/16/2026	
+	GNMA Series 2011-129, Class CL, 5%, due 03/20/2041	
+	GNMA Series 2011-136, Class GB, 2.50%, due 05/20/2040	
+	GNMA Series 2011-146, Class EI, 5%, due 11/16/2041	
+	GNMA Series 2011-151, Class TB, Variable rate, due 04/20/2041	
+	GNMA Series 2016-167, Class KI, 6%, due 12/16/2046	
+	GNMA Series 2016-16, Class KZ, 3%, due 02/16/2046	
+	GNMA Series 2016-160, Class LE, 2.50%, due 11/20/2046	
+	GNMA Series 2016-55, Class PB, Variable rate, due 03/20/2031	
+	GNMA Series 2016-69, Class WI, 4.50%, due 05/20/2046	
+	GNMA Series 2016-75, Class SA, Variable rate, due 05/20/2040	
+	GNMA Series 2016-78, Class UI, 4%, due 06/20/2046	
+	GNMA Series 2016-26, Class IO, Variable rate, due 02/16/2058	
+	GNMA Series 2016-36, Class IO, Variable rate, due 08/16/2057	
+	GNMA Series 2017-186, Class TI, Variable rate, due 05/20/2040	
+	GNMA Series 2015-70, Class IO, Variable rate, due 12/16/2049	
+	GNMA Series 2015-95, Class IK, 1%, due 05/16/2037	
+	GNMA Series 2016-118, Class GI, 4.50%, due 02/16/2040	
+	GNMA Series 2015-124, Class DI, 3.50%, due 01/20/2038	
+	GNMA Series 2014-118, Class TV, Variable rate, due 05/20/2044	
+	GNMA Series 2015-138, Class MI, 4.50%, due 08/20/2044	
+	GNMA Series 2015-151, Class KW, Variable rate, due 04/20/2034	
+	GNMA Series 2013-74, Class AG, Variable rate, due 12/16/2053	
+	GNMA Series 2014-115, Class QI, 3%, due 03/20/2029	
+	GNMA Series 2014-44, Class IC, 3%, due 04/20/2028	
+	GNMA Series 2014-44, Class ID, Variable rate, due 03/16/2044	
+	GNMA Series 2014-6, Class IJ, 4.50%, due 06/16/2043	
+	GNMA Series 2014-91, Class JI, 4.50%, due 01/20/2040	

@@ -1,0 +1,21 @@
+VAW
+LIN	Linde plc	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=VAW
+SHW	Sherwin-Williams Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=VAW
+APD	Air Products & Chemicals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=VAW
+CTVA	Corteva Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=VAW
+FCX	Freeport-McMoRan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=VAW
+ECL	Ecolab Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=VAW
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=VAW
+NUE	Nucor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=VAW
+NEM	Newmont Goldcorp Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=VAW
+ALB	Albemarle Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=VAW
+PPG	PPG Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PPG.US&back=VAW
+DD	DuPont de Nemours Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=VAW
+IFF	International Flavors & Fragrances Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=VAW
+VMC	Vulcan Materials Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=VAW
+LYB	LyondellBasell Industries NV Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=VAW
+MLM	Martin Marietta Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MLM.US&back=VAW
+CF	CF Industries Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=VAW
+MOS	Mosaic Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=VAW
+AMCR	Amcor plc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=VAW
+BALL	Ball Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BALL.US&back=VAW

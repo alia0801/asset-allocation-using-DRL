@@ -1,0 +1,80 @@
+XMLV
+OGE	OGE Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=XMLV
+STOR	STORE Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=STOR.US&back=XMLV
+IDA	IDACORP Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IDA.US&back=XMLV
+RNR	RenaissanceRe Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR.US&back=XMLV
+FCN	FTI Consulting Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FCN.US&back=XMLV
+LANC	Lancaster Colony Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LANC.US&back=XMLV
+THG	Hanover Insurance Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=XMLV
+SLGN	Silgan Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLGN.US&back=XMLV
+NWE	NorthWestern Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NWE.US&back=XMLV
+CBSH	Commerce Bancshares Inc/MO	/etf/ea/ETZCW.djhtm?c=1&etfid=CBSH.US&back=XMLV
+FLO	Flowers Foods Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=XMLV
+MSM	MSC Industrial Direct Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MSM.US&back=XMLV
+DOC	Physicians Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=DOC.US&back=XMLV
+HUBB	Hubbell Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=XMLV
+SIGI	Selective Insurance Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SIGI.US&back=XMLV
+POR	Portland General Electric Co	/etf/ea/ETZCW.djhtm?c=1&etfid=POR.US&back=XMLV
+BKH	Black Hills Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BKH.US&back=XMLV
+MDU	MDU Resources Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDU.US&back=XMLV
+LECO	Lincoln Electric Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LECO.US&back=XMLV
+RLI	RLI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RLI.US&back=XMLV
+BOH	Bank of Hawaii Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH.US&back=XMLV
+HE	Hawaiian Electric Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=XMLV
+SR	Spire Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SR.US&back=XMLV
+PB	Prosperity Bancshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PB.US&back=XMLV
+NJR	New Jersey Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NJR.US&back=XMLV
+SON	Sonoco Products Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SON.US&back=XMLV
+CASY	Casey's General Stores Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=XMLV
+NNN	National Retail Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=XMLV
+RPM	RPM International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RPM.US&back=XMLV
+ALE	ALLETE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALE.US&back=XMLV
+GGG	Graco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GGG.US&back=XMLV
+SAIC	Science Applications International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=XMLV
+CACI	CACI International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=XMLV
+FR	First Industrial Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FR.US&back=XMLV
+GHC	Graham Holdings Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GHC.US&back=XMLV
+G	Genpact Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=G.US&back=XMLV
+POST	Post Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=XMLV
+AFG	American Financial Group Inc/OH	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=XMLV
+ONB	Old National Bancorp/IN	/etf/ea/ETZCW.djhtm?c=1&etfid=ONB.US&back=XMLV
+OGS	ONE Gas Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OGS.US&back=XMLV
+INGR	Ingredion Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INGR.US&back=XMLV
+CW	Curtiss-Wright Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CW.US&back=XMLV
+AIRC	Apartment Income REIT Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=XMLV
+SEIC	SEI Investments Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=XMLV
+NFG	National Fuel Gas Co	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=XMLV
+MMS	Maximus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MMS.US&back=XMLV
+WTRG	Essential Utilities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=XMLV
+CHE	Chemed Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=XMLV
+WAFD	Washington Federal Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WAFD.US&back=XMLV
+DCI	Donaldson Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DCI.US&back=XMLV
+FFIN	First Financial Bankshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIN.US&back=XMLV
+ORI	Old Republic International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=XMLV
+FULT	Fulton Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FULT.US&back=XMLV
+SWX	Southwest Gas Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWX.US&back=XMLV
+OFC	Corporate Office Properties Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=OFC.US&back=XMLV
+SCI	Service Corp International/US	/etf/ea/ETZCW.djhtm?c=1&etfid=SCI.US&back=XMLV
+ASH	Ashland Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ASH.US&back=XMLV
+WERN	Werner Enterprises Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WERN.US&back=XMLV
+MSA	MSA Safety Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MSA.US&back=XMLV
+ATR	AptarGroup Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATR.US&back=XMLV
+CSL	Carlisle Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=XMLV
+CUZ	Cousins Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CUZ.US&back=XMLV
+WSO	Watsco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WSO.US&back=XMLV
+SRC	Spirit Realty Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=XMLV
+SXT	Sensient Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SXT.US&back=XMLV
+UGI	UGI Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=XMLV
+HIW	Highwoods Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HIW.US&back=XMLV
+FAF	First American Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FAF.US&back=XMLV
+LSI	Life Storage Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=XMLV
+EGP	EastGroup Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EGP.US&back=XMLV
+RYN	Rayonier Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=XMLV
+GATX	GATX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GATX.US&back=XMLV
+JBGS	JBG SMITH Properties	/etf/ea/ETZCW.djhtm?c=1&etfid=JBGS.US&back=XMLV
+REXR	Rexford Industrial Realty Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REXR.US&back=XMLV
+ARW	Arrow Electronics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=XMLV
+SRCL	Stericycle Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRCL.US&back=XMLV
+NYCB	New York Community Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=XMLV
+MPW	Medical Properties Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=XMLV
+WLY	John Wiley & Sons Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WLY.US&back=XMLV

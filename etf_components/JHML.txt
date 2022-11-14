@@ -1,0 +1,11 @@
+JHML
+AAPL	Apple,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=JHML
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=JHML
+AMZN	Amazon.com,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=JHML
+GOOGL	Alphabet,Inc.,Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=JHML
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=JHML
+UNH	UnitedHealth Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=JHML
+BRK.B	Berkshire Hathaway,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=JHML
+TSLA	Tesla,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=JHML
+XOM	Exxon Mobil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=JHML
+JPM	JPMorgan Chase & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=JHML

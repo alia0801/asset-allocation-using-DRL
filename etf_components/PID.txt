@@ -1,0 +1,48 @@
+PID
+BSBR	Banco Santander Brasil SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BSBR.US&back=PID
+RIO	Rio Tinto PLC ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=RIO.US&back=PID
+ENB	Enbridge Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=PID
+SMFG	Sumitomo Mitsui Financial Group Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SMFG.US&back=PID
+BCE	BCE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BCE.US&back=PID
+CM	Canadian Imperial Bank of Commerce	/etf/ea/ETZCW.djhtm?c=1&etfid=CM.US&back=PID
+TRP	TC Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=PID
+NGG	National Grid PLC ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NGG.US&back=PID
+AY	Atlantica Sustainable Infrastructure PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AY.US&back=PID
+TU	TELUS Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TU.US&back=PID
+TD	Toronto-Dominion Bank/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TD.US&back=PID
+AQN	Algonquin Power & Utilities Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AQN.US&back=PID
+UL	Unilever PLC ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=UL.US&back=PID
+SNY	Sanofi ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SNY.US&back=PID
+RY	Royal Bank of Canada	/etf/ea/ETZCW.djhtm?c=1&etfid=RY.US&back=PID
+NVS	Novartis AG ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NVS.US&back=PID
+AEM	Agnico Eagle Mines Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AEM.US&back=PID
+AMX	America Movil SAB de CV ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=AMX.US&back=PID
+FMS	Fresenius Medical Care AG & Co KGaA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=FMS.US&back=PID
+FTS	Fortis Inc/Canada	/etf/ea/ETZCW.djhtm?c=1&etfid=FTS.US&back=PID
+QSR	Restaurant Brands International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QSR.US&back=PID
+CNQ	Canadian Natural Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CNQ.US&back=PID
+BIP	Brookfield Infrastructure Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=BIP.US&back=PID
+BEP	Brookfield Renewable Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=BEP.US&back=PID
+CRH	CRH PLC ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CRH.US&back=PID
+MGA	Magna International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MGA.US&back=PID
+OTEX	Open Text Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OTEX.US&back=PID
+SAP	SAP SE ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SAP.US&back=PID
+RELX	RELX PLC ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=RELX.US&back=PID
+DEO	Diageo PLC ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=DEO.US&back=PID
+INFY	Infosys Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=INFY.US&back=PID
+IMO	Imperial Oil Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=IMO.US&back=PID
+LOGI	Logitech International SA	/etf/ea/ETZCW.djhtm?c=1&etfid=LOGI.US&back=PID
+DOX	Amdocs Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=PID
+CNI	Canadian National Railway Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CNI.US&back=PID
+WTW	Willis Towers Watson PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTW.US&back=PID
+LIN	Linde PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=PID
+RBA	Ritchie Bros Auctioneers Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RBA.US&back=PID
+STN	Stantec Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STN.US&back=PID
+FNV	Franco-Nevada Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FNV.US&back=PID
+BAM	Brookfield Asset Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BAM.US&back=PID
+TFII	TFI International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TFII.US&back=PID
+CP	Canadian Pacific Railway Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CP.US&back=PID
+FSV	FirstService Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FSV.US&back=PID
+SONY	Sony Group Corp ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SONY.US&back=PID
+	Reliance Industries Ltd GDR	
+	Cash/Receivables/Payables	

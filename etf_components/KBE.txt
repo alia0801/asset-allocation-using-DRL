@@ -1,0 +1,103 @@
+KBE
+FCNCA	First Citizens BancShares Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FCNCA.US&back=KBE
+SI	Silvergate Capital Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SI.US&back=KBE
+TCBI	Texas Capital Bancshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TCBI.US&back=KBE
+PFSI	PennyMac Financial Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFSI.US&back=KBE
+CFR	Cullen/Frost Bankers Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CFR.US&back=KBE
+FIBK	First Interstate BancSystem Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FIBK.US&back=KBE
+ONB	Old National Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=ONB.US&back=KBE
+MTG	MGIC Investment Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTG.US&back=KBE
+MTB	M&T Bank Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=KBE
+PNFP	Pinnacle Financial Partners Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNFP.US&back=KBE
+EWBC	East West Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EWBC.US&back=KBE
+WFC	Wells Fargo & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=KBE
+EQH	Equitable Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH.US&back=KBE
+HBAN	Huntington Bancshares Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=KBE
+RF	Regions Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=KBE
+FRC	First Republic Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC.US&back=KBE
+UMPQ	Umpqua Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UMPQ.US&back=KBE
+FNB	F.N.B. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FNB.US&back=KBE
+CMA	Comerica Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=KBE
+OZK	Bank OZK	/etf/ea/ETZCW.djhtm?c=1&etfid=OZK.US&back=KBE
+NYCB	New York Community Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=KBE
+UBSI	United Bankshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBSI.US&back=KBE
+SNV	Synovus Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV.US&back=KBE
+COLB	Columbia Banking System Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COLB.US&back=KBE
+CBSH	Commerce Bancshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CBSH.US&back=KBE
+RDN	Radian Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RDN.US&back=KBE
+ASB	Associated Banc-Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ASB.US&back=KBE
+VLY	Valley National Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=VLY.US&back=KBE
+ZION	Zions Bancorporation N.A.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZION.US&back=KBE
+PB	Prosperity Bancshares Inc.(R)	/etf/ea/ETZCW.djhtm?c=1&etfid=PB.US&back=KBE
+CVBF	CVB Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVBF.US&back=KBE
+WTFC	Wintrust Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFC.US&back=KBE
+WAL	Western Alliance Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=WAL.US&back=KBE
+FBP	First Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FBP.US&back=KBE
+CADE	Cadence Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=CADE.US&back=KBE
+SSB	SouthState Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SSB.US&back=KBE
+C	Citigroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=KBE
+FHN	First Horizon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN.US&back=KBE
+APO	Apollo Global Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APO.US&back=KBE
+ABCB	Ameris Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=ABCB.US&back=KBE
+TFC	Truist Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=KBE
+WBS	Webster Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WBS.US&back=KBE
+HWC	Hancock Whitney Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HWC.US&back=KBE
+BAC	Bank of America Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=KBE
+COOP	Mr. Cooper Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COOP.US&back=KBE
+CFG	Citizens Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=KBE
+RKT	Rocket Companies Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RKT.US&back=KBE
+PNC	PNC Financial Services Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=KBE
+JXN	Jackson Financial Incorporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=JXN.US&back=KBE
+KEY	KeyCorp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=KBE
+BPOP	Popular Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BPOP.US&back=KBE
+VOYA	Voya Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=KBE
+BKU	BankUnited Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKU.US&back=KBE
+ESNT	Essent Group Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESNT.US&back=KBE
+HOMB	Home BancShares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOMB.US&back=KBE
+BK	Bank of New York Mellon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=KBE
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=KBE
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=KBE
+FBC	Flagstar Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FBC.US&back=KBE
+NTRS	Northern Trust Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=KBE
+USB	U.S. Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=KBE
+SIVB	SVB Financial Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVB.US&back=KBE
+PACW	PacWest Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=PACW.US&back=KBE
+UCBI	United Community Banks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UCBI.US&back=KBE
+SBNY	Signature Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNY.US&back=KBE
+FULT	Fulton Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FULT.US&back=KBE
+GBCI	Glacier Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GBCI.US&back=KBE
+FFIN	First Financial Bankshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIN.US&back=KBE
+WD	Walker & Dunlop Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WD.US&back=KBE
+SFNC	Simmons First National Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SFNC.US&back=KBE
+AX	Axos Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AX.US&back=KBE
+LOB	Live Oak Bancshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOB.US&back=KBE
+UMBF	UMB Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UMBF.US&back=KBE
+SFBS	ServisFirst Bancshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SFBS.US&back=KBE
+WSFS	WSFS Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WSFS.US&back=KBE
+FHB	First Hawaiian Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FHB.US&back=KBE
+BOKF	BOK Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BOKF.US&back=KBE
+BOH	Bank of Hawaii Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH.US&back=KBE
+IBTX	Independent Bank Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IBTX.US&back=KBE
+HTH	Hilltop Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HTH.US&back=KBE
+INDB	Independent Bank Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=INDB.US&back=KBE
+PPBI	Pacific Premier Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PPBI.US&back=KBE
+CBU	Community Bank System Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CBU.US&back=KBE
+EBC	Eastern Bankshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBC.US&back=KBE
+TBK	Triumph Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TBK.US&back=KBE
+HOPE	Hope Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOPE.US&back=KBE
+NMIH	NMI Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=NMIH.US&back=KBE
+CATY	Cathay General Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=CATY.US&back=KBE
+BANR	Banner Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BANR.US&back=KBE
+WAFD	Washington Federal Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WAFD.US&back=KBE
+LKFN	Lakeland Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LKFN.US&back=KBE
+VBTX	Veritex Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VBTX.US&back=KBE
+SBCF	Seacoast Banking Corporation of Florida	/etf/ea/ETZCW.djhtm?c=1&etfid=SBCF.US&back=KBE
+IBOC	International Bancshares Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBOC.US&back=KBE
+FRME	First Merchants Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FRME.US&back=KBE
+TRMK	Trustmark Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMK.US&back=KBE
+AUB	Atlantic Union Bankshares Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AUB.US&back=KBE
+WSBC	WesBanco Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WSBC.US&back=KBE
+RNST	Renasant Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RNST.US&back=KBE
+FFBC	First Financial Bancorp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFBC.US&back=KBE
+SASR	Sandy Spring Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SASR.US&back=KBE
+	STATE STREET INSTITUTIONAL LIQ STATE STR	

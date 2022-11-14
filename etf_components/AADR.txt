@@ -1,0 +1,39 @@
+AADR
+IBN	ICICI BANK LTD-SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=IBN.US&back=AADR
+DAC	DANAOS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DAC.US&back=AADR
+TTM	TATA MOTORS LTD-SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TTM.US&back=AADR
+TS	TENARIS SA-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TS.US&back=AADR
+NVO	NOVO-NORDISK A/S-SPONS ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NVO.US&back=AADR
+EQNR	EQUINOR ASA-SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=EQNR.US&back=AADR
+SSL	SASOL LTD-SPONSORED ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SSL.US&back=AADR
+DEO	DIAGEO PLC-SPONSORED ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=DEO.US&back=AADR
+MMYT	MAKEMYTRIP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=MMYT.US&back=AADR
+ITUB	ITAU UNIBANCO H-SPON PRF ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ITUB.US&back=AADR
+TLK	TELKOM INDONESIA PERSERO-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TLK.US&back=AADR
+NXPI	NXP SEMICONDUCTORS NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=AADR
+KT	KT CORP-SP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=KT.US&back=AADR
+ABB	ABB LTD-SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ABB.US&back=AADR
+BAP	CREDICORP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=BAP.US&back=AADR
+GMAB	GENMAB A/S -SP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=GMAB.US&back=AADR
+EBR	CENTRAIS ELETRICAS BR-SP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=EBR.US&back=AADR
+BTI	BRITISH AMERICAN TOB-SP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BTI.US&back=AADR
+AMX	AMERICA MOVIL-SPN ADR CL L	/etf/ea/ETZCW.djhtm?c=1&etfid=AMX.US&back=AADR
+UBS	UBS GROUP AG-REG	/etf/ea/ETZCW.djhtm?c=1&etfid=UBS.US&back=AADR
+RELX	RELX PLC - SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=RELX.US&back=AADR
+SQM	QUIMICA Y MINERA CHIL-SP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SQM.US&back=AADR
+HSBC	HSBC HOLDINGS PLC-SPONS ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=HSBC.US&back=AADR
+CAJ	CANON INC-SPONS ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CAJ.US&back=AADR
+AEG	AEGON N.V.-NY REG SHR	/etf/ea/ETZCW.djhtm?c=1&etfid=AEG.US&back=AADR
+ARGX	ARGENX SE - ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ARGX.US&back=AADR
+MUFG	MITSUBISHI UFJ FINL-SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=MUFG.US&back=AADR
+PBR	PETROLEO BRASILEIRO-SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PBR.US&back=AADR
+VIV	TELEFONICA BRASIL-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=VIV.US&back=AADR
+ALC	ALCON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALC.US&back=AADR
+AZN	ASTRAZENECA PLC-SPONS ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=AADR
+DQ	DAQO NEW ENERGY CORP-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=DQ.US&back=AADR
+ICL	ICL GROUP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=ICL.US&back=AADR
+ICLR	ICON PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ICLR.US&back=AADR
+NGG	NATIONAL GRID PLC-SP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NGG.US&back=AADR
+	CIA PARANAENSE ENER-SP ADR	
+DSX	DIANA SHIPPING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DSX.US&back=AADR
+	INVESCO GOVT AGENCY PRIV 1903	

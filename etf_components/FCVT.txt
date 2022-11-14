@@ -1,0 +1,134 @@
+FCVT
+	US Dollar	
+	PALO ALTO NETWORKS Convertible, 0.75%, due 07/01/2023	
+	DEXCOM INC Convertible, 0.25%, due 11/15/2025	
+	NextEra Energy, Inc., Convertible, 5.279%, Due 03/01/2023	
+	Broadcom Inc., Series A, 8.00%, Due 09/30/2022	
+	ENPHASE ENERGY INC Convertible, 0%, due 03/01/2028	
+	ETSY INC Convertible, 0.125%, due 09/01/2027	
+	PIONEER NATURAL RESOURCES Convertible, 0.25%, due 05/15/2025	
+	BLOCK INC Convertible, 0.125%, due 03/01/2025	
+	SOUTHWEST AIRLINES CO Convertible, 1.25%, due 05/01/2025	
+	SPLUNK INC Convertible, 1.125%, due 09/15/2025	
+	ON SEMICONDUCTOR CORP Convertible, 0%, due 05/01/2027	
+	CREDIT SUISSE AG LONDON 0.125%, due 08/17/2027	
+	CLOUDFLARE INC Convertible, 0%, due 08/15/2026	
+	Wells Fargo & Company, Series L, 7.50%	
+	SNAP INC Convertible, 0.125%, due 03/01/2028	
+	JAZZ INVESTMENTS I LTD Convertible, 2%, due 06/15/2026	
+	CUTERA INC Convertible, 2.25%, due 06/01/2028	
+	EQT CORP Convertible, 1.75%, due 05/01/2026	
+	FIVE9 INC Convertible, 0.50%, due 06/01/2025	
+	Danaher Corporation, Series B, Convertible, 5.00%, Due 04/15/2023	
+	M/A-COM TECH SOLUTIONS Convertible, 0.25%, due 03/15/2026	
+	AKAMAI TECHNOLOGIES INC Convertible, 0.375%, due 09/01/2027	
+	OKTA INC Convertible, 0.125%, due 09/01/2025	
+	BIOMARIN PHARMACEUTICAL Convertible, 0.599%, due 08/01/2024	
+	LIVE NATION ENTERTAINMENT Convertible, 2.50%, due 03/15/2023	
+	LUMENTUM HOLDINGS INC Convertible, 0.50%, due 12/15/2026	
+	ZSCALER INC Convertible, 0.125%, due 07/01/2025	
+	GREEN PLAINS INC Convertible, 2.25%, due 03/15/2027	
+	CHART INDUSTRIES INC Convertible, 1%, due 11/15/2024	
+	JPMORGAN CHASE FINANCIAL Convertible, 0.25%, due 05/01/2023	
+	CONMED CORP Convertible, 2.25%, due 06/15/2027	
+	BOOKING HOLDINGS INC Convertible, 0.75%, due 05/01/2025	
+	INSULET CORPORATION Convertible, 0.375%, due 09/01/2026	
+	WOLFSPEED INC Convertible, 0.25%, due 02/15/2028	
+	MICROCHIP TECHNOLOGY INC Convertible, 0.125%, due 11/15/2024	
+	VERINT SYSTEMS INC Convertible, 0.25%, due 04/15/2026	
+	KKR & Co. Inc., Series C, 6.00%, Due 09/15/2023	
+	DEUTSCHE BANK AG LONDON Convertible, 1%, due 05/01/2023	
+	ELEVANCE HEALTH INC Convertible, 2.75%, due 10/15/2042	
+	MAKEMYTRIP LIMITED Convertible, 0%, due 02/15/2028	
+	BILL.COM HOLDINGS INC Convertible, 0%, due 12/01/2025	
+	MONGODB INC Convertible, 0.25%, due 01/15/2026	
+	PACIRA PHARMACEUTICALS Convertible, 0.75%, due 08/01/2025	
+	PEBBLEBROOK HOTEL TRUST Convertible, 1.75%, due 12/15/2026	
+	2020 Cash Exch Trust, Convertible, 5.25%, Due 06/01/2023	
+	COUPA SOFTWARE INC Convertible, 0.125%, due 06/15/2025	
+	AIRBNB INC Convertible, 0%, due 03/15/2026	
+	EXPEDIA GROUP INC Convertible, 0%, due 02/15/2026	
+	MP MATERIALS CORP Convertible, 0.25%, due 04/01/2026	
+	SHIFT4 PAYMENTS INC Convertible, 0%, due 12/15/2025	
+	SAFRAN SA Convertible, 0.875%, due 05/15/2027	
+	DATADOG INC Convertible, 0.125%, due 06/15/2025	
+	PALO ALTO NETWORKS Convertible, 0.375%, due 06/01/2025	
+	NiSource Inc., Convertible, 7.75%, Due 03/01/2024	
+	CYBERARK SOFTWARE LTD Convertible, 0%, due 11/15/2024	
+	LIBERTY MEDIA CORP Convertible, 1.375%, due 10/15/2023	
+	RINGCENTRAL INC Convertible, 0%, due 03/01/2025	
+	Becton, Dickinson and Company, Series B, Convertible, 6.00%, Due 06/01/2023	
+	DROPBOX INC Convertible, 0%, due 03/01/2028	
+	DIGITALOCEAN HOLDINGS Convertible, 0%, due 12/01/2026	
+	CONFLUENT INC Convertible, 0%, due 01/15/2027	
+	HALOZYME THERAPEUTICS INC Convertible, 1%, due 08/15/2028	
+	PG&E Corporation, Convertible, 5.50%, Due 08/16/2023	
+	ZILLOW GROUP INC Convertible, 2.75%, due 05/15/2025	
+	TWITTER INC Convertible, 0.25%, due 06/15/2024	
+	PARSONS CORP Convertible, 0.25%, due 08/15/2025	
+	NCL CORPORATION LTD Convertible, 5.375%, due 08/01/2025	
+	SUMMIT HOTEL PROPERTIES Convertible, 1.50%, due 02/15/2026	
+	THE BEAUTY HEALTH CO Convertible, 1.25%, due 10/01/2026	
+	American Electric Power Company, Inc., Convertible, 6.125%, Due 08/15/2023	
+	GLENCORE FUNDING LLC Convertible, 0%, due 03/27/2025	
+	DICK'S SPORTING GOODS Convertible, 3.25%, due 04/15/2025	
+	Aptiv Plc, Series A, Convertible, 5.50%, Due 06/15/2023	
+	Boston Scientific Corporation, Series A, Convertible, 5.50%, Due 06/01/2023	
+	MGP INGREDIENTS INC Convertible, 1.875%, due 11/15/2041	
+	BOX INC Convertible, 0%, due 01/15/2026	
+	GREENBRIER COS INC Convertible, 2.875%, due 04/15/2028	
+	IONIS PHARMACEUTICALS INC Convertible, 0%, due 04/01/2026	
+	PERFICIENT INC Convertible, 0.125%, due 11/15/2026	
+	TRAVERE THERAPEUTICS INC Convertible, 2.25%, due 03/01/2029	
+	VAIL RESORTS INC Convertible, 0%, due 01/01/2026	
+	H WORLD GROUP LTD Convertible, 3%, due 05/01/2026	
+	BENTLEY SYSTEMS INC Convertible, 0.125%, due 01/15/2026	
+	ORMAT TECHNOLOGIES INC Convertible, 2.50%, due 07/15/2027	
+	LYFT INC Convertible, 1.50%, due 05/15/2025	
+	BURLINGTON STORES INC Convertible, 2.25%, due 04/15/2025	
+	HAEMONETICS CORP Convertible, 0%, due 03/01/2026	
+	ENVESTNET INC Convertible, 0.75%, due 08/15/2025	
+	INSMED INC Convertible, 0.75%, due 06/01/2028	
+	ITRON INC Convertible, 0%, due 03/15/2026	
+	LIVENT CORP Convertible, 4.125%, due 07/15/2025	
+	FORD MOTOR COMPANY Convertible, 0%, due 03/15/2026	
+	PTC THERAPEUTICS INC Convertible, 1.50%, due 09/15/2026	
+	REALOGY GROUP/CO-ISSUER Convertible, 0.25%, due 06/15/2026	
+	ZIFF DAVIS INC Convertible, 1.75%, due 11/01/2026	
+	TECHTARGET INC Convertible, 0%, due 12/15/2026	
+	IMAX CORP Convertible, 0.50%, due 04/01/2026	
+	BLOOM ENERGY CORP Convertible, 2.50%, due 08/15/2025	
+	HANNON ARMSTRONG SUST INFRA CAP Comvertible, 0%, due 08/15/2023	
+	LIBERTY MEDIA CORP Convertible, 2.25%, due 08/15/2027	
+	KITE REALTY GROUP LP Convertible, 0.75%, due 04/01/2027	
+	PURE STORAGE INC Convertible, 0.125%, due 04/15/2023	
+	ROYAL CARIBBEAN CRUISES Convertible, 6%, due 08/15/2025	
+	SAREPTA THERAPEUTICS INC Convertible, 1.50%, due 11/15/2024	
+	VISHAY INTERTECHNOLOGY Convertible, 2.25%, due 06/15/2025	
+	ATI INC Convertible, 3.50%, due 06/15/2025	
+	KBR INC Convertible, 2.50%, due 11/01/2023	
+	LI AUTO INC Convertible, 0.25%, due 05/01/2028	
+	MARRIOTT VACATIONS WORLDWIDE Convertible, 0%, due 01/15/2026	
+	MATCH GROUP FINANCECO 2 Convertible, 0.875%, due 06/15/2026	
+	AIR TRANSPORT SERVICES GROUP Convertible, 1.125%, due 10/15/2024	
+	SUNNOVA ENERGY INTL INC Convertible, 0.25%, due 12/01/2026	
+	CYTOKINETICS INC Convertible, 3.50%, due 07/01/2027	
+	TYLER TECHNOLOGIES INC Convertible, 0.25%, due 03/15/2026	
+	RBC Bearings Incorporated, Series A, 5.00%, Due 10/15/2024	
+	REVANCE THERAPEUTICS INC Convertible, 1.75%, due 02/15/2027	
+	COHERUS BIOSCIENCES INC Convertible, 1.50%, due 04/15/2026	
+	ENVISTA HOLDINGS CORP Convertible, 2.375%, due 06/01/2025	
+	HUBSPOT INC Convertible, 0.375%, due 06/01/2025	
+	IRONWOOD PHARMACEUTICALS Convertible, 1.50%, due 06/15/2026	
+	NEUROCRINE BIOSCIENCES Convertible, 2.25%, due 05/15/2024	
+	SEA LTD Convertible, 2.375%, due 12/01/2025	
+	ARRAY TECHNOLOGIES INC Convertible, 1%, due 12/01/2028	
+	CEREVEL THERAP HLDS INC Convertible, 2.50%, due 08/15/2027	
+	ALTERYX INC Convertible, 1%, due 08/01/2026	
+	SILICON LABORATORIES INC Convertible, 0.625%, due 06/15/2025	
+	ZTO EXPRESS KY INC Convertible, 1.50%, due 09/01/2027	
+	CALLAWAY GOLF CO Convertible, 2.75%, due 05/01/2026	
+	SUNNOVA ENERGY INTL INC Convertible, 2.625%, due 02/15/2028	
+	2020 Mandatory Exchange, Convertible, 6.50%, Due 05/16/2023	
+	REPLIGEN CORP Convertible, 0.375%, due 07/15/2024	
+	UBER TECHNOLOGIES INC Convertible, 0%, due 12/15/2025	

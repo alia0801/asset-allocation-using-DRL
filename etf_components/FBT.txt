@@ -1,0 +1,32 @@
+FBT
+ALNY	Alnylam Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALNY.US&back=FBT
+SRPT	Sarepta Therapeutics,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SRPT.US&back=FBT
+AGIO	Agios Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGIO.US&back=FBT
+NBIX	Neurocrine Biosciences,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NBIX.US&back=FBT
+IONS	Ionis Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=FBT
+ACAD	ACADIA Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACAD.US&back=FBT
+ILMN	Illumina,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=FBT
+MTD	Mettler-Toledo International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTD.US&back=FBT
+GMAB	Genmab A/S (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=GMAB.US&back=FBT
+BMRN	BioMarin Pharmaceutical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMRN.US&back=FBT
+FGEN	FibroGen,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FGEN.US&back=FBT
+GILD	Gilead Sciences,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=FBT
+IQV	IQVIA Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=FBT
+QGEN	QIAGEN N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=QGEN.US&back=FBT
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=FBT
+TECH	Bio-Techne Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TECH.US&back=FBT
+VRTX	Vertex Pharmaceuticals Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=FBT
+REGN	Regeneron Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=FBT
+UTHR	United Therapeutics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=FBT
+CRL	Charles River Laboratories International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRL.US&back=FBT
+BIIB	Biogen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=FBT
+BNTX	BioNTech SE (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=BNTX.US&back=FBT
+INCY	Incyte Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=FBT
+SGEN	Seagen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=FBT
+EXEL	Exelixis,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=FBT
+ALKS	Alkermes Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALKS.US&back=FBT
+MRNA	Moderna,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=FBT
+GRFS	Grifols,S.A. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=GRFS.US&back=FBT
+EXAS	Exact Sciences Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EXAS.US&back=FBT
+RARE	Ultragenyx Pharmaceutical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RARE.US&back=FBT
+	US Dollar	

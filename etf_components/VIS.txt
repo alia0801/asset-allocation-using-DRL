@@ -1,0 +1,21 @@
+VIS
+UPS	United Parcel Service Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=VIS
+UNP	Union Pacific Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=VIS
+RTX	Raytheon Technologies Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=VIS
+HON	Honeywell International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=VIS
+DE	Deere & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=VIS
+LMT	Lockheed Martin Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=VIS
+CAT	Caterpillar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=VIS
+BA	Boeing Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=VIS
+GE	General Electric Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=VIS
+MMM	3M Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=VIS
+NOC	Northrop Grumman Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=VIS
+WM	Waste Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=VIS
+CSX	CSX Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=VIS
+ITW	Illinois Tool Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=VIS
+NSC	Norfolk Southern Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=VIS
+ETN	Eaton Corp. plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=VIS
+GD	General Dynamics Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=VIS
+FDX	FedEx Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=VIS
+EMR	Emerson Electric Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=VIS
+UBER	Uber Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=VIS

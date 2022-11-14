@@ -1,0 +1,146 @@
+UCC
+	DJ U.S. CONSUMER SERVICES INDEX SWAP SOCIETE GENERALE	
+	DJ U.S. CONSUMER SERVICES INDEX SWAP BNP PARIBAS	
+	DJ U.S. CONSUMER SERVICES INDEX SWAP CITIBANK NA	
+AMZN	AMAZON.COM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=UCC
+	DJ U.S. CONSUMER SERVICES INDEX SWAP BANK OF AMERICA NA	
+HD	HOME DEPOT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=UCC
+	DJ U.S. CONSUMER SERVICES INDEX SWAP GOLDMAN SACHS INTERNATIONAL	
+COST	COSTCO WHOLESALE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=UCC
+WMT	WALMART INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=UCC
+DIS	WALT DISNEY CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=UCC
+MCD	MCDONALD'S CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=UCC
+CMCSA	COMCAST CORP-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=UCC
+LOW	LOWE'S COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=UCC
+	DJ U.S. CONSUMER SERVICES INDEX SWAP MORGAN STANLEY & CO. INTERNATIONAL PLC	
+NFLX	NETFLIX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=UCC
+SBUX	STARBUCKS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=UCC
+	DJ U.S. CONSUMER SERVICES INDEX SWAP UBS AG	
+TJX	TJX COMPANIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=UCC
+TGT	TARGET CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=UCC
+BKNG	BOOKING HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=UCC
+DG	DOLLAR GENERAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=UCC
+UBER	UBER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=UCC
+ORLY	O'REILLY AUTOMOTIVE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=UCC
+ABNB	AIRBNB INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=UCC
+AZO	AUTOZONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=UCC
+CMG	CHIPOTLE MEXICAN GRILL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CMG.US&back=UCC
+MAR	MARRIOTT INTERNATIONAL -CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=UCC
+SYY	SYSCO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=UCC
+CHTR	CHARTER COMMUNICATIONS INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=UCC
+HLT	HILTON WORLDWIDE HOLDINGS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=HLT.US&back=UCC
+YUM	YUM! BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=UCC
+ROST	ROSS STORES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=UCC
+DLTR	DOLLAR TREE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=UCC
+KR	KROGER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=UCC
+TTD	TRADE DESK INC/THE -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=TTD.US&back=UCC
+WBD	WARNER BROS DISCOVERY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=UCC
+WBA	WALGREENS BOOTS ALLIANCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=UCC
+CPRT	COPART INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRT.US&back=UCC
+ABC	AMERISOURCEBERGEN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=UCC
+ULTA	ULTA BEAUTY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=UCC
+TSCO	TRACTOR SUPPLY COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=UCC
+LUV	SOUTHWEST AIRLINES CO	/etf/ea/ETZCW.djhtm?c=1&etfid=LUV.US&back=UCC
+CAH	CARDINAL HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=UCC
+DAL	DELTA AIR LINES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DAL.US&back=UCC
+DRI	DARDEN RESTAURANTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DRI.US&back=UCC
+EXPE	EXPEDIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=UCC
+PINS	PINTEREST INC- CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PINS.US&back=UCC
+OMC	OMNICOM GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=UCC
+BBY	BEST BUY CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=UCC
+FWONK	LIBERTY MEDIA CORP-LIBERTY-C	/etf/ea/ETZCW.djhtm?c=1&etfid=FWONK.US&back=UCC
+LVS	LAS VEGAS SANDS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LVS.US&back=UCC
+LKQ	LKQ CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=UCC
+DPZ	DOMINO'S PIZZA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DPZ.US&back=UCC
+ZI	ZOOMINFO TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ZI.US&back=UCC
+LYV	LIVE NATION ENTERTAINMENT IN	/etf/ea/ETZCW.djhtm?c=1&etfid=LYV.US&back=UCC
+UAL	UNITED AIRLINES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UAL.US&back=UCC
+KMX	CARMAX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=UCC
+IPG	INTERPUBLIC GROUP OF COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=UCC
+MGM	MGM RESORTS INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=MGM.US&back=UCC
+BJ	BJ'S WHOLESALE CLUB HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=BJ.US&back=UCC
+AAP	ADVANCE AUTO PARTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=UCC
+FOXA	FOX CORP - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=UCC
+PARA	PARAMOUNT GLOBAL-CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=UCC
+LBRDK	LIBERTY BROADBAND-C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDK.US&back=UCC
+SCI	SERVICE CORP INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=SCI.US&back=UCC
+RCL	ROYAL CARIBBEAN CRUISES LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RCL.US&back=UCC
+MTN	VAIL RESORTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MTN.US&back=UCC
+ROL	ROLLINS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROL.US&back=UCC
+AAL	AMERICAN AIRLINES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAL.US&back=UCC
+ARMK	ARAMARK	/etf/ea/ETZCW.djhtm?c=1&etfid=ARMK.US&back=UCC
+WSM	WILLIAMS-SONOMA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSM.US&back=UCC
+BBWI	BATH & BODY WORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=UCC
+BURL	BURLINGTON STORES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BURL.US&back=UCC
+CASY	CASEY'S GENERAL STORES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=UCC
+FIVE	FIVE BELOW	/etf/ea/ETZCW.djhtm?c=1&etfid=FIVE.US&back=UCC
+FND	FLOOR & DECOR HOLDINGS INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=FND.US&back=UCC
+CZR	CAESARS ENTERTAINMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CZR.US&back=UCC
+CCL	CARNIVAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CCL.US&back=UCC
+DKNG	DRAFTKINGS INC-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=DKNG.US&back=UCC
+HRB	H&R BLOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HRB.US&back=UCC
+ROKU	ROKU INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROKU.US&back=UCC
+NXST	NEXSTAR MEDIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=UCC
+WYNN	WYNN RESORTS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=WYNN.US&back=UCC
+LAD	LITHIA MOTORS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LAD.US&back=UCC
+GME	GAMESTOP CORP-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GME.US&back=UCC
+DKS	DICK'S SPORTING GOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DKS.US&back=UCC
+CHDN	CHURCHILL DOWNS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHDN.US&back=UCC
+LSXMK	LIBERTY MEDIA COR-SIRIUSXM C	/etf/ea/ETZCW.djhtm?c=1&etfid=LSXMK.US&back=UCC
+NWSA	NEWS CORP - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NWSA.US&back=UCC
+MUSA	MURPHY USA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MUSA.US&back=UCC
+WH	WYNDHAM HOTELS & RESORTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WH.US&back=UCC
+TXRH	TEXAS ROADHOUSE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXRH.US&back=UCC
+ALK	ALASKA AIR GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALK.US&back=UCC
+UHAL	AMERCO	/etf/ea/ETZCW.djhtm?c=1&etfid=UHAL.US&back=UCC
+VAC	MARRIOTT VACATIONS WORLD	/etf/ea/ETZCW.djhtm?c=1&etfid=VAC.US&back=UCC
+RH	RH	/etf/ea/ETZCW.djhtm?c=1&etfid=RH.US&back=UCC
+PLNT	PLANET FITNESS INC - CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=PLNT.US&back=UCC
+TMX	TERMINIX GLOBAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMX.US&back=UCC
+TGNA	TEGNA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TGNA.US&back=UCC
+NCLH	NORWEGIAN CRUISE LINE HOLDIN	/etf/ea/ETZCW.djhtm?c=1&etfid=NCLH.US&back=UCC
+NYT	NEW YORK TIMES CO-A	/etf/ea/ETZCW.djhtm?c=1&etfid=NYT.US&back=UCC
+PENN	PENN ENTERTAINMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PENN.US&back=UCC
+LYFT	LYFT INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=LYFT.US&back=UCC
+LNW	LIGHT & WONDER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LNW.US&back=UCC
+H	HYATT HOTELS CORP - CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=H.US&back=UCC
+CAR	AVIS BUDGET GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAR.US&back=UCC
+CABO	CABLE ONE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CABO.US&back=UCC
+IAA	IAA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IAA.US&back=UCC
+FOX	FOX CORP - CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=FOX.US&back=UCC
+AMC	AMC ENTERTAINMENT HLDS-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=AMC.US&back=UCC
+ACI	ALBERTSONS COS INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=UCC
+AN	AUTONATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=UCC
+BYD	BOYD GAMING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BYD.US&back=UCC
+SIRI	SIRIUS XM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=UCC
+WEN	WENDY'S CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=WEN.US&back=UCC
+KSS	KOHLS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KSS.US&back=UCC
+BFAM	BRIGHT HORIZONS FAMILY SOLUT	/etf/ea/ETZCW.djhtm?c=1&etfid=BFAM.US&back=UCC
+EDR	ENDEAVOR GROUP HOLD-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=EDR.US&back=UCC
+CHH	CHOICE HOTELS INTL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHH.US&back=UCC
+DISH	DISH NETWORK CORP-A	/etf/ea/ETZCW.djhtm?c=1&etfid=DISH.US&back=UCC
+CHGG	CHEGG INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHGG.US&back=UCC
+LOPE	GRAND CANYON EDUCATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LOPE.US&back=UCC
+LSXMA	LIBERTY MEDIA COR-SIRIUSXM A	/etf/ea/ETZCW.djhtm?c=1&etfid=LSXMA.US&back=UCC
+OLLI	OLLIE'S BARGAIN OUTLET HOLDI	/etf/ea/ETZCW.djhtm?c=1&etfid=OLLI.US&back=UCC
+WMG	WARNER MUSIC GROUP CORP-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=WMG.US&back=UCC
+SFM	SPROUTS FARMERS MARKET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SFM.US&back=UCC
+WWE	WORLD WRESTLING ENTERTAIN-A	/etf/ea/ETZCW.djhtm?c=1&etfid=WWE.US&back=UCC
+VSCO	VICTORIA'S SECRET & CO	/etf/ea/ETZCW.djhtm?c=1&etfid=VSCO.US&back=UCC
+W	WAYFAIR INC- CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=W.US&back=UCC
+PAG	PENSKE AUTOMOTIVE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=UCC
+MSGS	MADISON SQUARE GARDEN SPORTS	/etf/ea/ETZCW.djhtm?c=1&etfid=MSGS.US&back=UCC
+JBLU	JETBLUE AIRWAYS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=JBLU.US&back=UCC
+FL	FOOT LOCKER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FL.US&back=UCC
+GPS	GAP INC/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=GPS.US&back=UCC
+CVNA	CARVANA CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CVNA.US&back=UCC
+NWS	NEWS CORP - CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=NWS.US&back=UCC
+JOBY	JOBY AVIATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JOBY.US&back=UCC
+LBRDA	LIBERTY BROADBAND-A	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDA.US&back=UCC
+	LIBERTY MEDIA CORP-LIBERTY-A	
+ATUS	ALTICE USA INC- A	/etf/ea/ETZCW.djhtm?c=1&etfid=ATUS.US&back=UCC
+ADT	ADT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADT.US&back=UCC
+BROS	DUTCH BROS INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BROS.US&back=UCC
+	LIBERTY MEDIA CORP-BRAVES C	
+WOOF	PETCO HEALTH AND WELLNESS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WOOF.US&back=UCC
+	LIBERTY MEDIA CORP-BRAVES A	

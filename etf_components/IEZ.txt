@@ -1,0 +1,30 @@
+IEZ
+SLB	SCHLUMBERGER NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=IEZ
+HAL	HALLIBURTON	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=IEZ
+CHX	CHAMPIONX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHX.US&back=IEZ
+FTI	TECHNIPFMC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=FTI.US&back=IEZ
+NOV	NOV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NOV.US&back=IEZ
+VAL	VALARIS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=VAL.US&back=IEZ
+HP	HELMERICH & PAYNE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HP.US&back=IEZ
+PTEN	PATTERSON UTI ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PTEN.US&back=IEZ
+BKR	BAKER HUGHES CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=IEZ
+WHD	CACTUS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=WHD.US&back=IEZ
+RIG	TRANSOCEAN LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=RIG.US&back=IEZ
+LBRT	LIBERTY ENERGY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRT.US&back=IEZ
+NEX	NEXTIER OILFIELD SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEX.US&back=IEZ
+NBR	NABORS INDUSTRIES LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=NBR.US&back=IEZ
+SLCA	US SILICA HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SLCA.US&back=IEZ
+AROC	ARCHROCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AROC.US&back=IEZ
+OII	OCEANEERING INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OII.US&back=IEZ
+PUMP	PROPETRO HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PUMP.US&back=IEZ
+DRQ	DRIL QUIP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DRQ.US&back=IEZ
+CLB	CORE LABORATORIES NV	/etf/ea/ETZCW.djhtm?c=1&etfid=CLB.US&back=IEZ
+VTOL	BRISTOW GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VTOL.US&back=IEZ
+HLX	HELIX ENERGY SOLUTIONS GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HLX.US&back=IEZ
+RES	RPC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RES.US&back=IEZ
+BOOM	DMC GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BOOM.US&back=IEZ
+XPRO	EXPRO GROUP HOLDINGS NV	/etf/ea/ETZCW.djhtm?c=1&etfid=XPRO.US&back=IEZ
+	BLK CSH FND TREASURY SL AGENCY	
+	USD CASH	
+	CASH COLLATERAL USD SGAFT	
+	EMINI ENERGY SELECT SECTOR SEP 22	

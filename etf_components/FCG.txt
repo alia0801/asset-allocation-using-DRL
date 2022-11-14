@@ -1,0 +1,51 @@
+FCG
+DCP	DCP Midstream,LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP.US&back=FCG
+WES	Western Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=FCG
+OXY	Occidental Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=FCG
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=FCG
+HESM	Hess Midstream LP (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=FCG
+DVN	Devon Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=FCG
+PXD	Pioneer Natural Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=FCG
+EOG	EOG Resources,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=FCG
+HES	Hess Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=FCG
+FANG	Diamondback Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=FCG
+EQT	EQT Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=FCG
+CHK	Chesapeake Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=FCG
+CTRA	Coterra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=FCG
+OVV	Ovintiv Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=FCG
+MRO	Marathon Oil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=FCG
+AR	Antero Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=FCG
+APA	APA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=FCG
+RRC	Range Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=FCG
+MTDR	Matador Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=FCG
+PDCE	PDC Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=FCG
+SM	SM Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=FCG
+SWN	Southwestern Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=FCG
+MUR	Murphy Oil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MUR.US&back=FCG
+VET	Vermilion Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VET.US&back=FCG
+TELL	Tellurian Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TELL.US&back=FCG
+NFG	National Fuel Gas Company	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=FCG
+CPG	Crescent Point Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CPG.US&back=FCG
+KOS	Kosmos Energy Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=KOS.US&back=FCG
+CNX	CNX Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=FCG
+CPE	Callon Petroleum Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CPE.US&back=FCG
+	Centennial Resource Development,Inc (Class A)	
+CIVI	Civitas Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=FCG
+CHRD	Chord Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=FCG
+ERF	Enerplus Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ERF.US&back=FCG
+MGY	Magnolia Oil & Gas Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=FCG
+CRK	Comstock Resources,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=FCG
+LPI	Laredo Petroleum,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LPI.US&back=FCG
+NOG	Northern Oil and Gas,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOG.US&back=FCG
+GPOR	Gulfport Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GPOR.US&back=FCG
+TALO	Talos Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TALO.US&back=FCG
+SD	SandRidge Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SD.US&back=FCG
+ROCC	Ranger Oil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROCC.US&back=FCG
+WTI	W&T Offshore,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WTI.US&back=FCG
+ESTE	Earthstone Energy,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTE.US&back=FCG
+OBE	Obsidian Energy Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=OBE.US&back=FCG
+SBOW	SilverBow Resources,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SBOW.US&back=FCG
+CRGY	Crescent Energy Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CRGY.US&back=FCG
+	US Dollar	
+AMPY	Amplify Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AMPY.US&back=FCG
+REPX	Riley Exploration Permian,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REPX.US&back=FCG

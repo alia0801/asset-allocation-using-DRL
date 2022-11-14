@@ -1,0 +1,118 @@
+PCEF
+PDI	Pimco Dynamic Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=PDI.US&back=PCEF
+JPS	Nuveen Preferred & Income Securities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=JPS.US&back=PCEF
+EXG	Eaton Vance Tax-Managed Global Diversified Equity Income Fun	/etf/ea/ETZCW.djhtm?c=1&etfid=EXG.US&back=PCEF
+PDO	PIMCO Dynamic Income Opportunities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=PDO.US&back=PCEF
+NFJ	Virtus Dividend Interest & Premium Strategy Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=NFJ.US&back=PCEF
+DSL	DoubleLine Income Solutions Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=DSL.US&back=PCEF
+EVV	Eaton Vance Ltd Duration Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=EVV.US&back=PCEF
+BDJ	BlackRock Enhanced Equity Dividend Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BDJ.US&back=PCEF
+FPF	First Trust Intermediate Duration Preferred & Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FPF.US&back=PCEF
+HFRO	Highland Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=HFRO.US&back=PCEF
+BCX	BlackRock Resources & Commodities Strategy Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BCX.US&back=PCEF
+ETY	Eaton Vance Tax-Managed Diversified Equity Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=ETY.US&back=PCEF
+BTZ	BlackRock Credit Allocation Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BTZ.US&back=PCEF
+JQC	Nuveen Credit Strategies Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=JQC.US&back=PCEF
+HYT	BlackRock Corporate High Yield Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HYT.US&back=PCEF
+FAX	Aberdeen Asia-Pacific Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FAX.US&back=PCEF
+BXMX	Nuveen S&P 500 Buy-Write Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=BXMX.US&back=PCEF
+AWF	AllianceBernstein Global High Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AWF.US&back=PCEF
+HTD	John Hancock Tax-Advantaged Dividend Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=HTD.US&back=PCEF
+JPC	Nuveen Preferred & Income Opportunities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=JPC.US&back=PCEF
+ETV	Eaton Vance Tax-Managed Buy-Write Opportunities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=ETV.US&back=PCEF
+BBN	BlackRock Taxable Municipal Bond Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BBN.US&back=PCEF
+BOE	BlackRock Enhanced Global Dividend Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BOE.US&back=PCEF
+WIW	Western Asset Inflation-Linked Opportunities & Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=WIW.US&back=PCEF
+BST	Blackrock Science & Technology Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BST.US&back=PCEF
+VVR	Invesco Senior Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VVR.US&back=PCEF
+QQQX	Nuveen NASDAQ 100 Dynamic Overwrite Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=QQQX.US&back=PCEF
+EMD	Western Asset Emerging Markets Debt Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EMD.US&back=PCEF
+BGY	BlackRock Enhanced International Dividend Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BGY.US&back=PCEF
+CII	BlackRock Enhanced Capital and Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CII.US&back=PCEF
+ETW	Eaton Vance Tax Managed Global Buy Write Opportunities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=ETW.US&back=PCEF
+LDP	Cohen & Steers Limited Duration Preferred and Income Fund In	/etf/ea/ETZCW.djhtm?c=1&etfid=LDP.US&back=PCEF
+JFR	Nuveen Floating Rate Income Fund/Closed-end Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=JFR.US&back=PCEF
+FFC	Flaherty & Crumrine Preferred and Income Securities Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FFC.US&back=PCEF
+GHY	PGIM Global High Yield Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GHY.US&back=PCEF
+IGD	Voya Global Equity Dividend and Premium Opportunity Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=IGD.US&back=PCEF
+RA	Brookfield Real Assets Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RA.US&back=PCEF
+DSU	BlackRock Debt Strategies Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DSU.US&back=PCEF
+EOS	Eaton Vance Enhanced Equity Income Fund II	/etf/ea/ETZCW.djhtm?c=1&etfid=EOS.US&back=PCEF
+SDHY	PGIM Short Duration High Yield Opportunities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=SDHY.US&back=PCEF
+ISD	PGIM High Yield Bond Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ISD.US&back=PCEF
+BHK	BlackRock Core Bond Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BHK.US&back=PCEF
+BLW	BlackRock Limited Duration Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BLW.US&back=PCEF
+EAD	Allspring Income Opportunities	/etf/ea/ETZCW.djhtm?c=1&etfid=EAD.US&back=PCEF
+FSD	First Trust High Income Long/Short Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FSD.US&back=PCEF
+FRA	BlackRock Floating Rate Income Strategies Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FRA.US&back=PCEF
+HIO	Western Asset High Income Opportunity Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HIO.US&back=PCEF
+BGR	BlackRock Energy and Resources Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BGR.US&back=PCEF
+EOI	Eaton Vance Enhanced Equity Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=EOI.US&back=PCEF
+DIAX	Nuveen Dow 30sm Dynamic Overwrite Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=DIAX.US&back=PCEF
+BRW	Saba Capital Income & Opportunities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=BRW.US&back=PCEF
+NPCT	Nuveen Core Plus Impact Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=NPCT.US&back=PCEF
+PPT	Putnam Premier Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PPT.US&back=PCEF
+PDT	John Hancock Premium Dividend Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=PDT.US&back=PCEF
+PHK	PIMCO High Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=PHK.US&back=PCEF
+BME	BlackRock Health Sciences Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BME.US&back=PCEF
+BIT	BlackRock Multi-Sector Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BIT.US&back=PCEF
+EFT	Eaton Vance Floating-Rate Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=EFT.US&back=PCEF
+EDD	Morgan Stanley Emerging Markets Domestic Debt Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EDD.US&back=PCEF
+EFR	Eaton Vance Senior Floating-Rate Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=EFR.US&back=PCEF
+ARDC	Ares Dynamic Credit Allocation Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARDC.US&back=PCEF
+MIN	MFS Intermediate Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=MIN.US&back=PCEF
+PFN	PIMCO Income Strategy Fund II	/etf/ea/ETZCW.djhtm?c=1&etfid=PFN.US&back=PCEF
+GIM	Templeton Global Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=GIM.US&back=PCEF
+NBB	Nuveen Taxable Municipal Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=NBB.US&back=PCEF
+DFP	Flaherty & Crumrine Dynamic Preferred and Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DFP.US&back=PCEF
+BGH	Barings Global Short Duration High Yield Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=BGH.US&back=PCEF
+ETJ	Eaton Vance Risk-Managed Diversified Equity Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=ETJ.US&back=PCEF
+FCT	First Trust Senior Floating Rate Income Fund II	/etf/ea/ETZCW.djhtm?c=1&etfid=FCT.US&back=PCEF
+PCN	PIMCO Corporate & Income Strategy Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=PCN.US&back=PCEF
+HPS	John Hancock Preferred Income Fund III	/etf/ea/ETZCW.djhtm?c=1&etfid=HPS.US&back=PCEF
+FTF	Franklin Ltd Duration Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=FTF.US&back=PCEF
+JGH	Nuveen Global High Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=JGH.US&back=PCEF
+BGT	BlackRock Floating Rate Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BGT.US&back=PCEF
+MCR	MFS Charter Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=MCR.US&back=PCEF
+BKT	BlackRock Income Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BKT.US&back=PCEF
+MMT	MFS Multimarket Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=MMT.US&back=PCEF
+WIA	Western Asset Inflation - Linked Securities & Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=WIA.US&back=PCEF
+HPI	John Hancock Preferred Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=HPI.US&back=PCEF
+TEI	Templeton Emerging Markets Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=TEI.US&back=PCEF
+FFA	First Trust Enhanced Equity Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=FFA.US&back=PCEF
+TSI	TCW Strategic Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSI.US&back=PCEF
+PHT	Pioneer High Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PHT.US&back=PCEF
+GBAB	Guggenheim Taxable Municipal Bond & Investment Grade Debt Tr	/etf/ea/ETZCW.djhtm?c=1&etfid=GBAB.US&back=PCEF
+HPF	John Hancock Preferred Income Fund II	/etf/ea/ETZCW.djhtm?c=1&etfid=HPF.US&back=PCEF
+STK	Columbia Seligman Premium Technology Growth Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STK.US&back=PCEF
+DHY	Credit Suisse High Yield Bond Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=DHY.US&back=PCEF
+ETB	Eaton Vance Tax-Managed Buy-Write Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=ETB.US&back=PCEF
+DHF	BNY Mellon High Yield Strategies Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=DHF.US&back=PCEF
+HIX	Western Asset High Income Fund II Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HIX.US&back=PCEF
+IVH	Delaware Ivy High Income Opportunities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=IVH.US&back=PCEF
+PSF	Cohen & Steers Select Preferred and Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PSF.US&back=PCEF
+BGX	Blackstone Long-Short Credit Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=BGX.US&back=PCEF
+IDE	Voya Infrastructure Industrials and Materials Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=IDE.US&back=PCEF
+HYB	New America High Income Fund Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HYB.US&back=PCEF
+ERC	Allspring Multi-Sector Income	/etf/ea/ETZCW.djhtm?c=1&etfid=ERC.US&back=PCEF
+SPXX	Nuveen S&P 500 Dynamic Overwrite Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=SPXX.US&back=PCEF
+EHI	Western Asset Global High Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EHI.US&back=PCEF
+PIM	Putnam Master Intermediate Income Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PIM.US&back=PCEF
+IGA	Voya Global Advantage and Premium Opportunity Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=IGA.US&back=PCEF
+PFL	PIMCO Income Strategy Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=PFL.US&back=PCEF
+VBF	Invesco Bond Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=VBF.US&back=PCEF
+MSD	Morgan Stanley Emerging Markets Debt Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MSD.US&back=PCEF
+DBL	DoubleLine Opportunistic Credit Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=DBL.US&back=PCEF
+OPP	RiverNorth/DoubleLine Strategic Opportunity Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OPP.US&back=PCEF
+PHD	Pioneer Floating Rate Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PHD.US&back=PCEF
+FLC	Flaherty & Crumrine Total Return Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLC.US&back=PCEF
+NHS	Neuberger Berman High Yield Strategies Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NHS.US&back=PCEF
+JHS	John Hancock Income Securities Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=JHS.US&back=PCEF
+PCF	High Income Securities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=PCF.US&back=PCEF
+RCS	PIMCO Strategic Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RCS.US&back=PCEF
+VGI	Virtus Global Multi-Sector Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=VGI.US&back=PCEF
+CIK	Credit Suisse Asset Management Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CIK.US&back=PCEF
+EVG	Eaton Vance Short Duration Diversified Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=EVG.US&back=PCEF
+HEQ	John Hancock Hedged Equity & Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=HEQ.US&back=PCEF
+PFD	Flaherty & Crumrine Preferred and Income Fund Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFD.US&back=PCEF
+MCN	Madison Covered Call & Equity Strategy Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=MCN.US&back=PCEF

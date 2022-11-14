@@ -1,0 +1,21 @@
+VCR
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=VCR
+TSLA	Tesla Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=VCR
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=VCR
+MCD	McDonald's Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=VCR
+NKE	NIKE Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=VCR
+LOW	Lowe's Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=VCR
+SBUX	Starbucks Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=VCR
+TGT	Target Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=VCR
+BKNG	Booking Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=VCR
+TJX	TJX Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=VCR
+F	Ford Motor Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=VCR
+DG	Dollar General Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=VCR
+GM	General Motors Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=VCR
+ORLY	O'Reilly Automotive Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=VCR
+CMG	Chipotle Mexican Grill Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMG.US&back=VCR
+AZO	AutoZone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=VCR
+MAR	Marriott International Inc./MD Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=VCR
+ABNB	Airbnb Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=VCR
+LULU	Lululemon Athletica Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=VCR
+HLT	Hilton Worldwide Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HLT.US&back=VCR

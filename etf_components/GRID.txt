@@ -1,0 +1,79 @@
+GRID
+JCI	Johnson Controls International Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JCI.US&back=GRID
+ETN	Eaton Corporation Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=GRID
+	ABB Ltd	
+APTV	Aptiv Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=GRID
+	Schneider Electric SE	
+ENPH	Enphase Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=GRID
+PWR	Quanta Services,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=GRID
+SEDG	SolarEdge Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=GRID
+006400.KS&back=GRID	Samsung SDI Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=006400.KS&back=GRID
+	Prysmian SpA	
+	TERNA - Rete Elettrica Nazionale SpA	
+	Red Electrica Corporacion S.A.	
+NVT	nVent Electric Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=NVT.US&back=GRID
+	Elia Group SA/NV	
+TSLA	Tesla,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=GRID
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=GRID
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=GRID
+HON	Honeywell International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=GRID
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=GRID
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=GRID
+AEIS	Advanced Energy Industries,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEIS.US&back=GRID
+	Alfen Beheer BV	
+	NKT A/S	
+ADI	Analog Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=GRID
+	Siemens AG	
+GE	General Electric Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=GRID
+FLNC	Fluence Energy,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=FLNC.US&back=GRID
+ITRI	Itron,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITRI.US&back=GRID
+EMR	Emerson Electric Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=GRID
+6501.JP&back=GRID	Hitachi,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6501.JP&back=GRID
+	Landis+Gyr Group AG	
+MYRG	MYR Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MYRG.US&back=GRID
+	National Grid Plc	
+NXPI	NXP Semiconductors N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=GRID
+	SMA Solar Technology AG	
+	REN - Redes Energeticas Nacionais,SGPS,S.A.	
+	Enel SpA	
+1513.TW&back=GRID	Chung-Hsin Electric and Machinery Manufacturing Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=1513.TW&back=GRID
+	Infineon Technologies AG	
+1211.HK&back=GRID	BYD Company Limited (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=1211.HK&back=GRID
+6508.JP&back=GRID	Meidensha Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6508.JP&back=GRID
+	Engie S.A.	
+6641.JP&back=GRID	Nissin Electric Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6641.JP&back=GRID
+	Fortis Inc.	
+6752.JP&back=GRID	Panasonic Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6752.JP&back=GRID
+	SSE Plc	
+	E.ON SE	
+TRMB	Trimble Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=GRID
+AES	The AES Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=GRID
+6502.JP&back=GRID	Toshiba Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6502.JP&back=GRID
+GNRC	Generac Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GNRC.US&back=GRID
+HUBB	Hubbell Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=GRID
+298040.KS&back=GRID	Hyosung Heavy Industries Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=298040.KS&back=GRID
+6701.JP&back=GRID	NEC Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6701.JP&back=GRID
+	US Dollar	
+WLDN	Willdan Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WLDN.US&back=GRID
+PLPC	Preformed Line Products Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PLPC.US&back=GRID
+6644.JP&back=GRID	Osaki Electric Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6644.JP&back=GRID
+6617.JP&back=GRID	Takaoka Toko Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6617.JP&back=GRID
+3393.HK&back=GRID	Wasion Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=3393.HK&back=GRID
+2395.TW&back=GRID	Advantech Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2395.TW&back=GRID
+AMSC	American Superconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AMSC.US&back=GRID
+LFUS	Littelfuse,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LFUS.US&back=GRID
+VMI	Valmont Industries,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VMI.US&back=GRID
+WCC	WESCO International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC.US&back=GRID
+MTZ	MasTec,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTZ.US&back=GRID
+5333.JP&back=GRID	NGK Insulators,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=5333.JP&back=GRID
+	SPIE S.A.	
+ACA	Arcosa,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACA.US&back=GRID
+BDC	Belden Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BDC.US&back=GRID
+ENS	EnerSys	/etf/ea/ETZCW.djhtm?c=1&etfid=ENS.US&back=GRID
+	Nexans SA	
+STM	STMicroelectronics N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=STM.US&back=GRID
+	Stella-Jones Inc.	
+ESE	ESCO Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESE.US&back=GRID
+6674.JP&back=GRID	GS Yuasa Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6674.JP&back=GRID
+DGII	Digi International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DGII.US&back=GRID
+AZZ	AZZ Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZZ.US&back=GRID

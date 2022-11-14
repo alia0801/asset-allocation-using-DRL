@@ -1,0 +1,44 @@
+QTEC
+TEAM	Atlassian Corporation Plc (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TEAM.US&back=QTEC
+DDOG	Datadog,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=QTEC
+CDNS	Cadence Design Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=QTEC
+ADSK	Autodesk,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=QTEC
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=QTEC
+WDAY	Workday,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=QTEC
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=QTEC
+SNPS	Synopsys,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=QTEC
+PANW	Palo Alto Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=QTEC
+VRSN	VeriSign,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=QTEC
+MCHP	Microchip Technology Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=QTEC
+CRWD	CrowdStrike Holdings,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=QTEC
+KLAC	KLA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=QTEC
+OKTA	Okta,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=QTEC
+ZS	Zscaler,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=QTEC
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=QTEC
+QCOM	QUALCOMM Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=QTEC
+SWKS	Skyworks Solutions,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=QTEC
+ANSS	ANSYS,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=QTEC
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=QTEC
+ADI	Analog Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=QTEC
+AMAT	Applied Materials,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=QTEC
+LRCX	Lam Research Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=QTEC
+NXPI	NXP Semiconductors N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=QTEC
+AMD	Advanced Micro Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=QTEC
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=QTEC
+ASML	ASML Holding N.V. (New York Registry Shares)	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=QTEC
+BIDU	Baidu,Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=BIDU.US&back=QTEC
+MRVL	Marvell Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=QTEC
+MU	Micron Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=QTEC
+SPLK	Splunk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=QTEC
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=QTEC
+META	Meta Platforms Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=QTEC
+DOCU	DocuSign,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCU.US&back=QTEC
+CTSH	Cognizant Technology Solutions Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=QTEC
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=QTEC
+FTNT	Fortinet,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=QTEC
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=QTEC
+MTCH	Match Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTCH.US&back=QTEC
+ZM	Zoom Video Communications,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=QTEC
+GOOG	Alphabet Inc. (Class C)	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=QTEC
+GOOGL	Alphabet Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=QTEC
+	US Dollar	

@@ -1,0 +1,24 @@
+AMZA
+ET	Energy Transfer LP	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=AMZA
+WES	Western Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=AMZA
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=AMZA
+EPD	Enterprise Products Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=AMZA
+MMP	Magellan Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=AMZA
+DCP	DCP Midstream LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP.US&back=AMZA
+PAA	Plains All American Pipeline LP	/etf/ea/ETZCW.djhtm?c=1&etfid=PAA.US&back=AMZA
+CEQP	Crestwood Equity Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=AMZA
+NS	NuStar Energy LP	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=AMZA
+HEP	Holly Energy Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=AMZA
+ENLC	EnLink Midstream LLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENLC.US&back=AMZA
+CQP	Cheniere Energy Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CQP.US&back=AMZA
+HESM	Hess Midstream LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=AMZA
+CEQP	Crestwood Equity Partners LP 9.250%	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=AMZA
+	BNY MELLON CASH RESERVE USD	
+GEL	Genesis Energy LP	/etf/ea/ETZCW.djhtm?c=1&etfid=GEL.US&back=AMZA
+TRP	TC Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=AMZA
+WMB	Williams Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=AMZA
+MPC	Marathon Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=AMZA
+DKL	Delek Logistics Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DKL.US&back=AMZA
+ENB	Enbridge Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=AMZA
+KMI	Kinder Morgan Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=AMZA
+LNG	Cheniere Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=AMZA

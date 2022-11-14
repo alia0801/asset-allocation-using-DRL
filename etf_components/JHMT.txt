@@ -1,0 +1,11 @@
+JHMT
+AAPL	Apple,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=JHMT
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=JHMT
+NVDA	NVIDIA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=JHMT
+AVGO	Broadcom,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=JHMT
+TXN	Texas Instruments,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=JHMT
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=JHMT
+QCOM	QUALCOMM,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=JHMT
+IBM	International Business Machines Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=JHMT
+ADBE	Adobe,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=JHMT
+INTC	Intel Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=JHMT

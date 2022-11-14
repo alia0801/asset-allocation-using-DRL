@@ -1,0 +1,23 @@
+PDBC
+	Invesco Government & Agency Portfolio	
+	United States Treasury Bill	
+	United States Treasury Bill	
+	Invesco US Dollar Liquidity Portfolio	
+	United States Treasury Bill	
+	United States Treasury Bill	
+	NYMEX NY Harbor ULSD Futures	
+	NYMEX Reformulated Gasoline Blendstock for Oxygen Blending R	
+	ICE Brent Crude Oil Future	
+	NYMEX Light Sweet Crude Oil Future	
+	United States Treasury Bill	
+	Cash/Receivables/Payables	
+	NYMEX Henry Hub Natural Gas Futures	
+	COMEX Gold 100 Troy Ounces Future	
+	CBOT Corn Future	
+	CBOT Wheat Future	
+	CBOT Soybean Future	
+	NYBOT CSC Number 11 World Sugar Future	
+	LME Zinc Future	
+	LME Primary Aluminum Future	
+	LME Copper Future	
+	COMEX Silver Future	

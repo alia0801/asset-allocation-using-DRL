@@ -1,0 +1,28 @@
+MORT
+NLY	Annaly Capital Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=MORT
+STWD	Starwood Property Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STWD.US&back=MORT
+AGNC	Agnc Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=MORT
+BXMT	Blackstone Mortgage Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BXMT.US&back=MORT
+HASI	Hannon Armstrong Sustainable Infrastruc	/etf/ea/ETZCW.djhtm?c=1&etfid=HASI.US&back=MORT
+RITM	Rithm Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=MORT
+ABR	Arbor Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABR.US&back=MORT
+CIM	Chimera Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CIM.US&back=MORT
+TWO	Two Harbors Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TWO.US&back=MORT
+LADR	Ladder Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LADR.US&back=MORT
+ARI	Apollo Commercial Real Estate Finance I	/etf/ea/ETZCW.djhtm?c=1&etfid=ARI.US&back=MORT
+RC	Ready Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RC.US&back=MORT
+FBRT	Franklin Bsp Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FBRT.US&back=MORT
+PMT	Pennymac Mortgage Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PMT.US&back=MORT
+NYMT	New York Mortgage Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NYMT.US&back=MORT
+MFA	Mfa Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MFA.US&back=MORT
+BRMK	Broadmark Realty Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRMK.US&back=MORT
+EFC	Ellington Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EFC.US&back=MORT
+RWT	Redwood Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RWT.US&back=MORT
+DX	Dynex Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DX.US&back=MORT
+ACRE	Ares Commercial Real Estate Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ACRE.US&back=MORT
+ARR	Armour Residential Reit Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARR.US&back=MORT
+KREF	Kkr Real Estate Finance Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KREF.US&back=MORT
+ORC	Orchid Island Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORC.US&back=MORT
+IVR	Invesco Mortgage Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IVR.US&back=MORT
+BRSP	Brightspire Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRSP.US&back=MORT
+	Other/Cash	

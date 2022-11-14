@@ -1,0 +1,100 @@
+SMDV
+CHCO	CITY HOLDING CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CHCO.US&back=SMDV
+IBOC	INTERNATIONAL BANCSHARES CRP	/etf/ea/ETZCW.djhtm?c=1&etfid=IBOC.US&back=SMDV
+LMAT	LEMAITRE VASCULAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LMAT.US&back=SMDV
+FIBK	FIRST INTERSTATE BANCSYS-A	/etf/ea/ETZCW.djhtm?c=1&etfid=FIBK.US&back=SMDV
+SSB	SOUTHSTATE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SSB.US&back=SMDV
+ASB	ASSOCIATED BANC-CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ASB.US&back=SMDV
+HMN	HORACE MANN EDUCATORS	/etf/ea/ETZCW.djhtm?c=1&etfid=HMN.US&back=SMDV
+MGRC	MCGRATH RENTCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MGRC.US&back=SMDV
+TMP	TOMPKINS FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TMP.US&back=SMDV
+SJI	SOUTH JERSEY INDUSTRIES	/etf/ea/ETZCW.djhtm?c=1&etfid=SJI.US&back=SMDV
+AIT	APPLIED INDUSTRIAL TECH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AIT.US&back=SMDV
+GBCI	GLACIER BANCORP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GBCI.US&back=SMDV
+CNO	CNO FINANCIAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CNO.US&back=SMDV
+BMI	BADGER METER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BMI.US&back=SMDV
+FULT	FULTON FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FULT.US&back=SMDV
+LBAI	LAKELAND BANCORP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LBAI.US&back=SMDV
+UBSI	UNITED BANKSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UBSI.US&back=SMDV
+THFF	FIRST FINANCIAL CORP/INDIANA	/etf/ea/ETZCW.djhtm?c=1&etfid=THFF.US&back=SMDV
+WSBC	WESBANCO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSBC.US&back=SMDV
+SPTN	SPARTANNASH CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTN.US&back=SMDV
+FRME	FIRST MERCHANTS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FRME.US&back=SMDV
+CCOI	COGENT COMMUNICATIONS HOLDIN	/etf/ea/ETZCW.djhtm?c=1&etfid=CCOI.US&back=SMDV
+AMSF	AMERISAFE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMSF.US&back=SMDV
+PEBO	PEOPLES BANCORP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEBO.US&back=SMDV
+HOMB	HOME BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOMB.US&back=SMDV
+INDB	INDEPENDENT BANK CORP/MA	/etf/ea/ETZCW.djhtm?c=1&etfid=INDB.US&back=SMDV
+PLOW	DOUGLAS DYNAMICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PLOW.US&back=SMDV
+PNM	PNM RESOURCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNM.US&back=SMDV
+MTRN	MATERION CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MTRN.US&back=SMDV
+NWBI	NORTHWEST BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NWBI.US&back=SMDV
+APOG	APOGEE ENTERPRISES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=APOG.US&back=SMDV
+ENSG	ENSIGN GROUP INC/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=ENSG.US&back=SMDV
+EXPO	EXPONENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPO.US&back=SMDV
+FELE	FRANKLIN ELECTRIC CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FELE.US&back=SMDV
+FUL	H.B. FULLER CO.	/etf/ea/ETZCW.djhtm?c=1&etfid=FUL.US&back=SMDV
+ALG	ALAMO GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALG.US&back=SMDV
+AUB	ATLANTIC UNION BANKSHARES CO	/etf/ea/ETZCW.djhtm?c=1&etfid=AUB.US&back=SMDV
+PETS	PETMED EXPRESS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PETS.US&back=SMDV
+POWI	POWER INTEGRATIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=POWI.US&back=SMDV
+SBSI	SOUTHSIDE BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SBSI.US&back=SMDV
+SXI	STANDEX INTERNATIONAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SXI.US&back=SMDV
+TR	TOOTSIE ROLL INDS	/etf/ea/ETZCW.djhtm?c=1&etfid=TR.US&back=SMDV
+STAG	STAG INDUSTRIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STAG.US&back=SMDV
+SFNC	SIMMONS FIRST NATL CORP-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=SFNC.US&back=SMDV
+WDFC	WD-40 CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WDFC.US&back=SMDV
+NSP	INSPERITY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NSP.US&back=SMDV
+KAI	KADANT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KAI.US&back=SMDV
+AWR	AMERICAN STATES WATER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=AWR.US&back=SMDV
+BCPC	BALCHEM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BCPC.US&back=SMDV
+ATRI	ATRION CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=ATRI.US&back=SMDV
+GFF	GRIFFON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GFF.US&back=SMDV
+CBU	COMMUNITY BANK SYSTEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CBU.US&back=SMDV
+NWE	NORTHWESTERN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NWE.US&back=SMDV
+SASR	SANDY SPRING BANCORP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SASR.US&back=SMDV
+WASH	WASHINGTON TRUST BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WASH.US&back=SMDV
+WTS	WATTS WATER TECHNOLOGIES-A	/etf/ea/ETZCW.djhtm?c=1&etfid=WTS.US&back=SMDV
+SCL	STEPAN CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SCL.US&back=SMDV
+NWN	NORTHWEST NATURAL HOLDING CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NWN.US&back=SMDV
+CPK	CHESAPEAKE UTILITIES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CPK.US&back=SMDV
+AGM	FEDERAL AGRIC MTG CORP-CL C	/etf/ea/ETZCW.djhtm?c=1&etfid=AGM.US&back=SMDV
+ADC	AGREE REALTY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ADC.US&back=SMDV
+BRC	BRADY CORPORATION - CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=BRC.US&back=SMDV
+LNN	LINDSAY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LNN.US&back=SMDV
+UVV	UNIVERSAL CORP/VA	/etf/ea/ETZCW.djhtm?c=1&etfid=UVV.US&back=SMDV
+SJW	SJW GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=SJW.US&back=SMDV
+SR	SPIRE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SR.US&back=SMDV
+CWT	CALIFORNIA WATER SERVICE GRP	/etf/ea/ETZCW.djhtm?c=1&etfid=CWT.US&back=SMDV
+HI	HILLENBRAND INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HI.US&back=SMDV
+GATX	GATX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GATX.US&back=SMDV
+AVA	AVISTA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AVA.US&back=SMDV
+BKH	BLACK HILLS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BKH.US&back=SMDV
+MATW	MATTHEWS INTL CORP-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MATW.US&back=SMDV
+LANC	LANCASTER COLONY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LANC.US&back=SMDV
+TRN	TRINITY INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRN.US&back=SMDV
+SXT	SENSIENT TECHNOLOGIES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SXT.US&back=SMDV
+SWX	SOUTHWEST GAS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWX.US&back=SMDV
+JJSF	J & J SNACK FOODS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=JJSF.US&back=SMDV
+MCY	MERCURY GENERAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MCY.US&back=SMDV
+KALU	KAISER ALUMINUM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KALU.US&back=SMDV
+KW	KENNEDY-WILSON HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KW.US&back=SMDV
+CNS	COHEN & STEERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CNS.US&back=SMDV
+HCSG	HEALTHCARE SERVICES GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=HCSG.US&back=SMDV
+NJR	NEW JERSEY RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NJR.US&back=SMDV
+MSEX	MIDDLESEX WATER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=MSEX.US&back=SMDV
+TRNO	TERRENO REALTY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRNO.US&back=SMDV
+UHT	UNIVERSAL HEALTH RLTY INCOME	/etf/ea/ETZCW.djhtm?c=1&etfid=UHT.US&back=SMDV
+TDS	TELEPHONE AND DATA SYSTEMS	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS.US&back=SMDV
+HNI	HNI CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HNI.US&back=SMDV
+ABM	ABM INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABM.US&back=SMDV
+ALE	ALLETE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALE.US&back=SMDV
+KWR	QUAKER CHEMICAL CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=KWR.US&back=SMDV
+POR	PORTLAND GENERAL ELECTRIC CO	/etf/ea/ETZCW.djhtm?c=1&etfid=POR.US&back=SMDV
+ANDE	ANDERSONS INC/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=ANDE.US&back=SMDV
+NUS	NU SKIN ENTERPRISES INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=NUS.US&back=SMDV
+WLY	WILEY (JOHN) & SONS-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=WLY.US&back=SMDV
+ABR	ARBOR REALTY TRUST INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABR.US&back=SMDV
+WOR	WORTHINGTON INDUSTRIES	/etf/ea/ETZCW.djhtm?c=1&etfid=WOR.US&back=SMDV
+CVGW	CALAVO GROWERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CVGW.US&back=SMDV
+AVNT	AVIENT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AVNT.US&back=SMDV

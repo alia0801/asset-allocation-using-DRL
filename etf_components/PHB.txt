@@ -1,0 +1,157 @@
+PHB
+	Centene Corp 4.62 12/15/2029	
+	United Airlines Holdings Inc 4.88 01/15/2025	
+	Ford Motor Credit Co LLC 3.38 11/13/2025	
+	Ally Financial Inc 5.75 11/20/2025	
+	Ford Motor Co 3.25 02/12/2032	
+	Sprint Corp 7.88 09/15/2023	
+	Charter Communications Operating LLC / Charter Communication 4.91 07/23/2025	
+	Sprint Capital Corp 6.88 11/15/2028	
+	TransDigm Inc 5.5 11/15/2027	
+	DPL Inc 4.12 07/01/2025	
+	CCO Holdings LLC / CCO Holdings Capital Corp 4.75 03/01/2030	
+	Seagate HDD Cayman 4.75 01/01/2025	
+	PG&E Corp 5.25 07/01/2030	
+	United Rentals North America Inc 4.88 01/15/2028	
+	Cheniere Energy Inc 4.62 10/15/2028	
+	Starwood Property Trust Inc 4.75 03/15/2025	
+	Bath & Body Works Inc 5.25 02/01/2028	
+	Yum! Brands Inc 3.62 03/15/2031	
+	AECOM 5.12 03/15/2027	
+	Occidental Petroleum Corp 5.55 03/15/2026	
+	Penske Automotive Group Inc 3.75 06/15/2029	
+	Lumen Technologies Inc 7.5 04/01/2024	
+	Berry Global Inc 1.57 01/15/2026	
+	Xerox Corp 4.62 03/15/2023	
+	Las Vegas Sands Corp 3.2 08/08/2024	
+	Occidental Petroleum Corp 6.62 09/01/2030	
+	Delta Air Lines Inc 7.38 01/15/2026	
+	NRG Energy Inc 6.62 01/15/2027	
+	Delta Air Lines Inc 4.38 04/19/2028	
+	AmeriGas Partners LP / AmeriGas Finance Corp 5.88 08/20/2026	
+	Lumen Technologies Inc 6.88 01/15/2028	
+	Las Vegas Sands Corp 3.9 08/08/2029	
+	Apache Corp 4.25 01/15/2030	
+	Hilton Domestic Operating Co Inc 4.88 01/15/2030	
+	Murphy Oil USA Inc 4.75 09/15/2029	
+	United States Steel Corp 6.88 03/01/2029	
+	Lamar Media Corp 3.75 02/15/2028	
+	FirstEnergy Corp 7.38 11/15/2031	
+	FirstEnergy Corp 4.4 07/15/2027	
+	Amkor Technology Inc 6.62 09/15/2027	
+	Chemours Co/The 5.38 05/15/2027	
+	Service Corp International/US 5.12 06/01/2029	
+	Royal Caribbean Cruises Ltd 3.7 03/15/2028	
+	SLM Corp 4.2 10/29/2025	
+	Olin Corp 5.62 08/01/2029	
+	Freeport-McMoRan Inc 3.88 03/15/2023	
+	Western Digital Corp 4.75 02/15/2026	
+	Invesco Government & Agency Portfolio	
+	MPT Operating Partnership LP / MPT Finance Corp 5 10/15/2027	
+	Tenet Healthcare Corp 4.88 01/01/2026	
+	Netflix Inc 4.38 11/15/2026	
+	Encompass Health Corp 4.75 02/01/2030	
+	GXO Logistics Inc 1.65 07/15/2026	
+	CoreCivic Inc 8.25 04/15/2026	
+	Dana Inc 5.62 06/15/2028	
+	Netflix Inc 4.88 04/15/2028	
+	Qorvo Inc 4.38 10/15/2029	
+	SBA Communications Corp 3.88 02/15/2027	
+	Tenet Healthcare Corp 4.25 06/01/2029	
+	MGM Resorts International 6 03/15/2023	
+	American Axle & Manufacturing Inc 5 10/01/2029	
+	Asbury Automotive Group Inc 4.75 03/01/2030	
+	Freeport-McMoRan Inc 4.62 08/01/2030	
+	Silgan Holdings Inc 4.12 02/01/2028	
+	Western Digital Corp 3.1 02/01/2032	
+	Travel + Leisure Co 6 04/01/2027	
+	Trinity Industries Inc 4.55 10/01/2024	
+	Scotts Miracle-Gro Co/The 4 04/01/2031	
+	MGM Resorts International 4.75 10/15/2028	
+	DISH DBS Corp 7.75 07/01/2026	
+	Under Armour Inc 3.25 06/15/2026	
+	Elanco Animal Health Inc 6.4 08/28/2028	
+	Meritage Homes Corp 6 06/01/2025	
+	Kohl's Corp 3.38 05/01/2031	
+	QVC Inc 4.45 02/15/2025	
+	Navient Corp 6.12 03/25/2024	
+	Avient Corp 5.25 03/15/2023	
+	Goodyear Tire & Rubber Co/The 5 05/31/2026	
+	Teleflex Inc 4.62 11/15/2027	
+	Hughes Satellite Systems Corp 6.62 08/01/2026	
+	Spectrum Brands Inc 5.75 07/15/2025	
+	DISH DBS Corp 5.12 06/01/2029	
+	Goodyear Tire & Rubber Co/The 5 07/15/2029	
+	CDW LLC / CDW Finance Corp 2.67 12/01/2026	
+	Crown Americas LLC 5.25 04/01/2030	
+	RHP Hotel Properties LP / RHP Finance Corp 4.75 10/15/2027	
+	Crown Americas LLC / Crown Americas Capital Corp V 4.25 09/30/2026	
+	Radian Group Inc 4.88 03/15/2027	
+	Nordstrom Inc 4 03/15/2027	
+	Ball Corp 5.25 07/01/2025	
+	Ball Corp 2.88 08/15/2030	
+	CDW LLC / CDW Finance Corp 3.57 12/01/2031	
+	Hexcel Corp 4.2 02/15/2027	
+	Newell Brands Inc 6.62 09/15/2029	
+	MGIC Investment Corp 5.25 08/15/2028	
+	Navient Corp 5.5 03/15/2029	
+	Newell Brands Inc 4.45 04/01/2026	
+	QVC Inc 4.38 09/01/2028	
+	Fluor Corp 3.5 12/15/2024	
+	KB Home 4 06/15/2031	
+	Steelcase Inc 5.12 01/18/2029	
+	OneMain Finance Corp 7.12 03/15/2026	
+	Newmark Group Inc 6.12 11/15/2023	
+	Nordstrom Inc 4.38 04/01/2030	
+	SM Energy Co 6.5 07/15/2028	
+	Kennedy-Wilson Inc 4.75 03/01/2029	
+	Fluor Corp 4.25 09/15/2028	
+	Carpenter Technology Corp 6.38 07/15/2028	
+	Howmet Aerospace Inc 5.12 10/01/2024	
+	OneMain Finance Corp 6.62 01/15/2028	
+	Skyworks Solutions Inc 1.8 06/01/2026	
+	MDC Holdings Inc 2.5 01/15/2031	
+	M/I Homes Inc 4.95 02/01/2028	
+	Patterson-UTI Energy Inc 3.95 02/01/2028	
+	ATI Inc 5.88 12/01/2027	
+	Century Communities Inc 6.75 06/01/2027	
+	Howmet Aerospace Inc 3 01/15/2029	
+	Service Properties Trust 4.35 10/01/2024	
+	Oceaneering International Inc 4.65 11/15/2024	
+	Skyworks Solutions Inc 3 06/01/2031	
+	Westinghouse Air Brake Technologies Corp 4.4 03/15/2024	
+	Churchill Downs Inc 5.5 04/01/2027	
+	Griffon Corp 5.75 03/01/2028	
+	GLP Capital LP / GLP Financing II Inc 5.38 04/15/2026	
+	iStar Inc 4.75 10/01/2024	
+	Murphy Oil Corp 5.75 08/15/2025	
+	Service Properties Trust 5.5 12/15/2027	
+	VICI Properties LP 4.38 05/15/2025	
+	Westinghouse Air Brake Technologies Corp 4.95 09/15/2028	
+	Murphy Oil Corp 5.88 12/01/2027	
+	GLP Capital LP / GLP Financing II Inc 5.3 01/15/2029	
+	EQM Midstream Partners LP 4.12 12/01/2026	
+	VICI Properties LP 5.12 05/15/2032	
+	Twilio Inc 3.62 03/15/2029	
+	Toll Brothers Finance Corp 4.88 03/15/2027	
+	EQM Midstream Partners LP 5.5 07/15/2028	
+	AMC Networks Inc 5 04/01/2024	
+	Toll Brothers Finance Corp 3.8 11/01/2029	
+	Hyatt Hotels Corp 5.62 04/23/2025	
+	Vontier Corp 1.8 04/01/2026	
+	Hyatt Hotels Corp 6 04/23/2030	
+	EQT Corp 7 02/01/2030	
+	AMC Networks Inc 4.25 02/15/2029	
+	EQT Corp 3.9 10/01/2027	
+	TRI Pointe Group Inc / TRI Pointe Homes Inc 5.88 06/15/2024	
+	Sabra Health Care LP 5.12 08/15/2026	
+	Vontier Corp 2.95 04/01/2031	
+	Tri Pointe Homes Inc 5.7 06/15/2028	
+	Sabra Health Care LP 3.2 12/01/2031	
+	Southwestern Energy Co 5.7 01/23/2025	
+	Hillenbrand Inc 5 09/15/2026	
+	Hillenbrand Inc 3.75 03/01/2031	
+	Crowdstrike Holdings Inc 3 02/15/2029	
+	Southwestern Energy Co 5.38 03/15/2030	
+	Range Resources Corp 4.88 05/15/2025	
+	Range Resources Corp 8.25 01/15/2029	

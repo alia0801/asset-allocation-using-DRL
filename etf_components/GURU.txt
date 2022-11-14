@@ -1,0 +1,79 @@
+GURU
+JD	JD.COM INC-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=JD.US&back=GURU
+TPL	TEXAS PACIFIC LAND CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=GURU
+GPOR	GULFPORT ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GPOR.US&back=GURU
+SNOW	SNOWFLAKE INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=GURU
+PANW	PALO ALTO NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=GURU
+CHK	CHESAPEAKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=GURU
+BABA	ALIBABA GRP-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BABA.US&back=GURU
+BILI	BILIBILI INC-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BILI.US&back=GURU
+RPTX	REPARE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RPTX.US&back=GURU
+UTHR	UNITED THERAPEUTICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=GURU
+ESTC	ELASTIC NV	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTC.US&back=GURU
+TMUS	T-MOBILE US INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=GURU
+CI	CIGNA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=GURU
+FHN	FIRST HORIZON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN.US&back=GURU
+HUM	HUMANA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=GURU
+POST	POST HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=GURU
+ACGL	ARCH CAPITAL GROUP LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGL.US&back=GURU
+ATVI	ACTIVISION BLIZZARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=GURU
+LAD	LITHIA MOTORS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LAD.US&back=GURU
+S	SENTINELONE INC -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=S.US&back=GURU
+GDS	GDS HOLDINGS LTD - ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=GDS.US&back=GURU
+NICE	NICE LTD - SPON ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NICE.US&back=GURU
+WFC	WELLS FARGO & CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=GURU
+FOLD	AMICUS THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FOLD.US&back=GURU
+BHC	BAUSCH HEALTH COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BHC.US&back=GURU
+IEP	ICAHN ENTERPRISES LP	/etf/ea/ETZCW.djhtm?c=1&etfid=IEP.US&back=GURU
+MDLZ	MONDELEZ INTER-A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=GURU
+ALL	ALLSTATE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=GURU
+CP	CANADIAN PACIFIC	/etf/ea/ETZCW.djhtm?c=1&etfid=CP.US&back=GURU
+DDOG	DATADOG INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=GURU
+NYT	NEW YORK TIMES CO-A	/etf/ea/ETZCW.djhtm?c=1&etfid=NYT.US&back=GURU
+TSM	TAIWAN SEMIC-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=GURU
+V	VISA INC-CLASS A SHARES	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=GURU
+HWM	HOWMET AEROSPACE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=GURU
+FISV	FISERV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=GURU
+CHDN	CHURCHILL DOWNS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHDN.US&back=GURU
+AMT	AMERICAN TOWER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=GURU
+ASND	ASCENDIS PHARMA A/S - ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ASND.US&back=GURU
+AAPL	APPLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=GURU
+GDDY	GODADDY INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GDDY.US&back=GURU
+LBTYK	LIBERTY GLOBAL PLC- C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBTYK.US&back=GURU
+LOW	LOWE'S COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=GURU
+PLD	PROLOGIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=GURU
+SPGI	S&P GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=GURU
+SGEN	SEAGEN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=GURU
+SHW	SHERWIN-WILLIAMS CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=GURU
+NEWR	NEW RELIC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWR.US&back=GURU
+MGM	MGM RESORTS INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=MGM.US&back=GURU
+MSFT	MICROSOFT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=GURU
+ESI	ELEMENT SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ESI.US&back=GURU
+FERG	FERGUSON PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=FERG.US&back=GURU
+FAF	FIRST AMERICAN FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=FAF.US&back=GURU
+ENVX	ENOVIX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ENVX.US&back=GURU
+MTD	METTLER-TOLEDO	/etf/ea/ETZCW.djhtm?c=1&etfid=MTD.US&back=GURU
+TDG	TRANSDIGM GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=GURU
+OTIS	OTIS WORLDWIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=GURU
+IFF	INTL FLAVORS & FRAGRANCES	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=GURU
+GOOG	ALPHABET INC-CL C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=GURU
+BERY	BERRY GLOBAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BERY.US&back=GURU
+UBER	UBER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=GURU
+FIS	FIDELITY NATIONA	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=GURU
+HD	HOME DEPOT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=GURU
+KKR	KKR & CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KKR.US&back=GURU
+PEGA	PEGASYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEGA.US&back=GURU
+THC	TENET HEALTHCARE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=THC.US&back=GURU
+EXPE	EXPEDIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=GURU
+AMZN	AMAZON.COM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=GURU
+Z	ZILLOW GROUP INC - C	/etf/ea/ETZCW.djhtm?c=1&etfid=Z.US&back=GURU
+VTRS	VIATRIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=GURU
+RCKT	ROCKET PHARMACEU	/etf/ea/ETZCW.djhtm?c=1&etfid=RCKT.US&back=GURU
+CAR	AVIS BUDGET GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAR.US&back=GURU
+CHTR	CHARTER COMMUN-A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=GURU
+LBRDK	LIBERTY BROADBAND-C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDK.US&back=GURU
+RIVN	RIVIAN AUTOMOTIVE INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=RIVN.US&back=GURU
+FND	FLOOR & DECOR-A	/etf/ea/ETZCW.djhtm?c=1&etfid=FND.US&back=GURU
+FATE	FATE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FATE.US&back=GURU
+U	UNITY SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=U.US&back=GURU
+	CASH	

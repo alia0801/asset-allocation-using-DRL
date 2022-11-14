@@ -1,0 +1,344 @@
+EMLC
+	Brazil Letras Do Tesouro Nacional 0 01/01/2024	
+	Brazil Letras Do Tesouro Nacional 0 07/01/2023	
+	Philippine Government International Bon 6.25 01/14/2036	
+	Brazil Notas Do Tesouro Nacional Serie 10 01/01/2025	
+	Brazil Notas Do Tesouro Nacional Serie 10 01/01/2027	
+	Republic Of South Africa Government Bon 8 01/31/2030	
+	Republic Of South Africa Government Bon 8.75 02/28/2048	
+	Brazil Letras Do Tesouro Nacional 0 07/01/2025	
+	Bonos De La Tesoreria De La Republica E 2.5 03/01/2025	
+	Republic Of South Africa Government Bon 8.25 03/31/2032	
+	Uruguay Government International Bond 8.25 05/21/2031	
+	Dominican Republic International Bond 9.75 06/05/2026	
+	Brazil Notas Do Tesouro Nacional Serie 10 01/01/2029	
+	Republic Of South Africa Government Bon 10.5 12/21/2026	
+	Mexican Bonos 7.75 05/29/2031	
+	Republic Of South Africa Government Bon 8.5 01/31/2037	
+	Republic Of South Africa Government Bon 8.875 02/28/2035	
+	Mexican Bonos 5.75 03/05/2026	
+	Turkey Government Bond 12.6 10/01/2025	
+	Mexican Bonos 8 11/07/2047	
+	Brazil Letras Do Tesouro Nacional 0 07/01/2024	
+	Mexican Bonos 8.5 11/18/2038	
+	Thailand Government Bond 3.775 06/25/2032	
+	Republic Of Poland Government Bond 2.75 10/25/2029	
+	Bonos De La Tesoreria De La Republica E 5 03/01/2035	
+	Indonesia Treasury Bond 7 05/15/2027	
+	Indonesia Treasury Bond 7.5 04/15/2040	
+	Republic Of South Africa Government Bon 8.75 01/31/2044	
+	Bonos De La Tesoreria De La Republica E 4.7 09/01/2030	
+	China Government Bond 2.85 06/04/2027	
+	China Government Bond 3.27 11/19/2030	
+	Mexican Bonos 7.75 11/13/2042	
+	Mexican Bonos 7.5 06/03/2027	
+	Bonos De La Tesoreria De La Republica E 4.5 03/01/2026	
+	Turkey Government Bond 11.7 11/13/2030	
+	Republic Of Poland Government Bond 3.25 07/25/2025	
+	Indonesia Treasury Bond 7 09/15/2030	
+	Indonesia Treasury Bond 8.375 03/15/2034	
+	Republic Of South Africa Government Bon 9 01/31/2040	
+	Peru Government Bond 5.94 02/12/2029	
+	Colombian Tes 7.5 08/26/2026	
+	Egypt Government Bond 14.06 01/12/2026	
+	Peru Government Bond 6.35 08/12/2028	
+	Republic Of Poland Government Bond 2.25 10/25/2024	
+	Uruguay Government International Bond 8.5 03/15/2028	
+	Colombian Tes 6 04/28/2028	
+	Bonos De La Tesoreria De La Republica E 6 01/01/2043	
+	China Government Bond 3.81 09/14/2050	
+	Egypt Government Bond 14.369 10/20/2025	
+	Peru Government Bond 6.95 08/12/2031	
+	Serbia Treasury Bonds 4.5 01/11/2026	
+	Thailand Government Bond 1 06/17/2027	
+	Asian Infrastructure Investment Bank/Th 4.5 11/03/2023	
+	Peru Government Bond 6.15 08/12/2032	
+	Peru Government Bond 6.9 08/12/2037	
+	Republic Of Poland Government Bond 2.75 04/25/2028	
+	Peru Government Bond 8.2 08/12/2026	
+	China Government Bond 1.99 04/09/2025	
+	European Investment Bank 8.125 12/21/2026	
+	China Government Bond 2.68 05/21/2030	
+	Indonesia Treasury Bond 8.375 09/15/2026	
+	Inter-American Development Bank 7.5 12/05/2024	
+	Indonesia Treasury Bond 7.5 06/15/2035	
+	Indonesia Treasury Bond 5.5 04/15/2026	
+	Malaysia Government Investment Issue 4.128 08/15/2025	
+	Colombian Tes 7.25 10/18/2034	
+	Republic Of South Africa Government Bon 7 02/28/2031	
+	Thailand Government Bond 4.875 06/22/2029	
+	Egypt Government Bond 14.531 09/14/2024	
+	Brazil Letras Do Tesouro Nacional 0 01/01/2026	
+	China Government Bond 3.25 06/06/2026	
+	Mexican Bonos 8.5 05/31/2029	
+	Republic Of Poland Government Bond 2.5 07/25/2027	
+	Indonesia Treasury Bond 6.5 02/15/2031	
+	Indonesia Treasury Bond 6.5 06/15/2025	
+	China Government Bond 3.02 10/22/2025	
+	China Government Bond 3.12 12/05/2026	
+	Colombian Tes 7 06/30/2032	
+	Thailand Government Bond 3.3 06/17/2038	
+	Thailand Government Bond 1.45 12/17/2024	
+	Serbia Treasury Bonds 4.5 08/20/2032	
+	Serbia Treasury Bonds 5.875 02/08/2028	
+	Thailand Government Bond 2.125 12/17/2026	
+	Czech Republic Government Bond 2.4 09/17/2025	
+	Colombian Tes 7 03/26/2031	
+	Republic Of Poland Government Bond 0.25 10/25/2026	
+	Other/Cash	
+	Indonesia Treasury Bond 8.375 03/15/2024	
+	Colombian Tes 7.75 09/18/2030	
+	Czech Republic Government Bond 1 06/26/2026	
+	Thailand Government Bond 0.75 06/17/2024	
+	Thailand Government Bond 0.95 06/17/2025	
+	Czech Republic Government Bond 2.75 07/23/2029	
+	Colombian Tes 6.25 11/26/2025	
+	China Government Bond 2.88 11/05/2023	
+	China Government Bond 2.94 10/17/2024	
+	Brazil Notas Do Tesouro Nacional Serie 10 01/01/2031	
+	Indonesia Treasury Bond 8.25 05/15/2029	
+	Indonesia Treasury Bond 8.25 05/15/2036	
+	Republic Of Poland Government Bond 0.75 04/25/2025	
+	Republic Of Poland Government Bond 1.25 10/25/2030	
+	Republic Of Poland Government Bond 2.5 07/25/2026	
+	Malaysia Government Investment Issue 3.465 10/15/2030	
+	Czech Republic Government Bond 2.5 08/25/2028	
+	Egypt Government Bond 14.483 04/06/2026	
+	European Investment Bank 3 05/24/2024	
+	Thailand Government Bond 3.65 06/20/2031	
+	Turkey Government Bond 10.6 02/11/2026	
+	Thailand Government Bond 2.875 12/17/2028	
+	Thailand Government Bond 3.85 12/12/2025	
+	Czech Republic Government Bond 2 10/13/2033	
+	China Government Bond 3.28 12/03/2027	
+	Colombian Tes 10 07/24/2024	
+	Colombian Tes 5.75 11/03/2027	
+	Republic Of Poland Government Bond 4 10/25/2023	
+	Indonesia Treasury Bond 6.125 05/15/2028	
+	Thailand Government Bond 0.75 09/17/2024	
+	Thailand Government Bond 2.4 12/17/2023	
+	Indonesia Treasury Bond 9 03/15/2029	
+	International Bank For Reconstruction & 6.65 07/30/2024	
+	China Government Bond 3.29 05/23/2029	
+	China Government Bond 3.19 04/11/2024	
+	Czech Republic Government Bond 1.25 02/14/2025	
+	Czech Republic Government Bond 0.25 02/10/2027	
+	Czech Republic Government Bond 0.45 10/25/2023	
+	Dominican Republic International Bond 8.9 02/15/2023	
+	Hungary Government Bond 3.25 10/22/2031	
+	China Government Bond 3.01 05/13/2028	
+	China Government Bond 3.03 03/11/2026	
+	China Government Bond 2.84 04/08/2024	
+	Indonesia Treasury Bond 8.75 05/15/2031	
+	Indonesia Treasury Bond 7.5 08/15/2032	
+	Malaysia Government Bond 3.478 06/14/2024	
+	Republic Of Poland Government Bond 3.75 05/25/2027	
+	Mexican Bonos 5.5 03/04/2027	
+	Malaysia Government Investment Issue 4.369 10/31/2028	
+	Mexican Bonos 10 12/05/2024	
+	Peru Government Bond 5.4 08/12/2034	
+	Thailand Government Bond 1.6 12/17/2029	
+	Thailand Government Bond 3.4 06/17/2036	
+	Malaysia Government Bond 3.733 06/15/2028	
+	Malaysia Government Bond 3.757 05/22/2040	
+	Malaysia Government Bond 3.9 11/30/2026	
+	Malaysia Government Bond 4.065 06/15/2050	
+	Czech Republic Government Bond 0.95 05/15/2030	
+	Hungary Government Bond 5.5 06/24/2025	
+	Hungary Government Bond 1 11/26/2025	
+	China Government Bond 3.13 11/21/2029	
+	China Government Bond 3.02 05/27/2031	
+	Indonesia Treasury Bond 8.125 05/15/2024	
+	Mexican Bonos 8 09/05/2024	
+	Malaysia Government Investment Issue 3.655 10/15/2024	
+	Malaysia Government Investment Issue 3.726 03/31/2026	
+	China Government Bond 2.36 07/02/2023	
+	European Bank For Reconstruction & Deve 5.08 12/15/2025	
+	Hungary Government Bond 3 10/27/2027	
+	Thailand Government Bond 3.625 06/16/2023	
+	Turkey Government Bond 16.2 06/14/2023	
+	Thailand Government Bond 2 12/17/2031	
+	Thailand Government Bond 1.585 12/17/2035	
+	Czech Republic Government Bond 1.2 03/13/2031	
+	Egypt Government Bond 14.556 10/13/2027	
+	China Government Bond 2.47 09/02/2024	
+	China Government Bond 2.91 10/14/2028	
+	Indonesia Treasury Bond 6.625 05/15/2033	
+	Malaysia Government Bond 4.762 04/07/2037	
+	Malaysia Government Investment Issue 3.422 09/30/2027	
+	International Finance Corp 7 07/20/2027	
+	Hungary Government Bond 2.5 10/24/2024	
+	Hungary Government Bond 1.5 04/22/2026	
+	Turkey Government Bond 9 07/24/2024	
+	Turkey Government Bond 10.5 08/11/2027	
+	Thailand Government Bond 2.875 06/17/2046	
+	International Finance Corp 7.75 01/18/2030	
+	Malaysia Government Investment Issue 3.447 07/15/2036	
+	Malaysia Government Bond 3.885 08/15/2029	
+	Perusahaan Penerbit Sbsn Indonesia 8.875 11/15/2031	
+	Hungary Government Bond 6 11/24/2023	
+	Czech Republic Government Bond 5.7 05/25/2024	
+	Colombian Tes 7.25 10/26/2050	
+	Czech Republic Government Bond 1.75 06/23/2032	
+	Colombian Tes 9.25 05/28/2042	
+	Romania Government Bond 4.5 06/17/2024	
+	Romania Government Bond 4.4 09/25/2023	
+	Romania Government Bond 3.25 04/29/2024	
+	Turkey Government Bond 11 02/24/2027	
+	China Government Bond 3.22 12/06/2025	
+	China Government Bond 2.69 08/12/2026	
+	Dominican Republic International Bond 9.75 06/05/2026	
+	Egypt Government Bond 14.292 01/05/2028	
+	European Investment Bank 2.75 08/25/2026	
+	Republic Of South Africa Government Bon 6.25 03/31/2036	
+	Indonesia Treasury Bond 7.5 05/15/2038	
+	Indonesia Treasury Bond 8.25 06/15/2032	
+	International Finance Corp 5.75 03/02/2023	
+	Malaysia Government Bond 3.828 07/05/2034	
+	Malaysia Government Bond 4.254 05/31/2035	
+	Malaysia Government Bond 2.632 04/15/2031	
+	Peru Government Bond 5.7 08/12/2024	
+	Hungary Government Bond 3 08/21/2030	
+	Hungary Government Bond 2.25 04/20/2033	
+	Czech Republic Government Bond 6 02/26/2026	
+	Czech Republic Government Bond 4.2 12/04/2036	
+	Bonos De La Tesoreria De La Republica E 5 10/01/2028	
+	China Government Bond 3.25 11/22/2028	
+	Romania Government Bond 3.65 07/28/2025	
+	Romania Government Bond 3.7 11/25/2024	
+	Romania Government Bond 4 10/25/2023	
+	Romania Government Bond 4.25 06/28/2023	
+	Romania Government Bond 5 02/12/2029	
+	Romania Government Bond 5.8 07/26/2027	
+	Romania Government Bond 5.85 04/26/2023	
+	Romania Government Bond 4.75 02/24/2025	
+	Romania Government Bond 4.15 10/24/2030	
+	Romania Government Bond 3.65 09/24/2031	
+	China Government Bond 3.72 04/12/2051	
+	China Government Bond 2.8 03/24/2029	
+	Peru Government Bond 5.35 08/12/2040	
+	Mexican Bonos 7.75 11/23/2034	
+	Republic Of South Africa Government Bon 6.5 02/28/2041	
+	Republic Of Poland Government Bond 1.75 04/25/2032	
+	Malaysia Government Bond 3.8 08/17/2023	
+	Malaysia Government Bond 3.502 05/31/2027	
+	Indonesia Treasury Bond 8.375 04/15/2039	
+	Mexican Bonos 10 11/20/2036	
+	China Government Bond 2.75 02/17/2032	
+	China Government Bond 3.29 10/18/2023	
+	Hungary Government Bond 2.75 12/22/2026	
+	Hungary Government Bond 3 06/26/2024	
+	Romania Government Bond 3.25 06/24/2026	
+	Romania Government Bond 4.15 01/26/2028	
+	Romania Government Bond 4.85 04/22/2026	
+	China Government Bond 2.89 11/18/2031	
+	Inter-American Development Bank 7.875 03/14/2023	
+	Malaysia Government Bond 3.757 04/20/2023	
+	International Finance Corp 8.375 05/31/2029	
+	Malaysia Government Bond 3.899 11/16/2027	
+	International Finance Corp 7.5 01/18/2028	
+	Indonesia Treasury Bond 7.125 06/15/2042	
+	Indonesia Treasury Bond 6.375 04/15/2032	
+	Malaysia Government Investment Issue 4.417 09/30/2041	
+	Egypt Government Bond 14.35 09/10/2024	
+	Thailand Government Bond 2 06/17/2042	
+	Turkey Government Bond 8 03/12/2025	
+	Egypt Government Bond 14.664 10/06/2030	
+	Hungary Government Bond 2 05/23/2029	
+	Malaysia Government Investment Issue 4.13 07/09/2029	
+	Indonesia Treasury Bond 9.5 07/15/2031	
+	Malaysia Government Bond 3.906 07/15/2026	
+	Malaysia Government Bond 3.955 09/15/2025	
+	Malaysia Government Bond 3.48 03/15/2023	
+	Malaysia Government Investment Issue 4.258 07/26/2027	
+	Hungary Government Bond 6.75 10/22/2028	
+	Hungary Government Bond 1.5 08/26/2026	
+	Egypt Government Bond 14.563 07/06/2026	
+	Colombian Tes 6.25 07/09/2036	
+	China Government Bond 2.26 02/24/2025	
+	Romania Government Bond 2.5 10/25/2027	
+	Malaysia Government Bond 4.059 09/30/2024	
+	Indonesia Treasury Bond 5.624 05/15/2023	
+	Romania Government Bond 4.75 10/11/2034	
+	Thailand Government Bond 1.6 06/17/2035	
+	Malaysia Government Bond 3.882 03/14/2025	
+	Egypt Government Bond 16.1 05/07/2029	
+	Egypt Government Bond 14.4 09/10/2029	
+	Czech Republic Government Bond 0.05 11/29/2029	
+	Hungary Government Bond 3 10/27/2038	
+	Bonos De La Tesoreria De La Republica E 2.3 10/01/2028	
+	Malaysia Government Investment Issue 3.151 05/15/2023	
+	Perusahaan Penerbit Sbsn Indonesia 6.5 05/15/2023	
+	Perusahaan Penerbit Sbsn Indonesia 8.25 09/15/2023	
+	Romania Government Bond 4.85 07/25/2029	
+	Romania Government Bond 6.7 02/25/2032	
+	Turkey Government Bond 12.4 03/08/2028	
+	European Investment Bank 5.75 01/24/2025	
+	Egypt Government Bond 13.536 01/14/2025	
+	Mexican Bonos 8 12/07/2023	
+	Turkey Government Bond 10.4 03/20/2024	
+	Indonesia Treasury Bond 5.125 04/15/2027	
+	China Government Bond 2.76 05/15/2032	
+	China Government Bond 2.48 04/15/2027	
+	Czech Republic Government Bond 0 12/12/2024	
+	China Government Bond 2.37 01/20/2027	
+	Czech Republic Government Bond 1.5 04/24/2040	
+	Financiera De Desarrollo Territorial Sa 7.875 08/12/2024	
+	Indonesia Treasury Bond 10.5 08/15/2030	
+	Inter-American Development Bank 7.7 02/12/2024	
+	Indonesia Treasury Bond 6.25 06/15/2036	
+	Malaysia Government Bond 4.181 07/15/2024	
+	Malaysia Government Bond 3.582 07/15/2032	
+	Malaysia Government Investment Issue 4.193 10/07/2032	
+	Perusahaan Penerbit Sbsn Indonesia 6.625 10/15/2024	
+	Republic Of Poland Government Bond 2.5 04/25/2024	
+	Perusahaan Penerbit Sbsn Indonesia 4.875 07/15/2026	
+	Malaysia Government Bond 4.696 10/15/2042	
+	Malaysia Government Investment Issue 3.99 10/15/2025	
+	Malaysia Government Investment Issue 4.094 11/30/2023	
+	International Bank For Reconstruction & 7.25 03/15/2024	
+	Indonesia Treasury Bond 11 09/15/2025	
+	Hungary Government Bond 4.75 11/24/2032	
+	Hungary Government Bond 1.5 08/23/2023	
+	Eskom Holdings Soc Ltd 0 08/18/2027	
+	Czech Republic Government Bond 3.5 05/30/2035	
+	China Government Bond 3.53 10/18/2051	
+	Brazil Notas Do Tesouro Nacional Serie 10 01/01/2033	
+	Hungary Government Bond 4.5 03/23/2028	
+	Mexican Bonos 5 03/06/2025	
+	Mexican Bonos 8 07/31/2053	
+	International Bank For Reconstruction & 13.25 02/22/2023	
+	Hungary Government Bond 3 04/25/2041	
+	Hungary Government Bond 2.25 06/22/2034	
+	European Bank For Reconstruction & Deve 0.25 11/20/2023	
+	Eskom Holdings Soc Ltd 7.85 04/02/2026	
+	Brazilian Government International Bond 10.25 01/10/2028	
+	International Finance Corp 7.25 02/02/2024	
+	Perusahaan Penerbit Sbsn Indonesia 8.75 08/15/2023	
+	Petroleos Mexicanos 7.19 09/12/2024	
+	International Finance Corp 8 10/09/2023	
+	Malaysia Government Bond 4.504 04/30/2029	
+	China Government Bond 2.5 07/25/2027	
+	China Government Bond 2.75 06/15/2029	
+	European Investment Bank 7.75 01/30/2025	
+	European Investment Bank 8 05/05/2027	
+	Transnet Soc Ltd 9.5 08/19/2025	
+	Thailand Government Bond 2.65 06/17/2028	
+	Empresas Publicas De Medellin Esp 7.625 09/10/2024	
+	Brazilian Government International Bond 8.5 01/05/2024	
+	Colombia Government International Bond 9.85 06/28/2027	
+	China Government Bond 3.32 04/15/2052	
+	Colombia Government International Bond 4.375 03/21/2023	
+	China Government Bond 2.24 05/25/2025	
+	European Bank For Reconstruction & Deve 12.5 02/09/2023	
+	Eskom Holdings Soc Ltd 7.5 09/15/2033	
+	International Bank For Reconstruction & 2 07/23/2025	
+	Indonesia Treasury Bond 6.375 07/15/2037	
+	Perusahaan Penerbit Sbsn Indonesia 6.375 03/15/2034	
+	International Finance Corp 7 02/14/2024	
+	International Finance Corp 8 07/27/2027	
+	Transnet Soc Ltd 13.5 04/18/2028	
+	Uruguay Government International Bond 8.5 03/15/2028	
+	Transnet Soc Ltd 10.8 11/06/2023	
+	Romania Government Bond 3.5 12/19/2022	
+	Bonos De La Tesoreria De La Republica E 4 03/01/2023	

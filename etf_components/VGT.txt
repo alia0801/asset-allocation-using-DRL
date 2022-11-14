@@ -1,0 +1,21 @@
+VGT
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=VGT
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=VGT
+NVDA	NVIDIA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=VGT
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=VGT
+MA	Mastercard Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=VGT
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=VGT
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=VGT
+ACN	Accenture plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=VGT
+ADBE	Adobe Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=VGT
+CRM	salesforce.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=VGT
+TXN	Texas Instruments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=VGT
+QCOM	QUALCOMM Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=VGT
+AMD	Advanced Micro Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=VGT
+INTC	Intel Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=VGT
+ORCL	Oracle Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=VGT
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=VGT
+IBM	International Business Machines Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=VGT
+ADP	Automatic Data Processing Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=VGT
+PYPL	PayPal Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=VGT
+NOW	ServiceNow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=VGT

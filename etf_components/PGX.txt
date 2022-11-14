@@ -1,0 +1,297 @@
+PGX
+C-K	Citigroup Inc 6.88	/etf/ea/ETZCW.djhtm?c=1&etfid=C-K.US&back=PGX
+JPM-D	JPMorgan Chase & Co 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-D.US&back=PGX
+JPM-L	JPMorgan Chase & Co 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-L.US&back=PGX
+JPM-C	JPMorgan Chase & Co 6	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-C.US&back=PGX
+WFC-Z	Wells Fargo & Co 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-Z.US&back=PGX
+JPM-M	JPMorgan Chase & Co 4.2	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-M.US&back=PGX
+BAC-M	Bank of America Corp 5.38 12/30/2049	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-M.US&back=PGX
+BAC-B	Bank of America Corp 6	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-B.US&back=PGX
+T-C	AT&T Inc 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=T-C.US&back=PGX
+TBB	AT&T Inc 5.35 11/01/2066	/etf/ea/ETZCW.djhtm?c=1&etfid=TBB.US&back=PGX
+JPM-K	JPMorgan Chase & Co 4.55	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-K.US&back=PGX
+BAC-N	Bank of America Corp 5	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-N.US&back=PGX
+COF-I	Capital One Financial Corp 5	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-I.US&back=PGX
+MS-I	Morgan Stanley 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-I.US&back=PGX
+MS-O	Morgan Stanley 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-O.US&back=PGX
+T-A	AT&T Inc 5	/etf/ea/ETZCW.djhtm?c=1&etfid=T-A.US&back=PGX
+BAC-Q	Bank of America Corp 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-Q.US&back=PGX
+MS-K	Morgan Stanley 5.85	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-K.US&back=PGX
+ALL-H	Allstate Corp/The 5.1	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL-H.US&back=PGX
+COF-J	Capital One Financial Corp 4.8	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-J.US&back=PGX
+BAC-O	Bank of America Corp 4.38	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-O.US&back=PGX
+BAC-K	Bank of America Corp 5.88	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-K.US&back=PGX
+MS-P	Morgan Stanley 6.5	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-P.US&back=PGX
+CTBB	Qwest Corp 6.5 09/01/2056	/etf/ea/ETZCW.djhtm?c=1&etfid=CTBB.US&back=PGX
+DUK-A	Duke Energy Corp 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK-A.US&back=PGX
+MS-E	Morgan Stanley 7.12	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-E.US&back=PGX
+WFC-D	Wells Fargo & Co 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-D.US&back=PGX
+WFC-A	Wells Fargo & Co 4.7	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-A.US&back=PGX
+WFC-R	Wells Fargo & Co 6.62	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-R.US&back=PGX
+ATH-A	Athene Holding Ltd 6.35	/etf/ea/ETZCW.djhtm?c=1&etfid=ATH-A.US&back=PGX
+MET-E	MetLife Inc 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=MET-E.US&back=PGX
+SOJD	Southern Co/The 4.95 01/30/2080	/etf/ea/ETZCW.djhtm?c=1&etfid=SOJD.US&back=PGX
+TBC	AT&T Inc 5.62 08/01/2067	/etf/ea/ETZCW.djhtm?c=1&etfid=TBC.US&back=PGX
+JPM-J	JPMorgan Chase & Co 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-J.US&back=PGX
+MET-F	MetLife Inc 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=MET-F.US&back=PGX
+AEFC	AEGON Funding Co LLC 5.1 12/15/2049	/etf/ea/ETZCW.djhtm?c=1&etfid=AEFC.US&back=PGX
+ET-E	Energy Transfer LP 7.6	/etf/ea/ETZCW.djhtm?c=1&etfid=ET-E.US&back=PGX
+WFC-C	Wells Fargo & Co 4.38	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-C.US&back=PGX
+TFC-R	Truist Financial Corp 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC-R.US&back=PGX
+F-C	Ford Motor Co 6 12/01/2059	/etf/ea/ETZCW.djhtm?c=1&etfid=F-C.US&back=PGX
+BAC-P	Bank of America Corp 4.12	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-P.US&back=PGX
+F-B	Ford Motor Co 6.2 06/01/2059	/etf/ea/ETZCW.djhtm?c=1&etfid=F-B.US&back=PGX
+STT-D	State Street Corp 5.9	/etf/ea/ETZCW.djhtm?c=1&etfid=STT-D.US&back=PGX
+SREA	Sempra Energy 5.75 07/01/2079	/etf/ea/ETZCW.djhtm?c=1&etfid=SREA.US&back=PGX
+SCHW-D	Charles Schwab Corp/The 5.95	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW-D.US&back=PGX
+MS-F	Morgan Stanley 6.88	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-F.US&back=PGX
+GS-K	Goldman Sachs Group Inc/The 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=GS-K.US&back=PGX
+EQH-A	Equitable Holdings Inc 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH-A.US&back=PGX
+NEE-N	NextEra Energy Capital Holdings Inc 5.65 03/01/2079	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE-N.US&back=PGX
+RGA	Reinsurance Group of America Inc 7.12 10/15/2052	/etf/ea/ETZCW.djhtm?c=1&etfid=RGA.US&back=PGX
+USB-P	US Bancorp 5.5	/etf/ea/ETZCW.djhtm?c=1&etfid=USB-P.US&back=PGX
+CMSD	CMS Energy Corp 5.88 03/01/2079	/etf/ea/ETZCW.djhtm?c=1&etfid=CMSD.US&back=PGX
+ATH-C	Athene Holding Ltd 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=ATH-C.US&back=PGX
+KEY-L	KeyCorp 6.2	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY-L.US&back=PGX
+SOJE	Southern Co/The 4.2 10/15/2060	/etf/ea/ETZCW.djhtm?c=1&etfid=SOJE.US&back=PGX
+WFC-Y	Wells Fargo & Co 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-Y.US&back=PGX
+WCC-A	WESCO International Inc 10.62	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC-A.US&back=PGX
+PRS	Prudential Financial Inc 5.62 08/15/2058	/etf/ea/ETZCW.djhtm?c=1&etfid=PRS.US&back=PGX
+F-D	Ford Motor Co 6.5 08/15/2062	/etf/ea/ETZCW.djhtm?c=1&etfid=F-D.US&back=PGX
+ALL-G	Allstate Corp/The 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL-G.US&back=PGX
+QRTEP	Qurate Retail Inc 8 03/15/2031	/etf/ea/ETZCW.djhtm?c=1&etfid=QRTEP.US&back=PGX
+CTDD	Qwest Corp 6.75 06/15/2057	/etf/ea/ETZCW.djhtm?c=1&etfid=CTDD.US&back=PGX
+SYF-A	Synchrony Financial 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF-A.US&back=PGX
+FRC-L	First Republic Bank/CA 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-L.US&back=PGX
+FRC-N	First Republic Bank/CA 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-N.US&back=PGX
+TFC-O	Truist Financial Corp 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC-O.US&back=PGX
+KEY-I	KeyCorp 6.12	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY-I.US&back=PGX
+FITBI	Fifth Third Bancorp 6.62	/etf/ea/ETZCW.djhtm?c=1&etfid=FITBI.US&back=PGX
+DUKB	Duke Energy Corp 5.62 09/15/2078	/etf/ea/ETZCW.djhtm?c=1&etfid=DUKB.US&back=PGX
+TDS-V	Telephone and Data Systems Inc 6	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS-V.US&back=PGX
+USB-R	US Bancorp 4	/etf/ea/ETZCW.djhtm?c=1&etfid=USB-R.US&back=PGX
+SBNYP	Signature Bank/New York NY 5	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNYP.US&back=PGX
+RF-B	Regions Financial Corp 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=RF-B.US&back=PGX
+NYCB-A	New York Community Bancorp Inc 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB-A.US&back=PGX
+COF-L	Capital One Financial Corp 4.38	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-L.US&back=PGX
+FRC-M	First Republic Bank/CA 4	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-M.US&back=PGX
+NI-B	NiSource Inc 6.5	/etf/ea/ETZCW.djhtm?c=1&etfid=NI-B.US&back=PGX
+SCHW-J	Charles Schwab Corp/The 4.45	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW-J.US&back=PGX
+STT-G	State Street Corp 5.35	/etf/ea/ETZCW.djhtm?c=1&etfid=STT-G.US&back=PGX
+BPYPM	Brookfield Property Preferred LP 6.25 07/26/2081	/etf/ea/ETZCW.djhtm?c=1&etfid=BPYPM.US&back=PGX
+AXS-E	Axis Capital Holdings Ltd 5.5	/etf/ea/ETZCW.djhtm?c=1&etfid=AXS-E.US&back=PGX
+AIG-A	American International Group Inc 5.85	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG-A.US&back=PGX
+MS-L	Morgan Stanley 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-L.US&back=PGX
+PSA-P	Public Storage 4 09/30/2069	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-P.US&back=PGX
+BHFAN	Brighthouse Financial Inc 5.38	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAN.US&back=PGX
+RF-C	Regions Financial Corp 5.7	/etf/ea/ETZCW.djhtm?c=1&etfid=RF-C.US&back=PGX
+PSA-G	Public Storage 5.05	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-G.US&back=PGX
+BAC-S	Bank of America Corp 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-S.US&back=PGX
+ATH-D	Athene Holding Ltd 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=ATH-D.US&back=PGX
+BHFAP	Brighthouse Financial Inc 6.6	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAP.US&back=PGX
+UZD	United States Cellular Corp 6.25 09/01/2069	/etf/ea/ETZCW.djhtm?c=1&etfid=UZD.US&back=PGX
+SOJC	Southern Co/The 5.25 12/01/2077	/etf/ea/ETZCW.djhtm?c=1&etfid=SOJC.US&back=PGX
+PSA-L	Public Storage 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-L.US&back=PGX
+RZB	Reinsurance Group of America Inc 5.75 06/15/2056	/etf/ea/ETZCW.djhtm?c=1&etfid=RZB.US&back=PGX
+SCE-L	SCE Trust VI 5	/etf/ea/ETZCW.djhtm?c=1&etfid=SCE-L.US&back=PGX
+ESGRP	Enstar Group Ltd 7	/etf/ea/ETZCW.djhtm?c=1&etfid=ESGRP.US&back=PGX
+KEY-K	KeyCorp 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY-K.US&back=PGX
+KEY-J	KeyCorp 5.65	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY-J.US&back=PGX
+KKRS	KKR Group Finance Co IX LLC 4.62 04/01/2061	/etf/ea/ETZCW.djhtm?c=1&etfid=KKRS.US&back=PGX
+BHFAO	Brighthouse Financial Inc 6.75	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAO.US&back=PGX
+ACGLN	Arch Capital Group Ltd 4.55	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGLN.US&back=PGX
+PFH	Prudential Financial Inc 4.12 09/01/2060	/etf/ea/ETZCW.djhtm?c=1&etfid=PFH.US&back=PGX
+UZE	United States Cellular Corp 5.5 03/01/2070	/etf/ea/ETZCW.djhtm?c=1&etfid=UZE.US&back=PGX
+UZF	United States Cellular Corp 5.5 06/01/2070	/etf/ea/ETZCW.djhtm?c=1&etfid=UZF.US&back=PGX
+QVCC	QVC Inc 6.25 11/26/2068	/etf/ea/ETZCW.djhtm?c=1&etfid=QVCC.US&back=PGX
+DTW	DTE Energy Co 5.25 12/01/2077	/etf/ea/ETZCW.djhtm?c=1&etfid=DTW.US&back=PGX
+BHFAL	Brighthouse Financial Inc 6.25 09/15/2058	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAL.US&back=PGX
+FRC-K	First Republic Bank/CA 4.12	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-K.US&back=PGX
+AEL-A	American Equity Investment Life Holding Co 5.95	/etf/ea/ETZCW.djhtm?c=1&etfid=AEL-A.US&back=PGX
+CGABL	Carlyle Finance LLC 4.62 05/15/2061	/etf/ea/ETZCW.djhtm?c=1&etfid=CGABL.US&back=PGX
+PACWP	PacWest Bancorp 7.75	/etf/ea/ETZCW.djhtm?c=1&etfid=PACWP.US&back=PGX
+RNR-G	RenaissanceRe Holdings Ltd 4.2	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR-G.US&back=PGX
+SNV-E	Synovus Financial Corp 5.88	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV-E.US&back=PGX
+PBI-B	Pitney Bowes Inc 6.7 03/07/2043	/etf/ea/ETZCW.djhtm?c=1&etfid=PBI-B.US&back=PGX
+CFG-E	Citizens Financial Group Inc 5	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG-E.US&back=PGX
+AQNB	Algonquin Power & Utilities Corp 6.2 07/01/2079	/etf/ea/ETZCW.djhtm?c=1&etfid=AQNB.US&back=PGX
+HBANP	Huntington Bancshares Inc/OH 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=HBANP.US&back=PGX
+HIG-G	Hartford Financial Services Group Inc/The 6	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG-G.US&back=PGX
+C-J	Citigroup Inc 7.12	/etf/ea/ETZCW.djhtm?c=1&etfid=C-J.US&back=PGX
+NTRSO	Northern Trust Corp 4.7	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRSO.US&back=PGX
+SIVBP	SVB Financial Group 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVBP.US&back=PGX
+UNMA	Unum Group 6.25 06/15/2058	/etf/ea/ETZCW.djhtm?c=1&etfid=UNMA.US&back=PGX
+TDS-U	Telephone and Data Systems Inc 6.62	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS-U.US&back=PGX
+SCE-J	SCE Trust IV 5.38	/etf/ea/ETZCW.djhtm?c=1&etfid=SCE-J.US&back=PGX
+PSA-S	Public Storage 4.1	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-S.US&back=PGX
+CFG-D	Citizens Financial Group Inc 6.35	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG-D.US&back=PGX
+AAM-B	Apollo Asset Management Inc 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=AAM-B.US&back=PGX
+ATH-B	Athene Holding Ltd 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=ATH-B.US&back=PGX
+FRC-I	First Republic Bank/CA 5.5	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-I.US&back=PGX
+EAI	Entergy Arkansas LLC 4.88 09/01/2066	/etf/ea/ETZCW.djhtm?c=1&etfid=EAI.US&back=PGX
+JSM	Navient Corp 6 12/15/2043	/etf/ea/ETZCW.djhtm?c=1&etfid=JSM.US&back=PGX
+RF-E	Regions Financial Corp 4.45	/etf/ea/ETZCW.djhtm?c=1&etfid=RF-E.US&back=PGX
+WFC-Q	Wells Fargo & Co 5.85	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-Q.US&back=PGX
+WTFCP	Wintrust Financial Corp 6.88	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFCP.US&back=PGX
+USB-Q	US Bancorp 3.75	/etf/ea/ETZCW.djhtm?c=1&etfid=USB-Q.US&back=PGX
+SCE-K	SCE Trust V 5.45	/etf/ea/ETZCW.djhtm?c=1&etfid=SCE-K.US&back=PGX
+AEL-B	American Equity Investment Life Holding Co 6.62	/etf/ea/ETZCW.djhtm?c=1&etfid=AEL-B.US&back=PGX
+FRC-J	First Republic Bank/CA 4.7	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-J.US&back=PGX
+FCNCP	First Citizens BancShares Inc/NC 5.38	/etf/ea/ETZCW.djhtm?c=1&etfid=FCNCP.US&back=PGX
+HPP-C	Hudson Pacific Properties Inc 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=HPP-C.US&back=PGX
+ACGLO	Arch Capital Group Ltd 5.45	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGLO.US&back=PGX
+DLR-L	Digital Realty Trust Inc 5.2	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR-L.US&back=PGX
+AQNA	Algonquin Power & Utilities Corp 6.88 10/17/2078	/etf/ea/ETZCW.djhtm?c=1&etfid=AQNA.US&back=PGX
+COF-N	Capital One Financial Corp 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-N.US&back=PGX
+BAMH	Brookfield Finance Inc 4.62 10/16/2080	/etf/ea/ETZCW.djhtm?c=1&etfid=BAMH.US&back=PGX
+AAM-A	Apollo Asset Management Inc 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=AAM-A.US&back=PGX
+MTB-H	M&T Bank Corp 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB-H.US&back=PGX
+MGR	Affiliated Managers Group Inc 5.88 03/30/2059	/etf/ea/ETZCW.djhtm?c=1&etfid=MGR.US&back=PGX
+PSA-R	Public Storage 4	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-R.US&back=PGX
+WAL-A	Western Alliance Bancorp 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=WAL-A.US&back=PGX
+VOYA-B	Voya Financial Inc 5.35	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA-B.US&back=PGX
+USB-S	US Bancorp 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=USB-S.US&back=PGX
+PRH	Prudential Financial Inc 5.95 09/01/2062	/etf/ea/ETZCW.djhtm?c=1&etfid=PRH.US&back=PGX
+PSA-F	Public Storage 5.15	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-F.US&back=PGX
+EMP	Entergy Mississippi LLC 4.9 10/01/2066	/etf/ea/ETZCW.djhtm?c=1&etfid=EMP.US&back=PGX
+ENO	Entergy New Orleans LLC 5.5 04/01/2066	/etf/ea/ETZCW.djhtm?c=1&etfid=ENO.US&back=PGX
+ELC	Entergy Louisiana LLC 4.88 09/01/2066	/etf/ea/ETZCW.djhtm?c=1&etfid=ELC.US&back=PGX
+GPJA	Georgia Power Co 5 10/01/2077	/etf/ea/ETZCW.djhtm?c=1&etfid=GPJA.US&back=PGX
+ALP-Q	Alabama Power Co 5	/etf/ea/ETZCW.djhtm?c=1&etfid=ALP-Q.US&back=PGX
+CMSC	CMS Energy Corp 5.88 10/15/2078	/etf/ea/ETZCW.djhtm?c=1&etfid=CMSC.US&back=PGX
+PSA-H	Public Storage 5.6	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-H.US&back=PGX
+TCBIO	Texas Capital Bancshares Inc 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=TCBIO.US&back=PGX
+VNO-O	Vornado Realty Trust 4.45	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO-O.US&back=PGX
+WRB-F	W R Berkley Corp 5.1 12/30/2059	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB-F.US&back=PGX
+SR-A	Spire Inc 5.9	/etf/ea/ETZCW.djhtm?c=1&etfid=SR-A.US&back=PGX
+VNO-M	Vornado Realty Trust 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO-M.US&back=PGX
+RNR-F	RenaissanceRe Holdings Ltd 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR-F.US&back=PGX
+OAK-B	Oaktree Capital Group LLC 6.55	/etf/ea/ETZCW.djhtm?c=1&etfid=OAK-B.US&back=PGX
+ALL-I	Allstate Corp/The 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL-I.US&back=PGX
+BEPH	Brookfield BRP Holdings Canada Inc 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=BEPH.US&back=PGX
+OZKAP	Bank OZK 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=OZKAP.US&back=PGX
+AL-A	Air Lease Corp 6.15	/etf/ea/ETZCW.djhtm?c=1&etfid=AL-A.US&back=PGX
+	Integrys Holding Inc 6 08/01/2073	
+GL-D	Globe Life Inc 4.25 06/15/2061	/etf/ea/ETZCW.djhtm?c=1&etfid=GL-D.US&back=PGX
+BHFAM	Brighthouse Financial Inc 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAM.US&back=PGX
+DLR-J	Digital Realty Trust Inc 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR-J.US&back=PGX
+NRUC	National Rural Utilities Cooperative Finance Corp 5.5 05/15/2064	/etf/ea/ETZCW.djhtm?c=1&etfid=NRUC.US&back=PGX
+SCE-H	SCE Trust III 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=SCE-H.US&back=PGX
+SF-D	Stifel Financial Corp 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=SF-D.US&back=PGX
+SFB	Stifel Financial Corp 5.2 10/15/2047	/etf/ea/ETZCW.djhtm?c=1&etfid=SFB.US&back=PGX
+BPYPO	Brookfield Property Partners LP 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=BPYPO.US&back=PGX
+AHL-D	Aspen Insurance Holdings Ltd 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=AHL-D.US&back=PGX
+WAFDP	Washington Federal Inc 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=WAFDP.US&back=PGX
+MGRB	Affiliated Managers Group Inc 4.75 09/30/2060	/etf/ea/ETZCW.djhtm?c=1&etfid=MGRB.US&back=PGX
+DTG	DTE Energy Co 4.38 12/01/2081	/etf/ea/ETZCW.djhtm?c=1&etfid=DTG.US&back=PGX
+FITBO	Fifth Third Bancorp 4.95	/etf/ea/ETZCW.djhtm?c=1&etfid=FITBO.US&back=PGX
+EQH-C	Equitable Holdings Inc 4.3	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH-C.US&back=PGX
+KIM-M	Kimco Realty Corp 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM-M.US&back=PGX
+CMSA	CMS Energy Corp 5.62 03/15/2078	/etf/ea/ETZCW.djhtm?c=1&etfid=CMSA.US&back=PGX
+BC-C	Brunswick Corp/DE 6.38 04/15/2049	/etf/ea/ETZCW.djhtm?c=1&etfid=BC-C.US&back=PGX
+AHL-E	Aspen Insurance Holdings Ltd 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=AHL-E.US&back=PGX
+WRB-H	W R Berkley Corp 4.12 03/30/2061	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB-H.US&back=PGX
+SF-C	Stifel Financial Corp 6.12	/etf/ea/ETZCW.djhtm?c=1&etfid=SF-C.US&back=PGX
+VNO-M	Vornado Realty Trust 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO-M.US&back=PGX
+SLG-I	SL Green Realty Corp 6.5	/etf/ea/ETZCW.djhtm?c=1&etfid=SLG-I.US&back=PGX
+PSA-N	Public Storage 3.88	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-N.US&back=PGX
+OAK-A	Oaktree Capital Group LLC 6.62	/etf/ea/ETZCW.djhtm?c=1&etfid=OAK-A.US&back=PGX
+KIM-L	Kimco Realty Corp 5.12	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM-L.US&back=PGX
+CTA-B	EI du Pont de Nemours and Co 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=CTA-B.US&back=PGX
+AFGC	American Financial Group Inc/OH 5.12 12/15/2059	/etf/ea/ETZCW.djhtm?c=1&etfid=AFGC.US&back=PGX
+HBANM	Huntington Bancshares Inc/OH 5.7	/etf/ea/ETZCW.djhtm?c=1&etfid=HBANM.US&back=PGX
+HWCPZ	Hancock Whitney Corp 6.25 06/15/2060	/etf/ea/ETZCW.djhtm?c=1&etfid=HWCPZ.US&back=PGX
+AIZN	Assurant Inc 5.25 01/15/2061	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZN.US&back=PGX
+PSA-M	Public Storage 4.12	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-M.US&back=PGX
+QVCD	QVC Inc 6.38 09/13/2067	/etf/ea/ETZCW.djhtm?c=1&etfid=QVCD.US&back=PGX
+WRB-G	W R Berkley Corp 4.25 09/30/2060	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB-G.US&back=PGX
+SPNT-B	SiriusPoint Ltd 8	/etf/ea/ETZCW.djhtm?c=1&etfid=SPNT-B.US&back=PGX
+BPYPN	Brookfield Property Partners LP 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=BPYPN.US&back=PGX
+TRTN-C	Triton International Ltd 7.38	/etf/ea/ETZCW.djhtm?c=1&etfid=TRTN-C.US&back=PGX
+WRB-E	W R Berkley Corp 5.7 03/30/2058	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB-E.US&back=PGX
+SRC-A	Spirit Realty Capital Inc 6	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC-A.US&back=PGX
+VNO-L	Vornado Realty Trust 5.4	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO-L.US&back=PGX
+PSB-Z	PS Business Parks Inc 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=PSB-Z.US&back=PGX
+CADE-A	Cadence Bank 5.5	/etf/ea/ETZCW.djhtm?c=1&etfid=CADE-A.US&back=PGX
+BC-A	Brunswick Corp/DE 6.5 10/15/2048	/etf/ea/ETZCW.djhtm?c=1&etfid=BC-A.US&back=PGX
+DHCNI	Diversified Healthcare Trust 5.62 08/01/2042	/etf/ea/ETZCW.djhtm?c=1&etfid=DHCNI.US&back=PGX
+DLR-K	Digital Realty Trust Inc 5.85	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR-K.US&back=PGX
+FULTP	Fulton Financial Corp 5.12	/etf/ea/ETZCW.djhtm?c=1&etfid=FULTP.US&back=PGX
+AFGE	American Financial Group Inc/OH 4.5 09/15/2060	/etf/ea/ETZCW.djhtm?c=1&etfid=AFGE.US&back=PGX
+FCNCO	First Citizens BancShares Inc/NC 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=FCNCO.US&back=PGX
+FRC-H	First Republic Bank/CA 5.12	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-H.US&back=PGX
+BAMI	Brookfield Finance I UK Plc 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=BAMI.US&back=PGX
+CMS-C	CMS Energy Corp 4.2	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS-C.US&back=PGX
+BEPI	Brookfield BRP Holdings Canada Inc 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=BEPI.US&back=PGX
+PSB-X	PS Business Parks Inc 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=PSB-X.US&back=PGX
+TRTN-E	Triton International Ltd 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=TRTN-E.US&back=PGX
+BEP-A	Brookfield Renewable Partners LP 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=BEP-A.US&back=PGX
+BIP-B	Brookfield Infrastructure Partners LP 5	/etf/ea/ETZCW.djhtm?c=1&etfid=BIP-B.US&back=PGX
+TRTN-B	Triton International Ltd 8	/etf/ea/ETZCW.djhtm?c=1&etfid=TRTN-B.US&back=PGX
+SNV-D	Synovus Financial Corp 6.3	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV-D.US&back=PGX
+SJIJ	South Jersey Industries Inc 5.62 09/16/2079	/etf/ea/ETZCW.djhtm?c=1&etfid=SJIJ.US&back=PGX
+PSA-I	Public Storage 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-I.US&back=PGX
+PSA-K	Public Storage 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-K.US&back=PGX
+SIGIP	Selective Insurance Group Inc 4.6	/etf/ea/ETZCW.djhtm?c=1&etfid=SIGIP.US&back=PGX
+BIPI	BIP Bermuda Holdings I Ltd 5.12	/etf/ea/ETZCW.djhtm?c=1&etfid=BIPI.US&back=PGX
+BIPH	Brookfield Infrastructure Finance ULC 5 05/24/2081	/etf/ea/ETZCW.djhtm?c=1&etfid=BIPH.US&back=PGX
+FHN-E	First Horizon Corp 6.5	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN-E.US&back=PGX
+FRT-C	Federal Realty Investment Trust 5	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT-C.US&back=PGX
+EPR-G	EPR Properties 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=EPR-G.US&back=PGX
+DTB	DTE Energy Co 4.38 10/15/2080	/etf/ea/ETZCW.djhtm?c=1&etfid=DTB.US&back=PGX
+CNO-A	CNO Financial Group Inc 5.12 11/25/2060	/etf/ea/ETZCW.djhtm?c=1&etfid=CNO-A.US&back=PGX
+MGRD	Affiliated Managers Group Inc 4.2 09/30/2061	/etf/ea/ETZCW.djhtm?c=1&etfid=MGRD.US&back=PGX
+PSB-Y	PS Business Parks Inc 5.2	/etf/ea/ETZCW.djhtm?c=1&etfid=PSB-Y.US&back=PGX
+WBS-F	Webster Financial Corp 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=WBS-F.US&back=PGX
+BPYPP	Brookfield Property Partners LP 6.5	/etf/ea/ETZCW.djhtm?c=1&etfid=BPYPP.US&back=PGX
+BIP-A	Brookfield Infrastructure Partners LP 5.12	/etf/ea/ETZCW.djhtm?c=1&etfid=BIP-A.US&back=PGX
+PRE-J	PartnerRe Ltd 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=PRE-J.US&back=PGX
+WTFCM	Wintrust Financial Corp 6.5	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFCM.US&back=PGX
+SI-A	Silvergate Capital Corp 5.38	/etf/ea/ETZCW.djhtm?c=1&etfid=SI-A.US&back=PGX
+ADC-A	Agree Realty Corp 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=ADC-A.US&back=PGX
+OPINL	Office Properties Income Trust 6.38 06/23/2050	/etf/ea/ETZCW.djhtm?c=1&etfid=OPINL.US&back=PGX
+BOH-A	Bank of Hawaii Corp 4.38	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH-A.US&back=PGX
+PSA-O	Public Storage 3.9	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-O.US&back=PGX
+BC-B	Brunswick Corp/DE 6.62 01/15/2049	/etf/ea/ETZCW.djhtm?c=1&etfid=BC-B.US&back=PGX
+AFGD	American Financial Group Inc/OH 5.62 06/01/2060	/etf/ea/ETZCW.djhtm?c=1&etfid=AFGD.US&back=PGX
+GNL-A	Global Net Lease Inc 7.25	/etf/ea/ETZCW.djhtm?c=1&etfid=GNL-A.US&back=PGX
+MBINN	Merchants Bancorp/IN 6	/etf/ea/ETZCW.djhtm?c=1&etfid=MBINN.US&back=PGX
+ARGO-A	Argo Group International Holdings Ltd 7	/etf/ea/ETZCW.djhtm?c=1&etfid=ARGO-A.US&back=PGX
+ARGD	Argo Group US Inc 6.5 09/15/2042	/etf/ea/ETZCW.djhtm?c=1&etfid=ARGD.US&back=PGX
+FITBP	Fifth Third Bancorp 6	/etf/ea/ETZCW.djhtm?c=1&etfid=FITBP.US&back=PGX
+FHN-F	First Horizon Corp 4.7	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN-F.US&back=PGX
+CFR-B	Cullen/Frost Bankers Inc 4.45	/etf/ea/ETZCW.djhtm?c=1&etfid=CFR-B.US&back=PGX
+DHCNL	Diversified Healthcare Trust 6.25 02/01/2046	/etf/ea/ETZCW.djhtm?c=1&etfid=DHCNL.US&back=PGX
+PSEC-A	Prospect Capital Corp 5.35	/etf/ea/ETZCW.djhtm?c=1&etfid=PSEC-A.US&back=PGX
+SF-B	Stifel Financial Corp 6.25	/etf/ea/ETZCW.djhtm?c=1&etfid=SF-B.US&back=PGX
+SITC-A	SITE Centers Corp 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=SITC-A.US&back=PGX
+TRTN-D	Triton International Ltd 6.88	/etf/ea/ETZCW.djhtm?c=1&etfid=TRTN-D.US&back=PGX
+VLYPP	Valley National Bancorp 6.25	/etf/ea/ETZCW.djhtm?c=1&etfid=VLYPP.US&back=PGX
+PSA-Q	Public Storage 3.95	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-Q.US&back=PGX
+ONBPP	Old National Bancorp/IN 7	/etf/ea/ETZCW.djhtm?c=1&etfid=ONBPP.US&back=PGX
+FHN-D	First Horizon Corp 6.1	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN-D.US&back=PGX
+ESGRO	Enstar Group Ltd 7	/etf/ea/ETZCW.djhtm?c=1&etfid=ESGRO.US&back=PGX
+DCP-C	DCP Midstream LP 7.95	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP-C.US&back=PGX
+ASB-E	Associated Banc-Corp 5.88	/etf/ea/ETZCW.djhtm?c=1&etfid=ASB-E.US&back=PGX
+FTAIO	Fortress Transportation and Infrastructure Investors LLC 8	/etf/ea/ETZCW.djhtm?c=1&etfid=FTAIO.US&back=PGX
+AFGB	American Financial Group Inc/OH 5.88 03/30/2059	/etf/ea/ETZCW.djhtm?c=1&etfid=AFGB.US&back=PGX
+COF-K	Capital One Financial Corp 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-K.US&back=PGX
+AMH-H	American Homes 4 Rent 6.25	/etf/ea/ETZCW.djhtm?c=1&etfid=AMH-H.US&back=PGX
+AMH-G	American Homes 4 Rent 5.88	/etf/ea/ETZCW.djhtm?c=1&etfid=AMH-G.US&back=PGX
+SCE-G	SCE Trust II 5.1	/etf/ea/ETZCW.djhtm?c=1&etfid=SCE-G.US&back=PGX
+FTAIN	Fortress Transportation and Infrastructure Investors LLC 8.25	/etf/ea/ETZCW.djhtm?c=1&etfid=FTAIN.US&back=PGX
+MBINO	Merchants Bancorp/IN 6	/etf/ea/ETZCW.djhtm?c=1&etfid=MBINO.US&back=PGX
+FTAIP	Fortress Transportation and Infrastructure Investors LLC 8.25	/etf/ea/ETZCW.djhtm?c=1&etfid=FTAIP.US&back=PGX
+FOSLL	Fossil Group Inc 7 11/30/2026	/etf/ea/ETZCW.djhtm?c=1&etfid=FOSLL.US&back=PGX
+DCP-B	DCP Midstream LP 7.88	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP-B.US&back=PGX
+PSA-J	Public Storage 4.7	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA-J.US&back=PGX
+ONBPO	Old National Bancorp/IN 7	/etf/ea/ETZCW.djhtm?c=1&etfid=ONBPO.US&back=PGX
+NS-B	NuStar Energy LP 9.13	/etf/ea/ETZCW.djhtm?c=1&etfid=NS-B.US&back=PGX
+NS-C	NuStar Energy LP 9	/etf/ea/ETZCW.djhtm?c=1&etfid=NS-C.US&back=PGX
+ASB-F	Associated Banc-Corp 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=ASB-F.US&back=PGX
+KMPB	Kemper Corp 5.88 03/15/2062	/etf/ea/ETZCW.djhtm?c=1&etfid=KMPB.US&back=PGX
+ALL-B	Allstate Corp/The 5.1 01/15/2053	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL-B.US&back=PGX
+GNL-B	Global Net Lease Inc 6.88	/etf/ea/ETZCW.djhtm?c=1&etfid=GNL-B.US&back=PGX
+ET-D	Energy Transfer LP 7.62	/etf/ea/ETZCW.djhtm?c=1&etfid=ET-D.US&back=PGX
+MER-K	Bank of America Corp 6.45 12/15/2066	/etf/ea/ETZCW.djhtm?c=1&etfid=MER-K.US&back=PGX
+AHL-C	Aspen Insurance Holdings Ltd 5.95	/etf/ea/ETZCW.djhtm?c=1&etfid=AHL-C.US&back=PGX

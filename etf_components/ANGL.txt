@@ -1,0 +1,219 @@
+ANGL
+	Sprint Capital Corp 6.875 11/15/2028	
+	Sprint Capital Corp 8.75 03/15/2032	
+	Vodafone Group Plc 7 04/04/2079	
+	Intesa Sanpaolo Spa 5.017 06/26/2024	
+	Newell Brands Inc 4.2 04/01/2026	
+	Occidental Petroleum Corp 6.45 09/15/2036	
+	Las Vegas Sands Corp 3.2 08/08/2024	
+	Royal Caribbean Cruises Ltd 11.5 06/01/2025	
+	Deutsche Bank Ag 4.5 04/01/2025	
+	Firstenergy Corp 3.9 07/15/2027	
+	Electricite De France Sa 5.625 01/22/2168	
+	Occidental Petroleum Corp 6.6 03/15/2046	
+	Apache Corp 5.1 09/01/2040	
+	Embarq Corp 7.995 06/01/2036	
+	Dresdner Funding Trust I 8.151 06/30/2031	
+	Western Midstream Operating Lp 4.05 02/01/2030	
+	Occidental Petroleum Corp 5.55 03/15/2026	
+	Occidental Petroleum Corp 7.5 05/01/2031	
+	Ford Motor Credit Co Llc 5.584 03/18/2024	
+	Ford Motor Co 4.75 01/15/2043	
+	Ford Motor Credit Co Llc 4.063 11/01/2024	
+	Firstenergy Corp 7.375 11/15/2031	
+	Ford Motor Co 4.346 12/08/2026	
+	Rolls-Royce Plc 3.625 10/14/2025	
+	Ford Motor Credit Co Llc 5.113 05/03/2029	
+	Las Vegas Sands Corp 3.5 08/18/2026	
+	Western Midstream Operating Lp 5.25 02/01/2050	
+	Telecom Italia Capital Sa 7.721 06/04/2038	
+	Telecom Italia Capital Sa 6.375 11/15/2033	
+	Telecom Italia Capital Sa 7.2 07/18/2036	
+	Ford Motor Credit Co Llc 4.134 08/04/2025	
+	Delta Air Lines Inc 2.9 10/28/2024	
+	Resorts World Las Vegas Llc / Rwlv Capi 4.625 04/16/2029	
+	Other/Cash	
+	Telecom Italia Capital Sa 6 09/30/2034	
+	Standard Chartered Plc 7.014 07/30/2049	
+	Eqm Midstream Partners Lp 5.5 07/15/2028	
+	Occidental Petroleum Corp 6.2 03/15/2040	
+	Service Properties Trust 4.35 10/01/2024	
+	Ford Motor Credit Co Llc 4.389 01/08/2026	
+	Ford Motor Co 7.45 07/16/2031	
+	Enlink Midstream Partners Lp 4.15 06/01/2025	
+	Western Midstream Operating Lp 3.1 02/01/2025	
+	Perrigo Finance Unlimited Co 4.375 03/15/2026	
+	Ford Motor Co 5.291 12/08/2046	
+	Perrigo Finance Unlimited Co 3.9 12/15/2024	
+	Perrigo Finance Unlimited Co 3.15 06/15/2030	
+	Nordstrom Inc 5 01/15/2044	
+	Occidental Petroleum Corp 2.9 08/15/2024	
+	Las Vegas Sands Corp 3.9 08/08/2029	
+	Western Midstream Operating Lp 5.3 03/01/2048	
+	Howmet Aerospace Inc 5.9 02/01/2027	
+	Firstenergy Corp 3.4 03/01/2050	
+	Howmet Aerospace Inc 5.95 02/01/2037	
+	Firstenergy Corp 4.85 07/15/2047	
+	Methanex Corp 5.25 12/15/2029	
+	Topaz Solar Farms Llc 5.75 09/30/2039	
+	Occidental Petroleum Corp 7.875 09/15/2031	
+	Newell Brands Inc 5.5 04/01/2046	
+	Fluor Corp 4.25 09/15/2028	
+	Spirit Aerosystems Inc 4.6 06/15/2028	
+	Western Midstream Operating Lp 5.45 04/01/2044	
+	Under Armour Inc 3.25 06/15/2026	
+	United States Cellular Corp 6.7 12/15/2033	
+	Buckeye Partners Lp 3.95 12/01/2026	
+	Occidental Petroleum Corp 6.95 07/01/2024	
+	Nokia Oyj 6.625 05/15/2039	
+	Apache Corp 4.25 01/15/2030	
+	Firstenergy Corp 2.65 03/01/2030	
+	Ford Motor Credit Co Llc 4.271 01/09/2027	
+	Seagate Hdd Cayman 4.875 03/01/2024	
+	Rockies Express Pipeline Llc 4.95 07/15/2029	
+	Bombardier Inc 7.45 05/01/2034	
+	Occidental Petroleum Corp 0 10/10/2036	
+	Ford Motor Credit Co Llc 3.81 01/09/2024	
+	Seagate Hdd Cayman 4.875 06/01/2027	
+	Sealed Air Corp 6.875 07/15/2033	
+	Seagate Hdd Cayman 4.75 01/01/2025	
+	Ford Motor Credit Co Llc 3.664 09/08/2024	
+	Eqm Midstream Partners Lp 6.5 07/15/2048	
+	Genting New York Llc / Genny Capital In 3.3 02/15/2026	
+	Las Vegas Sands Corp 2.9 06/25/2025	
+	Navient Corp 5.625 08/01/2033	
+	Eqm Midstream Partners Lp 4.125 12/01/2026	
+	Western Midstream Operating Lp 4.65 07/01/2026	
+	Seagate Hdd Cayman 5.75 12/01/2034	
+	Ford Motor Credit Co Llc 4.542 08/01/2026	
+	Patterson-Uti Energy Inc 3.95 02/01/2028	
+	Seagate Hdd Cayman 4.091 06/01/2029	
+	Rockies Express Pipeline Llc 6.875 04/15/2040	
+	Steelcase Inc 5.125 01/18/2029	
+	Lumen Technologies Inc 7.6 09/15/2039	
+	Ford Motor Credit Co Llc 3.815 11/02/2027	
+	Apache Corp 6 01/15/2037	
+	Ohio National Financial Services Inc 6.05 01/24/2030	
+	Seagate Hdd Cayman 4.125 01/15/2031	
+	Trinity Industries Inc 4.55 10/01/2024	
+	Southwestern Energy Co 6.7 01/23/2025	
+	Travel + Leisure Co 4.5 04/01/2027	
+	Occidental Petroleum Corp 7.95 06/15/2039	
+	Nordstrom Inc 4.375 04/01/2030	
+	Lumen Technologies Inc 6.875 01/15/2028	
+	Delta Air Lines Inc 3.75 10/28/2029	
+	Enlink Midstream Partners Lp 5.45 06/01/2047	
+	Diversified Healthcare Trust 4.75 02/15/2028	
+	Crown Cork & Seal Co Inc 7.375 12/15/2026	
+	Hexcel Corp 4.2 02/15/2027	
+	Hillenbrand Inc 4.5 09/15/2026	
+	Newell Brands Inc 5.375 04/01/2036	
+	Occidental Petroleum Corp 4.4 04/15/2046	
+	Oceaneering International Inc 4.65 11/15/2024	
+	Western Midstream Operating Lp 3.95 06/01/2025	
+	Western Midstream Operating Lp 4.5 03/01/2028	
+	Western Midstream Operating Lp 4.75 08/15/2028	
+	Service Properties Trust 4.75 10/01/2026	
+	Rockies Express Pipeline Llc 3.6 05/15/2025	
+	Pacific Western Bank 3.25 05/01/2031	
+	Delta Air Lines Inc 4.375 04/19/2028	
+	Dpl Inc 4.35 04/15/2029	
+	Firstenergy Corp 2.25 09/01/2030	
+	Fluor Corp 3.5 12/15/2024	
+	Ford Motor Credit Co Llc 4.687 06/09/2025	
+	Buckeye Partners Lp 4.125 12/01/2027	
+	Travel + Leisure Co 5.1 10/01/2025	
+	United States Steel Corp 6.65 06/01/2037	
+	Tenet Healthcare Corp 6.875 11/15/2031	
+	Transocean Inc 6.8 03/15/2038	
+	Royal Caribbean Cruises Ltd 3.7 03/15/2028	
+	Southeast Supply Header Llc 4.25 06/15/2024	
+	Yum! Brands Inc 6.875 11/15/2037	
+	Apache Corp 4.75 04/15/2043	
+	Brinker International Inc 5 10/01/2024	
+	Enlink Midstream Partners Lp 5.05 04/01/2045	
+	Apache Corp 5.25 02/01/2042	
+	Service Properties Trust 4.95 10/01/2029	
+	Service Properties Trust 4.65 03/15/2024	
+	Service Properties Trust 4.95 02/15/2027	
+	Yum! Brands Inc 3.875 11/01/2023	
+	Apache Corp 5.35 07/01/2049	
+	Buckeye Partners Lp 5.85 11/15/2043	
+	Patterson-Uti Energy Inc 5.15 11/15/2029	
+	Nordstrom Inc 4 03/15/2027	
+	Nordstrom Inc 4.25 08/01/2031	
+	Howmet Aerospace Inc 6.75 01/15/2028	
+	Service Properties Trust 4.5 03/15/2025	
+	Service Properties Trust 3.95 01/15/2028	
+	Service Properties Trust 5.25 02/15/2026	
+	Rockies Express Pipeline Llc 4.8 05/15/2030	
+	Travel + Leisure Co 4.15 04/01/2024	
+	Transalta Corp 6.5 03/15/2040	
+	Xerox Corp 6.75 12/15/2039	
+	Xpo Cnw Inc 6.7 05/01/2034	
+	Western Midstream Operating Lp 5.5 08/15/2048	
+	Hexcel Corp 4.95 08/15/2025	
+	Frontier Florida Llc 6.86 02/01/2028	
+	Nordstrom Inc 6.95 03/15/2028	
+	Apache Corp 4.375 10/15/2028	
+	Bath & Body Works Inc 6.95 03/01/2033	
+	Ford Motor Co 6.625 10/01/2028	
+	Eqm Midstream Partners Lp 4 08/01/2024	
+	Buckeye Partners Lp 4.35 10/15/2024	
+	Occidental Petroleum Corp 3.4 04/15/2026	
+	Hb Fuller Co 4 02/15/2027	
+	Methanex Corp 4.25 12/01/2024	
+	Marks & Spencer Plc 7.125 12/01/2037	
+	Xerox Corp 3.8 05/15/2024	
+	Service Properties Trust 4.375 02/15/2030	
+	Resorts World Las Vegas Llc / Rwlv Capi 4.625 04/06/2031	
+	Mattel Inc 5.45 11/01/2041	
+	Murphy Oil Corp 5.125 12/01/2042	
+	Occidental Petroleum Corp 4.625 06/15/2045	
+	Enlink Midstream Partners Lp 5.6 04/01/2044	
+	Firstenergy Corp 2.05 03/01/2025	
+	Firstenergy Corp 1.6 01/15/2026	
+	Ford Motor Co 7.4 11/01/2046	
+	Pactiv Llc 7.95 12/15/2025	
+	Occidental Petroleum Corp 3.5 08/15/2029	
+	Genworth Holdings Inc 6.5 06/15/2034	
+	Qwest Corp 7.25 09/15/2025	
+	Royal Caribbean Cruises Ltd 7.5 10/15/2027	
+	Spirit Aerosystems Inc 3.85 06/15/2026	
+	Toledo Hospital/The 6.015 11/15/2048	
+	Safeway Inc 7.25 02/01/2031	
+	Proassurance Corp 5.3 11/15/2023	
+	Mattel Inc 6.2 10/01/2040	
+	Macy's Retail Holdings Llc 4.5 12/15/2034	
+	Occidental Petroleum Corp 4.2 03/15/2048	
+	Oceaneering International Inc 6 02/01/2028	
+	Ohio National Financial Services Inc 6.625 05/01/2031	
+	Brightsphere Investment Group Inc 4.8 07/27/2026	
+	Occidental Petroleum Corp 4.4 08/15/2049	
+	Murphy Oil Corp 7.05 05/01/2029	
+	Yum! Brands Inc 5.35 11/01/2043	
+	Transocean Inc 7.5 04/15/2031	
+	Nordstrom Inc 2.3 04/08/2024	
+	Buckeye Partners Lp 5.6 10/15/2044	
+	Diversified Healthcare Trust 4.75 05/01/2024	
+	Ford Holdings Llc 9.3 03/01/2030	
+	Methanex Corp 5.65 12/01/2044	
+	Occidental Petroleum Corp 4.3 08/15/2039	
+	Perrigo Finance Unlimited Co 4.9 12/15/2044	
+	Rockies Express Pipeline Llc 7.5 07/15/2038	
+	Toledo Hospital/The 5.325 11/15/2028	
+	Xerox Corp 4.8 03/01/2035	
+	Toledo Hospital/The 4.982 11/15/2045	
+	Macy's Retail Holdings Llc 5.125 01/15/2042	
+	Macy's Retail Holdings Llc 4.3 02/15/2043	
+	Global Marine Inc 7 06/01/2028	
+	Bed Bath & Beyond Inc 5.165 08/01/2044	
+	Enlink Midstream Partners Lp 4.4 04/01/2024	
+	Bed Bath & Beyond Inc 3.749 08/01/2024	
+	Occidental Petroleum Corp 4.1 02/15/2047	
+	Cleveland-Cliffs Inc 6.25 10/01/2040	
+	Dcp Midstream Operating Lp 5.6 04/01/2044	
+	Dcp Midstream Operating Lp 6.45 11/03/2036	
+	Dcp Midstream Operating Lp 6.75 09/15/2037	
+	Dcp Midstream Operating Lp 8.125 08/16/2030	
+	Ford Motor Credit Co Llc 4.375 08/06/2023	

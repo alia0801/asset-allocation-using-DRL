@@ -1,0 +1,31 @@
+PSJ
+SNAP	Snap Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNAP.US&back=PSJ
+CHKP	Check Point Software Technologies Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CHKP.US&back=PSJ
+EA	Electronic Arts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=PSJ
+CDNS	Cadence Design Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=PSJ
+TTWO	Take-Two Interactive Software Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=PSJ
+RBLX	ROBLOX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=PSJ
+SNPS	Synopsys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=PSJ
+BR	Broadridge Financial Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=PSJ
+NXGN	NextGen Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NXGN.US&back=PSJ
+ESMT	EngageSmart Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESMT.US&back=PSJ
+NTCT	NetScout Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTCT.US&back=PSJ
+INST	Instructure Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INST.US&back=PSJ
+CSGS	CSG Systems International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGS.US&back=PSJ
+MANH	Manhattan Associates Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MANH.US&back=PSJ
+RMBS	Rambus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RMBS.US&back=PSJ
+PSN	Parsons Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PSN.US&back=PSJ
+NEWR	New Relic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWR.US&back=PSJ
+MDRX	Allscripts Healthcare Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDRX.US&back=PSJ
+PLTK	Playtika Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTK.US&back=PSJ
+QLYS	Qualys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QLYS.US&back=PSJ
+JKHY	Jack Henry & Associates Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=PSJ
+CCSI	Consensus Cloud Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCSI.US&back=PSJ
+NLOK	NortonLifeLock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=PSJ
+FICO	Fair Isaac Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FICO.US&back=PSJ
+BOX	Box Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BOX.US&back=PSJ
+BMBL	Bumble Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BMBL.US&back=PSJ
+SLP	Simulations Plus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLP.US&back=PSJ
+MPLN	Multiplan Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLN.US&back=PSJ
+VRNT	Verint Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNT.US&back=PSJ
+WETG	WeTrade Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WETG.US&back=PSJ

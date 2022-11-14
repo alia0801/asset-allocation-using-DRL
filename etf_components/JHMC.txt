@@ -1,0 +1,11 @@
+JHMC
+TSLA	Tesla,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=JHMC
+AMZN	Amazon.com,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=JHMC
+HD	Home Depot,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=JHMC
+WMT	Walmart,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=JHMC
+MCD	McDonald's Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=JHMC
+NKE	NIKE,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=JHMC
+TJX	TJX Cos,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=JHMC
+DG	Dollar General Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=JHMC
+TGT	Target Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=JHMC
+LULU	Lululemon Athletica,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=JHMC

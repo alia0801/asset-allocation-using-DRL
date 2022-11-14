@@ -1,0 +1,65 @@
+EMLP
+EPD	Enterprise Products Partners L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=EMLP
+MMP	Magellan Midstream Partners,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=EMLP
+ET	Energy Transfer LP	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=EMLP
+	US Dollar	
+NEP	NextEra Energy Partners,LP	/etf/ea/ETZCW.djhtm?c=1&etfid=NEP.US&back=EMLP
+PWR	Quanta Services,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=EMLP
+LNG	Cheniere Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=EMLP
+DTM	DT Midstream,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=EMLP
+TRP	TC Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=EMLP
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=EMLP
+AEP	American Electric Power Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=EMLP
+PAGP	Plains GP Holdings,L.P. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=PAGP.US&back=EMLP
+	AltaGas Ltd.	
+PEG	Public Service Enterprise Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=EMLP
+KMI	Kinder Morgan,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=EMLP
+WMB	The Williams Companies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=EMLP
+SO	The Southern Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=EMLP
+	Keyera Corp.	
+OKE	ONEOK,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=EMLP
+LNT	Alliant Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=EMLP
+CQP	Cheniere Energy Partners,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=CQP.US&back=EMLP
+IDA	IDACORP,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDA.US&back=EMLP
+D	Dominion Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=EMLP
+NEE	NextEra Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=EMLP
+CNP	CenterPoint Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNP.US&back=EMLP
+ENB	Enbridge Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=EMLP
+	ATCO Ltd.	
+PPL	PPL Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=EMLP
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=EMLP
+TRGP	Targa Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=EMLP
+ATO	Atmos Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=EMLP
+DTE	DTE Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=EMLP
+OGS	ONE Gas,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OGS.US&back=EMLP
+HEP	Holly Energy Partners,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=EMLP
+NFG	National Fuel Gas Company	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=EMLP
+CMS	CMS Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=EMLP
+XEL	Xcel Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=EMLP
+	Iberdrola S.A. (ADR)	
+	Enel SpA (ADR)	
+HESM	Hess Midstream LP (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=EMLP
+NJR	New Jersey Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NJR.US&back=EMLP
+WEC	WEC Energy Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=EMLP
+EXC	Exelon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=EMLP
+ES	Eversource Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=EMLP
+WLKP	Westlake Chemical Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=WLKP.US&back=EMLP
+CEG	Constellation Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=EMLP
+UGI	UGI Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=EMLP
+CWEN.A	Clearway Energy,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CWEN.A.US&back=EMLP
+WES	Western Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=EMLP
+ENLC	Enlink Midstream,LLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENLC.US&back=EMLP
+AES	The AES Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=EMLP
+ENPH	Enphase Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=EMLP
+AROC	Archrock,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AROC.US&back=EMLP
+	Northland Power Inc.	
+USAC	USA Compression Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=USAC.US&back=EMLP
+LFG	Archaea Energy Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=LFG.US&back=EMLP
+AWK	American Water Works Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=EMLP
+	Canadian Utilities Limited (Class A)	
+	Fortis Inc.	
+	Emera Incorporated	
+DUK	Duke Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=EMLP
+CPK	Chesapeake Utilities Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CPK.US&back=EMLP
+	Orsted A/S (ADR)	
+DCP	DCP Midstream,LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP.US&back=EMLP

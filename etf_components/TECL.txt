@@ -1,0 +1,96 @@
+TECL
+	TECHNOLOGY SELECT SECTOR INDEX SWAP	
+	TECHNOLOGY SELECT SECTOR INDEX SWAP	
+	TECHNOLOGY SELECT SECTOR INDEX SWAP	
+	TECHNOLOGY SELECT SECTOR INDEX SWAP	
+	TECHNOLOGY SELECT SECTOR INDEX SWAP	
+	TECHNOLOGY SELECT SECTOR INDEX SWAP	
+	TECHNOLOGY SELECT SECTOR INDEX SWAP	
+AAPL	APPLE INC USD 0.00001	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=TECL
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=TECL
+	DREYFUS GOVT CASH MGMT	
+	TECHNOLOGY SELECT SECTOR INDEX SWAP	
+	DREYFUS TREASURY SECURITIES CASH MANAGEMENT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+	GOLDMAN FINL SQ TRSRY INST 506	
+	DREYFUS GOVT CASH MGMT	
+NVDA	NVIDIA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=TECL
+	GOLDMAN FS GOVT INST	
+	GOLDMAN FINL SQ TRSRY INST 506	
+V	VISA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=TECL
+MA	Mastercard Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=TECL
+AVGO	BROADCOM INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=TECL
+	GOLDMAN FINL SQ TRSRY INST 506	
+CSCO	CISCO SYS INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=TECL
+ACN	ACCENTURE PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=TECL
+ADBE	Adobe Systems	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=TECL
+	DREYFUS GOVT CASH MGMT	
+CRM	SALESFORCE COM INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=TECL
+TXN	Texas Instruments	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=TECL
+QCOM	QUALCOMM Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=TECL
+AMD	Advanced Micro Devices Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=TECL
+INTC	Intel Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=TECL
+	GOLDMAN FINL SQ TRSRY INS	
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=TECL
+IBM	International Bus. Machines	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=TECL
+ORCL	Oracle Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=TECL
+PYPL	PayPal Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=TECL
+ADP	Automatic Data Processing Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=TECL
+NOW	SERVICENOW INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=TECL
+AMAT	Applied Materials	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=TECL
+ADI	Analog Devices	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=TECL
+MU	Micron Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=TECL
+LRCX	LAM RESEARCH	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=TECL
+FISV	FIserv Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=TECL
+FIS	Fidelity National Information Services	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=TECL
+KLAC	KLA-Tencor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=TECL
+SNPS	Synopsys  Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=TECL
+	DREYFUS GOVT CASH MGMT	
+CDNS	Cadence Design Systems	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=TECL
+APH	Amphenol Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=TECL
+ADSK	Autodesk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADSK.US&back=TECL
+NXPI	NXP SEMICONDUCTORS NV USD 0.2	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=TECL
+ROP	Roper Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=TECL
+PAYX	Paychex Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=TECL
+MSI	MOTOROLA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=TECL
+TEL	TE CONNECTIVITY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=TECL
+ENPH	ENPHASE ENERGY INC USD 0.00001	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=TECL
+MCHP	Microchip Technology	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=TECL
+GPN	Global Payments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=TECL
+CTSH	Cognizant Technology Solutions	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=TECL
+HPQ	HP INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=TECL
+FTNT	FORTINET I USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=TECL
+KEYS	KEYSIGHT TECHNOLOGIES INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=TECL
+ON	ON SEMICONDUCTOR CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=TECL
+ANET	ARISTA NETWORKS INC USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=TECL
+GLW	Corning Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=TECL
+EPAM	EPAM SYS INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=TECL
+IT	Gartner Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=TECL
+CDW	CDW CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=TECL
+ANSS	ANSYS Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=TECL
+BR	Broadridge Financial Solutions	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=TECL
+MPWR	Monolithic Power Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=TECL
+HPE	HEWLETT PACKARD ENTERPRISE USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=TECL
+TDY	Teledyne Technologies	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=TECL
+VRSN	VERISIGN INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=TECL
+SWKS	SKYWORKS S COM	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=TECL
+TRMB	Trimble Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=TECL
+ZBRA	ZEBRA TECHNOLOGIES CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBRA.US&back=TECL
+FLT	FLEETCOR TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=TECL
+NTAP	NETAPP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=TECL
+PAYC	PAYCOM SOFTWARE INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=TECL
+AKAM	Akamai Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=TECL
+TYL	Tyler Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=TECL
+SEDG	SolarEdge Technologies Inc I USD 0.0001	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=TECL
+STX	SEAGATE TE ORDINARY SHARES	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=TECL
+WDC	Western Digital	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=TECL
+TER	Teradyne Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=TECL
+NLOK	NORTONLIFELOCK INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=TECL
+JKHY	Henry (Jack) & Assoc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=TECL
+PTC	PTC INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=TECL
+	Citrix Systems	
+JNPR	JUNIPER NETWORKS INC USD 0.00001	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=TECL
+FFIV	F5 NETWORKS INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=TECL
+QRVO	QORVO INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=TECL
+CDAY	Ceridian HCM Holding Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDAY.US&back=TECL
+DXC	Everett Spinco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=TECL

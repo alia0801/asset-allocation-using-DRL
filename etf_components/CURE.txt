@@ -1,0 +1,73 @@
+CURE
+	HEALTH CARE SELECT SECTOR INDEX SWAP	
+	HEALTH CARE SELECT SECTOR INDEX SWAP	
+	HEALTH CARE SELECT SECTOR INDEX SWAP	
+	DREYFUS GOVT CASH MGMT	
+	HEALTH CARE SELECT SECTOR INDEX SWAP	
+	GOLDMAN FINL SQ TRSRY INST 506	
+UNH	United Health Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=CURE
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=CURE
+	DREYFUS GOVT CASH MGMT	
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=CURE
+LLY	Lilly (Eli) & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=CURE
+ABBV	ABBVIE INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=CURE
+MRK	MERCK & CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=CURE
+TMO	Thermo Fisher Scientific Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=CURE
+	GOLDMAN FINL SQ TRSRY INST 506	
+DHR	Danaher Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=CURE
+ABT	Abbott Labs	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=CURE
+BMY	Bristol-Myers Squibb	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=CURE
+CVS	CVS/Caremark Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=CURE
+AMGN	Amgen	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=CURE
+MDT	MEDTRONIC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=CURE
+ELV	ANTHEM INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=CURE
+CI	Cigna Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=CURE
+GILD	Gilead Sciences	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=CURE
+ISRG	Intuitive Surgical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=CURE
+ZTS	ZOETIS INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=CURE
+VRTX	Vertex Pharmaceuticals	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=CURE
+BDX	Becton Dickinson	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=CURE
+SYK	Stryker Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SYK.US&back=CURE
+REGN	Regeneron Pharmaceuticals	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=CURE
+HUM	Humana Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=CURE
+BSX	Boston Scientific Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BSX.US&back=CURE
+EW	Edwards Lifesciences Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=CURE
+CNC	CENTENE CORP DEL	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=CURE
+MCK	McKesson Corp. (New)	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=CURE
+MRNA	Moderna Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=CURE
+HCA	HCA HLDGS INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=CURE
+IQV	IQVIA Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=CURE
+A	Agilent Technologies	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=CURE
+DXCM	DEXCOM INC USD 0.001	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=CURE
+ILMN	Illumina Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=CURE
+RMD	ResMed Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=CURE
+IDXX	IDEXX Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=CURE
+BIIB	BIOGEN IDEC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=CURE
+BAX	Baxter International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=CURE
+MTD	Mettler-Toledo Intl	/etf/ea/ETZCW.djhtm?c=1&etfid=MTD.US&back=CURE
+ZBH	ZIMMER BIOMET HLDGS INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=CURE
+WST	West Pharmaceutical Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=CURE
+ABC	AmerisourceBergen Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=CURE
+LH	Laboratory Corp. of America Holding	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=CURE
+STE	STERIS PLC USD 75.0	/etf/ea/ETZCW.djhtm?c=1&etfid=STE.US&back=CURE
+MOH	Molina Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=CURE
+CAH	Cardinal Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=CURE
+ALGN	Align Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=CURE
+WAT	Waters Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=CURE
+PKI	PerkinElmer Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PKI.US&back=CURE
+CTLT	CATALENT INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLT.US&back=CURE
+HOLX	Hologic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=CURE
+DGX	Quest Diagnostics	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=CURE
+COO	The Cooper Companies	/etf/ea/ETZCW.djhtm?c=1&etfid=COO.US&back=CURE
+TECH	BIO-TECHNE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TECH.US&back=CURE
+INCY	INCYTE GENOMICS INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=CURE
+VTRS	Upjohn Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=CURE
+ABMD	Abiomed Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABMD.US&back=CURE
+BIO	Bio-Rad Labs Inc A	/etf/ea/ETZCW.djhtm?c=1&etfid=BIO.US&back=CURE
+CRL	Charles River Laboratories International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRL.US&back=CURE
+HSIC	Schein (Henry) Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HSIC.US&back=CURE
+TFX	TELEFLEX INC USD 1.0	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=CURE
+OGN	Organon & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=CURE
+UHS	Univl Health Svs Cl'B'	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=CURE
+XRAY	DENTSPLY INT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=XRAY.US&back=CURE
+DVA	Davita Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=CURE

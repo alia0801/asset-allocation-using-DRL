@@ -1,0 +1,700 @@
+SPGM
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=SPGM
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=SPGM
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=SPGM
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=SPGM
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=SPGM
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=SPGM
+UNH	UnitedHealth Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=SPGM
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=SPGM
+TSM	Taiwan Semiconductor Manufacturing Co. Ltd. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=SPGM
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=SPGM
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=SPGM
+META	Meta Platforms Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=SPGM
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=SPGM
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=SPGM
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=SPGM
+TMO	Thermo Fisher Scientific Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=SPGM
+BAC	Bank of America Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=SPGM
+COST	Costco Wholesale Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=SPGM
+	Nestle S.A.	
+CVX	Chevron Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=SPGM
+DHR	Danaher Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=SPGM
+LLY	Eli Lilly and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=SPGM
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=SPGM
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=SPGM
+0700.HK&back=SPGM	Tencent Holdings Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=0700.HK&back=SPGM
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=SPGM
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=SPGM
+HON	Honeywell International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=SPGM
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=SPGM
+DIS	Walt Disney Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=SPGM
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=SPGM
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=SPGM
+	Novo Nordisk A/S Class B	
+MRK	Merck & Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=SPGM
+NEE	NextEra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=SPGM
+	Samsung Electronics Co. Ltd. Sponsored GDR	
+WM	Waste Management Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=SPGM
+	ASML Holding NV	
+BRK.B	Berkshire Hathaway Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=SPGM
+MMC	Marsh & McLennan Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=SPGM
+MA	Mastercard Incorporated Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=SPGM
+	Roche Holding Ltd Dividend Right Cert.	
+WFC	Wells Fargo & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=SPGM
+NKE	NIKE Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=SPGM
+PLD	Prologis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=SPGM
+	Shell PLC	
+CRM	Salesforce Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=SPGM
+MDT	Medtronic Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=SPGM
+RTX	Raytheon Technologies Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=SPGM
+PG	Procter & Gamble Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=SPGM
+LOW	Lowe's Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=SPGM
+UNP	Union Pacific Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=SPGM
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=SPGM
+ELV	Elevance Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=SPGM
+7203.JP&back=SPGM	Toyota Motor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=7203.JP&back=SPGM
+ACN	Accenture Plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=SPGM
+CVS	CVS Health Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=SPGM
+LIN	Linde plc	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=SPGM
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=SPGM
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=SPGM
+GS	Goldman Sachs Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=SPGM
+ITW	Illinois Tool Works Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=SPGM
+QCOM	Qualcomm Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=SPGM
+ETN	Eaton Corp. Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=SPGM
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=SPGM
+SBUX	Starbucks Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=SPGM
+A	Agilent Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=SPGM
+AMT	American Tower Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=SPGM
+9988.HK&back=SPGM	Alibaba Group Holding Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9988.HK&back=SPGM
+MCD	McDonald's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=SPGM
+CB	Chubb Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=SPGM
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=SPGM
+TEL	TE Connectivity Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=SPGM
+KO	Coca-Cola Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=SPGM
+ADP	Automatic Data Processing Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=SPGM
+MCK	McKesson Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=SPGM
+LMT	Lockheed Martin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=SPGM
+AFL	Aflac Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=SPGM
+AXP	American Express Company	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=SPGM
+TT	Trane Technologies plc	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=SPGM
+CHD	Church & Dwight Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=SPGM
+	CSL Limited	
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=SPGM
+C	Citigroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=SPGM
+GD	General Dynamics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=SPGM
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=SPGM
+HSY	Hershey Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=SPGM
+BDX	Becton Dickinson and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=SPGM
+TJX	TJX Companies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=SPGM
+	AstraZeneca PLC	
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=SPGM
+6758.JP&back=SPGM	Sony Group Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6758.JP&back=SPGM
+ORLY	O'Reilly Automotive Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=SPGM
+SCHW	Charles Schwab Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=SPGM
+EL	Estee Lauder Companies Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=SPGM
+PH	Parker-Hannifin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=SPGM
+	Novartis AG	
+CSX	CSX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=SPGM
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=SPGM
+CMI	Cummins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=SPGM
+DE	Deere & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=SPGM
+BMY	Bristol-Myers Squibb Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=SPGM
+MPC	Marathon Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=SPGM
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=SPGM
+NOC	Northrop Grumman Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=SPGM
+AEP	American Electric Power Company Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=SPGM
+PYPL	PayPal Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=SPGM
+	LVMH Moet Hennessy Louis Vuitton SE	
+	Bank Leumi Le-Israel Ltd.	
+UPS	United Parcel Service Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=SPGM
+AMAT	Applied Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=SPGM
+MET	MetLife Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=SPGM
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=SPGM
+NSC	Norfolk Southern Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=SPGM
+CMCSA	Comcast Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=SPGM
+CAT	Caterpillar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=SPGM
+ALL	Allstate Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=SPGM
+ADM	Archer-Daniels-Midland Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=SPGM
+	Shopping Centres Australasia Property Group RE Ltd.	
+	Capgemini SE	
+9433.JP&back=SPGM	KDDI Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=9433.JP&back=SPGM
+EOG	EOG Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=SPGM
+	Canadian National Railway Company	
+	Macquarie Group Ltd.	
+PXD	Pioneer Natural Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=SPGM
+7741.JP&back=SPGM	HOYA CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=7741.JP&back=SPGM
+INFY	Infosys Limited Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=INFY.US&back=SPGM
+	Royal Bank of Canada	
+SYY	Sysco Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=SPGM
+KEYS	Keysight Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=SPGM
+AMD	Advanced Micro Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=SPGM
+	Toronto-Dominion Bank	
+EMR	Emerson Electric Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=SPGM
+GILD	Gilead Sciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=SPGM
+MKC	McCormick & Company Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=SPGM
+TRV	Travelers Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=SPGM
+	HSBC Holdings Plc	
+TGT	Target Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=SPGM
+1299.HK&back=SPGM	AIA Group Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=1299.HK&back=SPGM
+FDX	FedEx Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=SPGM
+	Reliance Industries Limited Sponsored GDR 144A	
+PNC	PNC Financial Services Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=SPGM
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=SPGM
+BAM	Brookfield Asset Management Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BAM.US&back=SPGM
+ROST	Ross Stores Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=SPGM
+IBN	ICICI Bank Limited Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=IBN.US&back=SPGM
+CHTR	Charter Communications Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=SPGM
+	Acciona SA	
+	TELUS Corporation	
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=SPGM
+JCI	Johnson Controls International plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JCI.US&back=SPGM
+PRU	Prudential Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=SPGM
+BKNG	Booking Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=SPGM
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=SPGM
+VLO	Valero Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=SPGM
+	Geberit AG	
+CLX	Clorox Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=SPGM
+MTB	M&T Bank Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=SPGM
+SJM	J.M. Smucker Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=SPGM
+	Sage Group plc	
+	TotalEnergies SE	
+USB	U.S. Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=SPGM
+ROIC	Retail Opportunity Investments Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROIC.US&back=SPGM
+3690.HK&back=SPGM	Meituan Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=3690.HK&back=SPGM
+7951.JP&back=SPGM	Yamaha Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=7951.JP&back=SPGM
+	RELX PLC	
+	National Bank of Canada	
+BA	Boeing Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=SPGM
+GLW	Corning Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=SPGM
+CL	Colgate-Palmolive Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=SPGM
+	Koninklijke DSM N.V.	
+	Singapore Exchange Ltd.	
+PEG	Public Service Enterprise Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=SPGM
+4568.JP&back=SPGM	Daiichi Sankyo Company Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=4568.JP&back=SPGM
+KMB	Kimberly-Clark Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=SPGM
+CTSH	Cognizant Technology Solutions Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=SPGM
+BK	Bank of New York Mellon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=SPGM
+	L'Oreal S.A.	
+	VINCI SA	
+MMM	3M Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=SPGM
+	3i Group plc	
+	Schneider Electric SE	
+	Allianz SE	
+4543.JP&back=SPGM	Terumo Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=4543.JP&back=SPGM
+	Compagnie Financiere Richemont SA	
+	SAP SE	
+	Givaudan SA	
+HES	Hess Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=SPGM
+	Diageo plc	
+F	Ford Motor Company	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=SPGM
+	Rio Tinto plc	
+	Sanofi	
+	Siemens AG	
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=SPGM
+DUK	Duke Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=SPGM
+	PT Bank Central Asia Tbk	
+NFLX	Netflix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=SPGM
+TSN	Tyson Foods Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=SPGM
+	Canadian Pacific Railway Limited	
+	BHP Group Ltd	
+CHRW	C.H. Robinson Worldwide Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=SPGM
+	STATE STREET INSTITUTIONAL LIQ STATE STR	
+	Experian PLC	
+ECL	Ecolab Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=SPGM
+	BP p.l.c.	
+	ABB Ltd.	
+	EssilorLuxottica SA	
+0016.HK&back=SPGM	Sun Hung Kai Properties Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0016.HK&back=SPGM
+BAX	Baxter International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=SPGM
+YUM	Yum! Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YUM.US&back=SPGM
+9984.JP&back=SPGM	SoftBank Group Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=9984.JP&back=SPGM
+	Hon Hai Precision Industry Co. Ltd. Sponsored GDR RegS	
+8766.JP&back=SPGM	Tokio Marine Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8766.JP&back=SPGM
+6971.JP&back=SPGM	Kyocera Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6971.JP&back=SPGM
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=SPGM
+COF	Capital One Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=SPGM
+RDY	Dr. Reddy's Laboratories Ltd. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=RDY.US&back=SPGM
+	Loblaw Companies Limited	
+	Munich Reinsurance Company	
+9364.JP&back=SPGM	Kamigumi Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9364.JP&back=SPGM
+	InterContinental Hotels Group PLC	
+CHT	Chunghwa Telecom Co. Ltd Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CHT.US&back=SPGM
+6902.JP&back=SPGM	DENSO CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=6902.JP&back=SPGM
+	Deutsche Post AG	
+6981.JP&back=SPGM	Murata Manufacturing Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6981.JP&back=SPGM
+UMH	UMH Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UMH.US&back=SPGM
+BIIB	Biogen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=SPGM
+8035.JP&back=SPGM	Tokyo Electron Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=8035.JP&back=SPGM
+SPG	Simon Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=SPGM
+FAST	Fastenal Company	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=SPGM
+DEA	Easterly Government Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DEA.US&back=SPGM
+	Iberdrola SA	
+DLTR	Dollar Tree Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=SPGM
+	UPM-Kymmene Oyj	
+	Wesfarmers Limited	
+8002.JP&back=SPGM	Marubeni Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8002.JP&back=SPGM
+NXRT	NexPoint Residential Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NXRT.US&back=SPGM
+VALE	Vale S.A. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=VALE.US&back=SPGM
+	Atlas Copco AB Class B	
+CTVA	Corteva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=SPGM
+4901.JP&back=SPGM	FUJIFILM Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4901.JP&back=SPGM
+6503.JP&back=SPGM	Mitsubishi Electric Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=6503.JP&back=SPGM
+	Deutsche Boerse AG	
+	Prosus N.V. Class N	
+	Kering SA	
+	Suncor Energy Inc.	
+	Whitbread PLC	
+6501.JP&back=SPGM	HitachiLtd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6501.JP&back=SPGM
+	Citrix Systems Inc.	
+	Compass Group PLC	
+	Ferguson Plc	
+AZN	Astrazeneca PLC Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=SPGM
+3968.HK&back=SPGM	China Merchants Bank Co. Ltd. Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=3968.HK&back=SPGM
+	Mercedes-Benz Group AG	
+	UBS Group AG	
+	Sun Life Financial Inc.	
+MO	Altria Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=SPGM
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=SPGM
+9618.HK&back=SPGM	JD.com Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=9618.HK&back=SPGM
+	State Bank of India Sponsored GDR RegS	
+	Deutsche Telekom AG	
+8306.JP&back=SPGM	Mitsubishi UFJ Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8306.JP&back=SPGM
+	OZ Minerals Limited	
+	Sonic Healthcare Limited	
+EXC	Exelon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=SPGM
+PPL	PPL Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=SPGM
+	Rogers Communications Inc. Class B	
+6861.JP&back=SPGM	Keyence Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6861.JP&back=SPGM
+	adidas AG	
+OXY	Occidental Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=SPGM
+	Merck KGaA	
+	Kuehne & Nagel International AG	
+	Zurich Insurance Group Ltd	
+	SGS SA	
+051915.KS&back=SPGM	LG Chem Ltd Pfd Registered Shs Issue 01	/etf/ea/ETZCW.djhtm?c=1&etfid=051915.KS&back=SPGM
+	Enbridge Inc.	
+NOW	ServiceNow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=SPGM
+CI	Cigna Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=SPGM
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=SPGM
+	RELX PLC	
+0939.HK&back=SPGM	China Construction Bank Corporation Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=0939.HK&back=SPGM
+PBR.A	Petroleo Brasileiro SA Sponsored ADR Pfd	/etf/ea/ETZCW.djhtm?c=1&etfid=PBR.A.US&back=SPGM
+LYB	LyondellBasell Industries NV	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=SPGM
+	Bayer AG	
+8630.JP&back=SPGM	Sompo HoldingsInc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8630.JP&back=SPGM
+	Severn Trent Plc	
+	Pernod Ricard SA	
+	BAE Systems plc	
+	GSK plc	
+	Canadian Natural Resources Limited	
+000660.KS&back=SPGM	SK hynix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=000660.KS&back=SPGM
+	Koninklijke Ahold Delhaize N.V.	
+	Universal Music Group N.V.	
+FE	FirstEnergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=SPGM
+	CapitaLand Investment Limited	
+	Discovery Limited	
+SLB	Schlumberger NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=SPGM
+SO	Southern Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=SPGM
+MRO	Marathon Oil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=SPGM
+	BNP Paribas S.A. Class A	
+0388.HK&back=SPGM	Hong Kong Exchanges & Clearing Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=0388.HK&back=SPGM
+GIS	General Mills Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=SPGM
+GM	General Motors Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=SPGM
+	A.P. Moller - Maersk A/S Class B	
+BEN	Franklin Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=SPGM
+	Veolia Environnement SA	
+	Swiss Re AG	
+3576.TW&back=SPGM	United Renewable Energy Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3576.TW&back=SPGM
+	AXA SA	
+EQR	Equity Residential	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=SPGM
+0823.HK&back=SPGM	Link Real Estate Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=0823.HK&back=SPGM
+	Nutrien Ltd.	
+K	Kellogg Company	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=SPGM
+	Housing Development Finance Corporation Limited	
+IR	Ingersoll Rand Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IR.US&back=SPGM
+GE	General Electric Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=SPGM
+	Bank of Montreal	
+	Anglo American plc	
+	NAVER Corp.	
+	Larsen & Toubro Ltd. Sponsored GDR RegS	
+NTAP	NetApp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=SPGM
+PEAK	Healthpeak Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=SPGM
+	Unilever PLC	
+	Sodexo SA	
+3407.JP&back=SPGM	Asahi Kasei Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=3407.JP&back=SPGM
+WBA	Walgreens Boots Alliance Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=SPGM
+	DNB Bank ASA	
+	Norsk Hydro ASA	
+	Bank Hapoalim BM	
+GOOD	Gladstone Commercial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOD.US&back=SPGM
+8252.JP&back=SPGM	Marui Group Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=8252.JP&back=SPGM
+	Actividades de Construccion y Servicios SA	
+CAG	Conagra Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=SPGM
+UMC	United Microelectronics Corp. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=UMC.US&back=SPGM
+STT	State Street Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=SPGM
+	Skandinaviska Enskilda Banken AB Class A	
+	U.S. Dollar	
+8015.JP&back=SPGM	Toyota Tsusho Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=8015.JP&back=SPGM
+	ASSA ABLOY AB Class B	
+	Transurban Group Ltd.	
+	British American Tobacco p.l.c.	
+	CompuGroup Medical SE & Co. KGaA	
+1802.JP&back=SPGM	Obayashi Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=1802.JP&back=SPGM
+DD	DuPont de Nemours Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=SPGM
+9005.JP&back=SPGM	TOKYU CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=9005.JP&back=SPGM
+	Airbus SE	
+	TC Energy Corporation	
+	America Movil SAB de CV Class L	
+1113.HK&back=SPGM	CK Asset Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=1113.HK&back=SPGM
+	National Australia Bank Limited	
+	UCB S.A.	
+	Onex Corporation	
+8591.JP&back=SPGM	ORIX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8591.JP&back=SPGM
+	Reckitt Benckiser Group plc	
+7974.JP&back=SPGM	Nintendo Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7974.JP&back=SPGM
+FTV	Fortive Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTV.US&back=SPGM
+WMB	Williams Companies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=SPGM
+MDLZ	Mondelez International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=SPGM
+0001.HK&back=SPGM	CK Hutchison Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0001.HK&back=SPGM
+	Fortescue Metals Group Ltd	
+8058.JP&back=SPGM	Mitsubishi Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8058.JP&back=SPGM
+	Smiths Group Plc	
+7911.JP&back=SPGM	TOPPAN INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=7911.JP&back=SPGM
+	Volvo AB Class A	
+HAL	Halliburton Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=SPGM
+	CRH Plc	
+MRNA	Moderna Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=SPGM
+	PT Telkom Indonesia (Persero) Tbk Class B	
+	Reliance Industries Limited	
+CRWD	CrowdStrike Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=SPGM
+VGR	Vector Group Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=VGR.US&back=SPGM
+	Enel SpA	
+	Brambles Limited	
+WIT	Wipro Limited Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=WIT.US&back=SPGM
+	Woodside Energy Group Ltd	
+8316.JP&back=SPGM	Sumitomo Mitsui Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8316.JP&back=SPGM
+JNPR	Juniper Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=SPGM
+	Cameco Corporation	
+9888.HK&back=SPGM	Baidu Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=9888.HK&back=SPGM
+6367.JP&back=SPGM	DAIKIN INDUSTRIES LTD.	/etf/ea/ETZCW.djhtm?c=1&etfid=6367.JP&back=SPGM
+	Lendlease Group	
+8725.JP&back=SPGM	MS&AD Insurance Group Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8725.JP&back=SPGM
+TTM	Tata Motors Limited Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TTM.US&back=SPGM
+ACRE	Ares Commercial Real Estate Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ACRE.US&back=SPGM
+5401.JP&back=SPGM	NIPPON STEEL CORP.	/etf/ea/ETZCW.djhtm?c=1&etfid=5401.JP&back=SPGM
+	United Utilities Group PLC	
+4503.JP&back=SPGM	Astellas Pharma Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=4503.JP&back=SPGM
+HPE	Hewlett Packard Enterprise Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=SPGM
+9999.HK&back=SPGM	Netease Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9999.HK&back=SPGM
+CEG	Constellation Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=SPGM
+9613.JP&back=SPGM	NTT DATA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=9613.JP&back=SPGM
+TTGT	TechTarget Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTGT.US&back=SPGM
+	Smith & Nephew PLC	
+	Dixon Technologies (India) Ltd.	
+2318.HK&back=SPGM	Ping An Insurance (Group) Company of China Ltd. Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=2318.HK&back=SPGM
+LW	Lamb Weston Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LW.US&back=SPGM
+BRSP	BrightSpire Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRSP.US&back=SPGM
+STX	Seagate Technology Holdings PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=SPGM
+BBD	Banco Bradesco S.A. Sponsored ADR Pfd	/etf/ea/ETZCW.djhtm?c=1&etfid=BBD.US&back=SPGM
+	DO & CO Aktiengesellschaft	
+	AUO Corp. Sponsored ADR	
+WDC	Western Digital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=SPGM
+	Bank of Nova Scotia	
+	Aldrees Petroleum & Transport Services Co.	
+	Imperial Oil Limited	
+	Westpac Banking Corporation	
+	Amadeus IT Group SA Class A	
+PKX	POSCO Holdings Inc. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PKX.US&back=SPGM
+	Prudential plc	
+MELI	MercadoLibre Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MELI.US&back=SPGM
+	Banco Santander S.A.	
+	Danone SA	
+DX	Dynex Capital Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DX.US&back=SPGM
+	BASF SE	
+	Eni S.p.A.	
+7267.JP&back=SPGM	Honda Motor Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7267.JP&back=SPGM
+YUMC	Yum China Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=YUMC.US&back=SPGM
+	Commonwealth Bank of Australia	
+	Nordea Bank Abp	
+MOS	Mosaic Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=SPGM
+	Next plc	
+ITUB	Itau Unibanco Holding S.A. Sponsored ADR Pfd	/etf/ea/ETZCW.djhtm?c=1&etfid=ITUB.US&back=SPGM
+	PT Bank Rakyat Indonesia (Persero) Tbk Class B	
+FOXA	Fox Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=SPGM
+	Fomento Economico Mexicano SAB de CV Units Cons. Of 1 ShsB And 4 ShsD	
+	Insurance Australia Group Limited	
+MU	Micron Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=SPGM
+8001.JP&back=SPGM	Itochu Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8001.JP&back=SPGM
+CHCT	Community Healthcare Trust Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=CHCT.US&back=SPGM
+	Alkyl Amines Chemicals Limited	
+	ING Groep NV	
+	Heineken NV	
+	Grupo Mexico S.A.B. de C.V. Class B	
+	Barclays PLC	
+	Manulife Financial Corporation	
+6752.JP&back=SPGM	Panasonic Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6752.JP&back=SPGM
+1398.HK&back=SPGM	Industrial and Commercial Bank of China Limited Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=1398.HK&back=SPGM
+	Orange SA	
+PARA	Paramount Global Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=SPGM
+	Petro Rio SA	
+005380.KS&back=SPGM	Hyundai Motor Company	/etf/ea/ETZCW.djhtm?c=1&etfid=005380.KS&back=SPGM
+	SSE plc	
+	Publicis Groupe SA	
+3988.HK&back=SPGM	Bank of China Limited Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=3988.HK&back=SPGM
+	DBS Group Holdings Ltd	
+	Sandvik AB	
+6586.JP&back=SPGM	Makita Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6586.JP&back=SPGM
+	Vodafone Group Plc	
+SNOW	Snowflake Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=SPGM
+PSX	Phillips 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=SPGM
+	Lloyds Banking Group plc	
+	Ferrari NV	
+8031.JP&back=SPGM	Mitsui & Co.Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8031.JP&back=SPGM
+	Grupo Financiero Banorte SAB de CV Class O	
+	Skanska AB Class B	
+	Evolution AB	
+	Shopify Inc. Class A	
+ENPH	Enphase Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=SPGM
+	Canadian Tire Corporation Limited Class A	
+4185.JP&back=SPGM	JSR Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=4185.JP&back=SPGM
+2368.TW&back=SPGM	Gold Circuit Electronics Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2368.TW&back=SPGM
+	DSV A/S	
+	OMV AG	
+	Epiroc AB Class B	
+	Industria de Diseno Textil S.A.	
+	Deutsche Lufthansa AG	
+	Koninklijke Philips N.V.	
+	Activision Blizzard Inc.	
+NEM	Newmont Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=SPGM
+8601.JP&back=SPGM	Daiwa Securities Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8601.JP&back=SPGM
+	Assicurazioni Generali S.p.A.	
+	Telefonaktiebolaget LM Ericsson Class B	
+8795.JP&back=SPGM	T&D Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8795.JP&back=SPGM
+	Sampo Oyj Class A	
+6098.JP&back=SPGM	Recruit Holdings Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6098.JP&back=SPGM
+1812.JP&back=SPGM	Kajima Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=1812.JP&back=SPGM
+	FirstRand Limited	
+	Volkswagen AG	
+	Akzo Nobel N.V.	
+	Nokia Oyj	
+	Wolters Kluwer NV	
+6301.JP&back=SPGM	Komatsu Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6301.JP&back=SPGM
+NIO	NIO Inc. Sponsored ADR Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=NIO.US&back=SPGM
+	Banco Bilbao Vizcaya Argentaria S.A.	
+	Securitas AB Class B	
+2328.HK&back=SPGM	PICC Property & Casualty Co. Ltd. Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=2328.HK&back=SPGM
+CARR	Carrier Global Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=SPGM
+	Accor SA	
+	PT Bank Mandiri (Persero) Tbk	
+	Intesa Sanpaolo S.p.A.	
+	Anheuser-Busch InBev SA/NV	
+6702.JP&back=SPGM	Fujitsu Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=6702.JP&back=SPGM
+WBD	Warner Bros. Discovery Inc. Series A	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=SPGM
+	Australia and New Zealand Banking Group Limited	
+4063.JP&back=SPGM	Shin-Etsu Chemical Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=4063.JP&back=SPGM
+	Mahindra & Mahindra Ltd. Sponsored GDR RegS	
+LVS	Las Vegas Sands Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LVS.US&back=SPGM
+	RWE AG	
+PBR	Petroleo Brasileiro SA Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=PBR.US&back=SPGM
+	Coles Group Ltd.	
+	Solvay SA	
+BX	Blackstone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=SPGM
+	Suncorp Group Limited	
+4005.JP&back=SPGM	Sumitomo Chemical Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4005.JP&back=SPGM
+SYF	Synchrony Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=SPGM
+	Chemical Works of Gedeon Richter Plc	
+PDD	Pinduoduo Inc. Sponsored ADR Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PDD.US&back=SPGM
+OTIS	Otis Worldwide Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=SPGM
+TECK	Teck Resources Limited Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=TECK.US&back=SPGM
+	Alumina Limited	
+	Shaw Communications Inc. Class B	
+	Carrefour SA	
+	Alcon AG	
+	Amcor PLC Shs Chess Depository Interests	
+	SilverCrest Metals Inc.	
+2269.HK&back=SPGM	Wuxi Biologics (Cayman) Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=2269.HK&back=SPGM
+	Holcim Ltd	
+ABNB	Airbnb Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=SPGM
+	Cenovus Energy Inc.	
+	Vicinity Centres	
+8604.JP&back=SPGM	Nomura Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8604.JP&back=SPGM
+FCX	Freeport-McMoRan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=SPGM
+3459.JP&back=SPGM	Samty Residential Investment Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=3459.JP&back=SPGM
+LBTYK	Liberty Global Plc Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=LBTYK.US&back=SPGM
+	Trade Desk Inc. Class A	
+	Volkswagen AG Pref	
+	Standard Chartered PLC	
+	Telefonica SA	
+	Serica Energy PLC	
+MRVL	Marvell Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=SPGM
+TPR	Tapestry Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=SPGM
+	Credit Agricole SA	
+	Axonics Inc.	
+LRCX	Lam Research Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=SPGM
+	Telenor ASA	
+IFF	International Flavors & Fragrances Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=SPGM
+9532.JP&back=SPGM	Osaka Gas Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9532.JP&back=SPGM
+	Alstom SA	
+	Canadian Imperial Bank of Commerce	
+039840.KS&back=SPGM	DIO Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=039840.KS&back=SPGM
+	Burberry Group plc	
+	Naspers Limited Class N	
+	Schoeller-Bleckmann Oilfield Equipment AG	
+	British Land Company PLC	
+	Societe Generale S.A. Class A	
+	Advantage Energy Ltd	
+LNTH	Lantheus Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LNTH.US&back=SPGM
+	Change Healthcare Inc.	
+	Renault SA	
+	Land Securities Group PLC	
+	SKF AB Class B	
+CF	CF Industries Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=SPGM
+0386.HK&back=SPGM	China Petroleum & Chemical Corporation Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=0386.HK&back=SPGM
+DQ	Daqo New Energy Corp Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=DQ.US&back=SPGM
+	TransAlta Corporation	
+ALLE	Allegion Public Limited Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLE.US&back=SPGM
+DVN	Devon Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=SPGM
+	Sanlam Limited	
+	Vivendi SE	
+1810.HK&back=SPGM	Xiaomi Corp. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=1810.HK&back=SPGM
+0101.HK&back=SPGM	Hang Lung Properties Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0101.HK&back=SPGM
+	Crayon Group Holding ASA	
+	WPP Plc	
+ABEV	Ambev SA Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ABEV.US&back=SPGM
+	Enerplus Corporation	
+	Glencore plc	
+	Air Liquide SA	
+	Woolworths Group Ltd	
+	UniCredit S.p.A.	
+2914.JP&back=SPGM	Japan Tobacco Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=2914.JP&back=SPGM
+	MTN Group Limited	
+	First Majestic Silver Corp.	
+BABA	Alibaba Group Holding Ltd. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BABA.US&back=SPGM
+	Wheaton Precious Metals Corp	
+	Swatch Group Ltd. Bearer	
+	Halwani Bros Co. Ltd.	
+105560.KS&back=SPGM	KB Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=105560.KS&back=SPGM
+	Bouygues SA	
+	Najran Cement Co.	
+AHH	Armada Hoffler Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AHH.US&back=SPGM
+6762.JP&back=SPGM	TDK Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6762.JP&back=SPGM
+	Zealand Pharma A/S	
+8053.JP&back=SPGM	Sumitomo Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=8053.JP&back=SPGM
+	Absolute Clean Energy Public Co Ltd(Alien Mkt)	
+KMI	Kinder Morgan Inc Class P	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=SPGM
+	Tesco PLC	
+	ArcelorMittal SA	
+UBER	Uber Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=SPGM
+	Fnac Darty SA	
+	Acerinox SA	
+3661.TW&back=SPGM	Alchip Technologies Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3661.TW&back=SPGM
+	MTY Food Group Inc.	
+	VERBIO Vereinigte BioEnergie AG	
+KOS	Kosmos Energy Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=KOS.US&back=SPGM
+1088.HK&back=SPGM	China Shenhua Energy Co. Ltd. Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=1088.HK&back=SPGM
+ALB	Albemarle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=SPGM
+	Metso Outotec Oyj	
+	Linde plc	
+2628.HK&back=SPGM	China Life Insurance Co. Ltd. Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=2628.HK&back=SPGM
+NET	Cloudflare Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=SPGM
+1171.HK&back=SPGM	Yankuang Energy Group Company Limited Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=1171.HK&back=SPGM
+EPAM	EPAM Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=SPGM
+	Abrdn plc	
+	E.ON SE	
+	National Grid plc	
+	Adecco Group AG	
+	Yara International ASA	
+SE	Sea Ltd. (Singapore) Sponsored ADR Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SE.US&back=SPGM
+	Jadwa REIT Saudi Fund	
+6963.JP&back=SPGM	Rohm Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=6963.JP&back=SPGM
+8253.JP&back=SPGM	Credit Saison Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=8253.JP&back=SPGM
+0710.HK&back=SPGM	BOE Varitronix Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0710.HK&back=SPGM
+0688.HK&back=SPGM	China Overseas Land & Investment Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0688.HK&back=SPGM
+	Salzgitter AG	
+ZM	Zoom Video Communications Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=SPGM
+	Snam S.p.A.	
+LDOS	Leidos Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=SPGM
+DDOG	Datadog Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=SPGM
+5425.TW&back=SPGM	Taiwan Semiconductor Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=5425.TW&back=SPGM
+ARWR	Arrowhead Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARWR.US&back=SPGM
+	NexGen Energy Ltd.	
+CCXI	Chemocentryx Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCXI.US&back=SPGM
+ISRG	Intuitive Surgical Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=SPGM
+	PT Astra International Tbk	
+TWTR	Twitter Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=SPGM
+	Standard Bank Group Limited	
+	Stellantis N.V.	
+	Santos Limited	
+	Cairn Homes PLC	
+KSS	Kohl's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KSS.US&back=SPGM
+012330.KS&back=SPGM	Hyundai Mobis Co. Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=012330.KS&back=SPGM
+	Laurus Labs Ltd.	
+	Svenska Handelsbanken AB Class A	
+SQ	Block Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=SPGM
+	Danske Bank A/S	
+REGN	Regeneron Pharmaceuticals Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=SPGM
+	Repsol SA	
+PANW	Palo Alto Networks Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=SPGM
+	Origin Energy Limited	
+5802.JP&back=SPGM	Sumitomo Electric Industries Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=5802.JP&back=SPGM
+	Tele2 AB Class B	
+4820.JP&back=SPGM	EM Systems Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=4820.JP&back=SPGM
+	Wartsila Oyj Abp	
+	BT Group plc	
+CFG	Citizens Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=SPGM
+8308.JP&back=SPGM	Resona Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=8308.JP&back=SPGM
+	Daimler Truck Holding AG	
+3476.JP&back=SPGM	MIRAI Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=3476.JP&back=SPGM
+051900.KS&back=SPGM	LG H&H Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=051900.KS&back=SPGM
+JKS	JinkoSolar Holding Co. Ltd. Sponsored ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=JKS.US&back=SPGM
+5411.JP&back=SPGM	JFE Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=5411.JP&back=SPGM
+ZS	Zscaler Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=SPGM
+	Public Bank Bhd	
+	Imperial Brands PLC	
+2454.TW&back=SPGM	MediaTek Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2454.TW&back=SPGM
+9735.JP&back=SPGM	Secom Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=9735.JP&back=SPGM
+GGB	Gerdau S.A. Pfd Sponsored ADR Repr 1 Pfd Sh	/etf/ea/ETZCW.djhtm?c=1&etfid=GGB.US&back=SPGM
+	Amanat Holding PJSC	
+CLNE	Clean Energy Fuels Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLNE.US&back=SPGM
+055550.KS&back=SPGM	Shinhan Financial Group Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=055550.KS&back=SPGM
+1024.HK&back=SPGM	Kuaishou Technology Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=1024.HK&back=SPGM
+2382.HK&back=SPGM	Sunny Optical Technology (Group) Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2382.HK&back=SPGM
+3401.JP&back=SPGM	Teijin Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=3401.JP&back=SPGM
+3328.HK&back=SPGM	Bank of Communications Co. Ltd. Class H	/etf/ea/ETZCW.djhtm?c=1&etfid=3328.HK&back=SPGM
+BKR	Baker Hughes Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=SPGM
+	Barrick Gold Corporation	
+	Amlak International for Real Estate Finance Company	
+0017.HK&back=SPGM	New World Development Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=0017.HK&back=SPGM
+4188.JP&back=SPGM	Mitsubishi Chemical Group Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=4188.JP&back=SPGM
+6988.JP&back=SPGM	Nitto Denko Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=6988.JP&back=SPGM
+	Mobile Telecommunications Co. Saudi Arabia	
+	PTT Public Co. Ltd.(Alien Mkt)	
+	QBE Insurance Group Limited	
+DXCM	DexCom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=SPGM
+	Omega Energia SA	
+6547.TW&back=SPGM	Medigen Vaccine Biologics Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=6547.TW&back=SPGM
+	Newcrest Mining Limited	
+GMRE	Global Medical REIT Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GMRE.US&back=SPGM
+ITCI	Intra-Cellular Therapies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITCI.US&back=SPGM
+	Haleon PLC	
+	ENGIE SA.	
+RUTH	Ruth's Hospitality Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RUTH.US&back=SPGM
+MDB	MongoDB Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDB.US&back=SPGM
+MTDR	Matador Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=SPGM
+3293.TW&back=SPGM	International Games System Co. Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=3293.TW&back=SPGM
+INMD	InMode Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=INMD.US&back=SPGM
+CHX	ChampionX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CHX.US&back=SPGM
+FTNT	Fortinet Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=SPGM
+	Deutsche Bank Aktiengesellschaft	
+	Birlasoft Limited	
+PLAY	Dave & Buster's Entertainment Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLAY.US&back=SPGM
+2891.TW&back=SPGM	CTBC Financial Holding Company Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=2891.TW&back=SPGM
+4776.JP&back=SPGM	Cybozu Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=4776.JP&back=SPGM
+9503.JP&back=SPGM	Kansai Electric Power Company Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=9503.JP&back=SPGM
+7167.JP&back=SPGM	Mebuki Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=7167.JP&back=SPGM
+IMXI	International Money Express Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IMXI.US&back=SPGM
+ZTS	Zoetis Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=SPGM
+SSRM	SSR Mining Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=SPGM
+	Credit Suisse Group AG	

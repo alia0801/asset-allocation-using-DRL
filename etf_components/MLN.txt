@@ -1,0 +1,461 @@
+MLN
+	Massachusetts Development Finance Agenc 5 03/01/2044	
+	Triborough Bridge & Tunnel Authority 5 11/15/2049	
+	City Of Austin Tx Electric Utility Reve 5 11/15/2049	
+	Metropolitan Water District Of Southern 5 10/01/2040	
+	State Of Illinois 5 03/01/2046	
+	California County Tobacco Securitizatio 4 06/01/2049	
+	New Jersey Turnpike Authority 4 01/01/2048	
+	Metropolitan Transportation Authority 4 11/15/2042	
+	County Of Franklin Oh 5 11/01/2048	
+	Commonwealth Of Pennsylvania 4 07/01/2046	
+	Maryland State Transportation Authority 5 07/01/2051	
+	Humble Independent School District 5 02/15/2047	
+	Indianapolis Local Public Improvement B 5 02/01/2054	
+	Illinois State Toll Highway Authority 5 01/01/2045	
+	Commonwealth Of Massachusetts 5 01/01/2045	
+	City Of San Antonio Tx Electric & Gas S 5 02/01/2046	
+	San Francisco City & County Airport Com 5 05/01/2050	
+	New York Liberty Development Corp 3 11/15/2051	
+	New York City Transitional Finance Auth 4 11/01/2042	
+	New York State Dormitory Authority 5 03/15/2048	
+	Triborough Bridge & Tunnel Authority 5 05/15/2056	
+	University Of California 5 05/15/2058	
+	San Francisco City & County Airport Com 5 05/01/2048	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2049	
+	City Of New York Ny 5 03/01/2043	
+	Geisinger Authority 5 04/01/2050	
+	City Of Reno Nv 5 06/01/2048	
+	County Of Ross Oh 5 12/01/2049	
+	State Of California 5 10/01/2048	
+	Texas Water Development Board 4 10/15/2043	
+	University Of California 4 05/15/2040	
+	Illinois Finance Authority 5 08/15/2044	
+	Battery Park City Authority 4 11/01/2044	
+	City Of Chicago Il 4 01/01/2040	
+	Florida Development Finance Corp 4 02/01/2041	
+	Energy Northwest 4 07/01/2042	
+	Harris County Cultural Education Facili 3 10/01/2040	
+	Metropolitan Transportation Authority 4 11/15/2045	
+	New York State Housing Finance Agency 2.5 11/01/2040	
+	Oregon Health & Science University 4 07/01/2051	
+	Pennsylvania Turnpike Commission 5 12/01/2047	
+	City Of New York Ny 4 08/01/2050	
+	California Health Facilities Financing 4 04/01/2045	
+	County Of Broward Fl Tourist Developmen 4 09/01/2047	
+	Metropolitan Washington Airports Author 4 10/01/2052	
+	Texas Water Development Board 5 10/15/2043	
+	University Of North Carolina At Chapel 5 02/01/2045	
+	University Of South Carolina 5 05/01/2046	
+	New Jersey Transportation Trust Fund Au 4.5 06/15/2049	
+	Broome County Local Development Corp 4 04/01/2040	
+	City Of El Paso Tx 4 08/15/2045	
+	Los Angeles Department Of Water & Power 5 07/01/2041	
+	University Of Utah/The 5 08/01/2046	
+	New York City Municipal Water Finance A 5 06/15/2040	
+	New York State Dormitory Authority 5 02/15/2040	
+	Pennsylvania Turnpike Commission 5 12/01/2045	
+	New York Transportation Development Cor 4 12/01/2042	
+	State Of Washington 5 02/01/2042	
+	Private Colleges & Universities Authori 4 09/01/2041	
+	Kentucky Bond Development Corp 4 09/01/2048	
+	Los Angeles Department Of Water & Power 5 07/01/2045	
+	Monroe County Industrial Development Co 4 07/01/2050	
+	Chicago O'Hare International Airport 4 01/01/2053	
+	Philadelphia Gas Works Co 5 08/01/2047	
+	State Of Illinois 5.75 05/01/2045	
+	New York State Dormitory Authority 5 10/01/2048	
+	New York City Municipal Water Finance A 5 06/15/2040	
+	San Diego County Regional Airport Autho 5 07/01/2044	
+	City Of Loveland Co Electric & Communic 5 12/01/2044	
+	City Of Phoenix Civic Improvement Corp 5 07/01/2044	
+	District Of Columbia Water & Sewer Auth 5 10/01/2043	
+	Commonwealth Of Massachusetts 2.125 04/01/2051	
+	Metropolitan Atlanta Rapid Transit Auth 3 07/01/2047	
+	Connecticut State Health & Educational 5 12/01/2045	
+	Central Texas Regional Mobility Authori 5 01/01/2045	
+	Public Finance Authority 5 11/15/2041	
+	Triborough Bridge & Tunnel Authority 5 11/15/2054	
+	State Of Washington 5 02/01/2040	
+	New York State Urban Development Corp 3 03/15/2050	
+	North Carolina Turnpike Authority 5 01/01/2049	
+	New York State Dormitory Authority 4 03/15/2047	
+	Tri-County Metropolitan Transportation 3 09/01/2044	
+	Weld County School District No 6 Greele 4 12/01/2045	
+	California Health Facilities Financing 5 11/15/2049	
+	Arlington Higher Education Finance Corp 3 02/15/2046	
+	Massachusetts Bay Transportation Author 4 07/01/2051	
+	Metropolitan Transportation Authority 5 11/15/2044	
+	Kentucky Economic Development Finance A 4 12/01/2041	
+	Harris County Cultural Education Facili 3 10/01/2051	
+	City Of Los Angeles Department Of Airpo 4 05/15/2048	
+	City & County Of Honolulu Hi 4 08/01/2043	
+	Pennsylvania Turnpike Commission 5.25 06/01/2047	
+	San Francisco City & County Airport Com 5 05/01/2047	
+	New York City Transitional Finance Auth 4 05/01/2040	
+	Saginaw City School District 4 05/01/2050	
+	School District Of Broward County/Fl 5 07/01/2049	
+	Allegheny County Sanitary Authority 5 06/01/2043	
+	Grand Parkway Transportation Corp 4 10/01/2049	
+	Metropolitan Transportation Authority 5 11/15/2039	
+	Grand Parkway Transportation Corp 5 10/01/2048	
+	Saugus Union School District School Fac 2.375 08/01/2044	
+	Oklahoma Turnpike Authority 4 01/01/2048	
+	Triborough Bridge & Tunnel Authority 4 05/15/2051	
+	West Virginia Parkways Authority 5 06/01/2047	
+	Omaha Public Power District 4 02/01/2051	
+	Other/Cash	
+	San Jose Evergreen Community College Di 3 09/01/2041	
+	Hudson Yards Infrastructure Corp 5 02/15/2042	
+	Industrial Development Authority Of The 4 04/01/2046	
+	Bloomfield Hills School District 4 05/01/2050	
+	California Health Facilities Financing 4 06/01/2050	
+	Arlington Higher Education Finance Corp 4 08/15/2044	
+	Commonwealth Of Massachusetts 5 11/01/2045	
+	City Of Shreveport La Water & Sewer Rev 4 12/01/2049	
+	Glendale Industrial Development Authori 5 11/15/2042	
+	Hampton Roads Transportation Accountabi 4 07/01/2040	
+	Energy Northwest 5 07/01/2041	
+	El Dorado Irrigation District 4 03/01/2050	
+	State Of Illinois 5 05/01/2041	
+	University Of Wyoming 4 06/01/2046	
+	King County Public Hospital District No 4 12/01/2045	
+	Minnesota Housing Finance Agency 2.15 07/01/2045	
+	Commonwealth Of Massachusetts Transport 3 06/01/2050	
+	Board Of Regents Of The University Of T 4 08/15/2044	
+	Brookhaven Development Authority 4 07/01/2044	
+	City Of Henderson Nv 4 06/01/2050	
+	City Of Lubbock Tx Electric Light & Pow 4 04/15/2046	
+	Chester County Health And Education Fac 4 09/01/2050	
+	Commonwealth Of Massachusetts Transport 5 06/01/2043	
+	Metropolitan Transportation Authority 5 11/15/2045	
+	Metropolitan Transportation Authority 5 11/15/2043	
+	Maryland Stadium Authority Built To Lea 2.75 06/01/2051	
+	Washington Metropolitan Area Transit Au 3 07/15/2043	
+	San Francisco Bay Area Rapid Transit Di 4 08/01/2045	
+	New York City Transitional Finance Auth 5 02/01/2044	
+	New York City Municipal Water Finance A 4 06/15/2050	
+	New York Liberty Development Corp 4 02/15/2043	
+	Northside Independent School District 3 06/01/2047	
+	South Broward Hospital District 3 05/01/2046	
+	State Of California 3.625 10/01/2047	
+	Utility Debt Securitization Authority 5 12/15/2039	
+	Iowa Finance Authority 5 08/01/2049	
+	El Dorado Irrigation District 4 03/01/2045	
+	Metropolitan Transportation Authority 5 11/15/2039	
+	New York City Housing Development Corp 2.25 11/01/2041	
+	Charlotte-Mecklenburg Hospital Authorit 4 01/15/2043	
+	Regional Transportation District Sales 2 11/01/2041	
+	San Diego Unified School District/Ca 4 07/01/2047	
+	Perris Union High School District/Ca 4 09/01/2043	
+	San Jacinto Community College District 5 02/15/2044	
+	State Of California 5 11/01/2047	
+	Omaha-Douglas Public Building Commissio 4 05/01/2050	
+	Ohio Water Development Authority 5 06/01/2044	
+	Ohio Water Development Authority Water 5 12/01/2046	
+	New York State Urban Development Corp 5 03/15/2043	
+	New York City Transitional Finance Auth 5 08/01/2040	
+	New York State Dormitory Authority 5 02/15/2048	
+	United Independent School District/Tx 5 08/15/2049	
+	City Of Austin Tx Electric Utility Reve 5 11/15/2045	
+	Commonwealth Of Massachusetts Transport 5 06/01/2042	
+	New York City Municipal Water Finance A 3 06/15/2040	
+	New Jersey Health Care Facilities Finan 4 07/01/2041	
+	Hampton Roads Transportation Accountabi 4 07/01/2057	
+	Hampton Roads Transportation Accountabi 5 07/01/2060	
+	Iowa Finance Authority 5 12/01/2050	
+	Los Angeles Department Of Water & Power 5 07/01/2044	
+	New Hope Cultural Education Facilities 4 08/15/2040	
+	Miracosta Community College District 4 08/01/2042	
+	Michigan Finance Authority 5 12/01/2042	
+	Colorado Health Facilities Authority 5 11/01/2044	
+	County Of Clark Nv 5 05/01/2048	
+	County Of Broward Fl Port Facilities Re 5 09/01/2049	
+	City Of New York Ny 5 08/01/2043	
+	Chaffey Joint Union High School Distric 5.25 08/01/2047	
+	California Health Facilities Financing 3 10/01/2041	
+	New York State Thruway Authority 4 03/15/2040	
+	North Carolina Turnpike Authority 5 01/01/2044	
+	Norman Y Mineta San Jose International 5 03/01/2042	
+	Pennsylvania Turnpike Commission Oil Fr 4 12/01/2053	
+	South Jersey Transportation Authority 5 11/01/2045	
+	Sacramento County Sanitation Districts 5 12/01/2041	
+	New York State Dormitory Authority 4 07/01/2048	
+	University Of Virginia 4 04/01/2045	
+	Abag Finance Authority For Nonprofit Co 5 08/01/2043	
+	Board Of Governors Of Colorado State Un 4 03/01/2047	
+	City Of Jacksonville Fl 5 11/01/2050	
+	District Of Columbia 4 10/15/2044	
+	Energy Northwest 5 07/01/2040	
+	Los Angeles County Metropolitan Transpo 5 07/01/2044	
+	Illinois Finance Authority 4 02/15/2041	
+	Illinois Finance Authority 4 08/15/2041	
+	New York City Municipal Water Finance A 4 06/15/2045	
+	City Of Minneapolis Mn 4 11/15/2039	
+	City Of New Orleans La 5 12/01/2041	
+	County Of Allen Oh Hospital Facilities 4 08/01/2047	
+	Crowley Independent School District 4 08/01/2044	
+	New York State Environmental Facilities 4 06/15/2049	
+	New York City Transitional Finance Auth 4 05/01/2041	
+	New York State Thruway Authority 4 01/01/2040	
+	North Texas Tollway Authority 4.25 01/01/2049	
+	San Francisco Bay Area Rapid Transit Di 3 08/01/2049	
+	Texas Water Development Board 4 10/15/2045	
+	Suffolk Tobacco Asset Securitization Co 4 06/01/2050	
+	Tarrant Regional Water District 2 09/01/2043	
+	State Of Illinois 4 03/01/2040	
+	Sacramento City Unified School District 4 08/01/2049	
+	New York Power Authority 4 11/15/2050	
+	Virginia Small Business Financing Autho 4 01/01/2045	
+	County Of Broward Fl Tourist Developmen 4 09/01/2051	
+	County Of Miami-Dade Fl Transit System 4 07/01/2044	
+	City Of New York Ny 4 12/01/2043	
+	Minnesota Housing Finance Agency 3 01/01/2051	
+	New Hampshire Business Finance Authorit 4 01/01/2041	
+	Michigan Finance Authority 4 11/01/2055	
+	Maryland Health & Higher Educational Fa 4 01/01/2051	
+	Miami-Dade County Health Facilities Aut 4 08/01/2051	
+	New York City Housing Development Corp 3.05 11/01/2049	
+	Board Of Regents Of The University Of T 3 08/15/2041	
+	City Of Seattle Wa Municipal Light & Po 4 01/01/2046	
+	New York State Dormitory Authority 5 07/01/2040	
+	New York State Dormitory Authority 5 07/01/2046	
+	New York City Transitional Finance Auth 5 05/01/2043	
+	New York State Urban Development Corp 3 03/15/2048	
+	State Of Florida 3 06/01/2040	
+	Texas Water Development Board 3 10/15/2039	
+	New York State Dormitory Authority 4 07/01/2043	
+	New York State Dormitory Authority 5 03/15/2040	
+	New York State Dormitory Authority 3 03/15/2042	
+	Cypress-Fairbanks Independent School Di 2.25 02/15/2043	
+	Department Of Veterans Affairs Veteran' 3 12/01/2050	
+	District Of Columbia 2.625 03/01/2045	
+	City Of Chillicothe Oh 4 12/01/2042	
+	New York City Housing Development Corp 3 11/01/2039	
+	Michigan State Housing Development Auth 3.35 10/01/2049	
+	Great Lakes Water Authority Water Suppl 5 07/01/2046	
+	Georgia State Road & Tollway Authority 3 07/15/2051	
+	Minnesota Housing Finance Agency 2.5 07/01/2051	
+	New York City Housing Development Corp 2.35 11/01/2040	
+	New Hampshire Business Finance Authorit 3 08/15/2046	
+	Carson City Nv 5 09/01/2042	
+	New York City Transitional Finance Auth 2.25 02/01/2051	
+	State Of California 3 10/01/2049	
+	New York City Transitional Finance Auth 4 08/01/2042	
+	Pennsylvania Housing Finance Agency 2.28 10/01/2041	
+	California State University 5 11/01/2047	
+	City Of San Francisco Ca Public Utiliti 3 11/01/2050	
+	City Of Salt Lake City Ut Airport Reven 5 07/01/2043	
+	Multnomah County School District No 1 P 2 06/15/2042	
+	Michigan State Housing Development Auth 2.95 12/01/2039	
+	Metropolitan Transportation Authority 5 11/15/2042	
+	Metropolitan Transportation Authority 4 11/15/2043	
+	Gwinnett County School District 5 02/01/2040	
+	Maryland Health & Higher Educational Fa 3 07/01/2046	
+	Leander Independent School District 0 08/16/2042	
+	Florida Department Of Management Servic 2 11/01/2040	
+	City Of San Francisco Ca Public Utiliti 5 11/01/2050	
+	Clifton Board Of Education 2 08/15/2040	
+	Colorado Health Facilities Authority 3.25 08/01/2049	
+	County Of Fulton Ga Water & Sewerage Re 2.25 01/01/2043	
+	City Of New Orleans La 5 12/01/2046	
+	Oklahoma Turnpike Authority 4 01/01/2047	
+	State Of California 3 12/01/2043	
+	School District Of Broward County/Fl 5 07/01/2041	
+	Tennessee Housing Development Agency 2.95 07/01/2049	
+	State Of Ohio 4 01/01/2041	
+	California Statewide Communities Develo 5 03/01/2048	
+	Central Florida Expressway Authority 4 07/01/2041	
+	County Of Utah Ut 4 05/15/2047	
+	Commonwealth Of Massachusetts Transport 5 06/01/2048	
+	Great Lakes Water Authority Water Suppl 5 07/01/2046	
+	Long Island Power Authority 5 09/01/2047	
+	Indiana Finance Authority 5 10/01/2041	
+	Iowa Higher Education Loan Authority 5 12/01/2046	
+	Massachusetts Port Authority 5 07/01/2044	
+	Muskegon Public Schools/Mi 5 05/01/2051	
+	New Jersey Educational Facilities Autho 2 03/01/2041	
+	New Jersey Health Care Facilities Finan 2.5 07/01/2051	
+	Los Angeles Department Of Water & Power 5 07/01/2042	
+	Harris County Cultural Education Facili 3 10/01/2039	
+	County Of Hillsborough Fl 2.25 08/01/2051	
+	City Of Tampa Fl 5.25 05/01/2043	
+	Commonwealth Of Massachusetts 5 04/01/2042	
+	Colorado Health Facilities Authority 4 11/15/2048	
+	Alvin Independent School District/Tx 3.375 02/15/2040	
+	California Educational Facilities Autho 5 05/01/2049	
+	City Of Austin Tx Airport System Revenu 5 11/15/2041	
+	City Of Phoenix Civic Improvement Corp 4 07/01/2045	
+	State Of Florida Department Of Transpor 2 07/01/2044	
+	Texas Water Development Board 4 04/15/2048	
+	Santa Clara Unified School District 4 07/01/2048	
+	Pennsylvania Turnpike Commission Oil Fr 5 12/01/2048	
+	Northeast Ohio Regional Sewer District 3 11/15/2039	
+	New York State Dormitory Authority 5 10/01/2047	
+	New York State Dormitory Authority 5 03/15/2043	
+	New York City Transitional Finance Auth 5 08/01/2042	
+	City Of Jacksonville Fl 5.25 10/01/2047	
+	Chicago O'Hare International Airport 5 01/01/2047	
+	City Of Corpus Christi Tx Utility Syste 4 07/15/2045	
+	City Of South Miami Health Facilities A 5 08/15/2047	
+	Commonwealth Of Massachusetts 3 03/01/2048	
+	Connecticut State Health & Educational 4 07/01/2045	
+	Dubois Hospital Authority 5 07/15/2043	
+	Las Vegas Convention & Visitors Authori 5 07/01/2043	
+	Jefferson County Civic Facility Develop 4 11/01/2042	
+	New Jersey Transportation Trust Fund Au 3.5 06/15/2046	
+	New Mexico Mortgage Finance Authority 3.05 07/01/2044	
+	New York City Municipal Water Finance A 3 06/15/2050	
+	New Jersey Transportation Trust Fund Au 5 06/15/2040	
+	New Jersey Transportation Trust Fund Au 5 06/15/2050	
+	New Hampshire Municipal Bond Bank 4 08/15/2042	
+	Multnomah County School District No 1 P 3.25 06/15/2042	
+	Los Angeles Department Of Water & Power 5 07/01/2043	
+	Iowa Higher Education Loan Authority 5 12/01/2041	
+	Health & Educational Facilities Authori 5 02/01/2042	
+	Dutchess County Local Development Corp 5 07/01/2046	
+	County Of Utah Ut 5 05/15/2050	
+	County Of Washoe Nv Gas Tax Revenue 5 02/01/2042	
+	Delaware State Health Facilities Author 4 10/01/2049	
+	County Of Broward Fl Half-Cent Sales Ta 4 10/01/2040	
+	Colorado High Performance Transportatio 5 12/31/2051	
+	Colorado High Performance Transportatio 5 12/31/2056	
+	City Of South Miami Health Facilities A 5 08/15/2042	
+	Chicago O'Hare International Airport 5 01/01/2052	
+	City & County Of Denver Co 4 06/01/2048	
+	City Of New York Ny 5 10/01/2043	
+	New York City Transitional Finance Auth 3 07/15/2049	
+	New York City Municipal Water Finance A 5 06/15/2040	
+	New York State Dormitory Authority 5 07/01/2049	
+	Santa Monica Community College District 5 08/01/2043	
+	Tarrant County Cultural Education Facil 5 07/01/2043	
+	State Of Illinois 5 05/01/2040	
+	Village Of Mount Pleasant Wi 5 04/01/2048	
+	University Of Connecticut 5 02/15/2041	
+	Uab Medicine Finance Authority 4 09/01/2047	
+	West Valley-Mission Community College D 4 08/01/2044	
+	Tennessee Housing Development Agency 3.6 07/01/2042	
+	Texas Water Development Board 5 04/15/2049	
+	Sacramento Municipal Utility District 4 08/15/2040	
+	New York State Dormitory Authority 4 03/15/2045	
+	Norfolk Economic Development Authority 4 11/01/2048	
+	North Fort Bend Water Authority 4 12/15/2040	
+	Palm Beach County Health Facilities Aut 4 05/15/2053	
+	Pennsylvania Turnpike Commission 5 12/01/2044	
+	Pennsylvania Housing Finance Agency 3.2 10/01/2041	
+	Pennsylvania Housing Finance Agency 3.65 10/01/2042	
+	City Of Houston Tx Combined Utility Sys 5 11/15/2043	
+	Board Of Water Commissioners City & Cou 4 09/15/2042	
+	Coppell Independent School District 4 08/15/2048	
+	County Of Allegheny Pa 5 11/01/2043	
+	County Of Baltimore Md 4 03/01/2042	
+	County Of Hamilton Oh 5 01/01/2046	
+	County Of Miami-Dade Fl Water & Sewer S 3 10/01/2049	
+	Edmond Public Works Authority 4 07/01/2047	
+	Development Authority Of Burke County/T 4.125 11/01/2045	
+	Glendale Community College District/Ca 3 08/01/2047	
+	Fairfax County Industrial Development A 4 05/15/2048	
+	New Mexico Hospital Equipment Loan Coun 4 08/01/2048	
+	New Orleans Aviation Board 5 01/01/2048	
+	Massachusetts Development Finance Agenc 4 04/01/2041	
+	Maryland Health & Higher Educational Fa 4 05/15/2047	
+	Michigan Finance Authority 4 11/15/2050	
+	Michigan Finance Authority 4 11/15/2046	
+	Metropolitan Transportation Authority 4 11/15/2046	
+	New York City Housing Development Corp 3.75 11/01/2052	
+	Lamar Consolidated Independent School D 3 02/15/2056	
+	Maryland Community Development Administ 1.95 09/01/2041	
+	Louisiana Local Government Environmenta 4 10/01/2041	
+	Louisiana Public Facilities Authority 4 05/15/2042	
+	District Of Columbia 3 03/01/2041	
+	County Of Sullivan Tn 4 05/01/2045	
+	County Of Bexar Tx 4 06/15/2041	
+	Commonwealth Of Massachusetts 5 01/01/2044	
+	American Municipal Power Inc 5 02/15/2046	
+	California Health Facilities Financing 4 11/15/2047	
+	City Of Baltimore Md 4 07/01/2049	
+	City & County Of Honolulu Hi 5 08/01/2042	
+	City Of Phoenix Civic Improvement Corp 4 07/01/2040	
+	New York City Municipal Water Finance A 5 06/15/2040	
+	Tobacco Settlement Financing Corp 5 06/01/2046	
+	State Of New York Mortgage Agency 2.55 04/01/2050	
+	West Travis County Public Utility Agenc 4 08/15/2041	
+	Uab Medicine Finance Authority 5 09/01/2041	
+	Wayne County Airport Authority 5 12/01/2042	
+	Tuscaloosa City Board Of Education 4 08/01/2041	
+	San Diego Unified School District/Ca 3.125 07/01/2042	
+	New York State Housing Finance Agency 3.7 11/01/2044	
+	California Municipal Finance Authority 4 06/01/2047	
+	Chester County Health And Education Fac 4 09/01/2041	
+	County Of Miami-Dade Fl Water & Sewer S 4 10/01/2047	
+	Louisville And Jefferson County Metropo 3.25 05/15/2046	
+	Georgia Housing & Finance Authority 3.35 12/01/2041	
+	Georgia Housing & Finance Authority 3.35 12/01/2041	
+	New Jersey Turnpike Authority 4 01/01/2043	
+	Missouri Housing Development Commission 3.05 11/01/2049	
+	New Mexico Mortgage Finance Authority 3.6 07/01/2044	
+	Hayward Area Recreation & Park District 4 08/01/2046	
+	County Of Utah Ut 3 05/15/2047	
+	Dalton Whitfield County Joint Developme 4 08/15/2048	
+	City Of Port St Lucie Fl 3.25 07/01/2045	
+	Chester County Health And Education Fac 4 10/01/2047	
+	California Statewide Communities Develo 4 08/01/2045	
+	New York State Housing Finance Agency 3.75 11/01/2047	
+	North Carolina Medical Care Commission 3.125 11/01/2049	
+	Public Finance Authority 3 01/01/2050	
+	Tennessee Housing Development Agency 3.45 07/01/2040	
+	State Of New York Mortgage Agency 3.5 10/01/2041	
+	West Harris County Regional Water Autho 3 12/15/2058	
+	Washington Health Care Facilities Autho 4 08/15/2042	
+	State Of West Virginia 4 06/01/2043	
+	San Francisco Municipal Transportation 4 03/01/2046	
+	Sedgwick County Unified School District 4 10/01/2039	
+	Pennsylvania Turnpike Commission 5 12/01/2041	
+	New York State Dormitory Authority 5 03/15/2044	
+	Chicago O'Hare International Airport 5 01/01/2041	
+	City Of Arlington Tx Special Tax Revenu 4 02/15/2044	
+	Chicago O'Hare International Airport 5 01/01/2052	
+	City Of Port St Lucie Fl 3 07/01/2041	
+	Colorado Educational & Cultural Facilit 5 03/01/2040	
+	Denver Health & Hospital Authority 4 12/01/2040	
+	County Of New Castle De 4 04/01/2047	
+	County Of Cook Il Sales Tax Revenue 4 11/15/2039	
+	Georgia Housing & Finance Authority 3.35 12/01/2039	
+	King County Public Hospital District No 5 12/01/2043	
+	Montgomery County Higher Education And 5 12/01/2047	
+	Michigan Finance Authority 5 11/15/2048	
+	Maryland Health & Higher Educational Fa 4 07/01/2048	
+	Irvine Unified School District 4 09/01/2044	
+	Georgia Housing & Finance Authority 3.55 12/01/2042	
+	Euclid City School District 4 01/15/2052	
+	Glendale Community College District/Ca 4 08/01/2046	
+	Greater Orlando Aviation Authority 5 10/01/2042	
+	County Of Miami-Dade Fl Water & Sewer S 3.125 10/01/2039	
+	California Municipal Finance Authority 4 07/01/2047	
+	Pennsylvania Housing Finance Agency 3.2 04/01/2040	
+	State Of West Virginia 5 06/01/2040	
+	State Of California 4 10/01/2039	
+	Washington State Convention Center Publ 4 07/01/2058	
+	Wisconsin Health & Educational Faciliti 4 02/15/2050	
+	City Of Cleveland Oh Airport System Rev 5 01/01/2048	
+	City Of Denton Tx 4 02/15/2047	
+	City Of New York Ny 5 12/01/2039	
+	Delaware State Health Facilities Author 4 07/01/2043	
+	District Of Columbia 4 10/15/2039	
+	Health & Educational Facilities Authori 5 10/01/2046	
+	Massachusetts Bay Transportation Author 5 07/01/2044	
+	New Jersey Turnpike Authority 5 01/01/2040	
+	City Of New York Ny 3 10/01/2044	
+	Washoe County School District/Nv 3.125 10/01/2039	
+	Wisconsin Center District 0 12/15/2045	
+	Wisconsin Health & Educational Faciliti 4 02/15/2042	
+	Ohio Housing Finance Agency 3.625 09/01/2047	
+	North Carolina Housing Finance Agency 4 01/01/2048	
+	New York Convention Center Development 0 11/15/2047	
+	Dahlonega Downtown Development Authorit 3.125 07/01/2040	
+	New Jersey Health Care Facilities Finan 5 07/01/2043	
+	Florida Housing Finance Corp 3.2 07/01/2044	
+	Leander Independent School District 0 08/16/2044	
+	City Of Rogers Ar Sales & Use Tax Reven 3.25 11/01/2043	
+	New York Convention Center Development 0 11/15/2054	
+	Connecticut Housing Finance Authority 3.5 11/15/2045	

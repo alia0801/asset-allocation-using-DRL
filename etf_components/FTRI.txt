@@ -1,0 +1,52 @@
+FTRI
+BHP	BHP Group Ltd (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=BHP.US&back=FTRI
+RIO	Rio Tinto Plc (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=RIO.US&back=FTRI
+VALE	Vale S.A. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=VALE.US&back=FTRI
+	Suncor Energy,Inc.	
+NTR	Nutrien Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTR.US&back=FTRI
+PBR	Petroleo Brasileiro S.A. - Petrobras (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=PBR.US&back=FTRI
+ADM	Archer-Daniels-Midland Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=FTRI
+CTRA	Coterra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=FTRI
+CF	CF Industries Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=FTRI
+TSN	Tyson Foods,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=FTRI
+	Fortescue Metals Group Limited	
+EC	Ecopetrol S.A. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=EC.US&back=FTRI
+IP	International Paper Company	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=FTRI
+FMC	FMC Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=FTRI
+	US Dollar	
+1605.JP&back=FTRI	Inpex Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=1605.JP&back=FTRI
+1088.HK&back=FTRI	China Shenhua Energy Company Limited (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=1088.HK&back=FTRI
+WRK	WestRock Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WRK.US&back=FTRI
+	Impala Platinum Holdings Limited	
+	Boliden AB	
+	United Utilities Group Plc	
+	Severn Trent Plc	
+	Yara International ASA	
+	West Fraser Timber Co. Ltd.	
+	Coal India Limited	
+1171.HK&back=FTRI	Yankuang Energy Group Co.,Ltd. (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=1171.HK&back=FTRI
+	Vedanta Limited	
+	Enerplus Corporation	
+	PT Adaro Indonesia Energy Tbk	
+CWT	California Water Service Group	/etf/ea/ETZCW.djhtm?c=1&etfid=CWT.US&back=FTRI
+	Exxaro Resources Limited	
+	GAIL (India) Limited	
+	Alumina Limited	
+SJW	SJW Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SJW.US&back=FTRI
+	NMDC Limited	
+	Peyto Exploration & Development Corp.	
+1722.TW&back=FTRI	Taiwan Fertilizer Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=1722.TW&back=FTRI
+	African Rainbow Minerals Ltd.	
+	Kumba Iron Ore Limited	
+2689.HK&back=FTRI	Nine Dragons Paper (Holdings) Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=2689.HK&back=FTRI
+ANDE	The Andersons,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANDE.US&back=FTRI
+	Aperam S.A.	
+	SLC Agricola SA	
+1907.TW&back=FTRI	YFY Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=1907.TW&back=FTRI
+	The Navigator Company SA	
+3880.JP&back=FTRI	Daio Paper Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=3880.JP&back=FTRI
+0855.HK&back=FTRI	China Water Affairs Group Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0855.HK&back=FTRI
+	Royal Bafokeng Platinum Limited	
+	CAP S.A.	
+	Ferrexpo Plc	
+1812.HK&back=FTRI	Shandong Chenming Paper Holdings Ltd. (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=1812.HK&back=FTRI

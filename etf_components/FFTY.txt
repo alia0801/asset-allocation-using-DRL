@@ -1,0 +1,51 @@
+FFTY
+MUSA	Murphy USA Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MUSA.US&back=FFTY
+SWAV	Shockwave Medical,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWAV.US&back=FFTY
+ENPH	Enphase Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=FFTY
+ESTE	Earthstone Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTE.US&back=FFTY
+CRK	Comstock Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=FFTY
+MTDR	Matador Resources Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=FFTY
+CF	CF Industries Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=FFTY
+CLFD	Clearfield Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLFD.US&back=FFTY
+NFE	New Fortress Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NFE.US&back=FFTY
+CELH	Celsius Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CELH.US&back=FFTY
+CCRN	Cross Country Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCRN.US&back=FFTY
+PSTG	Pure Storage Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PSTG.US&back=FFTY
+PXD	Pioneer Natural Resources Co	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=FFTY
+AXNX	Axonics Modulation Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AXNX.US&back=FFTY
+CMC	Commercial Metals Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CMC.US&back=FFTY
+SRPT	Sarepta Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRPT.US&back=FFTY
+CVI	CVR Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=FFTY
+IMXI	International Money Express Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IMXI.US&back=FFTY
+	Penn Virginia Corp	
+SIGA	SIGA Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SIGA.US&back=FFTY
+SM	SM Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=FFTY
+DK	Delek US Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DK.US&back=FFTY
+GWW	WW Grainger Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=FFTY
+CDNS	Cadence Design Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=FFTY
+CIVI	Civitas Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=FFTY
+EQNR	Equinor ASA	/etf/ea/ETZCW.djhtm?c=1&etfid=EQNR.US&back=FFTY
+MOS	Mosaic Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=FFTY
+TALO	Talos Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TALO.US&back=FFTY
+ACLS	Axcelis Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ACLS.US&back=FFTY
+GRBK	Green Brick Partners Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GRBK.US&back=FFTY
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=FFTY
+FANG	Diamondback Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=FFTY
+DVN	Devon Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=FFTY
+GPK	Graphic Packaging Holding Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GPK.US&back=FFTY
+ANET	Arista Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=FFTY
+CHRW	CH Robinson Worldwide Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=FFTY
+ON	ON Semiconductor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=FFTY
+VNOM	Viper Energy Partners	/etf/ea/ETZCW.djhtm?c=1&etfid=VNOM.US&back=FFTY
+TSLA	Tesla Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=FFTY
+MPWR	Monolithic Power Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=FFTY
+PANW	Palo Alto Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=FFTY
+CRWD	CrowdStrike Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=FFTY
+CNQ	Canadian Natural Resources Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CNQ.US&back=FFTY
+WCC	WESCO International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC.US&back=FFTY
+BRP	BRP Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRP.US&back=FFTY
+TRGP	Targa Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=FFTY
+RGEN	Repligen Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RGEN.US&back=FFTY
+LSCC	Lattice Semiconductor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=FFTY
+MEDP	Medpace Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MEDP.US&back=FFTY
+CLAR	Clarus Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CLAR.US&back=FFTY

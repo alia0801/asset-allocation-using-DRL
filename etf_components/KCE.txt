@@ -1,0 +1,67 @@
+KCE
+COWN	Cowen Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=COWN.US&back=KCE
+DFIN	Donnelley Financial Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DFIN.US&back=KCE
+FDS	FactSet Research Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=KCE
+NDAQ	Nasdaq Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NDAQ.US&back=KCE
+LPLA	LPL Financial Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LPLA.US&back=KCE
+RJF	Raymond James Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=KCE
+GS	Goldman Sachs Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=KCE
+SCHW	Charles Schwab Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=KCE
+COIN	Coinbase Global Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=KCE
+ARES	Ares Management Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ARES.US&back=KCE
+JEF	Jefferies Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JEF.US&back=KCE
+BGCP	BGC Partners Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BGCP.US&back=KCE
+TPG	TPG Inc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TPG.US&back=KCE
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=KCE
+LAZ	Lazard Ltd Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LAZ.US&back=KCE
+IBKR	Interactive Brokers Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=IBKR.US&back=KCE
+MSCI	MSCI Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MSCI.US&back=KCE
+FOCS	Focus Financial Partners Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=FOCS.US&back=KCE
+BLK	BlackRock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=KCE
+CBOE	Cboe Global Markets Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CBOE.US&back=KCE
+AMP	Ameriprise Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=KCE
+BEN	Franklin Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=KCE
+SPGI	S&P Global Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPGI.US&back=KCE
+STT	State Street Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=KCE
+FHI	Federated Hermes Inc. Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=FHI.US&back=KCE
+VRTS	Virtus Investment Partners Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTS.US&back=KCE
+TROW	T. Rowe Price Group	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=KCE
+MCO	Moody's Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MCO.US&back=KCE
+HLNE	Hamilton Lane Incorporated Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=HLNE.US&back=KCE
+MC	Moelis & Co. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MC.US&back=KCE
+ICE	Intercontinental Exchange Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=KCE
+TW	Tradeweb Markets Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=TW.US&back=KCE
+BCOR	Blucora Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BCOR.US&back=KCE
+AMG	Affiliated Managers Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMG.US&back=KCE
+RILY	B. Riley Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RILY.US&back=KCE
+MORN	Morningstar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MORN.US&back=KCE
+SEIC	SEI Investments Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SEIC.US&back=KCE
+VCTR	Victory Capital Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VCTR.US&back=KCE
+KKR	KKR & Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KKR.US&back=KCE
+SF	Stifel Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SF.US&back=KCE
+PIPR	Piper Sandler Companies	/etf/ea/ETZCW.djhtm?c=1&etfid=PIPR.US&back=KCE
+HLI	Houlihan Lokey Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=HLI.US&back=KCE
+CME	CME Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CME.US&back=KCE
+VIRT	Virtu Financial Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=VIRT.US&back=KCE
+BK	Bank of New York Mellon Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=KCE
+OWL	Blue Owl Capital Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=OWL.US&back=KCE
+PJT	PJT Partners Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PJT.US&back=KCE
+IVZ	Invesco Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=IVZ.US&back=KCE
+EVR	Evercore Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EVR.US&back=KCE
+NTRS	Northern Trust Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRS.US&back=KCE
+APAM	Artisan Partners Asset Management Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=APAM.US&back=KCE
+JHG	Janus Henderson Group PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=JHG.US&back=KCE
+MKTX	MarketAxess Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MKTX.US&back=KCE
+CG	Carlyle Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CG.US&back=KCE
+BX	Blackstone Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BX.US&back=KCE
+BSIG	BrightSphere Investment Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BSIG.US&back=KCE
+CNS	Cohen & Steers Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNS.US&back=KCE
+LPRO	Open Lending Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LPRO.US&back=KCE
+STEP	StepStone Group Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=STEP.US&back=KCE
+SNEX	StoneX Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNEX.US&back=KCE
+WETF	WisdomTree Investments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WETF.US&back=KCE
+OPY	Oppenheimer Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=OPY.US&back=KCE
+BRDG	Bridge Investment Group Holdings Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BRDG.US&back=KCE
+	STATE STREET INSTITUTIONAL LIQ STATE STR	
+AMK	AssetMark Financial Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMK.US&back=KCE
+DHIL	Diamond Hill Investment Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHIL.US&back=KCE

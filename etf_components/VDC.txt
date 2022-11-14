@@ -1,0 +1,21 @@
+VDC
+PG	Procter & Gamble Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=VDC
+KO	Coca-Cola Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=VDC
+PEP	PepsiCo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=VDC
+COST	Costco Wholesale Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=VDC
+WMT	Walmart Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=VDC
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=VDC
+MDLZ	Mondelez International Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=VDC
+MO	Altria Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=VDC
+CL	Colgate-Palmolive Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=VDC
+EL	Estee Lauder Cos. Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=VDC
+ADM	Archer-Daniels-Midland Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=VDC
+GIS	General Mills Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=VDC
+KMB	Kimberly-Clark Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=VDC
+SYY	Sysco Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=VDC
+STZ	Constellation Brands Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=STZ.US&back=VDC
+MNST	Monster Beverage Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=VDC
+KR	Kroger Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=VDC
+HSY	Hershey Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=VDC
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=VDC
+KHC	Kraft Heinz Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=VDC

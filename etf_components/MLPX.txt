@@ -1,0 +1,29 @@
+MLPX
+WMB	WILLIAMS COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=MLPX
+TRP	TC ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=MLPX
+ENB	ENBRIDGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=MLPX
+LNG	CHENIERE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=MLPX
+KMI	KINDER MORGAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=MLPX
+OKE	ONEOK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=MLPX
+TRGP	TARGA RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=MLPX
+ET	ENERGY TRANSFER LP	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=MLPX
+EPD	ENTERPRISE PRODU	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=MLPX
+ETRN	EQUITRANS MIDSTREAM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ETRN.US&back=MLPX
+PBA	PEMBINA PIPELINE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PBA.US&back=MLPX
+AM	ANTERO MIDSTREAM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AM.US&back=MLPX
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=MLPX
+MMP	MAGELLAN MIDSTRE	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=MLPX
+ENLC	ENLINK MIDSTREAM LLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENLC.US&back=MLPX
+PAGP	PLAINS GP HOLD-A	/etf/ea/ETZCW.djhtm?c=1&etfid=PAGP.US&back=MLPX
+WES	WESTERN MIDSTREA	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=MLPX
+PAA	PLAINS ALL AMER	/etf/ea/ETZCW.djhtm?c=1&etfid=PAA.US&back=MLPX
+HESM	HESS MIDSTREAM-A	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=MLPX
+AROC	ARCHROCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AROC.US&back=MLPX
+DCP	DCP MIDSTREAM LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP.US&back=MLPX
+KNTK	KINETIK HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KNTK.US&back=MLPX
+CQP	CHENIERE ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=CQP.US&back=MLPX
+SHLX	SHELL MIDSTREAM	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLX.US&back=MLPX
+CEQP	CRESTWOOD EQUITY	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=MLPX
+HEP	HOLLY ENERGY PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=MLPX
+DKL	DELEK LOGISTICS	/etf/ea/ETZCW.djhtm?c=1&etfid=DKL.US&back=MLPX
+	CASH	

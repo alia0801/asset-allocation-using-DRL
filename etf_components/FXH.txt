@@ -1,0 +1,84 @@
+FXH
+MOH	Molina Healthcare,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=FXH
+SRPT	Sarepta Therapeutics,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SRPT.US&back=FXH
+CI	Cigna Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=FXH
+HUM	Humana Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=FXH
+UNH	UnitedHealth Group Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=FXH
+ELV	Elevance Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=FXH
+VRTX	Vertex Pharmaceuticals Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=FXH
+REGN	Regeneron Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=FXH
+HOLX	Hologic,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=FXH
+UHS	Universal Health Services,Inc. (Class B)	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=FXH
+LH	Laboratory Corporation of America Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=FXH
+HCA	HCA Healthcare,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=FXH
+DGX	Quest Diagnostics Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=FXH
+MRK	Merck & Co.,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=FXH
+MRNA	Moderna,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=FXH
+IONS	Ionis Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=FXH
+VTRS	Viatris Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=FXH
+NBIX	Neurocrine Biosciences,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NBIX.US&back=FXH
+EXEL	Exelixis,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXEL.US&back=FXH
+QDEL	QuidelOrtho Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=QDEL.US&back=FXH
+SGFY	Signify Health,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SGFY.US&back=FXH
+ALNY	Alnylam Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALNY.US&back=FXH
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=FXH
+PINC	Premier,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=PINC.US&back=FXH
+UTHR	United Therapeutics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=FXH
+INCY	Incyte Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=FXH
+LLY	Eli Lilly and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=FXH
+ENOV	Enovis Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENOV.US&back=FXH
+COO	The Cooper Companies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COO.US&back=FXH
+XRAY	DENTSPLY SIRONA Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XRAY.US&back=FXH
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=FXH
+EHC	Encompass Health Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EHC.US&back=FXH
+PFE	Pfizer Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=FXH
+CTLT	Catalent,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLT.US&back=FXH
+AMED	Amedisys,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMED.US&back=FXH
+THC	Tenet Healthcare Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=THC.US&back=FXH
+GILD	Gilead Sciences,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=FXH
+CHE	Chemed Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=FXH
+TMO	Thermo Fisher Scientific Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=FXH
+MDT	Medtronic Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=FXH
+IQV	IQVIA Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=FXH
+QGEN	QIAGEN N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=QGEN.US&back=FXH
+HSIC	Henry Schein,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HSIC.US&back=FXH
+BIIB	Biogen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=FXH
+ABT	Abbott Laboratories	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=FXH
+SGEN	Seagen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=FXH
+ACHC	Acadia Healthcare Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHC.US&back=FXH
+SYNH	Syneos Health,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNH.US&back=FXH
+OGN	Organon & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=FXH
+AVTR	Avantor,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVTR.US&back=FXH
+DHR	Danaher Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=FXH
+CNC	Centene Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=FXH
+HZNP	Horizon Therapeutics Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=HZNP.US&back=FXH
+ALGN	Align Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=FXH
+CRL	Charles River Laboratories International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRL.US&back=FXH
+NVST	Envista Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVST.US&back=FXH
+PKI	PerkinElmer,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PKI.US&back=FXH
+AGL	agilon health,inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGL.US&back=FXH
+TFX	Teleflex Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=FXH
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=FXH
+BAX	Baxter International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAX.US&back=FXH
+BRKR	Bruker Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BRKR.US&back=FXH
+BMY	Bristol-Myers Squibb Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=FXH
+IART	Integra LifeSciences Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IART.US&back=FXH
+CERT	Certara,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CERT.US&back=FXH
+RGEN	Repligen Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RGEN.US&back=FXH
+PODD	Insulet Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PODD.US&back=FXH
+MASI	Masimo Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MASI.US&back=FXH
+ILMN	Illumina,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=FXH
+A	Agilent Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=FXH
+GMED	Globus Medical,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GMED.US&back=FXH
+RMD	ResMed Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RMD.US&back=FXH
+ISRG	Intuitive Surgical,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=FXH
+BDX	Becton,Dickinson and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=FXH
+ZBH	Zimmer Biomet Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=FXH
+VEEV	Veeva Systems Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=FXH
+EW	Edwards Lifesciences Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EW.US&back=FXH
+DOCS	Doximity,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCS.US&back=FXH
+ICUI	ICU Medical,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ICUI.US&back=FXH
+PRGO	Perrigo Company Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGO.US&back=FXH
+ZTS	Zoetis Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=FXH
+MRVI	Maravai LifeSciences Holdings,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVI.US&back=FXH
+	US Dollar	

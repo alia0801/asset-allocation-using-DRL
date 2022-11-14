@@ -1,0 +1,56 @@
+PPA
+RTX	Raytheon Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=PPA
+NOC	Northrop Grumman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=PPA
+GD	General Dynamics Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=PPA
+LMT	Lockheed Martin Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=PPA
+BA	Boeing Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=PPA
+HON	Honeywell International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=PPA
+LHX	L3Harris Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=PPA
+GE	General Electric Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GE.US&back=PPA
+TDG	TransDigm Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=PPA
+BAH	Booz Allen Hamilton Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=PPA
+TXT	Textron Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TXT.US&back=PPA
+ESLT	Elbit Systems Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ESLT.US&back=PPA
+PH	Parker-Hannifin Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=PPA
+HWM	Howmet Aerospace Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=PPA
+AXON	Axon Enterprise Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AXON.US&back=PPA
+LDOS	Leidos Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=PPA
+HII	Huntington Ingalls Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HII.US&back=PPA
+HEI	HEICO Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.US&back=PPA
+KBR	KBR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KBR.US&back=PPA
+CAE	CAE Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAE.US&back=PPA
+TDY	Teledyne Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=PPA
+CACI	CACI International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=PPA
+HXL	Hexcel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HXL.US&back=PPA
+BWXT	BWX Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BWXT.US&back=PPA
+CW	Curtiss-Wright Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CW.US&back=PPA
+SAIC	Science Applications International Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=PPA
+WWD	Woodward Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WWD.US&back=PPA
+AJRD	Aerojet Rocketdyne Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AJRD.US&back=PPA
+KEYS	Keysight Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=PPA
+J	Jacobs Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=J.US&back=PPA
+MRCY	Mercury Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRCY.US&back=PPA
+SPR	Spirit AeroSystems Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPR.US&back=PPA
+PSN	Parsons Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PSN.US&back=PPA
+PLTR	Palantir Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTR.US&back=PPA
+ATI	ATI Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATI.US&back=PPA
+AVAV	AeroVironment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVAV.US&back=PPA
+BALL	Ball Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BALL.US&back=PPA
+OSK	Oshkosh Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OSK.US&back=PPA
+MOG.A	Moog Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MOG.A.US&back=PPA
+MAXR	Maxar Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MAXR.US&back=PPA
+KTOS	Kratos Defense & Security Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KTOS.US&back=PPA
+AIR	AAR Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AIR.US&back=PPA
+IRDM	Iridium Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IRDM.US&back=PPA
+VSAT	Viasat Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VSAT.US&back=PPA
+VVX	V2X Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VVX.US&back=PPA
+OSIS	OSI Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OSIS.US&back=PPA
+KAMN	Kaman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KAMN.US&back=PPA
+TTMI	TTM Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTMI.US&back=PPA
+TGI	Triumph Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TGI.US&back=PPA
+RADA	RADA Electronic Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=RADA.US&back=PPA
+DCO	Ducommun Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DCO.US&back=PPA
+TLS	Telos Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TLS.US&back=PPA
+CMTL	Comtech Telecommunications Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMTL.US&back=PPA
+PL	Planet Labs PBC	/etf/ea/ETZCW.djhtm?c=1&etfid=PL.US&back=PPA
+	Invesco Government & Agency Portfolio	

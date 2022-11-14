@@ -1,0 +1,145 @@
+PKW
+LOW	Lowe's Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=PKW
+CI	Cigna Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=PKW
+BAC	Bank of America Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=PKW
+ORCL	Oracle Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=PKW
+DG	Dollar General Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DG.US&back=PKW
+HCA	HCA Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=PKW
+MPC	Marathon Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=PKW
+MET	MetLife Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=PKW
+CHTR	Charter Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=PKW
+ORLY	O'Reilly Automotive Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=PKW
+AZO	AutoZone Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=PKW
+LHX	L3Harris Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=PKW
+COF	Capital One Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=PKW
+AFL	Aflac Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=PKW
+ALL	Allstate Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=PKW
+BK	Bank of New York Mellon Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=PKW
+NUE	Nucor Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=PKW
+AMP	Ameriprise Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=PKW
+HPQ	HP Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=PKW
+DD	DuPont de Nemours Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=PKW
+SIRI	Sirius XM Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=PKW
+IT	Gartner Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=PKW
+CDW	CDW Corp/DE	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=PKW
+EBAY	eBay Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=PKW
+HIG	Hartford Financial Services Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=PKW
+SJM	J M Smucker Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=PKW
+DGX	Quest Diagnostics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=PKW
+BBY	Best Buy Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=PKW
+SYF	Synchrony Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=PKW
+STLD	Steel Dynamics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=PKW
+NVR	NVR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=PKW
+MGM	MGM Resorts International	/etf/ea/ETZCW.djhtm?c=1&etfid=MGM.US&back=PKW
+L	Loews Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=PKW
+DPZ	Domino's Pizza Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DPZ.US&back=PKW
+MAS	Masco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=PKW
+FICO	Fair Isaac Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FICO.US&back=PKW
+EQH	Equitable Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH.US&back=PKW
+CCK	Crown Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCK.US&back=PKW
+CE	Celanese Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=PKW
+DOX	Amdocs Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=PKW
+ACM	AECOM	/etf/ea/ETZCW.djhtm?c=1&etfid=ACM.US&back=PKW
+AAP	Advance Auto Parts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=PKW
+CMA	Comerica Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=PKW
+ALLY	Ally Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=PKW
+PHM	PulteGroup Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=PKW
+DVA	DaVita Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=PKW
+OC	Owens Corning	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=PKW
+LNC	Lincoln National Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=PKW
+LUMN	Lumen Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=PKW
+BBWI	Bath & Body Works Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBWI.US&back=PKW
+CAR	Avis Budget Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAR.US&back=PKW
+NXST	Nexstar Media Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=PKW
+MUSA	Murphy USA Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MUSA.US&back=PKW
+RNR	RenaissanceRe Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR.US&back=PKW
+VOYA	Voya Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=PKW
+ARW	Arrow Electronics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=PKW
+CACI	CACI International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=PKW
+DBX	Dropbox Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=PKW
+AN	AutoNation Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=PKW
+UHS	Universal Health Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=PKW
+CACC	Credit Acceptance Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CACC.US&back=PKW
+BPOP	Popular Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BPOP.US&back=PKW
+CW	Curtiss-Wright Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CW.US&back=PKW
+ASH	Ashland Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ASH.US&back=PKW
+AYI	Acuity Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AYI.US&back=PKW
+POST	Post Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=PKW
+SLAB	Silicon Laboratories Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLAB.US&back=PKW
+AMG	Affiliated Managers Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMG.US&back=PKW
+CROX	Crocs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CROX.US&back=PKW
+TPX	Tempur Sealy International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TPX.US&back=PKW
+MGY	Magnolia Oil & Gas Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=PKW
+LPX	Louisiana-Pacific Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=PKW
+SLM	SLM Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SLM.US&back=PKW
+DDS	Dillard's Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DDS.US&back=PKW
+BOX	Box Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BOX.US&back=PKW
+MAN	ManpowerGroup Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MAN.US&back=PKW
+RDN	Radian Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RDN.US&back=PKW
+ALSN	Allison Transmission Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALSN.US&back=PKW
+BHF	Brighthouse Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BHF.US&back=PKW
+KSS	Kohl's Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KSS.US&back=PKW
+AGO	Assured Guaranty Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AGO.US&back=PKW
+CNX	CNX Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=PKW
+COOP	Mr Cooper Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COOP.US&back=PKW
+WSFS	WSFS Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WSFS.US&back=PKW
+DIOD	Diodes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DIOD.US&back=PKW
+DY	Dycom Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DY.US&back=PKW
+TMHC	Taylor Morrison Home Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TMHC.US&back=PKW
+ESGR	Enstar Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ESGR.US&back=PKW
+FBP	First BanCorp/Puerto Rico	/etf/ea/ETZCW.djhtm?c=1&etfid=FBP.US&back=PKW
+LOPE	Grand Canyon Education Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LOPE.US&back=PKW
+SLG	SL Green Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SLG.US&back=PKW
+CLBK	Columbia Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLBK.US&back=PKW
+PFSI	PennyMac Financial Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFSI.US&back=PKW
+VIRT	Virtu Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VIRT.US&back=PKW
+NAVI	Navient Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NAVI.US&back=PKW
+HLF	Herbalife Nutrition Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=HLF.US&back=PKW
+CNO	CNO Financial Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CNO.US&back=PKW
+XRX	Xerox Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=XRX.US&back=PKW
+WSBC	WesBanco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WSBC.US&back=PKW
+WAFD	Washington Federal Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WAFD.US&back=PKW
+WOR	Worthington Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WOR.US&back=PKW
+LAUR	Laureate Education Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LAUR.US&back=PKW
+TRN	Trinity Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TRN.US&back=PKW
+MDRX	Allscripts Healthcare Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDRX.US&back=PKW
+HTH	Hilltop Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HTH.US&back=PKW
+TPH	Tri Pointe Homes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TPH.US&back=PKW
+ATUS	Altice USA Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATUS.US&back=PKW
+AGIO	Agios Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AGIO.US&back=PKW
+JACK	Jack in the Box Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JACK.US&back=PKW
+HAIN	Hain Celestial Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HAIN.US&back=PKW
+VRTV	Veritiv Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTV.US&back=PKW
+KAR	KAR Auction Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KAR.US&back=PKW
+IMKTA	Ingles Markets Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IMKTA.US&back=PKW
+ECPG	Encore Capital Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ECPG.US&back=PKW
+USNA	USANA Health Sciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=USNA.US&back=PKW
+CASH	Pathward Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CASH.US&back=PKW
+	Invesco Government & Agency Portfolio	
+AMTB	Amerant Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMTB.US&back=PKW
+SNBR	Sleep Number Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SNBR.US&back=PKW
+INVA	Innoviva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INVA.US&back=PKW
+STAR	iStar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STAR.US&back=PKW
+ANF	Abercrombie & Fitch Co	/etf/ea/ETZCW.djhtm?c=1&etfid=ANF.US&back=PKW
+JELD	JELD-WEN Holding Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JELD.US&back=PKW
+WNC	Wabash National Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WNC.US&back=PKW
+KRNY	Kearny Financial Corp/MD	/etf/ea/ETZCW.djhtm?c=1&etfid=KRNY.US&back=PKW
+HONE	HarborOne Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HONE.US&back=PKW
+NFBK	Northfield Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NFBK.US&back=PKW
+HIBB	Hibbett Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HIBB.US&back=PKW
+SATS	EchoStar Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SATS.US&back=PKW
+THFF	First Financial Corp/IN	/etf/ea/ETZCW.djhtm?c=1&etfid=THFF.US&back=PKW
+HMST	HomeStreet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HMST.US&back=PKW
+LPG	Dorian LPG Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=LPG.US&back=PKW
+BBBY	Bed Bath & Beyond Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBBY.US&back=PKW
+CSV	Carriage Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSV.US&back=PKW
+SWBI	Smith & Wesson Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWBI.US&back=PKW
+BIG	Big Lots Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BIG.US&back=PKW
+ZUMZ	Zumiez Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZUMZ.US&back=PKW
+ICPT	Intercept Pharmaceuticals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ICPT.US&back=PKW
+ATLC	Atlanticus Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ATLC.US&back=PKW
+AAN	Aaron's Co Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=AAN.US&back=PKW
+CIVB	Civista Bancshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVB.US&back=PKW
+RM	Regional Management Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RM.US&back=PKW
+PVBC	Provident Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PVBC.US&back=PKW
+DHX	DHI Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DHX.US&back=PKW

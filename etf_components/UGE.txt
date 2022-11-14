@@ -1,0 +1,109 @@
+UGE
+	DJ U.S. CONSUMER GOODS INDEX SWAP CITIBANK NA	
+	DJ U.S. CONSUMER GOODS INDEX SWAP GOLDMAN SACHS INTERNATIONAL	
+TSLA	TESLA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=UGE
+	DJ U.S. CONSUMER GOODS INDEX SWAP MORGAN STANLEY & CO. INTERNATIONAL PLC	
+	DJ U.S. CONSUMER GOODS INDEX SWAP SOCIETE GENERALE	
+	DJ U.S. CONSUMER GOODS INDEX SWAP BANK OF AMERICA NA	
+	DJ U.S. CONSUMER GOODS INDEX SWAP UBS AG	
+PG	PROCTER & GAMBLE CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=UGE
+PEP	PEPSICO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=UGE
+KO	COCA-COLA CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=UGE
+PM	PHILIP MORRIS INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=UGE
+NKE	NIKE INC -CL B	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=UGE
+MDLZ	MONDELEZ INTERNATIONAL INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=UGE
+MO	ALTRIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=UGE
+CL	COLGATE-PALMOLIVE CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=UGE
+ATVI	ACTIVISION BLIZZARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=UGE
+EL	ESTEE LAUDER COMPANIES-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=UGE
+	DJ U.S. CONSUMER GOODS INDEX SWAP CREDIT SUISSE INTERNATIONAL	
+GM	GENERAL MOTORS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=UGE
+GIS	GENERAL MILLS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=UGE
+ADM	ARCHER-DANIELS-MIDLAND CO	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=UGE
+F	FORD MOTOR CO	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=UGE
+KMB	KIMBERLY-CLARK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=UGE
+STZ	CONSTELLATION BRANDS INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=STZ.US&back=UGE
+MNST	MONSTER BEVERAGE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=UGE
+LULU	LULULEMON ATHLETICA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=UGE
+HSY	HERSHEY CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=UGE
+KDP	KEURIG DR PEPPER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=UGE
+EA	ELECTRONIC ARTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=UGE
+KHC	KRAFT HEINZ CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=UGE
+DHI	DR HORTON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=UGE
+APTV	APTIV PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=UGE
+GPC	GENUINE PARTS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=UGE
+LEN	LENNAR CORP-A	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=UGE
+TSN	TYSON FOODS INC-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=UGE
+RIVN	RIVIAN AUTOMOTIVE INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=RIVN.US&back=UGE
+MKC	MCCORMICK & CO-NON VTG SHRS	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=UGE
+K	KELLOGG CO	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=UGE
+CHD	CHURCH & DWIGHT CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=UGE
+TTWO	TAKE-TWO INTERACTIVE SOFTWRE	/etf/ea/ETZCW.djhtm?c=1&etfid=TTWO.US&back=UGE
+CLX	CLOROX COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=UGE
+CAG	CONAGRA BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=UGE
+SJM	JM SMUCKER CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=UGE
+RBLX	ROBLOX CORP -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=UGE
+HRL	HORMEL FOODS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=UGE
+BG	BUNGE LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=UGE
+POOL	POOL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=POOL.US&back=UGE
+BF.B	BROWN-FORMAN CORP-CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=UGE
+NVR	NVR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=UGE
+LW	LAMB WESTON HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LW.US&back=UGE
+SWK	STANLEY BLACK & DECKER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=UGE
+DAR	DARLING INGREDIENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DAR.US&back=UGE
+VFC	VF CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=UGE
+CPB	CAMPBELL SOUP CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=UGE
+TAP	MOLSON COORS BEVERAGE CO - B	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=UGE
+PHM	PULTEGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=UGE
+HAS	HASBRO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HAS.US&back=UGE
+LCID	LUCID GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LCID.US&back=UGE
+DECK	DECKERS OUTDOOR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DECK.US&back=UGE
+BWA	BORGWARNER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BWA.US&back=UGE
+WHR	WHIRLPOOL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=UGE
+TPR	TAPESTRY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=UGE
+LEA	LEAR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LEA.US&back=UGE
+MAT	MATTEL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MAT.US&back=UGE
+PFGC	PERFORMANCE FOOD GROUP CO	/etf/ea/ETZCW.djhtm?c=1&etfid=PFGC.US&back=UGE
+GNTX	GENTEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GNTX.US&back=UGE
+INGR	INGREDION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INGR.US&back=UGE
+NWL	NEWELL BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=UGE
+BLD	TOPBUILD CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BLD.US&back=UGE
+ALV	AUTOLIV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALV.US&back=UGE
+CPRI	CAPRI HOLDINGS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRI.US&back=UGE
+PII	POLARIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PII.US&back=UGE
+USFD	US FOODS HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=USFD.US&back=UGE
+FLO	FLOWERS FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=UGE
+BC	BRUNSWICK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BC.US&back=UGE
+MHK	MOHAWK INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MHK.US&back=UGE
+LEG	LEGGETT & PLATT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LEG.US&back=UGE
+HOG	HARLEY-DAVIDSON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOG.US&back=UGE
+POST	POST HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=UGE
+TOL	TOLL BROTHERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TOL.US&back=UGE
+TPX	TEMPUR SEALY INTERNATIONAL I	/etf/ea/ETZCW.djhtm?c=1&etfid=TPX.US&back=UGE
+SKX	SKECHERS USA INC-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=SKX.US&back=UGE
+CROX	CROCS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CROX.US&back=UGE
+THO	THOR INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=THO.US&back=UGE
+RL	RALPH LAUREN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RL.US&back=UGE
+CELH	CELSIUS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CELH.US&back=UGE
+FOXF	FOX FACTORY HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXF.US&back=UGE
+SAM	BOSTON BEER COMPANY INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=SAM.US&back=UGE
+PVH	PVH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PVH.US&back=UGE
+MODG	TOPGOLF CALLAWAY BRANDS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MODG.US&back=UGE
+LANC	LANCASTER COLONY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LANC.US&back=UGE
+HBI	HANESBRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HBI.US&back=UGE
+HELE	HELEN OF TROY LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=HELE.US&back=UGE
+CRI	CARTER'S INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CRI.US&back=UGE
+COLM	COLUMBIA SPORTSWEAR CO	/etf/ea/ETZCW.djhtm?c=1&etfid=COLM.US&back=UGE
+QS	QUANTUMSCAPE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=QS.US&back=UGE
+YETI	YETI HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=YETI.US&back=UGE
+PTON	PELOTON INTERACTIVE INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=PTON.US&back=UGE
+COTY	COTY INC-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=COTY.US&back=UGE
+LEVI	LEVI STRAUSS & CO- CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=LEVI.US&back=UGE
+REYN	REYNOLDS CONSUMER PRODUCTS I	/etf/ea/ETZCW.djhtm?c=1&etfid=REYN.US&back=UGE
+UAA	UNDER ARMOUR INC-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=UAA.US&back=UGE
+PPC	PILGRIM'S PRIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=UGE
+PLTK	PLAYTIKA HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PLTK.US&back=UGE
+UA	UNDER ARMOUR INC-CLASS C	/etf/ea/ETZCW.djhtm?c=1&etfid=UA.US&back=UGE
+FIZZ	NATIONAL BEVERAGE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FIZZ.US&back=UGE
+LEN.B	LENNAR CORP - B SHS	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.B.US&back=UGE
+OLPX	OLAPLEX HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OLPX.US&back=UGE

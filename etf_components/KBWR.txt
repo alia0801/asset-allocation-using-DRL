@@ -1,0 +1,51 @@
+KBWR
+CFR	Cullen/Frost Bankers Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CFR.US&back=KBWR
+CBSH	Commerce Bancshares Inc/MO	/etf/ea/ETZCW.djhtm?c=1&etfid=CBSH.US&back=KBWR
+WBS	Webster Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WBS.US&back=KBWR
+PNFP	Pinnacle Financial Partners Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PNFP.US&back=KBWR
+PB	Prosperity Bancshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PB.US&back=KBWR
+EBC	Eastern Bankshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBC.US&back=KBWR
+SSB	SouthState Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SSB.US&back=KBWR
+FIBK	First Interstate BancSystem Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FIBK.US&back=KBWR
+BOKF	BOK Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BOKF.US&back=KBWR
+CADE	Cadence Bank	/etf/ea/ETZCW.djhtm?c=1&etfid=CADE.US&back=KBWR
+ONB	Old National Bancorp/IN	/etf/ea/ETZCW.djhtm?c=1&etfid=ONB.US&back=KBWR
+UCBI	United Community Banks Inc/GA	/etf/ea/ETZCW.djhtm?c=1&etfid=UCBI.US&back=KBWR
+FFIN	First Financial Bankshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIN.US&back=KBWR
+BOH	Bank of Hawaii Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH.US&back=KBWR
+OZK	Bank OZK	/etf/ea/ETZCW.djhtm?c=1&etfid=OZK.US&back=KBWR
+FNB	FNB Corp/PA	/etf/ea/ETZCW.djhtm?c=1&etfid=FNB.US&back=KBWR
+ASB	Associated Banc-Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ASB.US&back=KBWR
+GBCI	Glacier Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GBCI.US&back=KBWR
+WTFC	Wintrust Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFC.US&back=KBWR
+CVBF	CVB Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CVBF.US&back=KBWR
+UBSI	United Bankshares Inc/WV	/etf/ea/ETZCW.djhtm?c=1&etfid=UBSI.US&back=KBWR
+ABCB	Ameris Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=ABCB.US&back=KBWR
+FHB	First Hawaiian Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FHB.US&back=KBWR
+HOMB	Home BancShares Inc/AR	/etf/ea/ETZCW.djhtm?c=1&etfid=HOMB.US&back=KBWR
+INDB	Independent Bank Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INDB.US&back=KBWR
+WSFS	WSFS Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WSFS.US&back=KBWR
+HWC	Hancock Whitney Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HWC.US&back=KBWR
+TCBI	Texas Capital Bancshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TCBI.US&back=KBWR
+PPBI	Pacific Premier Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PPBI.US&back=KBWR
+UMBF	UMB Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UMBF.US&back=KBWR
+SNV	Synovus Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV.US&back=KBWR
+BPOP	Popular Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BPOP.US&back=KBWR
+VLY	Valley National Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=VLY.US&back=KBWR
+CBU	Community Bank System Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CBU.US&back=KBWR
+CATY	Cathay General Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=CATY.US&back=KBWR
+SFNC	Simmons First National Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SFNC.US&back=KBWR
+NYCB	New York Community Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=KBWR
+BKU	BankUnited Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BKU.US&back=KBWR
+PACW	PacWest Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=PACW.US&back=KBWR
+FULT	Fulton Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FULT.US&back=KBWR
+FBP	First BanCorp/Puerto Rico	/etf/ea/ETZCW.djhtm?c=1&etfid=FBP.US&back=KBWR
+COLB	Columbia Banking System Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COLB.US&back=KBWR
+AUB	Atlantic Union Bankshares Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AUB.US&back=KBWR
+FFBC	First Financial Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FFBC.US&back=KBWR
+WAFD	Washington Federal Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WAFD.US&back=KBWR
+TRMK	Trustmark Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMK.US&back=KBWR
+HOPE	Hope Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HOPE.US&back=KBWR
+PFS	Provident Financial Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFS.US&back=KBWR
+FCF	First Commonwealth Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FCF.US&back=KBWR
+BRKL	Brookline Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRKL.US&back=KBWR

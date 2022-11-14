@@ -1,0 +1,30 @@
+CSD
+CEG	Constellation Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=CSD
+CTVA	Corteva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=CSD
+DOW	Dow Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=CSD
+OTIS	Otis Worldwide Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=CSD
+CARR	Carrier Global Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=CSD
+DTM	DT Midstream Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=CSD
+AIRC	Apartment Income REIT Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=CSD
+CNXC	Concentrix Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=CSD
+PENN	Penn Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PENN.US&back=CSD
+IAA	IAA Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IAA.US&back=CSD
+OGN	Organon & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=CSD
+GXO	GXO Logistics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GXO.US&back=CSD
+ETRN	Equitrans Midstream Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ETRN.US&back=CSD
+REZI	Resideo Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REZI.US&back=CSD
+ACA	Arcosa Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ACA.US&back=CSD
+VNT	Vontier Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VNT.US&back=CSD
+VSCO	Victoria's Secret & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=VSCO.US&back=CSD
+CVET	Covetrus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CVET.US&back=CSD
+EMBC	Embecta Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EMBC.US&back=CSD
+FTDR	Frontdoor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FTDR.US&back=CSD
+KTB	Kontoor Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KTB.US&back=CSD
+KD	Kyndryl Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KD.US&back=CSD
+ESAB	Esab Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ESAB.US&back=CSD
+MSGE	Madison Square Garden Entertainment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MSGE.US&back=CSD
+EHAB	Enhabit Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EHAB.US&back=CSD
+CCSI	Consensus Cloud Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCSI.US&back=CSD
+VMEO	Vimeo Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VMEO.US&back=CSD
+ONL	Orion Office REIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ONL.US&back=CSD
+	Invesco Government & Agency Portfolio	

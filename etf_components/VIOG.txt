@@ -1,0 +1,21 @@
+VIOG
+EXLS	ExlService Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXLS.US&back=VIOG
+SM	SM Energy Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=VIOG
+LTHM	Livent Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LTHM.US&back=VIOG
+UFPI	UFP Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UFPI.US&back=VIOG
+EXPO	Exponent Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPO.US&back=VIOG
+CIVI	Civitas Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=VIOG
+ROG	Rogers Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROG.US&back=VIOG
+AMN	AMN Healthcare Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMN.US&back=VIOG
+CYTK	Cytokinetics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CYTK.US&back=VIOG
+SPSC	SPS Commerce Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPSC.US&back=VIOG
+BCPC	Balchem Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BCPC.US&back=VIOG
+SFBS	ServisFirst Bancshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SFBS.US&back=VIOG
+FN	Fabrinet	/etf/ea/ETZCW.djhtm?c=1&etfid=FN.US&back=VIOG
+FIX	Comfort Systems USA Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIX.US&back=VIOG
+MLI	Mueller Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MLI.US&back=VIOG
+ONTO	Onto Innovation Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ONTO.US&back=VIOG
+AEIS	Advanced Energy Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEIS.US&back=VIOG
+KFY	Korn Ferry	/etf/ea/ETZCW.djhtm?c=1&etfid=KFY.US&back=VIOG
+DIOD	Diodes Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DIOD.US&back=VIOG
+LNTH	Lantheus Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNTH.US&back=VIOG

@@ -1,0 +1,37 @@
+RSX
+	Other/Cash	
+VEON	Veon Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=VEON.US&back=RSX
+	Polymetal International Plc	
+	Raspadskaya Ojsc	
+	Rosneft Oil Co Pjsc	
+	Rostelecom Pjsc	
+	Sberbank Of Russia Pjsc	
+	Surgutneftegas Pjsc	
+	Surgutneftegas Pjsc	
+	Severstal Pao	
+	Tcs Group Holding Plc	
+	Transneft Pjsc	
+	Vk Co Ltd	
+	Vtb Bank Pjsc	
+YNDX	Yandex Nv	/etf/ea/ETZCW.djhtm?c=1&etfid=YNDX.US&back=RSX
+	Phosagro Pjsc	
+	Phosagro Pjsc	
+	Alrosa Pjsc	
+	Tatneft Pjsc	
+	Evraz Plc	
+	X5 Retail Group Nv	
+	Gazprom Pjsc	
+	Irkutsk Electronetwork Co Jsc	
+	Inter Rao Ues Pjsc	
+	Lukoil Pjsc	
+	Magnit Pjsc	
+	Mmc Norilsk Nickel Pjsc	
+	Moscow Exchange Micex-Rts Pjsc	
+	Mobile Telesystems Pjsc	
+	Novolipetsk Steel Pjsc	
+	Novatek Pjsc	
+	Novatek Pjsc	
+	Gazprom Pjsc	
+OZON	Ozon Holdings Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=OZON.US&back=RSX
+	Phosagro Pjsc	
+	Polyus Pjsc	

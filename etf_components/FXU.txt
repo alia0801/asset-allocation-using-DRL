@@ -1,0 +1,42 @@
+FXU
+WM	Waste Management,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=FXU
+RSG	Republic Services,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=FXU
+VST	Vistra Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=FXU
+NRG	NRG Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=FXU
+NFG	National Fuel Gas Company	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=FXU
+OGE	OGE Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=FXU
+PNW	Pinnacle West Capital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=FXU
+UGI	UGI Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=FXU
+PCG	PG&E Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=FXU
+AGR	Avangrid,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=FXU
+EVRG	Evergy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=FXU
+ED	Consolidated Edison,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=FXU
+ETR	Entergy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=FXU
+CLH	Clean Harbors,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLH.US&back=FXU
+NI	NiSource Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=FXU
+DUK	Duke Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=FXU
+EXC	Exelon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=FXU
+AES	The AES Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=FXU
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=FXU
+CNP	CenterPoint Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNP.US&back=FXU
+AEP	American Electric Power Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=FXU
+FE	FirstEnergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=FXU
+ATO	Atmos Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=FXU
+HE	Hawaiian Electric Industries,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=FXU
+ES	Eversource Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=FXU
+XEL	Xcel Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=FXU
+LNT	Alliant Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=FXU
+IDA	IDACORP,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDA.US&back=FXU
+DTE	DTE Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=FXU
+AEE	Ameren Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=FXU
+WEC	WEC Energy Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=FXU
+CMS	CMS Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=FXU
+RUN	Sunrun Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RUN.US&back=FXU
+SRCL	Stericycle,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SRCL.US&back=FXU
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=FXU
+SO	The Southern Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=FXU
+PPL	PPL Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=FXU
+WTRG	Essential Utilities,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=FXU
+D	Dominion Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=FXU
+AWK	American Water Works Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=FXU
+	US Dollar	

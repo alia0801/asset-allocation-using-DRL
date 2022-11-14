@@ -1,0 +1,75 @@
+IHF
+UNH	UNITEDHEALTH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=IHF
+CVS	CVS HEALTH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=IHF
+ELV	ELEVANCE HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=IHF
+CI	CIGNA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=IHF
+CNC	CENTENE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=IHF
+HUM	HUMANA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=IHF
+HCA	HCA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=IHF
+LH	LABORATORY CORPORATION OF AMERICA	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=IHF
+MOH	MOLINA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=IHF
+DGX	QUEST DIAGNOSTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=IHF
+ACHC	ACADIA HEALTHCARE COMPANY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHC.US&back=IHF
+CHE	CHEMED CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=IHF
+UHS	UNIVERSAL HEALTH SERVICES INC CLAS	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=IHF
+	CHANGE HEALTHCARE INC	
+THC	TENET HEALTHCARE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=THC.US&back=IHF
+HQY	HEALTHEQUITY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HQY.US&back=IHF
+INSP	INSPIRE MEDICAL SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=INSP.US&back=IHF
+DVA	DAVITA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=IHF
+GH	GUARDANT HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GH.US&back=IHF
+LHCG	LHC GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LHCG.US&back=IHF
+TDOC	TELADOC HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=IHF
+EHC	ENCOMPASS HEALTH CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EHC.US&back=IHF
+OPCH	OPTION CARE HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OPCH.US&back=IHF
+ENSG	ENSIGN GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENSG.US&back=IHF
+PINC	PREMIER INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PINC.US&back=IHF
+AMED	AMEDISYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMED.US&back=IHF
+OSH	OAK STREET HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OSH.US&back=IHF
+DOCS	DOXIMITY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCS.US&back=IHF
+ONEM	1LIFE HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ONEM.US&back=IHF
+RCM	R1 RCM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RCM.US&back=IHF
+PGNY	PROGYNY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PGNY.US&back=IHF
+SEM	SELECT MEDICAL HOLDINGS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SEM.US&back=IHF
+AMEH	APOLLO MEDICAL HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMEH.US&back=IHF
+CERT	CERTARA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CERT.US&back=IHF
+MD	PEDIATRIX MEDICAL GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MD.US&back=IHF
+CRVL	CORVEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CRVL.US&back=IHF
+ADUS	ADDUS HOMECARE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ADUS.US&back=IHF
+MODV	MODIVCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MODV.US&back=IHF
+PHR	PHREESIA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PHR.US&back=IHF
+SDGR	SCHRODINGER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SDGR.US&back=IHF
+NEO	NEOGENOMICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEO.US&back=IHF
+CANO	CANO HEALTH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=CANO.US&back=IHF
+PRVA	PRIVIA HEALTH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRVA.US&back=IHF
+USPH	US PHYSICAL THERAPY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=USPH.US&back=IHF
+AGL	AGILON HEALTH	/etf/ea/ETZCW.djhtm?c=1&etfid=AGL.US&back=IHF
+SGRY	SURGERY PARTNERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SGRY.US&back=IHF
+NHC	NATIONAL HEALTHCARE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NHC.US&back=IHF
+RDNT	RADNET INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RDNT.US&back=IHF
+AMWL	AMERICAN WELL CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=AMWL.US&back=IHF
+OPK	OPKO HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OPK.US&back=IHF
+FLGT	FULGENT GENETICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLGT.US&back=IHF
+MPLN	MULTIPLAN CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLN.US&back=IHF
+EHAB	ENHABIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EHAB.US&back=IHF
+CLOV	CLOVER HEALTH INVESTMENTS CORP CLA	/etf/ea/ETZCW.djhtm?c=1&etfid=CLOV.US&back=IHF
+BKD	BROOKDALE SENIOR LIVING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BKD.US&back=IHF
+HIMS	HIMS HERS HEALTH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=HIMS.US&back=IHF
+DCGO	DOCGO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DCGO.US&back=IHF
+CSTL	CASTLE BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSTL.US&back=IHF
+	HANGER INC	
+SGFY	SIGNIFY HEALTH INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SGFY.US&back=IHF
+HCAT	HEALTH CATALYST INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HCAT.US&back=IHF
+NVTA	INVITAE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVTA.US&back=IHF
+ACCD	ACCOLADE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACCD.US&back=IHF
+SHCR	SHARECARE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SHCR.US&back=IHF
+HSTM	HEALTHSTREAM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HSTM.US&back=IHF
+DH	DEFINITIVE HEALTHCARE CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=DH.US&back=IHF
+	BLK CSH FND TREASURY SL AGENCY	
+AGTI	AGILITI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AGTI.US&back=IHF
+GDRX	GOODRX HOLDINGS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=GDRX.US&back=IHF
+PNTG	PENNANT GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNTG.US&back=IHF
+CYH	COMMUNITY HEALTH SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CYH.US&back=IHF
+SMFR	SEMA4 HOLDINGS CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SMFR.US&back=IHF
+	CASH COLLATERAL USD SGAFT	
+	E-MINI HEALTH CARE SECTOR SEP 22	

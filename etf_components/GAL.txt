@@ -1,0 +1,24 @@
+GAL
+SPDW	SPDR Portfolio Developed World ex-US ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPDW.US&back=GAL
+SPY	SPDR S&P 500 ETF Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=SPY.US&back=GAL
+TIPX	SPDR Bloomberg 1-10 Year TIPS ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=TIPX.US&back=GAL
+BWX	SPDR Bloomberg International Treasury Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=BWX.US&back=GAL
+	Ssga Fds/Usa State St Inst Us Gov M Oef	
+SPAB	SPDR Portfolio Aggregate Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPAB.US&back=GAL
+SPEM	SPDR Portfolio Emerging Markets ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPEM.US&back=GAL
+PDBC	Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=PDBC.US&back=GAL
+SPTL	SPDR Portfolio Long Term Treasury ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTL.US&back=GAL
+SRLN	SPDR Blackstone Senior Loan ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SRLN.US&back=GAL
+SPTI	SPDR Portfolio Intermediate Term Treasury ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTI.US&back=GAL
+VPL	Vanguard FTSE Pacific ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=VPL.US&back=GAL
+GWX	SPDR S&P International Small Cap ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=GWX.US&back=GAL
+SPSM	SPDR Portfolio S&P 600 Small Cap ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPSM.US&back=GAL
+EBND	SPDR Bloomberg Emerging Markets Local Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=EBND.US&back=GAL
+XLE	Energy Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLE.US&back=GAL
+XLU	Utilities Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLU.US&back=GAL
+MDY	SPDR S&P Midcap 400 ETF Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=MDY.US&back=GAL
+JNK	SPDR Bloomberg High Yield Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=JNK.US&back=GAL
+SPEU	SPDR Portfolio Europe ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPEU.US&back=GAL
+XLV	Health Care Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLV.US&back=GAL
+XLF	Financial Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLF.US&back=GAL
+	U.S. Dollar	

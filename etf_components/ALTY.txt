@@ -1,0 +1,21 @@
+ALTY
+PFFD	GLOBAL X US PREFERRED ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=PFFD.US&back=ALTY
+EMBD	GLBX EM MKT BOND	/etf/ea/ETZCW.djhtm?c=1&etfid=EMBD.US&back=ALTY
+SRET	GLOBALX SUPD REI	/etf/ea/ETZCW.djhtm?c=1&etfid=SRET.US&back=ALTY
+QYLD	GLOBAL X NASD ET	/etf/ea/ETZCW.djhtm?c=1&etfid=QYLD.US&back=ALTY
+GSBC	SOUTHERN CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=GSBC.US&back=ALTY
+MMP	MAGELLAN MIDSTRE	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=ALTY
+ED	CONSOLIDATED EDISON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=ALTY
+EPD	ENTERPRISE PRODU	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=ALTY
+HEP	HOLLY ENERGY PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=ALTY
+AAOI	PPL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AAOI.US&back=ALTY
+SPH	SUBURBAN PROPANE	/etf/ea/ETZCW.djhtm?c=1&etfid=SPH.US&back=ALTY
+BROG	OGE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BROG.US&back=ALTY
+IEP	ICAHN ENTERPRISES LP	/etf/ea/ETZCW.djhtm?c=1&etfid=IEP.US&back=ALTY
+ETR	ENTERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=ALTY
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=ALTY
+DUK	DUKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=ALTY
+SUN	SUNOCO LP	/etf/ea/ETZCW.djhtm?c=1&etfid=SUN.US&back=ALTY
+EIX	EDISON INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=ALTY
+D	DOMINION ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=ALTY
+	CASH	

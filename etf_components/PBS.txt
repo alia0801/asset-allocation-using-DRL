@@ -1,0 +1,32 @@
+PBS
+NFLX	Netflix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=PBS
+IT	Gartner Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=PBS
+SIRI	Sirius XM Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=PBS
+WBD	Warner Bros Discovery Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=PBS
+META	Meta Platforms Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=PBS
+GOOGL	Alphabet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=PBS
+DIS	Walt Disney Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=PBS
+SPOT	Spotify Technology SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SPOT.US&back=PBS
+WWE	World Wrestling Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WWE.US&back=PBS
+ZIP	ZipRecruiter Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZIP.US&back=PBS
+YELP	Yelp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=YELP.US&back=PBS
+OMC	Omnicom Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=PBS
+IPG	Interpublic Group of Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=PBS
+FOXA	Fox Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=PBS
+NWSA	News Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NWSA.US&back=PBS
+TTGT	TechTarget Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTGT.US&back=PBS
+NXST	Nexstar Media Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=PBS
+ZD	Ziff Davis Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZD.US&back=PBS
+IHRT	iHeartMedia Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IHRT.US&back=PBS
+WMG	Warner Music Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WMG.US&back=PBS
+PARA	Paramount Global	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=PBS
+AMCX	AMC Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCX.US&back=PBS
+SBGI	Sinclair Broadcast Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SBGI.US&back=PBS
+LGF.A	Lions Gate Entertainment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LGF.A.US&back=PBS
+CARG	Cargurus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CARG.US&back=PBS
+SSP	EW Scripps Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SSP.US&back=PBS
+WLY	John Wiley & Sons Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WLY.US&back=PBS
+GTN	Gray Television Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GTN.US&back=PBS
+SCHL	Scholastic Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHL.US&back=PBS
+ADV	Advantage Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADV.US&back=PBS
+	Invesco Government & Agency Portfolio	

@@ -1,0 +1,25 @@
+GAA
+EYLD	Cambria Emerging Shareholder Yield ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=EYLD.US&back=GAA
+SYLD	Cambria Shareholder Yield ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SYLD.US&back=GAA
+BND	Vanguard Total Bond Market ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=BND.US&back=GAA
+PDBC	Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=PDBC.US&back=GAA
+EMLC	VanEck J. P. Morgan EM Local Currency Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=EMLC.US&back=GAA
+BLDG	Cambria Global Real Estate ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDG.US&back=GAA
+BNDX	Vanguard Total International Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=BNDX.US&back=GAA
+GVAL	Cambria Global Value ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=GVAL.US&back=GAA
+	Cambria Value and Momentum ETF	
+VGIT	Vanguard Intermediate-Term Government Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=VGIT.US&back=GAA
+	Alpha Architect US Quantitative Momentum ETF	
+FYLD	Cambria Foreign Shareholder Yield ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=FYLD.US&back=GAA
+HYEM	VanEck Emerging Markets High Yield Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=HYEM.US&back=GAA
+VGLT	Vanguard Long-Term Treasury Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=VGLT.US&back=GAA
+VCIT	Vanguard Intermediate-Term Corporate Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=VCIT.US&back=GAA
+BAR	Graniteshares Gold Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BAR.US&back=GAA
+SCHP	Schwab US TIPS Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHP.US&back=GAA
+WIP	SPDR FTSE International Government Inflation-Protected Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=WIP.US&back=GAA
+VMOT	Alpha Architect Value Momentum Trend ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=VMOT.US&back=GAA
+VCSH	Vanguard Short-Term Corporate Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=VCSH.US&back=GAA
+IHY	VanEck International High Yield Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=IHY.US&back=GAA
+	Alpha Architect International Quantitative Momentum ETF	
+	Cash Equivalent	
+GDX	VanEck Gold Miners ETF/USA	/etf/ea/ETZCW.djhtm?c=1&etfid=GDX.US&back=GAA

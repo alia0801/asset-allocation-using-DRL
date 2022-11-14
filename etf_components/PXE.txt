@@ -1,0 +1,32 @@
+PXE
+MPC	Marathon Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=PXE
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=PXE
+CLR	Continental Resources Inc/OK	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=PXE
+FANG	Diamondback Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=PXE
+VLO	Valero Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=PXE
+PXD	Pioneer Natural Resources Co	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=PXE
+DVN	Devon Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=PXE
+OXY	Occidental Petroleum Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=PXE
+DINO	HF Sinclair Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=PXE
+IEP	Icahn Enterprises LP	/etf/ea/ETZCW.djhtm?c=1&etfid=IEP.US&back=PXE
+CHRD	Chord Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=PXE
+MUR	Murphy Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MUR.US&back=PXE
+PBF	PBF Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=PXE
+DK	Delek US Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DK.US&back=PXE
+CRK	Comstock Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=PXE
+APA	APA Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=PXE
+PR	Permian Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PR.US&back=PXE
+MRO	Marathon Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=PXE
+OVV	Ovintiv Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=PXE
+PDCE	PDC Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=PXE
+NFG	National Fuel Gas Co	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=PXE
+CVI	CVR Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=PXE
+SM	SM Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=PXE
+CPE	Callon Petroleum Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CPE.US&back=PXE
+LPI	Laredo Petroleum Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LPI.US&back=PXE
+TALO	Talos Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TALO.US&back=PXE
+MGY	Magnolia Oil & Gas Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=PXE
+ESTE	Earthstone Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTE.US&back=PXE
+MTDR	Matador Resources Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=PXE
+SWN	Southwestern Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=PXE
+	Invesco Government & Agency Portfolio	

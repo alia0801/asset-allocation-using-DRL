@@ -1,0 +1,41 @@
+FXZ
+X	United States Steel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=FXZ
+NUE	Nucor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=FXZ
+STLD	Steel Dynamics,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=FXZ
+CLF	Cleveland-Cliffs Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLF.US&back=FXZ
+RS	Reliance Steel & Aluminum Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=FXZ
+WLK	Westlake Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=FXZ
+HUN	Huntsman Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HUN.US&back=FXZ
+CF	CF Industries Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=FXZ
+OLN	Olin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OLN.US&back=FXZ
+MOS	The Mosaic Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=FXZ
+CC	The Chemours Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CC.US&back=FXZ
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=FXZ
+LYB	LyondellBasell Industries N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=FXZ
+CE	Celanese Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=FXZ
+TKR	The Timken Company	/etf/ea/ETZCW.djhtm?c=1&etfid=TKR.US&back=FXZ
+AA	Alcoa Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=FXZ
+SSRM	SSR Mining Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SSRM.US&back=FXZ
+UNVR	Univar Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNVR.US&back=FXZ
+EMN	Eastman Chemical Company	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=FXZ
+FCX	Freeport-McMoRan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=FXZ
+VVV	Valvoline Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VVV.US&back=FXZ
+IP	International Paper Company	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=FXZ
+SCCO	Southern Copper Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SCCO.US&back=FXZ
+ALB	Albemarle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=FXZ
+AVY	Avery Dennison Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=FXZ
+ESI	Element Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESI.US&back=FXZ
+FMC	FMC Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=FXZ
+LIN	Linde Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=FXZ
+RGLD	Royal Gold,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RGLD.US&back=FXZ
+SMG	The Scotts Miracle-Gro Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SMG.US&back=FXZ
+NEM	Newmont Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=FXZ
+HXL	Hexcel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HXL.US&back=FXZ
+MP	MP Materials Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MP.US&back=FXZ
+ECL	Ecolab Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=FXZ
+APD	Air Products and Chemicals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=FXZ
+FAST	Fastenal Company	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=FXZ
+ASH	Ashland Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ASH.US&back=FXZ
+NEU	NewMarket Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NEU.US&back=FXZ
+IFF	International Flavors & Fragrances Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=FXZ
+	US Dollar	

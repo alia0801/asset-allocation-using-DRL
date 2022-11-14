@@ -1,0 +1,32 @@
+PXQ
+FTNT	Fortinet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=PXQ
+APH	Amphenol Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=PXQ
+PANW	Palo Alto Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=PXQ
+CRWD	Crowdstrike Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=PXQ
+CSCO	Cisco Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=PXQ
+MRVL	Marvell Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=PXQ
+AAPL	Apple Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=PXQ
+QCOM	QUALCOMM Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=PXQ
+HLIT	Harmonic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLIT.US&back=PXQ
+KNBE	KnowBe4 Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KNBE.US&back=PXQ
+CYBR	CyberArk Software Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CYBR.US&back=PXQ
+NTCT	NetScout Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTCT.US&back=PXQ
+EXTR	Extreme Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXTR.US&back=PXQ
+UI	Ubiquiti Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UI.US&back=PXQ
+CHKP	Check Point Software Technologies Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CHKP.US&back=PXQ
+NEWR	New Relic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWR.US&back=PXQ
+MSI	Motorola Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=PXQ
+QLYS	Qualys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QLYS.US&back=PXQ
+COMM	CommScope Holding Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COMM.US&back=PXQ
+ANET	Arista Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=PXQ
+BDC	Belden Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BDC.US&back=PXQ
+FFIV	F5 Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=PXQ
+ATEN	A10 Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATEN.US&back=PXQ
+DDOG	Datadog Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=PXQ
+TENB	Tenable Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TENB.US&back=PXQ
+CLFD	Clearfield Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLFD.US&back=PXQ
+ADTN	ADTRAN Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADTN.US&back=PXQ
+LITE	Lumentum Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=PXQ
+CIEN	Ciena Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=PXQ
+COHR	Coherent Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COHR.US&back=PXQ
+	Invesco Government & Agency Portfolio	

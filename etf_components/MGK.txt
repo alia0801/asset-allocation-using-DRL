@@ -1,0 +1,21 @@
+MGK
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=MGK
+MSFT	Microsoft Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=MGK
+AMZN	Amazon.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=MGK
+TSLA	Tesla Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=MGK
+GOOGL	Alphabet Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=MGK
+GOOG	Alphabet Inc. Class C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=MGK
+META	Facebook Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=MGK
+NVDA	NVIDIA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=MGK
+V	Visa Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=MGK
+HD	Home Depot Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=MGK
+MA	Mastercard Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=MGK
+COST	Costco Wholesale Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=MGK
+TMO	Thermo Fisher Scientific Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=MGK
+DIS	Walt Disney Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=MGK
+ACN	Accenture plc Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=MGK
+MCD	McDonald's Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=MGK
+ADBE	Adobe Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=MGK
+TXN	Texas Instruments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=MGK
+CRM	salesforce.com Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=MGK
+LIN	Linde plc	/etf/ea/ETZCW.djhtm?c=1&etfid=LIN.US&back=MGK

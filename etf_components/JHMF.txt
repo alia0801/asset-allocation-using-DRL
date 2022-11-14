@@ -1,0 +1,11 @@
+JHMF
+BRK.A	Berkshire Hathaway,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.A.US&back=JHMF
+V	Visa,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=JHMF
+JPM	JPMorgan Chase & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=JHMF
+MA	Mastercard,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=JHMF
+BAC	Bank of America Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=JHMF
+WFC	Wells Fargo & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=JHMF
+TRV	The Travelers Cos,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=JHMF
+GS	Goldman Sachs Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=JHMF
+ALL	Allstate Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=JHMF
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=JHMF

@@ -1,0 +1,62 @@
+QQXT
+CEG	Constellation Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=QQXT
+MELI	MercadoLibre,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MELI.US&back=QQXT
+PYPL	PayPal Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=QQXT
+NFLX	Netflix,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=QQXT
+TSLA	Tesla,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=QQXT
+ADP	Automatic Data Processing,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADP.US&back=QQXT
+PDD	Pinduoduo Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=PDD.US&back=QQXT
+AMZN	Amazon.com,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=QQXT
+DXCM	DexCom,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DXCM.US&back=QQXT
+ORLY	O'Reilly Automotive,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=QQXT
+SBUX	Starbucks Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SBUX.US&back=QQXT
+CTAS	Cintas Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CTAS.US&back=QQXT
+COST	Costco Wholesale Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=QQXT
+ODFL	Old Dominion Freight Line,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=QQXT
+VRSK	Verisk Analytics,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSK.US&back=QQXT
+XEL	Xcel Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=QQXT
+ROST	Ross Stores,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=QQXT
+CPRT	Copart,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CPRT.US&back=QQXT
+ABNB	Airbnb,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=QQXT
+AEP	American Electric Power Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=QQXT
+FISV	Fiserv,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=QQXT
+TMUS	T-Mobile US,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=QQXT
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=QQXT
+CSX	CSX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=QQXT
+PAYX	Paychex,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYX.US&back=QQXT
+PEP	PepsiCo,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=QQXT
+GILD	Gilead Sciences,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=QQXT
+LULU	lululemon athletica inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LULU.US&back=QQXT
+ILMN	Illumina,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ILMN.US&back=QQXT
+ISRG	Intuitive Surgical,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=QQXT
+EXC	Exelon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=QQXT
+PCAR	PACCAR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=QQXT
+VRTX	Vertex Pharmaceuticals Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=QQXT
+IDXX	IDEXX Laboratories,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=QQXT
+MAR	Marriott International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=QQXT
+MDLZ	Mondelez International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=QQXT
+KHC	The Kraft Heinz Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=QQXT
+HON	Honeywell International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=QQXT
+EBAY	eBay Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=QQXT
+ATVI	Activision Blizzard,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=QQXT
+ALGN	Align Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGN.US&back=QQXT
+SIRI	Sirius XM Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SIRI.US&back=QQXT
+MRNA	Moderna,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=QQXT
+FAST	Fastenal Company	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=QQXT
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=QQXT
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=QQXT
+AZN	AstraZeneca Plc (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=QQXT
+MNST	Monster Beverage Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=QQXT
+REGN	Regeneron Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=QQXT
+EA	Electronic Arts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=QQXT
+BKNG	Booking Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=QQXT
+JD	JD.com,Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=JD.US&back=QQXT
+BIIB	Biogen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=QQXT
+NTES	NetEase,Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=NTES.US&back=QQXT
+CHTR	Charter Communications,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=QQXT
+CMCSA	Comcast Corporation (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=QQXT
+SGEN	Seagen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SGEN.US&back=QQXT
+LCID	Lucid Group,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=LCID.US&back=QQXT
+DLTR	Dollar Tree,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=QQXT
+WBA	Walgreens Boots Alliance,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=QQXT
+	US Dollar	

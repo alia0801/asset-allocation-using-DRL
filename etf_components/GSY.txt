@@ -1,0 +1,220 @@
+GSY
+	Citigroup Global Markets Inc 3.62 12/01/2059	
+	Raytheon Technologies Corp 0 10/17/2022	
+	HP Inc 0 10/17/2022	
+	Barclays Capital Inc 0 02/02/2023	
+	Constellation Energy Generation LLC 0 10/04/2022	
+	JP Morgan Securities LLC 3.37 12/01/2059	
+	Humana Inc 0 10/11/2022	
+	Discover Bank 3.35 02/06/2023	
+	Brookfield Infrastructure Holdings Canada Inc 0 10/04/2022	
+	Bank of Nova Scotia/The 1.95 02/01/2023	
+	Jabil Inc 0 10/21/2022	
+	National Bank of Canada 2.1 02/01/2023	
+	HSBC USA Inc 0 01/06/2023	
+	Crown Castle Inc 0 10/26/2022	
+	Plains All American Pipeline LP / PAA Finance Corp 2.85 01/31/2023	
+	Mercedes-Benz Finance North America LLC 3.35 02/22/2023	
+	Oglethorpe Power Corp 0 10/20/2022	
+	Brookfield Infrastructure Holdings Canada Inc 0 10/25/2022	
+	Goldman Sachs Group Inc/The 0.63 11/17/2023	
+	Canadian Natural Resources Ltd 2.95 01/15/2023	
+	Constellation Brands Inc 0 10/24/2022	
+	Dollarama Inc 0 10/04/2022	
+	VF Corp 0 11/21/2022	
+	Macquarie Bank Ltd 3.58 03/02/2023	
+	White Plains Capital Co LLC 0 01/24/2023	
+	White Plains Capital Co LLC 0 02/01/2023	
+	STAR 2021-SFR1 Trust 3.59 04/17/2038	
+	AT&T Inc 0 12/05/2022	
+	Aviation Capital Group LLC 0 10/04/2022	
+	Walt Disney Co/The 0 11/18/2022	
+	Enel Finance America LLC 0 10/14/2022	
+	Fiserv Inc 0 10/17/2022	
+	Athene Global Funding 2.8 05/26/2023	
+	Banco Santander SA 3.89 05/24/2024	
+	Lloyds Banking Group PLC 4.05 08/16/2023	
+	Canadian Imperial Bank of Commerce 0.95 06/23/2023	
+	Harley-Davidson Financial Services Inc 0 10/11/2022	
+	Harley-Davidson Financial Services Inc 0 10/13/2022	
+	MassMutual Global Funding II 2.6 04/12/2024	
+	Mitsubishi HC Capital America Inc 0 10/14/2022	
+	Glencore Funding LLC 0 10/11/2022	
+	E.ON SE 0 10/17/2022	
+	Enbridge Inc 4 10/01/2023	
+	Dollarama Inc 0 11/03/2022	
+	Harley-Davidson Financial Services Inc 0 11/04/2022	
+	Morgan Stanley 3.12 01/23/2023	
+	Enel Finance America LLC 0 04/17/2023	
+	Canadian Imperial Bank of Commerce 0.45 06/22/2023	
+	Constellation Brands Inc 0 10/11/2022	
+	HSBC USA Inc 3.31 02/10/2023	
+	Goldman Sachs Group Inc/The 3 03/15/2024	
+	Capital One Financial Corp 2.6 05/11/2023	
+	Golub Capital Partners CLO 34M Ltd 4.28 03/14/2031	
+	Credit Suisse AG/New York NY 1 05/05/2023	
+	Bank of Montreal 3.56 03/08/2024	
+	Florida Power & Light Co 2.89 05/10/2023	
+	Dryden 30 Senior Loan Fund 3.73 11/15/2028	
+	Verizon Communications Inc 0 11/21/2022	
+	Thermo Fisher Scientific Inc 0.8 10/18/2023	
+	Phillips 66 3.7 04/06/2023	
+	ONEOK Inc 0 10/13/2022	
+	General Motors Financial Co Inc 0 10/26/2022	
+	Hyundai Capital America 1.25 09/18/2023	
+	Kinder Morgan Inc 5.62 11/15/2023	
+	General Motors Financial Co Inc 0 06/06/2023	
+	Morgan Stanley 3.62 04/17/2025	
+	Bristol-Myers Squibb Co 0.54 11/13/2023	
+	Brighthouse Financial Global Funding 1.75 01/13/2025	
+	Mitsubishi UFJ Financial Group Inc 3.46 03/02/2023	
+	GoldenTree Loan Opportunities IX Ltd 3.92 10/29/2029	
+	Blackstone Private Credit Fund 2.7 01/15/2025	
+	Crown Castle Inc 3.15 07/15/2023	
+	Enel Finance America LLC 0 11/14/2022	
+	TELUS Corp 0 10/24/2022	
+	Stratus CLO 2021-2 Ltd 3.61 12/28/2029	
+	COLT 2021-4 Mortgage Loan Trust 1.4 10/25/2066	
+	Southern Co/The 3.01 05/10/2023	
+	Sumitomo Mitsui Trust Bank Ltd 0.8 09/12/2023	
+	Verizon Communications Inc 3.46 03/22/2024	
+	BMW US Capital LLC 0.75 08/12/2024	
+	BMW US Capital LLC 3.8 04/06/2023	
+	Dollarama Inc 0 10/05/2022	
+	General Motors Financial Co Inc 0 11/01/2022	
+	GA Global Funding Trust 0.8 09/13/2024	
+	Jackson National Life Global Funding 2.76 01/06/2023	
+	Met Tower Global Funding 2.88 01/17/2023	
+	VF Corp 0 10/06/2022	
+	ONEOK Inc 0 10/12/2022	
+	NextGear Floorplan Master Owner Trust 3.52 10/15/2024	
+	Neuberger Berman CLO XIV Ltd 3.82 01/28/2030	
+	Regatta Funding Co LLC 0 05/16/2023	
+	Goldentree Loan Management US Clo 2 Ltd 3.62 11/20/2030	
+	Athene Global Funding 2.51 03/08/2024	
+	Atmos Energy Corp 3.57 03/09/2023	
+	AT&T Inc 3.61 03/25/2024	
+	Athene Global Funding 3.44 05/24/2024	
+	Crown Castle Inc 0 10/18/2022	
+	Golub Capital Partners Clo 47M Ltd 4.51 05/05/2032	
+	Neuberger Berman Loan Advisers CLO 25 Ltd 3.67 10/18/2029	
+	PayPal Holdings Inc 1.35 06/01/2023	
+	Race Point VIII CLO Ltd 4.02 02/20/2030	
+	Verus Securitization Trust 2021-4 0.94 07/25/2066	
+	ONEOK Inc 0 10/05/2022	
+	FS KKR MM CLO 1 LLC 4.36 01/15/2031	
+	Starwood Mortgage Residential Trust 2021-6 1.92 11/25/2066	
+	Starwood Mortgage Residential Trust 2021-4 1.16 08/25/2056	
+	Oglethorpe Power Corp 0 10/11/2022	
+	ONEOK Inc 0 10/19/2022	
+	OBX 2021-NQM2 Trust 1.1 05/25/2061	
+	CenterPoint Energy Resources Corp 3.6 03/02/2023	
+	General Motors Financial Co Inc 1.2 10/15/2024	
+	Hyundai Capital America 1 09/17/2024	
+	J.P. Morgan Mortgage Trust 2021-LTV2 2.52 05/25/2052	
+	NextEra Energy Capital Holdings Inc 4.25 09/01/2024	
+	VMware Inc 0.6 08/15/2023	
+	Dominion Energy Inc 3.82 09/15/2023	
+	Banque Federative du Credit Mutuel SA 0.65 02/27/2024	
+	Aviation Capital Group LLC 0 10/28/2022	
+	ANZ New Zealand Int'l Ltd/London 3.3 02/18/2025	
+	Ares Capital Corp 3.5 02/10/2023	
+	Morgan Stanley 3.13 01/24/2025	
+	AIG Global Funding 0.8 07/07/2023	
+	Apple Inc 0.75 05/11/2023	
+	Piedmont Operating Partnership LP 3.4 06/01/2023	
+	Nutrien Ltd 0 10/12/2022	
+	Volkswagen Group of America Finance LLC 0.88 11/22/2023	
+	Air Lease Corp 3 09/15/2023	
+	Macquarie Group Ltd 1.2 10/14/2025	
+	TRK 2021-INV1 Trust 1.15 07/25/2056	
+	Starbucks Corp 3.07 02/14/2024	
+	OCP CLO 2014-7 Ltd 3.83 07/20/2029	
+	Air Lease Corp 0.8 08/18/2024	
+	CBAM 2018-5 Ltd 3.76 04/17/2031	
+	Angel Oak Mortgage Trust 2021-3 1.07 05/25/2066	
+	Morgan Stanley 0.56 11/10/2023	
+	ONEOK Inc 0 10/27/2022	
+	Phillips 66 0.9 02/15/2024	
+	Principal Life Global Funding II 2.69 04/12/2024	
+	7-Eleven Inc 0.62 02/10/2023	
+	Nutrien Ltd 1.9 05/13/2023	
+	Nutrien Ltd 0 11/21/2022	
+	Volkswagen Group of America Finance LLC 3.12 05/12/2023	
+	Molson Coors Beverage Co 0 10/07/2022	
+	Ally Financial Inc 1.45 10/02/2023	
+	Deephaven Residential Mortgage Trust 2021-2 0.9 04/25/2066	
+	BPCE SA 5.15 07/21/2024	
+	Intuit Inc 0.65 07/15/2023	
+	Constellation Brands Inc 0 10/28/2022	
+	Golub Capital Partners Clo 45M Ltd 4.43 10/20/2031	
+	Golub Capital Partners Clo 36m Ltd 4.13 02/05/2031	
+	Sumitomo Mitsui Trust Bank Ltd 2.55 03/10/2025	
+	Octagon Investment Partners XVII Ltd 3.78 01/25/2031	
+	Sherwin-Williams Co/The 4.05 08/08/2024	
+	Enbridge Inc 3.3 02/16/2024	
+	Athene Global Funding 0.95 01/08/2024	
+	AmerisourceBergen Corp 0.74 03/15/2023	
+	TICP CLO II-2 LTD 3.55 04/20/2028	
+	Xcel Energy Inc 0.5 10/15/2023	
+	Conagra Brands Inc 0.5 08/11/2023	
+	UBS AG/London 0.7 08/09/2024	
+	Standard Chartered PLC 1.32 10/14/2023	
+	BINOM Securitization Trust 2021-INV1 2.03 06/25/2056	
+	Metropolitan Life Global Funding I 2.86 01/13/2023	
+	Enbridge Inc 3.09 02/17/2023	
+	Enterprise Products Operating LLC 3.35 03/15/2023	
+	Fidelity National Information Services Inc 0.38 03/01/2023	
+	American Electric Power Co Inc 0.75 11/01/2023	
+	BRAVO Residential Funding Trust 2021-NQM2 0.97 03/25/2060	
+	NextEra Energy Capital Holdings Inc 3.34 03/01/2023	
+	Navient Private Education Refi Loan Trust 2021-F 1.11 02/18/2070	
+	Pioneer Natural Resources Co 0.55 05/15/2023	
+	Starwood Mortgage Residential Trust 2021-2 0.94 05/25/2065	
+	Verus Securitization Trust 2020-5 1.22 05/25/2065	
+	Starwood Mortgage Residential Trust 2020-INV 1.03 11/25/2055	
+	Tampa Electric Co 3.88 07/12/2024	
+	New York Life Global Funding 1.1 05/05/2023	
+	Brighthouse Financial Global Funding 0.6 06/28/2023	
+	Atrium XIII 3.96 11/21/2030	
+	Protective Life Global Funding 0.63 10/13/2023	
+	Visio 2020-1R Trust 1.31 11/25/2055	
+	Sumitomo Mitsui Banking Corp/New York 3 07/03/2023	
+	John Deere Capital Corp 1.2 04/06/2023	
+	Humana Inc 0.65 08/03/2023	
+	Angel Oak Mortgage Trust 2020-5 1.37 05/25/2065	
+	Boeing Co/The 1.17 02/04/2023	
+	GS Mortgage-Backed Securities Trust 2020-NQM1 1.38 09/27/2060	
+	Navient Private Education Refi Loan Trust 2020-F 1.22 07/15/2069	
+	New Residential Mortgage Loan Trust 2019-NQM4 2.49 09/25/2059	
+	KKR CLO 21 Ltd 3.51 04/15/2031	
+	COLT 2020-2R Mortgage Loan Trust 1.32 10/26/2065	
+	ABPCI Direct Lending Fund CLO II LLC 4.31 04/20/2032	
+	Ellington Financial Mortgage Trust 2019-2 2.74 11/25/2059	
+	Healthpeak Properties Inc 0 10/12/2022	
+	Harley-Davidson Financial Services Inc 0 10/12/2022	
+	Angel Oak Mortgage Trust 2020-1 2.16 12/25/2059	
+	Verus Securitization Trust 2020-1 2.42 01/25/2060	
+	Residential Mortgage Loan Trust 2020-1 2.38 01/26/2060	
+	Fly Funding II Sarl 4.62 08/09/2025	
+	Residential Mortgage Loan Trust 2019-3 2.63 09/25/2059	
+	Sumitomo Mitsui Financial Group Inc 0.51 01/12/2024	
+	New Residential Mortgage Loan Trust 2020-NQM1 2.46 01/26/2060	
+	Arrow Electronics Inc 0 10/04/2022	
+	HSI Asset Securitization Corp Trust 2006-OPT2 3.67 01/25/2036	
+	Bear Stearns Asset Backed Securities I Trust 2006-HE9 3.22 11/25/2036	
+	CWABS Inc Asset-Backed Certificates Trust 2004-4 3.8 07/25/2034	
+	Nationstar Home Equity Loan Trust 2007-B 3.3 04/25/2037	
+	Ellington Financial Mortgage Trust 2020-2 1.18 10/25/2065	
+	CIT Mortgage Loan Trust 2007-1 4.43 10/25/2037	
+	New Residential Mortgage Loan Trust 2017-5 4.58 06/25/2057	
+	OBX 2018-EXP1 Trust 3.93 04/25/2048	
+	Starwood Mortgage Residential Trust 2020-1 2.27 02/25/2050	
+	Cash/Receivables/Payables 0	
+	CWABS Asset-Backed Certificates Trust 2006-5 3.42 09/25/2036	
+	Chesapeake Funding II LLC 3.39 01/15/2031	
+	Angel Oak Mortgage Trust I LLC 2019-4 2.99 07/26/2049	
+	Angel Oak Mortgage Trust I LLC 2019-1 3.92 11/25/2048	
+	Angel Oak Mortgage Trust I LLC 2019-2 3.63 03/25/2049	
+	CSMC Series 2014-2R 2.64 02/27/2046	
+	Cash/Receivables/Payables 0	

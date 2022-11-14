@@ -1,0 +1,32 @@
+PEJ
+HLT	Hilton Worldwide Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLT.US&back=PEJ
+WBD	Warner Bros Discovery Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=PEJ
+FOXA	Fox Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=PEJ
+MCD	McDonald's Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MCD.US&back=PEJ
+MAR	Marriott International Inc/MD	/etf/ea/ETZCW.djhtm?c=1&etfid=MAR.US&back=PEJ
+SYY	Sysco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=PEJ
+DIS	Walt Disney Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=PEJ
+LYV	Live Nation Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LYV.US&back=PEJ
+BOWL	Bowlero Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BOWL.US&back=PEJ
+WWE	World Wrestling Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WWE.US&back=PEJ
+ARCO	Arcos Dorados Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCO.US&back=PEJ
+CHH	Choice Hotels International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHH.US&back=PEJ
+CPA	Copa Holdings SA	/etf/ea/ETZCW.djhtm?c=1&etfid=CPA.US&back=PEJ
+EDR	Endeavor Group Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EDR.US&back=PEJ
+CHDN	Churchill Downs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHDN.US&back=PEJ
+H	Hyatt Hotels Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=H.US&back=PEJ
+TRIP	TripAdvisor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TRIP.US&back=PEJ
+ALK	Alaska Air Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALK.US&back=PEJ
+PFGC	Performance Food Group Co	/etf/ea/ETZCW.djhtm?c=1&etfid=PFGC.US&back=PEJ
+FWONA	Liberty Media Corp-Liberty Formula One	/etf/ea/ETZCW.djhtm?c=1&etfid=FWONA.US&back=PEJ
+RRR	Red Rock Resorts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RRR.US&back=PEJ
+USFD	US Foods Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=USFD.US&back=PEJ
+PLYA	Playa Hotels & Resorts NV	/etf/ea/ETZCW.djhtm?c=1&etfid=PLYA.US&back=PEJ
+VAC	Marriott Vacations Worldwide Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VAC.US&back=PEJ
+WMG	Warner Music Group Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WMG.US&back=PEJ
+CNK	Cinemark Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CNK.US&back=PEJ
+PARA	Paramount Global	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=PEJ
+AMCX	AMC Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCX.US&back=PEJ
+LGF.A	Lions Gate Entertainment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LGF.A.US&back=PEJ
+PLAY	Dave & Buster's Entertainment Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLAY.US&back=PEJ
+	Invesco Government & Agency Portfolio	

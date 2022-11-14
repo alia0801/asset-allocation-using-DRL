@@ -1,0 +1,21 @@
+IVOV
+EQT	EQT Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=IVOV
+FHN	First Horizon National Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN.US&back=IVOV
+RS	Reliance Steel & Aluminum Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=IVOV
+Y	Alleghany Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=Y.US&back=IVOV
+ACM	AECOM	/etf/ea/ETZCW.djhtm?c=1&etfid=ACM.US&back=IVOV
+BJ	BJ's Wholesale Club Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BJ.US&back=IVOV
+JAZZ	Jazz Pharmaceuticals plc	/etf/ea/ETZCW.djhtm?c=1&etfid=JAZZ.US&back=IVOV
+MPW	Medical Properties Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=IVOV
+RGA	Reinsurance Group of America Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=RGA.US&back=IVOV
+UGI	UGI Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=IVOV
+LEA	Lear Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LEA.US&back=IVOV
+KNX	Knight-Swift Transportation Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KNX.US&back=IVOV
+CASY	Casey's General Stores Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=IVOV
+DINO	Hippo Parent Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=IVOV
+OC	Owens Corning	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=IVOV
+PFGC	Performance Food Group Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFGC.US&back=IVOV
+OHI	Omega Healthcare Investors Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OHI.US&back=IVOV
+LAD	Lithia Motors Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LAD.US&back=IVOV
+UNM	Unum Group	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=IVOV
+ACHC	Acadia Healthcare Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHC.US&back=IVOV

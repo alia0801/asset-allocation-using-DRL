@@ -1,0 +1,46 @@
+RDOG
+STOR	STORE Capital Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=STOR.US&back=RDOG
+IIPR	Innovative Industrial Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IIPR.US&back=RDOG
+AAT	American Assets Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAT.US&back=RDOG
+FCPT	Four Corners Property Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCPT.US&back=RDOG
+OHI	Omega Healthcare Investors Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OHI.US&back=RDOG
+ADC	Agree Realty Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADC.US&back=RDOG
+AIRC	Apartment Income REIT Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=RDOG
+STAG	STAG Industrial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STAG.US&back=RDOG
+VICI	VICI Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=RDOG
+GLPI	Gaming and Leisure Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=RDOG
+NNN	National Retail Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=RDOG
+SBRA	Sabra Health Care REIT Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SBRA.US&back=RDOG
+LXP	LXP Industrial Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=LXP.US&back=RDOG
+O	Realty Income Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=RDOG
+EQR	Equity Residential	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=RDOG
+APLE	Apple Hospitality REIT Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APLE.US&back=RDOG
+SRC	Spirit Realty Capital Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=RDOG
+UDR	UDR Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UDR.US&back=RDOG
+SPG	Simon Property Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=RDOG
+EPRT	Essential Properties Realty Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPRT.US&back=RDOG
+EQIX	Equinix Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=RDOG
+CSR	Centerspace	/etf/ea/ETZCW.djhtm?c=1&etfid=CSR.US&back=RDOG
+DEA	Easterly Government Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DEA.US&back=RDOG
+AVB	AvalonBay Communities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=RDOG
+NHI	National Health Investors Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NHI.US&back=RDOG
+PDM	Piedmont Office Realty Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PDM.US&back=RDOG
+LTC	LTC Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LTC.US&back=RDOG
+VNO	Vornado Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=RDOG
+SLG	SL Green Realty Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLG.US&back=RDOG
+CCI	Crown Castle Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=RDOG
+AMT	American Tower Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=RDOG
+EPR	EPR Properties	/etf/ea/ETZCW.djhtm?c=1&etfid=EPR.US&back=RDOG
+RLJ	RLJ Lodging Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=RLJ.US&back=RDOG
+WPC	WP Carey Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=RDOG
+BDN	Brandywine Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=BDN.US&back=RDOG
+BNL	Broadstone Net Lease Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BNL.US&back=RDOG
+DLR	Digital Realty Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=RDOG
+MPW	Medical Properties Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=RDOG
+IRM	Iron Mountain Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=RDOG
+PEB	Pebblebrook Hotel Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PEB.US&back=RDOG
+	Duke Realty Corp.	
+ILPT	Industrial Logistics Properties Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=ILPT.US&back=RDOG
+SVC	Service Properties Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=SVC.US&back=RDOG
+UNIT	Uniti Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNIT.US&back=RDOG
+	Cash and Equivalents	

@@ -1,0 +1,40 @@
+FMF
+	US Dollar	
+	U.S. Treasury Bill, 0%, due 09/15/2022	
+	U.S. Treasury Bill, 0%, due 10/04/2022	
+	U.S. Treasury Bill, 0%, due 10/06/2022	
+	SOYBEAN MEAL FUTR Dec22	
+	U.S. Treasury Bill, 0%, due 10/11/2022	
+	U.S. Treasury Bill, 0%, due 09/13/2022	
+	MEXICAN PESO FUT Sep22	
+	U.S. Treasury Bill, 0%, due 09/20/2022	
+	U.S. Treasury Bill, 0%, due 09/22/2022	
+	U.S. Treasury Bill, 0%, due 10/13/2022	
+	NY Harb ULSD Fut Dec22	
+	SOYBEAN OIL FUTR Dec22	
+	U.S. Treasury Bill, 0%, due 09/27/2022	
+	U.S. Treasury Bill, 0%, due 09/29/2022	
+	GASOLINE RBOB FUT Dec22	
+	LME ZINC FUTURE Dec22	
+	BRENT CRUDE FUTR Dec22	
+	SPI 200 FUTURES Sep22	
+	ECX EMISSION Dec22	
+	TOPIX INDX FUTR Sep22	
+	Low Su Gasoil G Dec22	
+	BRAZIL REAL FUT Oct22	
+	NIKKEI 225 (OSE) Sep22	
+	U.S. Treasury Bill, 0%, due 09/06/2022	
+	U.S. Treasury Bill, 0%, due 09/08/2022	
+	SOYBEAN FUTURE Nov22	
+	SUGAR #11 (WORLD) Oct22	
+	NATURAL GAS FUTR Oct22	
+	WHEAT FUTURE(CBT) Dec22	
+	S&P/TSX 60 IX FUT Sep22	
+	WTI CRUDE FUTURE Dec22	
+	COTTON NO.2 FUTR Dec22	
+	CATTLE FEEDER FUT Oct22	
+	LEAN HOGS FUTURE Oct22	
+	NEW ZEALAND $ FUT Sep22	
+	FTSE 100 IDX FUT Sep22	
+	LEAN HOGS FUTURE Dec22	
+	NASDAQ 100 E-MINI Sep22	

@@ -1,0 +1,38 @@
+PHO
+DHR	Danaher Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=PHO
+WAT	Waters Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WAT.US&back=PHO
+ROP	Roper Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=PHO
+ECL	Ecolab Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=PHO
+AWK	American Water Works Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=PHO
+IEX	IDEX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=PHO
+XYL	Xylem Inc/NY	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=PHO
+TTEK	Tetra Tech Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTEK.US&back=PHO
+TTC	Toro Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=TTC.US&back=PHO
+WMS	Advanced Drainage Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WMS.US&back=PHO
+PNR	Pentair PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=PHO
+FERG	Ferguson PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=FERG.US&back=PHO
+AOS	A O Smith Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=PHO
+WTRG	Essential Utilities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=PHO
+ZWS	Zurn Elkay Water Solutions Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ZWS.US&back=PHO
+VMI	Valmont Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VMI.US&back=PHO
+AQUA	Evoqua Water Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AQUA.US&back=PHO
+MLI	Mueller Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MLI.US&back=PHO
+WTS	Watts Water Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTS.US&back=PHO
+ITRI	Itron Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ITRI.US&back=PHO
+SBS	Cia de Saneamento Basico do Estado de Sao Paulo ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SBS.US&back=PHO
+FELE	Franklin Electric Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FELE.US&back=PHO
+AWR	American States Water Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AWR.US&back=PHO
+CWT	California Water Service Group	/etf/ea/ETZCW.djhtm?c=1&etfid=CWT.US&back=PHO
+BMI	Badger Meter Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BMI.US&back=PHO
+MWA	Mueller Water Products Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MWA.US&back=PHO
+LNN	Lindsay Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LNN.US&back=PHO
+MSEX	Middlesex Water Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MSEX.US&back=PHO
+ERII	Energy Recovery Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ERII.US&back=PHO
+SJW	SJW Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SJW.US&back=PHO
+STN	Stantec Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STN.US&back=PHO
+ARTNA	Artesian Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ARTNA.US&back=PHO
+GRC	Gorman-Rupp Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=GRC.US&back=PHO
+YORW	York Water Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=YORW.US&back=PHO
+NWPX	Northwest Pipe Co	/etf/ea/ETZCW.djhtm?c=1&etfid=NWPX.US&back=PHO
+	Invesco Government & Agency Portfolio	
+GWRS	Global Water Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GWRS.US&back=PHO

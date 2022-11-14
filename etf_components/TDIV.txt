@@ -1,0 +1,92 @@
+TDIV
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=TDIV
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=TDIV
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=TDIV
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=TDIV
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=TDIV
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=TDIV
+QCOM	QUALCOMM Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=TDIV
+TSM	Taiwan Semiconductor Manufacturing Company Ltd. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=TDIV
+ADI	Analog Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=TDIV
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=TDIV
+TU	TELUS Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TU.US&back=TDIV
+BCE	BCE Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BCE.US&back=TDIV
+GLW	Corning Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=TDIV
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=TDIV
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=TDIV
+CMCSA	Comcast Corporation (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=TDIV
+LUMN	Lumen Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=TDIV
+MSI	Motorola Solutions,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=TDIV
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=TDIV
+LRCX	Lam Research Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=TDIV
+RCI	Rogers Communications Inc. (Class B)	/etf/ea/ETZCW.djhtm?c=1&etfid=RCI.US&back=TDIV
+AMAT	Applied Materials,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=TDIV
+TEL	TE Connectivity Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=TDIV
+NXPI	NXP Semiconductors N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=TDIV
+KLAC	KLA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=TDIV
+HPE	Hewlett Packard Enterprise Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=TDIV
+STX	Seagate Technology Holdings Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=TDIV
+MCHP	Microchip Technology Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=TDIV
+NTAP	NetApp,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=TDIV
+CTSH	Cognizant Technology Solutions Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=TDIV
+APH	Amphenol Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=TDIV
+SWKS	Skyworks Solutions,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=TDIV
+JNPR	Juniper Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=TDIV
+ASML	ASML Holding N.V. (New York Registry Shares)	/etf/ea/ETZCW.djhtm?c=1&etfid=ASML.US&back=TDIV
+NLOK	NortonLifeLock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=TDIV
+INFY	Infosys Limited (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=INFY.US&back=TDIV
+CDW	CDW Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=TDIV
+ROP	Roper Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=TDIV
+UI	Ubiquiti Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UI.US&back=TDIV
+OTEX	Open Text Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OTEX.US&back=TDIV
+LDOS	Leidos Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=TDIV
+DOX	Amdocs Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=TDIV
+CCOI	Cogent Communications Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CCOI.US&back=TDIV
+	US Dollar	
+SSNC	SS&C Technologies Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=TDIV
+NATI	National Instruments Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NATI.US&back=TDIV
+XRX	Xerox Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XRX.US&back=TDIV
+LOGI	Logitech International S.A.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOGI.US&back=TDIV
+MPWR	Monolithic Power Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=TDIV
+SAP	SAP SE (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=SAP.US&back=TDIV
+AMX	America Movil,S.A.B. de C.V. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=AMX.US&back=TDIV
+ERIC	Telefonaktiebolaget LM Ericsson (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=ERIC.US&back=TDIV
+TDS	Telephone and Data Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS.US&back=TDIV
+SNX	TD SYNNEX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SNX.US&back=TDIV
+AVT	Avnet,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVT.US&back=TDIV
+SAIC	Science Applications International Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=TDIV
+YY	JOYY Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=YY.US&back=TDIV
+CABO	Cable One,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CABO.US&back=TDIV
+KBR	KBR,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KBR.US&back=TDIV
+ORAN	Orange (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=ORAN.US&back=TDIV
+DLB	Dolby Laboratories,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLB.US&back=TDIV
+TLK	PT Telekomunikasi Indonesia (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=TLK.US&back=TDIV
+VSH	Vishay Intertechnology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VSH.US&back=TDIV
+SIMO	Silicon Motion Technology Corporation (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=SIMO.US&back=TDIV
+IDCC	InterDigital,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDCC.US&back=TDIV
+AMKR	Amkor Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMKR.US&back=TDIV
+ADTN	ADTRAN Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADTN.US&back=TDIV
+JBL	Jabil Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=TDIV
+OLED	Universal Display Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OLED.US&back=TDIV
+ASX	ASE Technology Holding Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=ASX.US&back=TDIV
+CHT	Chunghwa Telecom Co.,Ltd. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=CHT.US&back=TDIV
+ATHM	Autohome Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=ATHM.US&back=TDIV
+MFGP	Micro Focus International Plc (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=MFGP.US&back=TDIV
+KLIC	Kulicke and Soffa Industries,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KLIC.US&back=TDIV
+PHI	PLDT Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=PHI.US&back=TDIV
+POWI	Power Integrations,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=POWI.US&back=TDIV
+PRGS	Progress Software Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGS.US&back=TDIV
+CSGS	CSG Systems International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGS.US&back=TDIV
+SSTK	Shutterstock,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SSTK.US&back=TDIV
+UMC	United Microelectronics Corporation (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=UMC.US&back=TDIV
+BHE	Benchmark Electronics,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BHE.US&back=TDIV
+AMSWA	American Software,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=AMSWA.US&back=TDIV
+HIMX	Himax Technologies,Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=HIMX.US&back=TDIV
+MEI	Methode Electronics,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MEI.US&back=TDIV
+HCKT	The Hackett Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HCKT.US&back=TDIV
+CMTL	Comtech Telecommunications Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMTL.US&back=TDIV
+ATNI	ATN International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATNI.US&back=TDIV
+AUDC	AudioCodes Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=AUDC.US&back=TDIV
+EBIX	Ebix,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EBIX.US&back=TDIV
+	Mobile TeleSystems Public Joint Stock Company (ADR)	
+SLP	Simulations Plus,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLP.US&back=TDIV

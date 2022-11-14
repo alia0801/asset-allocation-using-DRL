@@ -1,0 +1,69 @@
+PSCT
+ROG	Rogers Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ROG.US&back=PSCT
+SPSC	SPS Commerce Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPSC.US&back=PSCT
+FN	Fabrinet	/etf/ea/ETZCW.djhtm?c=1&etfid=FN.US&back=PSCT
+ALRM	Alarm.com Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALRM.US&back=PSCT
+ONTO	Onto Innovation Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ONTO.US&back=PSCT
+VIAV	Viavi Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VIAV.US&back=PSCT
+DIOD	Diodes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DIOD.US&back=PSCT
+AEIS	Advanced Energy Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AEIS.US&back=PSCT
+RMBS	Rambus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RMBS.US&back=PSCT
+BMI	Badger Meter Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BMI.US&back=PSCT
+SANM	Sanmina Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SANM.US&back=PSCT
+NSIT	Insight Enterprises Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NSIT.US&back=PSCT
+PLXS	Plexus Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PLXS.US&back=PSCT
+MXL	MaxLinear Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MXL.US&back=PSCT
+PRFT	Perficient Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRFT.US&back=PSCT
+KLIC	Kulicke & Soffa Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KLIC.US&back=PSCT
+NTCT	NetScout Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTCT.US&back=PSCT
+EVTC	EVERTEC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EVTC.US&back=PSCT
+ACLS	Axcelis Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ACLS.US&back=PSCT
+FORM	FormFactor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FORM.US&back=PSCT
+ITRI	Itron Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ITRI.US&back=PSCT
+PRGS	Progress Software Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PRGS.US&back=PSCT
+CSGS	CSG Systems International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGS.US&back=PSCT
+EXTR	Extreme Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXTR.US&back=PSCT
+XPER	Xperi Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=XPER.US&back=PSCT
+ADTN	ADTRAN Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADTN.US&back=PSCT
+HLIT	Harmonic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLIT.US&back=PSCT
+MEI	Methode Electronics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MEI.US&back=PSCT
+TTMI	TTM Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTMI.US&back=PSCT
+CTS	CTS Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CTS.US&back=PSCT
+APPS	Digital Turbine Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=APPS.US&back=PSCT
+COHU	Cohu Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COHU.US&back=PSCT
+RAMP	LiveRamp Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RAMP.US&back=PSCT
+DGII	Digi International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DGII.US&back=PSCT
+IDCC	InterDigital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IDCC.US&back=PSCT
+CLFD	Clearfield Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLFD.US&back=PSCT
+UCTT	Ultra Clean Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UCTT.US&back=PSCT
+OSIS	OSI Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OSIS.US&back=PSCT
+PLUS	ePlus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLUS.US&back=PSCT
+KN	Knowles Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KN.US&back=PSCT
+AGYS	Agilysys Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AGYS.US&back=PSCT
+VECO	Veeco Instruments Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VECO.US&back=PSCT
+PLAB	Photronics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLAB.US&back=PSCT
+ATEN	A10 Networks Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATEN.US&back=PSCT
+BHE	Benchmark Electronics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BHE.US&back=PSCT
+TTEC	TTEC Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTEC.US&back=PSCT
+CCSI	Consensus Cloud Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCSI.US&back=PSCT
+SGH	SMART Global Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SGH.US&back=PSCT
+AVID	Avid Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVID.US&back=PSCT
+PDFS	PDF Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PDFS.US&back=PSCT
+ICHR	Ichor Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ICHR.US&back=PSCT
+AOSL	Alpha & Omega Semiconductor Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AOSL.US&back=PSCT
+SCSC	ScanSource Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SCSC.US&back=PSCT
+LPSN	LivePerson Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LPSN.US&back=PSCT
+CRNC	Cerence Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRNC.US&back=PSCT
+CEVA	CEVA Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CEVA.US&back=PSCT
+NTGR	NETGEAR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTGR.US&back=PSCT
+UIS	Unisys Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=UIS.US&back=PSCT
+CNXN	PC Connection Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXN.US&back=PSCT
+FARO	FARO Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FARO.US&back=PSCT
+EBIX	Ebix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBIX.US&back=PSCT
+CRSR	Corsair Gaming Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRSR.US&back=PSCT
+EGHT	8x8 Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EGHT.US&back=PSCT
+ARLO	Arlo Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARLO.US&back=PSCT
+OSPN	OneSpan Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OSPN.US&back=PSCT
+CMTL	Comtech Telecommunications Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMTL.US&back=PSCT
+DBD	Diebold Nixdorf Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DBD.US&back=PSCT
+	Invesco Government & Agency Portfolio	

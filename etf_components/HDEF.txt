@@ -1,0 +1,118 @@
+HDEF
+	Unilever PLC	
+	Novartis AG-Reg	
+	BHP Billiton Ltd	
+	Sanofi-Aventis	
+	British American Tobacco PLC	
+	Allianz SE-Reg	
+	Zurich Insurance Group AG	
+GSK	Gsk Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=GSK.US&back=HDEF
+	Rio Tinto PLC	
+	Iberdrola SA	
+	National Grid PLC	
+	AXA SA	
+7267.JP&back=HDEF	Honda Motor Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7267.JP&back=HDEF
+	Anglo American PLC	
+	BASF SE	
+	Enel SpA	
+	Wesfarmers Ltd	
+	Deutsche Post AG-REG	
+8766.JP&back=HDEF	Tokio Marine Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8766.JP&back=HDEF
+	Danone SA	
+8031.JP&back=HDEF	Mitsui & Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=8031.JP&back=HDEF
+9434.JP&back=HDEF	Softbank Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=9434.JP&back=HDEF
+	Stellantis NV	
+	Oversea-Chinese Banking Corp	
+	Cash & Cash Equivalents	
+	Koninklijke Ahold Delhaize NV	
+	BAE Systems PLC	
+	LafargeHolcim Ltd-REG	
+	Rio Tinto Ltd	
+	Swiss Re AG	
+	United Overseas Bank Ltd	
+	WOODSIDE P NPV	
+5108.JP&back=HDEF	Bridgestone Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=5108.JP&back=HDEF
+	TESCO PLC 6.33333P	
+	Fortescue Metals Group Ltd	
+2914.JP&back=HDEF	Japan Tobacco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=2914.JP&back=HDEF
+	Imperial Brands PLC	
+	UPM-Kymmene OYJ	
+0016.HK&back=HDEF	Sun Hung Kai Properties Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0016.HK&back=HDEF
+	Bank Leumi Le-Israel BM	
+	Assicurazioni Generali SpA	
+	Coles Group Ltd	
+	Haleon Plc	
+0002.HK&back=HDEF	CLP Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0002.HK&back=HDEF
+	ATLAS COPCO AB NPV	
+1925.JP&back=HDEF	Daiwa House Industry Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1925.JP&back=HDEF
+2503.JP&back=HDEF	Kirin Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=2503.JP&back=HDEF
+8630.JP&back=HDEF	Sompo Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8630.JP&back=HDEF
+	Swisscom AG	
+8725.JP&back=HDEF	MS&AD Insurance Group Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=8725.JP&back=HDEF
+5401.JP&back=HDEF	NIPPON STEEL & SUMITOMO META	/etf/ea/ETZCW.djhtm?c=1&etfid=5401.JP&back=HDEF
+9101.JP&back=HDEF	Nippon Yusen KK	/etf/ea/ETZCW.djhtm?c=1&etfid=9101.JP&back=HDEF
+	AP Moller - Maersk A/S-B	
+	NN Group NV	
+	Aker BP ASA	
+1928.JP&back=HDEF	Sekisui House Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1928.JP&back=HDEF
+	Terna Rete Elettrica Nazionale	
+	Snam SpA	
+3407.JP&back=HDEF	Asahi Kasei Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3407.JP&back=HDEF
+	Norsk Hydro ASA	
+9104.JP&back=HDEF	Mitsui OSK Lines Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=9104.JP&back=HDEF
+	Boliden AB	
+0006.HK&back=HDEF	Power Assets Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0006.HK&back=HDEF
+	Wharf Real Estate Investment Co Ltd	
+	Elisa Oyj	
+	MINERAL RESOURCES LTD	
+	Red Electrica Corp SA	
+	AP Moller - Maersk A/S-A	
+	Yara International ASA	
+	Medibank Pvt Ltd	
+	ST JAMES'S PLACE PLC	
+	Bouygues SA	
+	Baloise Holding AG-Reg	
+	FinecoBank Banca Fineco SpA	
+	Ageas	
+	Orkla ASA	
+	Jeronimo Martins SGPS SA	
+7272.JP&back=HDEF	Yamaha Motor Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7272.JP&back=HDEF
+	Spark New Zealand Ltd	
+	Tele2 AB-B SHS	
+	OMV AG	
+	Singapore Exchange Ltd	
+	COVESTRO AG	
+8795.JP&back=HDEF	T&D Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=8795.JP&back=HDEF
+	Kesko OYJ-B SHS	
+	Wilmar International Ltd	
+	Kingfisher PLC	
+1801.JP&back=HDEF	Taisei Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1801.JP&back=HDEF
+	Persimmon PLC	
+	Endesa SA	
+	ADECCO SA-REG	
+6823.HK&back=HDEF	HKT Trust & HKT Ltd-SS	/etf/ea/ETZCW.djhtm?c=1&etfid=6823.HK&back=HDEF
+	Antofagasta PLC	
+0083.HK&back=HDEF	Sino Land Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0083.HK&back=HDEF
+0012.HK&back=HDEF	Henderson Land Development Co	/etf/ea/ETZCW.djhtm?c=1&etfid=0012.HK&back=HDEF
+	Orion OYJ-A	
+	Aurizon Holdings Ltd	
+	Enagas SA	
+1802.JP&back=HDEF	Obayashi Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1802.JP&back=HDEF
+1812.JP&back=HDEF	Kajima Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1812.JP&back=HDEF
+	Admiral Group PLC	
+7259.JP&back=HDEF	Aisin Seiki Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7259.JP&back=HDEF
+	Singapore Technologies Engineering	
+4183.JP&back=HDEF	Mitsui Chemicals Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=4183.JP&back=HDEF
+	Gjensidige Forsikring ASA	
+	Evonik Industries AG	
+	Schroders PLC	
+1038.HK&back=HDEF	CK Infrastructure Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1038.HK&back=HDEF
+	Venture Corp Ltd	
+7186.JP&back=HDEF	Concordia Financial Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=7186.JP&back=HDEF
+4042.JP&back=HDEF	Tosoh Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=4042.JP&back=HDEF
+1308.HK&back=HDEF	SITC INTL HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=1308.HK&back=HDEF
+0101.HK&back=HDEF	Hang Lung Properties Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0101.HK&back=HDEF
+0868.HK&back=HDEF	Xinyi Glass Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0868.HK&back=HDEF
+	Securitas AB	
+1972.HK&back=HDEF	Swire Properties Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1972.HK&back=HDEF
+3291.JP&back=HDEF	Iida Group Holdings Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3291.JP&back=HDEF

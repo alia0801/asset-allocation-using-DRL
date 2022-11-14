@@ -1,0 +1,32 @@
+NANR
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=NANR
+ADM	Archer-Daniels-Midland Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=NANR
+	Nutrien Ltd.	
+CVX	Chevron Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=NANR
+CTVA	Corteva Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=NANR
+FCX	Freeport-McMoRan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=NANR
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=NANR
+EOG	EOG Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=NANR
+	Canadian Natural Resources Limited	
+OXY	Occidental Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=NANR
+NEM	Newmont Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=NANR
+PXD	Pioneer Natural Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=NANR
+	Franco-Nevada Corporation	
+	Barrick Gold Corporation	
+	Suncor Energy Inc.	
+	Agnico Eagle Mines Limited	
+TECK	Teck Resources Limited Class B	/etf/ea/ETZCW.djhtm?c=1&etfid=TECK.US&back=NANR
+	Wheaton Precious Metals Corp	
+HES	Hess Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=NANR
+	Cenovus Energy Inc.	
+	First Quantum Minerals Ltd.	
+	Tourmaline Oil Corp.	
+	West Fraser Timber Co. Ltd.	
+	Cameco Corporation	
+	Kinross Gold Corporation	
+	Imperial Oil Limited	
+	Ivanhoe Mines Ltd. Class A	
+	Lundin Mining Corporation	
+	Pan American Silver Corp.	
+	Canadian Dollar	
+	STATE STREET INSTITUTIONAL LIQ STATE STR	

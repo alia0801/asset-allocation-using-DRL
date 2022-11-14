@@ -1,0 +1,7 @@
+WBIF
+	Cash & Other	
+NLSN	NIELSEN HLDGS PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLSN.US&back=WBIF
+DVN	DEVON ENERGY CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=WBIF
+HUM	HUMANA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=WBIF
+XOM	EXXON MOBIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=WBIF
+KNSL	KINSALE CAP GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KNSL.US&back=WBIF

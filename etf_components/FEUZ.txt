@@ -1,0 +1,152 @@
+FEUZ
+	Prosus N.V.	
+	OCI N.V.	
+	TotalEnergies SE	
+	Repsol,S.A.	
+	Bank of Ireland Group Plc	
+	Jeronimo Martins,SGPS,S.A.	
+	Tenaris S.A.	
+	RWE AG	
+	Renault S.A.	
+	Bayerische Motoren Werke (BMW) AG	
+	Verbio Vereinigte BioEnergie AG	
+	Acciona S.A.	
+	Leonardo SpA	
+	Eni SpA	
+	Mercedes-Benz Group AG	
+	HeidelbergCement AG	
+	Nexans SA	
+	Wendel S.A.	
+	Thales S.A.	
+	Elia Group SA/NV	
+	Rexel SA	
+	K+S AG	
+	Hugo Boss AG	
+	ArcelorMittal	
+	Naturgy Energy Group,S.A.	
+	Porsche Automobil Holding SE	
+	Bollore SE	
+	Eurazeo SA	
+	Raiffeisen Bank International AG	
+	ASR Nederland N.V.	
+	Arkema S.A.	
+	Commerzbank AG	
+	Kojamo Oyj	
+	Vivendi	
+	Telefonica,S.A.	
+	Galp Energia,SGPS,S.A.	
+	Schaeffler AG (Preference)	
+	OMV AG	
+	Voestalpine AG	
+	Wacker Chemie AG	
+	Banco de Sabadell,S.A.	
+	LEG Immobilien SE	
+	Volkswagen AG (Preference Shares)	
+	NN Group N.V.	
+	Societe Generale S.A.	
+	AXA S.A.	
+	Continental AG	
+	Assicurazioni Generali SpA	
+	UPM-Kymmene Oyj	
+	Ipsen SA	
+	Valeo S.A.	
+	Bayer AG	
+	Carrefour S.A.	
+	Stora Enso Oyj (Class R)	
+	Rheinmetall AG	
+	BASF SE	
+	Covestro AG	
+	Sampo Oyj (Class A)	
+	Deutsche Boerse AG	
+	Warehouses de Pauw SCA	
+	Daimler Truck Holding AG	
+	Sofina S.A.	
+	Engie S.A.	
+	Verbund AG	
+	CaixaBank,S.A.	
+	Prysmian SpA	
+	Bankinter,S.A.	
+	Koninklijke Ahold Delhaize N.V.	
+	Eramet	
+	Eiffage SA	
+	Bouygues S.A.	
+	Aegon N.V.	
+	Aurubis AG	
+	Solvay SA	
+	Talanx AG	
+	Mapfre S.A.	
+	Ackermans & van Haaren NV	
+	Eurobank Ergasias Services and Holdings S.A.	
+	Capgemini SE	
+	Gaztransport et Technigaz SA	
+	HELLA GmbH & Co. KGaA	
+	Koninklijke Philips N.V.	
+	Covivio	
+	AIB Group Plc	
+	Proximus S.A. de droit public	
+	Fresenius SE & Co. KGaA	
+	Laboratorios Farmaceuticos Rovi,S.A.	
+	ThyssenKrupp AG	
+	A2A SpA	
+	Telefonica Deutschland Holding AG	
+	Koninklijke (Royal) KPN N.V.	
+	CRH Plc	
+	Vinci S.A.	
+	OPAP S.A.	
+	UCB S.A.	
+	D'Ieteren Group	
+	Brunello Cucinelli SpA	
+	Vonovia SE	
+	Orange	
+	TERNA - Rete Elettrica Nazionale SpA	
+	BE Semiconductor Industries N.V.	
+	Banco Bilbao Vizcaya Argentaria,S.A.	
+	L'Air Liquide S.A.	
+	Endesa,S.A.	
+	Deutsche Post AG	
+	Credit Agricole S.A.	
+	SCOR SE	
+	E.ON SE	
+	Gecina S.A.	
+	Allianz SE	
+	Banco Santander S.A.	
+	ICADE SA	
+	Veolia Environnement S.A.	
+	Hera SpA	
+	Compagnie de Saint-Gobain S.A.	
+	Etablissements Franz Colruyt S.A.	
+	Deutsche Bank AG	
+	Inmobiliaria Colonial Socimi S.A.	
+	United Internet AG (Registered Shares)	
+	argenx SE	
+	KION Group AG	
+	Orion Oyj (Class B)	
+	Deutsche Telekom AG	
+	ERG SpA	
+	Aeroports de Paris (ADP)	
+	LVMH Moet Hennessy Louis Vuitton SE	
+	Remy Cointreau SA	
+	Hannover Rueck SE	
+	Hellenic Telecommunications Organization S.A.	
+	Pernod Ricard S.A.	
+	ACS,Actividades de Construccion y Servicios,S.A.	
+	Banco BPM SpA	
+	BNP Paribas S.A.	
+	Anheuser-Busch InBev S.A./ N.V.	
+	Ageas S.A./N.V.	
+	CTS Eventim AG & Co. KGaA	
+	EssilorLuxottica	
+	Merlin Properties SOCIMI,S.A.	
+	STMicroelectronics N.V.	
+	Randstad N.V.	
+	Klepierre	
+	Fuchs Petrolub SE (Preference)	
+	Aalberts Industries N.V.	
+	Deutsche Lufthansa AG	
+	Compagnie Generale des Etablissements Michelin	
+	Pirelli & C. SpA	
+	Koninklijke Vopak N.V.	
+	Evonik Industries AG	
+	De'Longhi SpA	
+	Kingspan Group Plc	
+	US Dollar	

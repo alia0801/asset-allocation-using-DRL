@@ -1,0 +1,54 @@
+IYT
+UPS	UNITED PARCEL SERVICE INC CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=UPS.US&back=IYT
+UNP	UNION PACIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=IYT
+CSX	CSX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=IYT
+UBER	UBER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=IYT
+NSC	NORFOLK SOUTHERN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=IYT
+FDX	FEDEX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FDX.US&back=IYT
+ODFL	OLD DOMINION FREIGHT LINE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ODFL.US&back=IYT
+LUV	SOUTHWEST AIRLINES	/etf/ea/ETZCW.djhtm?c=1&etfid=LUV.US&back=IYT
+DAL	DELTA AIR LINES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DAL.US&back=IYT
+EXPD	EXPEDITORS INTERNATIONAL OF WASHIN	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPD.US&back=IYT
+JBHT	JB HUNT TRANSPORT SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JBHT.US&back=IYT
+CHRW	CH ROBINSON WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRW.US&back=IYT
+UAL	UNITED AIRLINES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UAL.US&back=IYT
+AAL	AMERICAN AIRLINES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAL.US&back=IYT
+KNX	KNIGHT-SWIFT TRANSPORTATION HOLDIN	/etf/ea/ETZCW.djhtm?c=1&etfid=KNX.US&back=IYT
+CAR	AVIS BUDGET GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAR.US&back=IYT
+ALK	ALASKA AIR GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALK.US&back=IYT
+SAIA	SAIA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIA.US&back=IYT
+LSTR	LANDSTAR SYSTEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LSTR.US&back=IYT
+XPO	XPO LOGISTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XPO.US&back=IYT
+UHAL	AMERCO	/etf/ea/ETZCW.djhtm?c=1&etfid=UHAL.US&back=IYT
+GXO	GXO LOGISTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GXO.US&back=IYT
+LYFT	LYFT INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=LYFT.US&back=IYT
+KEX	KIRBY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KEX.US&back=IYT
+R	RYDER SYSTEM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=R.US&back=IYT
+MATX	MATSON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MATX.US&back=IYT
+HUBG	HUB GROUP INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBG.US&back=IYT
+AAWW	ATLAS AIR WORLDWIDE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AAWW.US&back=IYT
+FWRD	FORWARD AIR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FWRD.US&back=IYT
+JBLU	JETBLUE AIRWAYS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=JBLU.US&back=IYT
+SAVE	SPIRIT AIRLINES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SAVE.US&back=IYT
+WERN	WERNER ENTERPRISES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WERN.US&back=IYT
+ARCB	ARCBEST CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCB.US&back=IYT
+ATSG	AIR TRANSPORT SERVICES GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATSG.US&back=IYT
+ALGT	ALLEGIANT TRAVEL	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGT.US&back=IYT
+JOBY	JOBY AVIATION INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=JOBY.US&back=IYT
+MRTN	MARTEN TRANSPORT LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=MRTN.US&back=IYT
+SKYW	SKYWEST INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SKYW.US&back=IYT
+HTZ	HERTZ GLOBAL HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HTZ.US&back=IYT
+SNDR	SCHNEIDER NATIONAL INC CLASS B	/etf/ea/ETZCW.djhtm?c=1&etfid=SNDR.US&back=IYT
+HA	HAWAIIAN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HA.US&back=IYT
+	BLK CSH FND TREASURY SL AGENCY	
+	USD CASH	
+HTLD	HEARTLAND EXPRESS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HTLD.US&back=IYT
+SNCY	SUN COUNTRY AIRLINES HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNCY.US&back=IYT
+EGLE	EAGLE BULK SHIPPING INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EGLE.US&back=IYT
+GNK	GENCO SHIPPING AND TRADING LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=GNK.US&back=IYT
+ULCC	FRONTIER GROUP HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ULCC.US&back=IYT
+DSKE	DASEKE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DSKE.US&back=IYT
+UP	WHEELS UP EXPERIENCE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=UP.US&back=IYT
+BLDE	BLADE AIR MOBILITY INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDE.US&back=IYT
+	CASH COLLATERAL USD WFFUT	
+	XAI INDUSTRIAL SEP 22	

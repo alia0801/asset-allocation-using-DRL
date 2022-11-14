@@ -1,0 +1,29 @@
+PXJ
+VAL	Valaris Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=VAL.US&back=PXJ
+FTI	TechnipFMC PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=FTI.US&back=PXJ
+SLB	Schlumberger NV	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=PXJ
+NOV	NOV Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NOV.US&back=PXJ
+CHX	ChampionX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHX.US&back=PXJ
+HP	Helmerich & Payne Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HP.US&back=PXJ
+BKR	Baker Hughes Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=PXJ
+HAL	Halliburton Co	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=PXJ
+WFRD	Weatherford International PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=WFRD.US&back=PXJ
+INSW	International Seaways Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INSW.US&back=PXJ
+STNG	Scorpio Tankers Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STNG.US&back=PXJ
+XPRO	Expro Group Holdings NV	/etf/ea/ETZCW.djhtm?c=1&etfid=XPRO.US&back=PXJ
+DHT	DHT Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DHT.US&back=PXJ
+FRO	Frontline Ltd/Bermuda	/etf/ea/ETZCW.djhtm?c=1&etfid=FRO.US&back=PXJ
+NE	Noble Corp PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=NE.US&back=PXJ
+USAC	USA Compression Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=USAC.US&back=PXJ
+WHD	Cactus Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WHD.US&back=PXJ
+GLNG	Golar LNG Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=GLNG.US&back=PXJ
+OII	Oceaneering International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OII.US&back=PXJ
+RES	RPC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RES.US&back=PXJ
+PUMP	ProPetro Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PUMP.US&back=PXJ
+LBRT	Liberty Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRT.US&back=PXJ
+AROC	Archrock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AROC.US&back=PXJ
+NEX	NexTier Oilfield Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEX.US&back=PXJ
+NBR	Nabors Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NBR.US&back=PXJ
+PTEN	Patterson-UTI Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PTEN.US&back=PXJ
+RIG	Transocean Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=RIG.US&back=PXJ
+	Invesco Government & Agency Portfolio	

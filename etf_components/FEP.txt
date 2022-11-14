@@ -1,0 +1,204 @@
+FEP
+	OCI N.V.	
+	Equinor ASA	
+	Repsol,S.A.	
+	Bank of Ireland Group Plc	
+	Shell Plc	
+	Aker BP ASA	
+	Prosus N.V.	
+	Tenaris S.A.	
+	RWE AG	
+	Clariant AG	
+	Aker BP ASA	
+	Centrica Plc	
+	Glencore Plc	
+	Leonardo SpA	
+	Verbio Vereinigte BioEnergie AG	
+	Acciona S.A.	
+	Eni SpA	
+	Kingfisher Plc	
+	Mercedes-Benz Group AG	
+	A.P. Moeller - Maersk A/S (Class B)	
+	TotalEnergies SE	
+	3i Group Plc	
+	Industrivarden AB (Class C)	
+	BAE Systems Plc	
+	K+S AG	
+	Saab AB (Class B)	
+	Axfood AB	
+	Man Group Plc	
+	Jeronimo Martins,SGPS,S.A.	
+	Naturgy Energy Group,S.A.	
+	Royal Mail Plc	
+	Porsche Automobil Holding SE	
+	ArcelorMittal	
+	Eurazeo SA	
+	Investor AB (Class B)	
+	Drax Group Plc	
+	Zurich Insurance Group AG	
+	Kongsberg Gruppen ASA	
+	Kojamo Oyj	
+	Commerzbank AG	
+	ASR Nederland N.V.	
+	Vivendi	
+	SSAB AB (Class B)	
+	Telefonica,S.A.	
+	Bayerische Motoren Werke (BMW) AG	
+	Helvetia Holding AG	
+	Galp Energia,SGPS,S.A.	
+	OMV AG	
+	Banco de Sabadell,S.A.	
+	Schaeffler AG (Preference)	
+	LEG Immobilien SE	
+	Renault S.A.	
+	Boliden AB	
+	Volkswagen AG (Preference Shares)	
+	HeidelbergCement AG	
+	Imperial Brands Plc	
+	Anglo American Plc	
+	Segro Plc	
+	Tritax Big Box REIT Plc	
+	Carrefour S.A.	
+	Wendel S.A.	
+	abrdn plc	
+	Rexel SA	
+	Covestro AG	
+	BASF SE	
+	Computacenter Plc	
+	Nexans SA	
+	Taylor Wimpey Plc	
+	Sampo Oyj (Class A)	
+	Norsk Hydro ASA	
+	Thales S.A.	
+	Elia Group SA/NV	
+	Barratt Developments Plc	
+	Arkema S.A.	
+	Hugo Boss AG	
+	Warehouses de Pauw SCA	
+	US Dollar	
+	Rio Tinto Plc	
+	AstraZeneca Plc	
+	Novartis AG	
+	Bollore SE	
+	AB SKF (Class B)	
+	Sofina S.A.	
+	Voestalpine AG	
+	Engie S.A.	
+	Kinnevik AB (Class B)	
+	IG Group Holdings Plc	
+	Raiffeisen Bank International AG	
+	Mondi Plc	
+	The Berkeley Group Holdings Plc	
+	Bouygues S.A.	
+	Aurubis AG	
+	Assicurazioni Generali SpA	
+	Wacker Chemie AG	
+	Swiss Life Holding	
+	UBS Group AG	
+	Societe Generale S.A.	
+	NN Group N.V.	
+	Baloise Holding AG	
+	Continental AG	
+	AXA S.A.	
+	Storebrand ASA	
+	Ackermans & van Haaren NV	
+	M&G Plc	
+	Investec Plc	
+	Ipsen SA	
+	Holmen AB (Class B)	
+	Bayer AG	
+	Castellum AB	
+	Rheinmetall AG	
+	Stora Enso Oyj (Class R)	
+	Koninklijke Philips N.V.	
+	Leroey Seafood Group ASA	
+	ITV Plc	
+	Valeo S.A.	
+	Eramet	
+	BP Plc	
+	UPM-Kymmene Oyj	
+	Fastighets AB Balder (Class B)	
+	Fresenius SE & Co. KGaA	
+	Barclays Plc	
+	BKW AG	
+	Daimler Truck Holding AG	
+	Holcim Limited	
+	London Stock Exchange Group Plc	
+	Persimmon Plc	
+	Verbund AG	
+	Samhallsbyggnadsbolaget i Norden AB (Class B)	
+	Prysmian SpA	
+	HSBC Holdings Plc	
+	Fabege AB	
+	CaixaBank,S.A.	
+	Bankinter,S.A.	
+	Bunzl Plc	
+	Antofagasta Plc	
+	Eiffage SA	
+	PSP Swiss Property AG	
+	Fresnillo Plc	
+	Aegon N.V.	
+	SSE Plc	
+	Yara International ASA	
+	Solvay SA	
+	Hiscox Ltd	
+	Lloyds Banking Group Plc	
+	National Grid Plc	
+	Mapfre S.A.	
+	Eurobank Ergasias Services and Holdings S.A.	
+	Talanx AG	
+	Capgemini SE	
+	BT Group Plc	
+	J Sainsbury Plc	
+	Covivio	
+	Proximus S.A. de droit public	
+	Laboratorios Farmaceuticos Rovi,S.A.	
+	ICADE SA	
+	Compagnie de Saint-Gobain S.A.	
+	St. James's Place Plc	
+	ThyssenKrupp AG	
+	A2A SpA	
+	Sonova Holding AG (Registered)	
+	Vonovia SE	
+	AIB Group Plc	
+	Deutsche Boerse AG	
+	Novo Nordisk A/S (Class B)	
+	Telefonica Deutschland Holding AG	
+	Topdanmark A/S	
+	OPAP S.A.	
+	Koninklijke (Royal) KPN N.V.	
+	D'Ieteren Group	
+	CRH Plc	
+	DKSH Holding Ltd.	
+	Compagnie Financiere Richemont S.A.	
+	Koninklijke Ahold Delhaize N.V.	
+	Hellenic Telecommunications Organization S.A.	
+	Orange	
+	Telia Company AB	
+	TERNA - Rete Elettrica Nazionale SpA	
+	Tesco Plc	
+	Salmar ASA	
+	Vodafone Group Plc	
+	L E Lundbergforetagen AB (Class B)	
+	Aviva Plc	
+	Banco BPM SpA	
+	Banco Bilbao Vizcaya Argentaria,S.A.	
+	L'Air Liquide S.A.	
+	Credit Agricole S.A.	
+	Deutsche Post AG	
+	Endesa,S.A.	
+	E.ON SE	
+	Gecina S.A.	
+	Banco Santander S.A.	
+	Nordnet AB (publ)	
+	Veolia Environnement S.A.	
+	United Internet AG (Registered Shares)	
+	Inmobiliaria Colonial Socimi S.A.	
+	De'Longhi SpA	
+	KION Group AG	
+	Wallenstam AB (Class B)	
+	UCB S.A.	
+	BE Semiconductor Industries N.V.	
+	SCOR SE	
+	Orron Energy AB	
+	Evraz Plc	

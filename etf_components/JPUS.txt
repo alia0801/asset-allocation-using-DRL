@@ -1,0 +1,365 @@
+JPUS
+PWR	QUANTA SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=JPUS
+MCK	MCKESSON CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=JPUS
+GIS	GENERAL MILLS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=JPUS
+HSY	HERSHEY CO/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=JPUS
+K	KELLOGG CO COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=JPUS
+CI	CIGNA CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=JPUS
+RSG	REPUBLIC SERVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=JPUS
+SJM	SMUCKER(J.M.)CO COM STK	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=JPUS
+WM	WASTE MANAGEMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WM.US&back=JPUS
+UNH	UNITEDHEALTH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UNH.US&back=JPUS
+CF	CF INDUSTRIES HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=JPUS
+ANET	ARISTA NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=JPUS
+GWW	WW GRAINGER INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=JPUS
+GD	GENERAL DYNAMICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=JPUS
+PEP	PEPSICO INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=JPUS
+PGR	PROGRESSIVE CORP/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=PGR.US&back=JPUS
+NUE	NUCOR CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=JPUS
+AAPL	APPLE INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=JPUS
+CVS	CVS HEALTH CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=JPUS
+SO	SOUTHERN CO/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=JPUS
+TMUS	T-MOBILE US INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=JPUS
+WEC	WEC ENERGY GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=JPUS
+ED	CONSOLIDATED EDISON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=JPUS
+EVRG	EVERGY INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=JPUS
+AEP	AMERICAN ELECTRIC POWER	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=JPUS
+NXST	NEXSTAR MEDIA GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NXST.US&back=JPUS
+OGE	OGE ENERGY CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=JPUS
+MSI	MOTOROLA SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MSI.US&back=JPUS
+NEE	NEXTERA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=JPUS
+POST	POST HOLDINGS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=JPUS
+IRM	IRON MOUNTAIN INC REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=JPUS
+KDP	KEURIG DR PEPPER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=JPUS
+KHC	KRAFT HEINZ CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=JPUS
+KO	COCA-COLA CO/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=JPUS
+MDLZ	MONDELEZ INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=JPUS
+PPL	PPL CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=JPUS
+NFG	NATIONAL FUEL GAS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=JPUS
+LLY	ELI LILLY & CO COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=JPUS
+LMT	LOCKHEED MARTIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=JPUS
+ADM	ARCHER-DANIELS-MIDLAND	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=JPUS
+CDNS	CADENCE DESIGN SYSTEMS	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=JPUS
+DTE	DTE ENERGY CO COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=JPUS
+DUK	DUKE ENERGY CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=JPUS
+CTVA	CORTEVA INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=JPUS
+CNP	CENTERPOINT ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CNP.US&back=JPUS
+UTHR	UNITED THERAPEUTICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=JPUS
+VICI	VICI PROPERTIES INC REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=JPUS
+TRGP	TARGA RESOURCES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=JPUS
+RS	RELIANCE STEEL &	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=JPUS
+STLD	STEEL DYNAMICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=JPUS
+VST	VISTRA CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=VST.US&back=JPUS
+DVN	DEVON ENERGY CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=JPUS
+ELV	ELEVANCE HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=JPUS
+EXR	EXTRA SPACE STORAGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=JPUS
+AEE	AMEREN CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=JPUS
+ABC	AMERISOURCEBERGEN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ABC.US&back=JPUS
+MSFT	MICROSOFT CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=JPUS
+NI	NISOURCE INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=JPUS
+PEG	PUBLIC SERVICE	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=JPUS
+PG	PROCTER & GAMBLE CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=JPUS
+LITE	LUMENTUM HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=JPUS
+KLAC	KLA CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=JPUS
+JNPR	JUNIPER NETWORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JNPR.US&back=JPUS
+FE	FIRSTENERGY CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=JPUS
+CPB	CAMPBELL SOUP CO COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=JPUS
+WMB	WILLIAMS COS INC/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=JPUS
+SRE	SEMPRA ENERGY COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=JPUS
+RPM	RPM INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RPM.US&back=JPUS
+X	UNITED STATES STEEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=X.US&back=JPUS
+STZ	CONSTELLATION BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STZ.US&back=JPUS
+TAP	MOLSON COORS BEVERAGE CO	/etf/ea/ETZCW.djhtm?c=1&etfid=TAP.US&back=JPUS
+TMO	THERMO FISHER SCIENTIFIC	/etf/ea/ETZCW.djhtm?c=1&etfid=TMO.US&back=JPUS
+CTRA	COTERRA ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=JPUS
+D	DOMINION ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=JPUS
+DHR	DANAHER CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=JPUS
+EXC	EXELON CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=JPUS
+EOG	EOG RESOURCES INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=JPUS
+ACI	ALBERTSONS COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=JPUS
+ABBV	ABBVIE INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=JPUS
+AMGN	AMGEN INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=JPUS
+BMY	BRISTOL-MYERS SQUIBB CO	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=JPUS
+JNJ	JOHNSON & COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=JPUS
+KR	KROGER CO/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=JPUS
+NRG	NRG ENERGY INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=JPUS
+PM	PHILIP MORRIS	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=JPUS
+PXD	PIONEER NATURAL	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=JPUS
+PSA	PUBLIC STORAGE REIT USD	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=JPUS
+MS	MORGAN STANLEY COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=JPUS
+ASH	ASHLAND INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=ASH.US&back=JPUS
+AVGO	BROADCOM INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=JPUS
+ADI	ANALOG DEVICES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=JPUS
+ACN	ACCENTURE PLC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=ACN.US&back=JPUS
+AON	AON PLC COMMON STOCK USD	/etf/ea/ETZCW.djhtm?c=1&etfid=AON.US&back=JPUS
+CAG	CONAGRA BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=JPUS
+CASY	CASEY'S GENERAL STORES	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=JPUS
+ETN	EATON CORP PLC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=JPUS
+DAR	DARLING INGREDIENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DAR.US&back=JPUS
+CTSH	COGNIZANT TECHNOLOGY	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=JPUS
+CMS	CMS ENERGY CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=JPUS
+MOS	MOSAIC CO/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=JPUS
+PFE	PFIZER INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=JPUS
+TXN	TEXAS INSTRUMENTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=JPUS
+TSN	TYSON FOODS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=JPUS
+MO	ALTRIA GROUP INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=JPUS
+OLN	OLIN CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=OLN.US&back=JPUS
+GOOGL	ALPHABET INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=JPUS
+DKS	DICK'S SPORTING GOODS	/etf/ea/ETZCW.djhtm?c=1&etfid=DKS.US&back=JPUS
+F	FORD MOTOR CO COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=JPUS
+FLO	FLOWERS FOODS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=JPUS
+BG	BUNGE LTD COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=JPUS
+ABT	ABBOTT LABORATORIES	/etf/ea/ETZCW.djhtm?c=1&etfid=ABT.US&back=JPUS
+FAST	FASTENAL CO COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=JPUS
+EL	ESTEE LAUDER COS INC/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=JPUS
+CSCO	CISCO SYSTEMS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=JPUS
+LUMN	LUMEN TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=JPUS
+LOW	LOWE'S COS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=JPUS
+MRO	MARATHON OIL CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=JPUS
+ORCL	ORACLE CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=JPUS
+PLD	PROLOGIS INC REIT USD	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=JPUS
+WSM	WILLIAMS-SONOMA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSM.US&back=JPUS
+SYF	SYNCHRONY FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=JPUS
+ORLY	O'REILLY AUTOMOTIVE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ORLY.US&back=JPUS
+JLL	JONES LANG LASALLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JLL.US&back=JPUS
+GLPI	GAMING AND LEISURE	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=JPUS
+GILD	GILEAD SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=JPUS
+HIG	HARTFORD FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=JPUS
+IDA	IDACORP INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=IDA.US&back=JPUS
+HUN	HUNTSMAN CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=HUN.US&back=JPUS
+HRL	HORMEL FOODS CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=JPUS
+CMI	CUMMINS INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=JPUS
+AM	ANTERO MIDSTREAM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AM.US&back=JPUS
+BF.B	BROWN-FORMAN CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=JPUS
+AWK	AMERICAN WATER WORKS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=JPUS
+CC	CHEMOURS CO/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CC.US&back=JPUS
+CIEN	CIENA CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=CIEN.US&back=JPUS
+CL	COLGATE-PALMOLIVE CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=JPUS
+CCI	CROWN CASTLE INC REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=JPUS
+CBRE	CBRE GROUP INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=JPUS
+CLX	CLOROX CO/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CLX.US&back=JPUS
+COF	CAPITAL ONE FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=JPUS
+DOW	DOW INC COMMON STOCK USD	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=JPUS
+IBM	INTERNATIONAL BUSINESS	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=JPUS
+HCA	HCA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HCA.US&back=JPUS
+KMB	KIMBERLY-CLARK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=JPUS
+LPX	LOUISIANA-PACIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=JPUS
+LH	LABORATORY CORP OF	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=JPUS
+LYB	LYONDELLBASELL	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=JPUS
+LNT	ALLIANT ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=JPUS
+STT	STATE STREET CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=JPUS
+WELL	WELLTOWER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=JPUS
+WPC	WP CAREY INC REIT USD	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=JPUS
+VZ	VERIZON COMMUNICATIONS	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=JPUS
+TSCO	TRACTOR SUPPLY CO COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=TSCO.US&back=JPUS
+UGI	UGI CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=JPUS
+UI	UBIQUITI INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UI.US&back=JPUS
+WBA	WALGREENS BOOTS ALLIANCE	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=JPUS
+WLK	WESTLAKE CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=WLK.US&back=JPUS
+MMC	MARSH & MCLENNAN COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MMC.US&back=JPUS
+PNW	PINNACLE WEST CAPITAL	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=JPUS
+M	MACY'S INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=M.US&back=JPUS
+LRCX	LAM RESEARCH CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=JPUS
+HAL	HALLIBURTON CO COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=JPUS
+GNTX	GENTEX CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=GNTX.US&back=JPUS
+INGR	INGREDION INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=INGR.US&back=JPUS
+IP	INTERNATIONAL PAPER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=JPUS
+DGX	QUEST DIAGNOSTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=JPUS
+EMN	EASTMAN CHEMICAL CO	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=JPUS
+AZO	AUTOZONE INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=AZO.US&back=JPUS
+BKR	BAKER HUGHES CO COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=BKR.US&back=JPUS
+AMAT	APPLIED MATERIALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=JPUS
+APH	AMPHENOL CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=JPUS
+AGR	AVANGRID INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=JPUS
+ETR	ENTERGY CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=JPUS
+CMCSA	COMCAST CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=JPUS
+CLR	CONTINENTAL RESOURCES	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=JPUS
+LEN	LENNAR CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=JPUS
+KIM	KIMCO REALTY CORP REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=JPUS
+INTU	INTUIT INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=JPUS
+ITW	ILLINOIS TOOL WORKS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ITW.US&back=JPUS
+REGN	REGENERON	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=JPUS
+PAG	PENSKE AUTOMOTIVE GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=JPUS
+PKI	PERKINELMER INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=PKI.US&back=JPUS
+ZTS	ZOETIS INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTS.US&back=JPUS
+UNP	UNION PACIFIC CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UNP.US&back=JPUS
+TECH	BIO-TECHNE CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=TECH.US&back=JPUS
+SPG	SIMON PROPERTY GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=JPUS
+SHW	SHERWIN-WILLIAMS CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=JPUS
+SYY	SYSCO CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=JPUS
+WST	WEST PHARMACEUTICAL	/etf/ea/ETZCW.djhtm?c=1&etfid=WST.US&back=JPUS
+WY	WEYERHAEUSER CO REIT USD	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=JPUS
+NTAP	NETAPP INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=JPUS
+MKC	MCCORMICK & CO INC/MD	/etf/ea/ETZCW.djhtm?c=1&etfid=MKC.US&back=JPUS
+MRK	MERCK & CO INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=JPUS
+NKE	NIKE INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=NKE.US&back=JPUS
+LSI	LIFE STORAGE INC REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=JPUS
+MAA	MID-AMERICA APARTMENT	/etf/ea/ETZCW.djhtm?c=1&etfid=MAA.US&back=JPUS
+MDT	MEDTRONIC PLC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=JPUS
+AOS	A O SMITH CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=JPUS
+ATUS	ALTICE USA INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=ATUS.US&back=JPUS
+CLH	CLEAN HARBORS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CLH.US&back=JPUS
+CHD	CHURCH & DWIGHT CO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=JPUS
+CE	CELANESE CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=JPUS
+BIO	BIO-RAD LABORATORIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BIO.US&back=JPUS
+ALLY	ALLY FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=JPUS
+CVX	CHEVRON CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=JPUS
+FITB	FIFTH THIRD BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=JPUS
+LAMR	LAMAR ADVERTISING CO	/etf/ea/ETZCW.djhtm?c=1&etfid=LAMR.US&back=JPUS
+IPG	INTERPUBLIC GROUP OF COS	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=JPUS
+HBAN	HUNTINGTON BANCSHARES	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=JPUS
+HOLX	HOLOGIC INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=JPUS
+RHI	ROBERT HALF	/etf/ea/ETZCW.djhtm?c=1&etfid=RHI.US&back=JPUS
+TT	TRANE TECHNOLOGIES PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=JPUS
+STWD	STARWOOD PROPERTY TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=STWD.US&back=JPUS
+STE	STERIS PLC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=STE.US&back=JPUS
+T	AT&T INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=JPUS
+TFC	TRUIST FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=JPUS
+WHR	WHIRLPOOL CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=JPUS
+ESI	ELEMENT SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ESI.US&back=JPUS
+DLR	DIGITAL REALTY TRUST INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=JPUS
+CHTR	CHARTER COMMUNICATIONS	/etf/ea/ETZCW.djhtm?c=1&etfid=CHTR.US&back=JPUS
+AFL	AFLAC INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=JPUS
+BDX	BECTON DICKINSON AND CO	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=JPUS
+BAC	BANK OF AMERICA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=JPUS
+HPE	HEWLETT PACKARD	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=JPUS
+MAS	MASCO CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=JPUS
+TER	TERADYNE INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=JPUS
+ROK	ROCKWELL AUTOMATION INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROK.US&back=JPUS
+TGT	TARGET CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=JPUS
+VTR	VENTAS INC REIT USD 0.25	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=JPUS
+HPQ	HP INC COMMON STOCK USD	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=JPUS
+NLOK	NORTONLIFELOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=JPUS
+NVDA	NVIDIA CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=JPUS
+META	META PLATFORMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=JPUS
+ATVI	ACTIVISION BLIZZARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ATVI.US&back=JPUS
+CPT	CAMDEN PROPERTY TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=JPUS
+EBAY	EBAY INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=JPUS
+FCX	FREEPORT-MCMORAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FCX.US&back=JPUS
+FNF	FIDELITY NATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=JPUS
+	DUKE REALTY CORP REIT	
+DVA	DAVITA INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=DVA.US&back=JPUS
+DISH	DISH NETWORK CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=DISH.US&back=JPUS
+AMT	AMERICAN TOWER CORP REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=JPUS
+BAH	BOOZ ALLEN HAMILTON	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=JPUS
+LBRDK	LIBERTY BROADBAND CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LBRDK.US&back=JPUS
+VIRT	VIRTU FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VIRT.US&back=JPUS
+WRB	W R BERKLEY CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=JPUS
+UNM	UNUM GROUP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=UNM.US&back=JPUS
+XEL	XCEL ENERGY INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=JPUS
+TPL	TEXAS PACIFIC LAND CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=JPUS
+SPB	SPECTRUM BRANDS HOLDINGS	/etf/ea/ETZCW.djhtm?c=1&etfid=SPB.US&back=JPUS
+SCCO	SOUTHERN COPPER CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SCCO.US&back=JPUS
+IDXX	IDEXX LABORATORIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=JPUS
+PEAK	HEALTHPEAK PROPERTIES	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=JPUS
+PKG	PACKAGING CORP OF	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=JPUS
+MPW	MEDICAL PROPERTIES TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=JPUS
+NEM	NEWMONT CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=JPUS
+IT	GARTNER INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=JPUS
+GRMN	GARMIN LTD COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=JPUS
+BBY	BEST BUY CO INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=JPUS
+ROP	ROPER TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=JPUS
+SWKS	SKYWORKS SOLUTIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=JPUS
+UHS	UNIVERSAL HEALTH	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=JPUS
+CB	CHUBB LTD COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=JPUS
+CEG	CONSTELLATION ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=JPUS
+BPOP	POPULAR INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=BPOP.US&back=JPUS
+AME	AMETEK INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=AME.US&back=JPUS
+HE	HAWAIIAN ELECTRIC	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=JPUS
+HUBB	HUBBELL INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=JPUS
+NSC	NORFOLK SOUTHERN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=JPUS
+MRNA	MODERNA INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=MRNA.US&back=JPUS
+PH	PARKER-HANNIFIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=JPUS
+INTC	INTEL CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=JPUS
+HON	HONEYWELL INTERNATIONAL	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=JPUS
+SYK	STRYKER CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=SYK.US&back=JPUS
+WU	WESTERN UNION CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=JPUS
+MOH	MOLINA HEALTHCARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=JPUS
+AIZ	ASSURANT INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=JPUS
+DFS	DISCOVER FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=JPUS
+DOX	AMDOCS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=JPUS
+EA	ELECTRONIC ARTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EA.US&back=JPUS
+AMP	AMERIPRISE FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=JPUS
+CAT	CATERPILLAR INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=JPUS
+IQV	IQVIA HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IQV.US&back=JPUS
+IEX	IDEX CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=JPUS
+KSS	KOHL'S CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=KSS.US&back=JPUS
+RITM	RITHM CAPITAL CORP REIT	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=JPUS
+CABO	CABLE ONE INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CABO.US&back=JPUS
+CUBE	CUBESMART REIT USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBE.US&back=JPUS
+SSNC	SS&C TECHNOLOGIES	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=JPUS
+SCI	SERVICE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SCI.US&back=JPUS
+SNX	TD SYNNEX CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=SNX.US&back=JPUS
+SRC	SPIRIT REALTY CAPITAL	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=JPUS
+VRTX	VERTEX PHARMACEUTICALS	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTX.US&back=JPUS
+CHE	CHEMED CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=JPUS
+ARE	ALEXANDRIA REAL ESTATE	/etf/ea/ETZCW.djhtm?c=1&etfid=ARE.US&back=JPUS
+AFG	AMERICAN FINANCIAL GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=JPUS
+RJF	RAYMOND JAMES FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=JPUS
+JEF	JEFFERIES FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=JEF.US&back=JPUS
+ITT	ITT INC COMMON STOCK USD	/etf/ea/ETZCW.djhtm?c=1&etfid=ITT.US&back=JPUS
+QDEL	QUIDELORTHO CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=QDEL.US&back=JPUS
+NVR	NVR INC COMMON STOCK USD	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=JPUS
+ALL	ALLSTATE CORP/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=JPUS
+CSL	CARLISLE COS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=JPUS
+CSX	CSX CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=CSX.US&back=JPUS
+TKR	TIMKEN CO/THE COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=TKR.US&back=JPUS
+DINO	HF SINCLAIR CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=JPUS
+EMR	EMERSON ELECTRIC CO	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=JPUS
+FBHS	FORTUNE BRANDS HOME &	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=JPUS
+BRX	BRIXMOR PROPERTY GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=BRX.US&back=JPUS
+OHI	OMEGA HEALTHCARE	/etf/ea/ETZCW.djhtm?c=1&etfid=OHI.US&back=JPUS
+MSM	MSC INDUSTRIAL DIRECT CO	/etf/ea/ETZCW.djhtm?c=1&etfid=MSM.US&back=JPUS
+NDAQ	NASDAQ INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=NDAQ.US&back=JPUS
+FYBR	FRONTIER COMMUNICATIONS	/etf/ea/ETZCW.djhtm?c=1&etfid=FYBR.US&back=JPUS
+LEG	LEGGETT & PLATT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LEG.US&back=JPUS
+PPC	PILGRIM'S PRIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=JPUS
+PFG	PRINCIPAL FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=JPUS
+AMH	AMERICAN HOMES 4 RENT	/etf/ea/ETZCW.djhtm?c=1&etfid=AMH.US&back=JPUS
+USB	US BANCORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=JPUS
+FR	FIRST INDUSTRIAL REALTY	/etf/ea/ETZCW.djhtm?c=1&etfid=FR.US&back=JPUS
+FDS	FACTSET RESEARCH SYSTEMS	/etf/ea/ETZCW.djhtm?c=1&etfid=FDS.US&back=JPUS
+POOL	POOL CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=POOL.US&back=JPUS
+OLPX	OLAPLEX HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OLPX.US&back=JPUS
+HRB	H&R BLOCK INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=HRB.US&back=JPUS
+GL	GLOBE LIFE INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=GL.US&back=JPUS
+MET	METLIFE INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=JPUS
+NEU	NEWMARKET CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=NEU.US&back=JPUS
+RF	REGIONS FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=JPUS
+EXP	EAGLE MATERIALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EXP.US&back=JPUS
+R	RYDER SYSTEM INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=R.US&back=JPUS
+PRU	PRUDENTIAL FINANCIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=JPUS
+OMF	ONEMAIN HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OMF.US&back=JPUS
+SRCL	STERICYCLE INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=SRCL.US&back=JPUS
+THG	HANOVER INSURANCE GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=JPUS
+TNL	TRAVEL + LEISURE CO	/etf/ea/ETZCW.djhtm?c=1&etfid=TNL.US&back=JPUS
+DTM	DT MIDSTREAM INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=JPUS
+	JPMORGAN US GOVT MMKT FUN	
+AA	ALCOA CORP COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=AA.US&back=JPUS
+AVY	AVERY DENNISON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=JPUS
+CARR	CARRIER GLOBAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=JPUS
+CFG	CITIZENS FINANCIAL GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=JPUS
+DLB	DOLBY LABORATORIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DLB.US&back=JPUS
+CNXC	CONCENTRIX CORP COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=JPUS
+MNST	MONSTER BEVERAGE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=JPUS
+OTIS	OTIS WORLDWIDE CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=JPUS
+ORI	OLD REPUBLIC	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=JPUS
+LHX	L3HARRIS TECHNOLOGIES	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=JPUS
+KEY	KEYCORP COMMON STOCK USD	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=JPUS
+HUM	HUMANA INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=JPUS
+BOH	BANK OF HAWAII CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH.US&back=JPUS
+RYN	RAYONIER INC REIT USD 0	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=JPUS
+TOL	TOLL BROTHERS INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=TOL.US&back=JPUS
+WTRG	ESSENTIAL UTILITIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=JPUS
+	CASH OR CASH COLLATERAL	
+FSLR	FIRST SOLAR INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=JPUS
+CRI	CARTER'S INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CRI.US&back=JPUS
+BR	BROADRIDGE FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=BR.US&back=JPUS
+HOG	HARLEY-DAVIDSON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HOG.US&back=JPUS
+PCAR	PACCAR INC COMMON STOCK	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=JPUS
+SNDR	SCHNEIDER NATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNDR.US&back=JPUS
+SON	SONOCO PRODUCTS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=SON.US&back=JPUS
+ES	EVERSOURCE ENERGY COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=JPUS
+CRUS	CIRRUS LOGIC INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=CRUS.US&back=JPUS
+PHM	PULTEGROUP INC COMMON	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=JPUS
+LDOS	LEIDOS HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=JPUS

@@ -1,0 +1,320 @@
+BSCO
+	AbbVie Inc 2.6 11/21/2024	
+	Morgan Stanley 3.88 04/29/2024	
+	Morgan Stanley 3.7 10/23/2024	
+	Goldman Sachs Group Inc/The 4 03/03/2024	
+	AerCap Ireland Capital DAC / AerCap Global Aviation Trust 1.65 10/29/2024	
+	Bank of America Corp 4.2 08/26/2024	
+	JPMorgan Chase & Co 3.88 09/10/2024	
+	Credit Suisse AG/New York NY 3.62 09/09/2024	
+	Boeing Co/The 1.43 02/04/2024	
+	Sprint Corp 7.12 06/15/2024	
+	Apple Inc 3.45 05/06/2024	
+	Bank of America Corp 4.12 01/22/2024	
+	Bank of America Corp 4 04/01/2024	
+	Amazon.com Inc 0.45 05/12/2024	
+	Thermo Fisher Scientific Inc 1.22 10/18/2024	
+	Goldman Sachs Group Inc/The 3 03/15/2024	
+	Goldman Sachs Group Inc/The 3.85 07/08/2024	
+	Microsoft Corp 2.88 02/06/2024	
+	Wells Fargo & Co 3.3 09/09/2024	
+	Novartis Capital Corp 3.4 05/06/2024	
+	AT&T Inc 0.9 03/25/2024	
+	Sabine Pass Liquefaction LLC 5.75 05/15/2024	
+	JPMorgan Chase & Co 3.62 05/13/2024	
+	HCA Inc 5 03/15/2024	
+	American Express Co 3.38 05/03/2024	
+	Celanese US Holdings LLC 5.9 07/05/2024	
+	HSBC Holdings PLC 4.25 03/14/2024	
+	International Business Machines Corp 3.62 02/12/2024	
+	Oracle Corp 3.4 07/08/2024	
+	Oracle Corp 2.95 11/15/2024	
+	Sumitomo Mitsui Financial Group Inc 2.7 07/16/2024	
+	Fiserv Inc 2.75 07/01/2024	
+	Amazon.com Inc 2.8 08/22/2024	
+	Gilead Sciences Inc 3.7 04/01/2024	
+	Apple Inc 3 02/09/2024	
+	Apple Inc 2.85 05/11/2024	
+	American Express Co 3 10/30/2024	
+	Astrazeneca Finance LLC 0.7 05/28/2024	
+	BPCE SA 4 04/15/2024	
+	JPMorgan Chase & Co 3.88 02/01/2024	
+	Royal Bank of Canada 3.97 07/26/2024	
+	Banco Santander SA 3.89 05/24/2024	
+	Amazon.com Inc 2.73 04/13/2024	
+	Walmart Inc 3.3 04/22/2024	
+	Charles Schwab Corp/The 0.75 03/18/2024	
+	Toronto-Dominion Bank/The 2.35 03/08/2024	
+	Amgen Inc 3.62 05/22/2024	
+	Canadian Pacific Railway Co 1.35 12/02/2024	
+	Walt Disney Co/The 1.75 08/30/2024	
+	Parker-Hannifin Corp 3.65 06/15/2024	
+	Microchip Technology Inc 0.97 02/15/2024	
+	Cheniere Corpus Christi Holdings LLC 7 06/30/2024	
+	Baxter International Inc 1.32 11/29/2024	
+	Amazon.com Inc 3.8 12/05/2024	
+	Intel Corp 2.88 05/11/2024	
+	PepsiCo Inc 3.6 03/01/2024	
+	TotalEnergies Capital International SA 3.75 04/10/2024	
+	Williams Cos Inc/The 4.55 06/24/2024	
+	Tyson Foods Inc 3.95 08/15/2024	
+	Synchrony Financial 4.25 08/15/2024	
+	PayPal Holdings Inc 2.4 10/01/2024	
+	General Motors Financial Co Inc 3.95 04/13/2024	
+	Barclays PLC 4.38 09/11/2024	
+	Truist Bank 2.15 12/06/2024	
+	Bank of Montreal 2.15 03/08/2024	
+	NVIDIA Corp 0.58 06/14/2024	
+	Shell International Finance BV 2 11/07/2024	
+	Toyota Motor Corp 0.68 03/25/2024	
+	Toyota Motor Credit Corp 2.5 03/22/2024	
+	TransCanada PipeLines Ltd 1 10/12/2024	
+	MPLX LP 4.88 12/01/2024	
+	VMware Inc 1 08/15/2024	
+	Verizon Communications Inc 3.5 11/01/2024	
+	Walgreens Boots Alliance Inc 3.8 11/18/2024	
+	Invesco Government & Agency Portfolio	
+	Caterpillar Financial Services Corp 0.95 01/10/2024	
+	Charter Communications Operating LLC / Charter Communication 4.5 02/01/2024	
+	Howmet Aerospace Inc 5.12 10/01/2024	
+	Home Depot Inc/The 3.75 02/15/2024	
+	Keurig Dr Pepper Inc 0.75 03/15/2024	
+	NextEra Energy Capital Holdings Inc 2.94 03/21/2024	
+	Caterpillar Financial Services Corp 0.45 05/17/2024	
+	Dell International LLC / EMC Corp 4 07/15/2024	
+	Duke Energy Corp 3.75 04/15/2024	
+	American Tower Corp 5 02/15/2024	
+	BNP Paribas SA 4.25 10/15/2024	
+	BlackRock Inc 3.5 03/18/2024	
+	MetLife Inc 3.6 04/10/2024	
+	Mastercard Inc 3.38 04/01/2024	
+	Spectra Energy Partners LP 4.75 03/15/2024	
+	TotalEnergies Capital International SA 3.7 01/15/2024	
+	Pfizer Inc 3.4 05/15/2024	
+	Santander UK PLC 4 03/13/2024	
+	Pacific Gas and Electric Co 3.25 02/16/2024	
+	Take-Two Interactive Software Inc 3.3 03/28/2024	
+	Target Corp 3.5 07/01/2024	
+	State Street Corp 3.3 12/16/2024	
+	Equinor ASA 3.7 03/01/2024	
+	Mitsubishi UFJ Financial Group Inc 2.8 07/18/2024	
+	Lloyds Banking Group PLC 4.5 11/04/2024	
+	HSBC USA Inc 3.75 05/24/2024	
+	Exxon Mobil Corp 3.18 03/15/2024	
+	Becton Dickinson and Co 3.36 06/06/2024	
+	Truist Financial Corp 2.85 10/26/2024	
+	Costco Wholesale Corp 2.75 05/18/2024	
+	Caterpillar Inc 3.4 05/15/2024	
+	Chevron Corp 2.9 03/03/2024	
+	Cisco Systems Inc 3.62 03/04/2024	
+	Williams Cos Inc/The 4.3 03/04/2024	
+	Unilever Capital Corp 2.6 05/05/2024	
+	US Bancorp 3.6 09/11/2024	
+	UnitedHealth Group Inc 0.55 05/15/2024	
+	Verizon Communications Inc 0.75 03/22/2024	
+	Coca-Cola Co/The 1.75 09/06/2024	
+	Caterpillar Financial Services Corp 2.15 11/08/2024	
+	Boeing Co/The 1.95 02/01/2024	
+	BAT Capital Corp 2.79 09/06/2024	
+	Bank of New York Mellon Corp/The 2.1 10/24/2024	
+	Exxon Mobil Corp 2.02 08/16/2024	
+	Hewlett Packard Enterprise Co 1.45 04/01/2024	
+	Simon Property Group LP 2 09/13/2024	
+	Sumitomo Mitsui Financial Group Inc 2.45 09/27/2024	
+	Toyota Motor Credit Corp 0.45 01/11/2024	
+	Salesforce Inc 0.62 07/15/2024	
+	American Honda Finance Corp 0.75 08/09/2024	
+	AerCap Ireland Capital DAC / AerCap Global Aviation Trust 1.75 10/29/2024	
+	Credit Suisse AG/New York NY 0.49 02/02/2024	
+	Entergy Louisiana LLC 0.95 10/01/2024	
+	Toyota Motor Credit Corp 0.62 09/13/2024	
+	Continental Resources Inc/OK 3.8 06/01/2024	
+	AerCap Ireland Capital DAC / AerCap Global Aviation Trust 3.15 02/15/2024	
+	QUALCOMM Inc 2.9 05/20/2024	
+	Simon Property Group LP 3.38 10/01/2024	
+	Hormel Foods Corp 0.65 06/03/2024	
+	Eversource Energy 4.2 06/27/2024	
+	KLA Corp 4.65 11/01/2024	
+	McKesson Corp 3.8 03/15/2024	
+	NatWest Group PLC 5.12 05/28/2024	
+	Alphabet Inc 3.38 02/25/2024	
+	Bank of Nova Scotia/The 2.44 03/11/2024	
+	Becton Dickinson and Co 3.73 12/15/2024	
+	Bank of Montreal 4.25 09/14/2024	
+	ConocoPhillips Co 2.12 03/08/2024	
+	Delta Air Lines Inc 2.9 10/28/2024	
+	Enterprise Products Operating LLC 3.9 02/15/2024	
+	Broadcom Corp / Broadcom Cayman Finance Ltd 3.62 01/15/2024	
+	Elevance Health Inc 3.35 12/01/2024	
+	American Honda Finance Corp 0.55 07/12/2024	
+	Deutsche Bank AG/London 3.7 05/30/2024	
+	Royal Bank of Canada 0.65 07/29/2024	
+	Toyota Motor Credit Corp 0.5 06/18/2024	
+	LyondellBasell Industries NV 5.75 04/15/2024	
+	General Motors Financial Co Inc 1.05 03/08/2024	
+	General Motors Financial Co Inc 1.2 10/15/2024	
+	Vodafone Group PLC 3.75 01/16/2024	
+	Elevance Health Inc 3.5 08/15/2024	
+	Zimmer Biomet Holdings Inc 1.45 11/22/2024	
+	Xilinx Inc 2.95 06/01/2024	
+	US Bancorp 3.7 01/30/2024	
+	Evergy Inc 2.45 09/15/2024	
+	Fifth Third Bancorp 4.3 01/16/2024	
+	Phillips 66 0.9 02/15/2024	
+	Omnicom Group Inc / Omnicom Capital Inc 3.65 11/01/2024	
+	PNC Financial Services Group Inc/The 3.9 04/29/2024	
+	Deutsche Bank AG/New York NY 3.7 05/30/2024	
+	Citigroup Inc 4 08/05/2024	
+	John Deere Capital Corp 0.45 01/17/2024	
+	Brookfield Finance Inc 4 04/01/2024	
+	Altria Group Inc 4 01/31/2024	
+	Bank of New York Mellon Corp/The 3.65 02/04/2024	
+	Berry Global Inc 0.95 02/15/2024	
+	Apple Inc 1.8 09/11/2024	
+	Aetna Inc 3.5 11/15/2024	
+	Capital One Financial Corp 3.75 04/24/2024	
+	Cardinal Health Inc 3.08 06/15/2024	
+	Crown Castle Inc 3.2 09/01/2024	
+	CommonSpirit Health 2.76 10/01/2024	
+	Equifax Inc 2.6 12/01/2024	
+	eBay Inc 3.45 08/01/2024	
+	Discover Bank 2.45 09/12/2024	
+	PerkinElmer Inc 0.85 09/15/2024	
+	Plains All American Pipeline LP / PAA Finance Corp 3.6 11/01/2024	
+	Philip Morris International Inc 3.25 11/10/2024	
+	General Motors Financial Co Inc 3.5 11/07/2024	
+	Freeport-McMoRan Inc 4.55 11/14/2024	
+	HSBC USA Inc 3.5 06/23/2024	
+	Magna International Inc 3.62 06/15/2024	
+	Marathon Petroleum Corp 3.62 09/15/2024	
+	NextEra Energy Capital Holdings Inc 4.2 06/20/2024	
+	WPP Finance 2010 3.75 09/19/2024	
+	Wells Fargo & Co 4.48 01/16/2024	
+	Westinghouse Air Brake Technologies Corp 4.4 03/15/2024	
+	Illinois Tool Works Inc 3.5 03/01/2024	
+	Fidelity National Information Services Inc 0.6 03/01/2024	
+	Cooperatieve Rabobank UA/NY 0.38 01/12/2024	
+	Caterpillar Financial Services Corp 0.6 09/13/2024	
+	Boston Properties LP 3.8 02/01/2024	
+	Cigna Corp 3.5 06/15/2024	
+	Chubb INA Holdings Inc 3.35 05/15/2024	
+	Ally Financial Inc 5.12 09/30/2024	
+	Air Lease Corp 0.7 02/15/2024	
+	American Honda Finance Corp 2.15 09/10/2024	
+	Bank of New York Mellon Corp/The 0.85 10/25/2024	
+	Burlington Northern Santa Fe LLC 3.4 09/01/2024	
+	DH Europe Finance II Sarl 2.2 11/15/2024	
+	McCormick & Co Inc/MD 3.15 08/15/2024	
+	ORIX Corp 3.25 12/04/2024	
+	ONE Gas Inc 1.1 03/11/2024	
+	Toronto-Dominion Bank/The 4.29 09/13/2024	
+	Southern California Edison Co 1.1 04/01/2024	
+	PNC Financial Services Group Inc/The 2.2 11/01/2024	
+	Lennar Corp 4.5 04/30/2024	
+	Intesa Sanpaolo SpA 5.25 01/12/2024	
+	Kinder Morgan Energy Partners LP 4.15 02/01/2024	
+	Kinder Morgan Energy Partners LP 4.25 09/01/2024	
+	CVS Health Corp 3.38 08/12/2024	
+	Chevron USA Inc 3.9 11/15/2024	
+	Willis North America Inc 3.6 05/15/2024	
+	Walmart Inc 2.65 12/15/2024	
+	Citigroup Inc 3.75 06/16/2024	
+	Caterpillar Financial Services Corp 3.25 12/01/2024	
+	Canadian Imperial Bank of Commerce 1 10/18/2024	
+	Barclays Bank PLC 3.75 05/15/2024	
+	Boardwalk Pipelines LP 4.95 12/15/2024	
+	Keysight Technologies Inc 4.55 10/30/2024	
+	Kinder Morgan Energy Partners LP 4.3 05/01/2024	
+	Humana Inc 3.85 10/01/2024	
+	Energy Transfer LP 3.9 05/15/2024	
+	Marsh & McLennan Cos Inc 3.5 06/03/2024	
+	Laboratory Corp of America Holdings 3.25 09/01/2024	
+	QVC Inc 4.85 04/01/2024	
+	Sherwin-Williams Co/The 4.05 08/08/2024	
+	Simon Property Group LP 3.75 02/01/2024	
+	Stryker Corp 3.38 05/15/2024	
+	Bell Telephone Co of Canada or Bell Canada/The 0.75 03/17/2024	
+	Bank of New York Mellon Corp/The 0.5 04/26/2024	
+	PNC Bank NA 2.5 08/27/2024	
+	Avangrid Inc 3.15 12/01/2024	
+	American Express Co 3.62 12/05/2024	
+	Aon Global Ltd 3.5 06/14/2024	
+	CDW LLC / CDW Finance Corp 5.5 12/01/2024	
+	Eastern Energy Gas Holdings LLC 2.5 11/15/2024	
+	John Deere Capital Corp 2.65 06/24/2024	
+	Diageo Capital PLC 2.12 10/24/2024	
+	John Deere Capital Corp 0.45 06/07/2024	
+	Constellation Brands Inc 3.6 05/09/2024	
+	CNA Financial Corp 3.95 05/15/2024	
+	CSX Corp 3.4 08/01/2024	
+	Air Lease Corp 0.8 08/18/2024	
+	Ameriprise Financial Inc 3.7 10/15/2024	
+	Black Hills Corp 1.04 08/23/2024	
+	Southern Co/The 0.6 02/26/2024	
+	WEC Energy Group Inc 0.8 03/15/2024	
+	WP Carey Inc 4.6 04/01/2024	
+	Wyeth LLC 6.45 02/01/2024	
+	Sumitomo Mitsui Banking Corp 3.95 01/10/2024	
+	PNC Bank NA 3.3 10/30/2024	
+	Moody's Corp 4.88 02/15/2024	
+	Georgia-Pacific LLC 8 01/15/2024	
+	General Dynamics Corp 2.38 11/15/2024	
+	General Mills Inc 3.65 02/15/2024	
+	Florida Power & Light Co 3.25 06/01/2024	
+	Enbridge Inc 3.5 06/10/2024	
+	Trane Technologies Luxembourg Finance SA 3.55 11/01/2024	
+	Interstate Power and Light Co 3.25 12/01/2024	
+	Hasbro Inc 3 11/19/2024	
+	McDonald's Corp 3.25 06/10/2024	
+	Mondelez International Inc 2.12 03/17/2024	
+	MidAmerican Energy Co 3.5 10/15/2024	
+	Kroger Co/The 4 02/01/2024	
+	PACCAR Financial Corp 3.15 06/13/2024	
+	Parker-Hannifin Corp 3.3 11/21/2024	
+	Sherwin-Williams Co/The 3.12 06/01/2024	
+	Roper Technologies Inc 2.35 09/15/2024	
+	Sumitomo Mitsui Banking Corp 3.4 07/11/2024	
+	Sumitomo Mitsui Financial Group Inc 0.51 01/12/2024	
+	Energy Transfer LP 4.25 04/01/2024	
+	Southern California Gas Co 3.15 09/15/2024	
+	Stifel Financial Corp 4.25 07/18/2024	
+	Toyota Motor Credit Corp 2.9 04/17/2024	
+	Toyota Motor Credit Corp 2 10/07/2024	
+	Toyota Motor Corp 2.36 07/02/2024	
+	Arrow Electronics Inc 3.25 09/08/2024	
+	Bank of New York Mellon Corp/The 3.4 05/15/2024	
+	Bank of New York Mellon Corp/The 3.25 09/11/2024	
+	AmerisourceBergen Corp 3.4 05/15/2024	
+	American Honda Finance Corp 2.9 02/16/2024	
+	American Honda Finance Corp 2.4 06/27/2024	
+	Air Lease Corp 4.25 09/15/2024	
+	Canadian Natural Resources Ltd 3.8 04/15/2024	
+	CNH Industrial Capital LLC 4.2 01/15/2024	
+	Brixmor Operating Partnership LP 3.65 06/15/2024	
+	Brown & Brown Inc 4.2 09/15/2024	
+	Burlington Northern Santa Fe LLC 3.75 04/01/2024	
+	Colgate-Palmolive Co 3.25 03/15/2024	
+	DR Horton Inc 2.5 10/15/2024	
+	John Deere Capital Corp 3.35 06/12/2024	
+	Discover Financial Services 3.95 11/06/2024	
+	John Deere Capital Corp 0.9 01/10/2024	
+	Edison International 3.55 11/15/2024	
+	Estee Lauder Cos Inc/The 2 12/01/2024	
+	United Parcel Service Inc 2.8 11/15/2024	
+	Unilever Capital Corp 3.25 03/07/2024	
+	Unilever Capital Corp 0.63 08/12/2024	
+	John Deere Capital Corp 0.62 09/10/2024	
+	Cigna Corp 0.61 03/15/2024	
+	American International Group Inc 4.12 02/15/2024	
+	American Tower Corp 0.6 01/15/2024	
+	Toronto-Dominion Bank/The 1.25 12/13/2024	
+	TD SYNNEX Corp 1.25 08/09/2024	
+	Quanta Services Inc 0.95 10/01/2024	
+	National Bank of Canada 0.75 08/06/2024	
+	National Rural Utilities Cooperative Finance Corp 0.35 02/08/2024	
+	Global Payments Inc 1.5 11/15/2024	
+	FS KKR Capital Corp 1.65 10/12/2024	
+	ConocoPhillips Co 3.35 11/15/2024	
+	Credit Suisse AG/New York NY 4.75 08/09/2024	
+	Intel Corp 2.7 06/17/2024	
+	Cash/Receivables/Payables 0	

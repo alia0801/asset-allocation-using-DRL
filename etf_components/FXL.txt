@@ -1,0 +1,105 @@
+FXL
+ON	ON Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=FXL
+JBL	Jabil Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=FXL
+GLW	Corning Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=FXL
+VRT	Vertiv Holdings Co (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=VRT.US&back=FXL
+SWKS	Skyworks Solutions,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=FXL
+CRUS	Cirrus Logic,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRUS.US&back=FXL
+HPE	Hewlett Packard Enterprise Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=FXL
+MU	Micron Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=FXL
+AVT	Avnet,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVT.US&back=FXL
+META	Meta Platforms Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=FXL
+KBR	KBR,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KBR.US&back=FXL
+IPGP	IPG Photonics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IPGP.US&back=FXL
+QRVO	Qorvo,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=FXL
+WDC	Western Digital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=FXL
+ARW	Arrow Electronics,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=FXL
+CTSH	Cognizant Technology Solutions Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=FXL
+CNXC	Concentrix Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=FXL
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=FXL
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=FXL
+APH	Amphenol Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=APH.US&back=FXL
+EPAM	EPAM Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPAM.US&back=FXL
+SNPS	Synopsys,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=FXL
+PSTG	Pure Storage,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=PSTG.US&back=FXL
+PANW	Palo Alto Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=FXL
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=FXL
+AMD	Advanced Micro Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=FXL
+CDW	CDW Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=FXL
+KLAC	KLA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=FXL
+DXC	DXC Technology Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=FXL
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=FXL
+SNX	TD SYNNEX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SNX.US&back=FXL
+QCOM	QUALCOMM Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=FXL
+ADI	Analog Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=FXL
+DOX	Amdocs Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=FXL
+CACI	CACI International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=FXL
+AKAM	Akamai Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=FXL
+GOOGL	Alphabet Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=FXL
+SSNC	SS&C Technologies Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SSNC.US&back=FXL
+TER	Teradyne,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=FXL
+IT	Gartner,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IT.US&back=FXL
+MPWR	Monolithic Power Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=FXL
+	II-VI Incorporated	
+CDNS	Cadence Design Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CDNS.US&back=FXL
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=FXL
+MCHP	Microchip Technology Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=FXL
+FTNT	Fortinet,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FTNT.US&back=FXL
+GDDY	GoDaddy Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GDDY.US&back=FXL
+PTC	PTC Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PTC.US&back=FXL
+DELL	Dell Technologies Inc. (Class C)	/etf/ea/ETZCW.djhtm?c=1&etfid=DELL.US&back=FXL
+DLB	Dolby Laboratories,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLB.US&back=FXL
+FFIV	F5 Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFIV.US&back=FXL
+NLOK	NortonLifeLock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=FXL
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=FXL
+DBX	Dropbox,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=FXL
+NCR	NCR Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NCR.US&back=FXL
+SAIC	Science Applications International Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SAIC.US&back=FXL
+LDOS	Leidos Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LDOS.US&back=FXL
+GFS	GLOBALFOUNDRIES Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GFS.US&back=FXL
+DNB	Dun & Bradstreet Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DNB.US&back=FXL
+NOW	ServiceNow,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=FXL
+CLVT	Clarivate Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLVT.US&back=FXL
+NATI	National Instruments Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NATI.US&back=FXL
+PINS	Pinterest,Inc (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=PINS.US&back=FXL
+PAYC	Paycom Software,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=FXL
+MANH	Manhattan Associates,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MANH.US&back=FXL
+GLOB	Globant S.A.	/etf/ea/ETZCW.djhtm?c=1&etfid=GLOB.US&back=FXL
+ZM	Zoom Video Communications,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=FXL
+DV	DoubleVerify Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DV.US&back=FXL
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=FXL
+LSCC	Lattice Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=FXL
+NTAP	NetApp,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=FXL
+VRSN	VeriSign,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=FXL
+DDOG	Datadog,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=FXL
+CRWD	CrowdStrike Holdings,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=FXL
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=FXL
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=FXL
+ANSS	ANSYS,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=FXL
+LRCX	Lam Research Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=FXL
+ROP	Roper Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=FXL
+DT	Dynatrace,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DT.US&back=FXL
+TDC	Teradata Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TDC.US&back=FXL
+IAC	IAC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IAC.US&back=FXL
+AYX	Alteryx,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=AYX.US&back=FXL
+ESTC	Elastic N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTC.US&back=FXL
+NEWR	New Relic,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWR.US&back=FXL
+ALGM	Allegro Microsystems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGM.US&back=FXL
+TYL	Tyler Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=FXL
+MRVL	Marvell Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=FXL
+KD	Kyndryl Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KD.US&back=FXL
+FIVN	Five9,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIVN.US&back=FXL
+INFA	Informatica Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=INFA.US&back=FXL
+AMAT	Applied Materials,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMAT.US&back=FXL
+ENTG	Entegris,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENTG.US&back=FXL
+SPLK	Splunk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=FXL
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=FXL
+JAMF	Jamf Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=JAMF.US&back=FXL
+CRM	Salesforce,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=FXL
+	US Dollar	
+PATH	UiPath,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=FXL
+DH	Definitive Healthcare Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DH.US&back=FXL
+MTCH	Match Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTCH.US&back=FXL
+TWLO	Twilio Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TWLO.US&back=FXL
+APP	Applovin Corp. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=APP.US&back=FXL
+AZTA	Azenta Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AZTA.US&back=FXL

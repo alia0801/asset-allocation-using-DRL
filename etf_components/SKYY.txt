@@ -1,0 +1,72 @@
+SKYY
+PSTG	Pure Storage,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=PSTG.US&back=SKYY
+ANET	Arista Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANET.US&back=SKYY
+MDB	MongoDB,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDB.US&back=SKYY
+AMZN	Amazon.com,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=SKYY
+ORCL	Oracle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCL.US&back=SKYY
+BABA	Alibaba Group Holding Limited (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=BABA.US&back=SKYY
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=SKYY
+GOOGL	Alphabet Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=SKYY
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=SKYY
+VMW	VMware,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VMW.US&back=SKYY
+DOCN	DigitalOcean Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCN.US&back=SKYY
+NET	Cloudflare,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=SKYY
+TEAM	Atlassian Corporation Plc (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TEAM.US&back=SKYY
+LUMN	Lumen Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=SKYY
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=SKYY
+CFLT	Confluent,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CFLT.US&back=SKYY
+AKAM	Akamai Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=SKYY
+HCP	Hashicorp,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=HCP.US&back=SKYY
+NTAP	NetApp,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=SKYY
+HUBS	HubSpot,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBS.US&back=SKYY
+CRM	Salesforce,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=SKYY
+RXT	Rackspace Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RXT.US&back=SKYY
+NOW	ServiceNow,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=SKYY
+WK	Workiva Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WK.US&back=SKYY
+ADBE	Adobe Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=SKYY
+SPLK	Splunk Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLK.US&back=SKYY
+MSTR	MicroStrategy Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MSTR.US&back=SKYY
+HPE	Hewlett Packard Enterprise Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=SKYY
+SHOP	Shopify Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SHOP.US&back=SKYY
+FSLY	Fastly,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLY.US&back=SKYY
+RNG	RingCentral,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=RNG.US&back=SKYY
+WIX	Wix.com Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=WIX.US&back=SKYY
+TWLO	Twilio Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TWLO.US&back=SKYY
+APPN	Appian Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=APPN.US&back=SKYY
+APP	Applovin Corp. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=APP.US&back=SKYY
+SAP	SAP SE (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=SAP.US&back=SKYY
+SNOW	Snowflake Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SNOW.US&back=SKYY
+PCTY	Paylocity Holding Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PCTY.US&back=SKYY
+ESTC	Elastic N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTC.US&back=SKYY
+PAYC	Paycom Software,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYC.US&back=SKYY
+TTD	The Trade Desk,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TTD.US&back=SKYY
+DOMO	Domo,Inc. (Class B)	/etf/ea/ETZCW.djhtm?c=1&etfid=DOMO.US&back=SKYY
+SPT	Sprout Social,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SPT.US&back=SKYY
+TOST	Toast,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TOST.US&back=SKYY
+VEEV	Veeva Systems Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=SKYY
+QLYS	Qualys,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QLYS.US&back=SKYY
+BASE	Couchbase,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BASE.US&back=SKYY
+CRWD	CrowdStrike Holdings,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=SKYY
+PANW	Palo Alto Networks,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PANW.US&back=SKYY
+DDOG	Datadog,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=SKYY
+AVLR	Avalara,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVLR.US&back=SKYY
+INTU	Intuit Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTU.US&back=SKYY
+WDAY	Workday,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=SKYY
+ZS	Zscaler,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZS.US&back=SKYY
+DBX	Dropbox,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=SKYY
+APPF	AppFolio,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=APPF.US&back=SKYY
+BOX	Box,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=BOX.US&back=SKYY
+EVBG	Everbridge,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVBG.US&back=SKYY
+SMAR	Smartsheet Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SMAR.US&back=SKYY
+BL	BlackLine,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BL.US&back=SKYY
+ASAN	Asana,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ASAN.US&back=SKYY
+XM	Qualtrics International Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=XM.US&back=SKYY
+COUP	Coupa Software Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=COUP.US&back=SKYY
+ZEN	Zendesk,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZEN.US&back=SKYY
+BLKB	Blackbaud,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLKB.US&back=SKYY
+OTEX	Open Text Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OTEX.US&back=SKYY
+ZUO	Zuora,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZUO.US&back=SKYY
+QTWO	Q2 Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QTWO.US&back=SKYY
+ZM	Zoom Video Communications,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=SKYY
+DOCU	DocuSign,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCU.US&back=SKYY
+	US Dollar	

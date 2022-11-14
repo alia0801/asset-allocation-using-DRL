@@ -1,0 +1,99 @@
+LVHD
+APD	AIR PRODUCTS & CHEMICALS	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=LVHD
+CMI	CUMMINS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=LVHD
+AEP	AMERICAN ELECTRIC POWER	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=LVHD
+D	DOMINION ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=LVHD
+GIS	GENERAL MILLS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=LVHD
+PEP	PEPSICO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=LVHD
+PM	PHILIP MORRIS INTERNATION	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=LVHD
+GILD	GILEAD SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=LVHD
+DUK	DUKE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=LVHD
+CL	COLGATE-PALMOLIVE CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CL.US&back=LVHD
+EXC	EXELON CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=LVHD
+KO	COCA-COLA CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=KO.US&back=LVHD
+LMT	LOCKHEED MARTIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=LVHD
+KMB	KIMBERLY-CLARK CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KMB.US&back=LVHD
+VICI	VICI PROPERTIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=LVHD
+C	CITIGROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=LVHD
+JNJ	JOHNSON & JOHNSON	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=LVHD
+MMM	3M CO	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=LVHD
+CSCO	CISCO SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=LVHD
+XEL	XCEL ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=LVHD
+PFE	PFIZER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PFE.US&back=LVHD
+T	AT&T INC	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=LVHD
+VZ	VERIZON COMMUNICATIONS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=LVHD
+K	KELLOGG CO	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=LVHD
+ED	CONSOLIDATED EDISON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=LVHD
+USB	US BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=LVHD
+ES	EVERSOURCE ENERGY	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=LVHD
+STX	SEAGATE TECHNOLOGY HOLDIN	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=LVHD
+WEC	WEC ENERGY GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=LVHD
+FAST	FASTENAL CO	/etf/ea/ETZCW.djhtm?c=1&etfid=FAST.US&back=LVHD
+CAG	CONAGRA BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=LVHD
+DTE	DTE ENERGY COMPANY	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=LVHD
+IP	INTERNATIONAL PAPER CO	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=LVHD
+SJM	JM SMUCKER CO/THE	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=LVHD
+OMC	OMNICOM GROUP	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=LVHD
+LNT	ALLIANT ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=LVHD
+CPB	CAMPBELL SOUP CO	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=LVHD
+FNF	FIDELITY NATIONAL FINANCI	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=LVHD
+IPG	INTERPUBLIC GROUP OF COS	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=LVHD
+MPW	MEDICAL PROPERTIES TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=LVHD
+EVRG	EVERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=LVHD
+WPC	WP CAREY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=LVHD
+KIM	KIMCO REALTY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=LVHD
+PKG	PACKAGING CORP OF AMERICA	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=LVHD
+UGI	UGI CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=UGI.US&back=LVHD
+CUBE	CUBESMART	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBE.US&back=LVHD
+NYCB	NEW YORK COMMUNITY BANCOR	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=LVHD
+STOR	STORE CAPITAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=STOR.US&back=LVHD
+ONB	OLD NATIONAL BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ONB.US&back=LVHD
+PCAR	PACCAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=LVHD
+GLPI	GAMING AND LEISURE PROPER	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=LVHD
+HR	HEALTHCARE REALTY TRUST I	/etf/ea/ETZCW.djhtm?c=1&etfid=HR.US&back=LVHD
+PNW	PINNACLE WEST CAPITAL	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=LVHD
+POR	PORTLAND GENERAL ELECTRIC	/etf/ea/ETZCW.djhtm?c=1&etfid=POR.US&back=LVHD
+ADC	AGREE REALTY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ADC.US&back=LVHD
+FAF	FIRST AMERICAN FINANCIAL	/etf/ea/ETZCW.djhtm?c=1&etfid=FAF.US&back=LVHD
+OGE	OGE ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=LVHD
+STAG	STAG INDUSTRIAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=STAG.US&back=LVHD
+DOC	PHYSICIANS REALTY TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=DOC.US&back=LVHD
+NNN	NATIONAL RETAIL PROPERTIE	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=LVHD
+AGR	AVANGRID INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=LVHD
+MSM	MSC INDUSTRIAL DIRECT CO-	/etf/ea/ETZCW.djhtm?c=1&etfid=MSM.US&back=LVHD
+SRC	SPIRIT REALTY CAPITAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=LVHD
+	STIT-TREASURY	
+FLO	FLOWERS FOODS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLO.US&back=LVHD
+DTM	DT MIDSTREAM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=LVHD
+ABBV	ABBVIE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=LVHD
+	Net Current Assets	
+UBSI	UNITED BANKSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UBSI.US&back=LVHD
+SR	SPIRE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SR.US&back=LVHD
+BKH	BLACK HILLS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BKH.US&back=LVHD
+HIW	HIGHWOODS PROPERTIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HIW.US&back=LVHD
+NWE	NORTHWESTERN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NWE.US&back=LVHD
+OFC	CORPORATE OFFICE PROPERTI	/etf/ea/ETZCW.djhtm?c=1&etfid=OFC.US&back=LVHD
+ALE	ALLETE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALE.US&back=LVHD
+AVA	AVISTA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AVA.US&back=LVHD
+CTRE	CARETRUST REIT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRE.US&back=LVHD
+NHI	NATL HEALTH INVESTORS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NHI.US&back=LVHD
+BOH	BANK OF HAWAII CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH.US&back=LVHD
+FHB	FIRST HAWAIIAN INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FHB.US&back=LVHD
+HE	HAWAIIAN ELECTRIC INDS	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=LVHD
+LXP	LXP INDUSTRIAL TRUST	/etf/ea/ETZCW.djhtm?c=1&etfid=LXP.US&back=LVHD
+NWBI	NORTHWEST BANCSHARES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NWBI.US&back=LVHD
+FCPT	FOUR CORNERS PROPERTY TRU	/etf/ea/ETZCW.djhtm?c=1&etfid=FCPT.US&back=LVHD
+DEA	EASTERLY GOVERNMENT PROPE	/etf/ea/ETZCW.djhtm?c=1&etfid=DEA.US&back=LVHD
+NWN	NORTHWEST NATURAL HOLDING	/etf/ea/ETZCW.djhtm?c=1&etfid=NWN.US&back=LVHD
+REYN	REYNOLDS CONSUMER PRODUCT	/etf/ea/ETZCW.djhtm?c=1&etfid=REYN.US&back=LVHD
+BNL	BROADSTONE NET LEASE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BNL.US&back=LVHD
+GTY	GETTY REALTY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GTY.US&back=LVHD
+PFS	PROVIDENT FINANCIAL SERVI	/etf/ea/ETZCW.djhtm?c=1&etfid=PFS.US&back=LVHD
+WSBC	WESBANCO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WSBC.US&back=LVHD
+ILPT	INDUSTRIAL LOGISTICS PROP	/etf/ea/ETZCW.djhtm?c=1&etfid=ILPT.US&back=LVHD
+FFBC	FIRST FINANCIAL BANCORP	/etf/ea/ETZCW.djhtm?c=1&etfid=FFBC.US&back=LVHD
+AHH	ARMADA HOFFLER PROPERTIES	/etf/ea/ETZCW.djhtm?c=1&etfid=AHH.US&back=LVHD
+CNS	COHEN & STEERS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CNS.US&back=LVHD
+UVV	UNIVERSAL CORP/VA	/etf/ea/ETZCW.djhtm?c=1&etfid=UVV.US&back=LVHD
+SAFT	SAFETY INSURANCE GROUP IN	/etf/ea/ETZCW.djhtm?c=1&etfid=SAFT.US&back=LVHD
+CNA	CNA FINANCIAL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CNA.US&back=LVHD

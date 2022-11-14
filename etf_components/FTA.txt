@@ -1,0 +1,189 @@
+FTA
+F	Ford Motor Company	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=FTA
+GM	General Motors Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=FTA
+URI	United Rentals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=URI.US&back=FTA
+CTRA	Coterra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=FTA
+SYF	Synchrony Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=FTA
+MOS	The Mosaic Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=FTA
+BEN	Franklin Resources,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=FTA
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=FTA
+LEN	Lennar Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=FTA
+BG	Bunge Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=FTA
+CVX	Chevron Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=FTA
+DHI	D.R. Horton,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=FTA
+SWKS	Skyworks Solutions,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=FTA
+TROW	T. Rowe Price Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=FTA
+FNF	Fidelity National Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=FTA
+BRK.B	Berkshire Hathaway Inc. (Class B)	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=FTA
+WY	Weyerhaeuser Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=FTA
+HPE	Hewlett Packard Enterprise Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=FTA
+MU	Micron Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=FTA
+AIG	American International Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG.US&back=FTA
+COF	Capital One Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=COF.US&back=FTA
+IP	International Paper Company	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=FTA
+PCG	PG&E Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=FTA
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=FTA
+ALLY	Ally Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=FTA
+MPC	Marathon Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=FTA
+LH	Laboratory Corporation of America Holdings	/etf/ea/ETZCW.djhtm?c=1&etfid=LH.US&back=FTA
+LYB	LyondellBasell Industries N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=FTA
+PARA	Paramount Global (Class B)	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=FTA
+QRVO	Qorvo,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=FTA
+CE	Celanese Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CE.US&back=FTA
+DGX	Quest Diagnostics Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=FTA
+WDC	Western Digital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WDC.US&back=FTA
+WBA	Walgreens Boots Alliance,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=FTA
+CMCSA	Comcast Corporation (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=FTA
+ADM	Archer-Daniels-Midland Company	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=FTA
+MGM	MGM Resorts International	/etf/ea/ETZCW.djhtm?c=1&etfid=MGM.US&back=FTA
+GS	The Goldman Sachs Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GS.US&back=FTA
+WFC	Wells Fargo & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=FTA
+STT	State Street Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=FTA
+TSN	Tyson Foods,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TSN.US&back=FTA
+GLW	Corning Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=GLW.US&back=FTA
+LKQ	LKQ Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=FTA
+BBY	Best Buy Co.,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=FTA
+AFL	Aflac Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=FTA
+CBRE	CBRE Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=FTA
+C	Citigroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=FTA
+CNP	CenterPoint Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNP.US&back=FTA
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=FTA
+PCAR	PACCAR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=FTA
+FOXA	Fox Corporation (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=FOXA.US&back=FTA
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=FTA
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=FTA
+KEY	KeyCorp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=FTA
+NVR	NVR,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=FTA
+CFG	Citizens Financial Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG.US&back=FTA
+CINF	Cincinnati Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CINF.US&back=FTA
+EMN	Eastman Chemical Company	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=FTA
+MET	MetLife,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=FTA
+DD	DuPont de Nemours Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=FTA
+ACGL	Arch Capital Group Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGL.US&back=FTA
+PRU	Prudential Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=FTA
+PKG	Packaging Corporation of America	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=FTA
+BK	The Bank of New York Mellon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BK.US&back=FTA
+HIG	The Hartford Financial Services Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=FTA
+CB	Chubb Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=CB.US&back=FTA
+TRV	The Travelers Companies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRV.US&back=FTA
+ALL	The Allstate Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=FTA
+L	Loews Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=FTA
+MKL	Markel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=FTA
+VTRS	Viatris Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VTRS.US&back=FTA
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=FTA
+SWK	Stanley Black & Decker,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=FTA
+TGT	Target Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TGT.US&back=FTA
+CTVA	Corteva Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=FTA
+CMI	Cummins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=FTA
+GPN	Global Payments Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=FTA
+HBAN	Huntington Bancshares Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=FTA
+MS	Morgan Stanley	/etf/ea/ETZCW.djhtm?c=1&etfid=MS.US&back=FTA
+TEL	TE Connectivity Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=TEL.US&back=FTA
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=FTA
+VLO	Valero Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=FTA
+SJM	The J.M. Smucker Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SJM.US&back=FTA
+PSX	Phillips 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=FTA
+CARR	Carrier Global Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=FTA
+CI	Cigna Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=FTA
+BAC	Bank of America Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC.US&back=FTA
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=FTA
+CVS	CVS Health Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVS.US&back=FTA
+CSCO	Cisco Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=FTA
+EVRG	Evergy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=FTA
+AEP	American Electric Power Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=FTA
+ETR	Entergy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=FTA
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=FTA
+ED	Consolidated Edison,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=FTA
+KR	The Kroger Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=FTA
+TXT	Textron Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TXT.US&back=FTA
+IPG	The Interpublic Group of Companies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=FTA
+JPM	JPMorgan Chase & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM.US&back=FTA
+PNC	The PNC Financial Services Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNC.US&back=FTA
+NOC	Northrop Grumman Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=FTA
+DUK	Duke Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=FTA
+ATO	Atmos Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=FTA
+CMS	CMS Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=FTA
+CAG	Conagra Brands,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=FTA
+USB	U.S. Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=FTA
+TFC	Truist Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=FTA
+EXC	Exelon Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=FTA
+MMM	3M Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=FTA
+CTSH	Cognizant Technology Solutions Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CTSH.US&back=FTA
+VFC	V.F. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=FTA
+GRMN	Garmin Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=FTA
+ROST	Ross Stores,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROST.US&back=FTA
+FISV	Fiserv,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=FTA
+PFG	Principal Financial Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=FTA
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=FTA
+KMI	Kinder Morgan,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=FTA
+DRI	Darden Restaurants,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DRI.US&back=FTA
+ETN	Eaton Corporation Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ETN.US&back=FTA
+ULTA	Ulta Beauty,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ULTA.US&back=FTA
+WAB	Wabtec Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WAB.US&back=FTA
+SLB	Schlumberger Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=SLB.US&back=FTA
+XEL	Xcel Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=FTA
+ES	Eversource Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=FTA
+APD	Air Products and Chemicals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=APD.US&back=FTA
+NSC	Norfolk Southern Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NSC.US&back=FTA
+OMC	Omnicom Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=FTA
+PPL	PPL Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=FTA
+LNT	Alliant Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LNT.US&back=FTA
+K	Kellogg Company	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=FTA
+GD	General Dynamics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=FTA
+GILD	Gilead Sciences,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=FTA
+AEE	Ameren Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=FTA
+CAT	Caterpillar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=FTA
+EMR	Emerson Electric Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=FTA
+FE	FirstEnergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=FTA
+	US Dollar	
+FIS	Fidelity National Information Services,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=FTA
+ELV	Elevance Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ELV.US&back=FTA
+GIS	General Mills,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=FTA
+KMX	CarMax,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMX.US&back=FTA
+MDT	Medtronic Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=FTA
+MRK	Merck & Co.,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=FTA
+HAL	Halliburton Company	/etf/ea/ETZCW.djhtm?c=1&etfid=HAL.US&back=FTA
+BIIB	Biogen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=FTA
+WRB	W.R. Berkley Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=FTA
+TFX	Teleflex Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=FTA
+INCY	Incyte Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INCY.US&back=FTA
+DELL	Dell Technologies Inc. (Class C)	/etf/ea/ETZCW.djhtm?c=1&etfid=DELL.US&back=FTA
+NEM	Newmont Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=FTA
+RJF	Raymond James Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RJF.US&back=FTA
+FTV	Fortive Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FTV.US&back=FTA
+GPC	Genuine Parts Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=FTA
+TT	Trane Technologies Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=TT.US&back=FTA
+VMC	Vulcan Materials Company	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=FTA
+VICI	VICI Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=FTA
+TJX	The TJX Companies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TJX.US&back=FTA
+NTAP	NetApp,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NTAP.US&back=FTA
+MTB	M&T Bank Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=FTA
+AXP	American Express Company	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=FTA
+AME	AMETEK,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AME.US&back=FTA
+ADI	Analog Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=FTA
+CNC	Centene Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNC.US&back=FTA
+PH	Parker-Hannifin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=FTA
+HRL	Hormel Foods Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HRL.US&back=FTA
+TMUS	T-Mobile US,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=FTA
+TRMB	Trimble Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=FTA
+WMT	Walmart,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMT.US&back=FTA
+WPC	W.P. Carey Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=FTA
+WEC	WEC Energy Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=FTA
+TDY	Teledyne Technologies Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=FTA
+HUM	Humana Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=FTA
+KHC	The Kraft Heinz Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=FTA
+NLOK	NortonLifeLock Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLOK.US&back=FTA
+MDLZ	Mondelez International,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=FTA
+LUV	Southwest Airlines Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUV.US&back=FTA
+LMT	Lockheed Martin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=FTA
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=FTA
+DTE	DTE Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=FTA
+D	Dominion Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=FTA
+FLT	FLEETCOR Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=FTA
+FMC	FMC Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=FTA
+RTX	Raytheon Technologies Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=FTA
+LHX	L3Harris Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=FTA
+IFF	International Flavors & Fragrances Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IFF.US&back=FTA
+JNJ	Johnson & Johnson	/etf/ea/ETZCW.djhtm?c=1&etfid=JNJ.US&back=FTA
+DLTR	Dollar Tree,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=FTA
+BALL	Ball Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BALL.US&back=FTA

@@ -1,0 +1,103 @@
+CZA
+IBKR	Interactive Brokers Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IBKR.US&back=CZA
+GWW	WW Grainger Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GWW.US&back=CZA
+FITB	Fifth Third Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=FITB.US&back=CZA
+VMC	Vulcan Materials Co	/etf/ea/ETZCW.djhtm?c=1&etfid=VMC.US&back=CZA
+DTE	DTE Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=CZA
+ZBH	Zimmer Biomet Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=CZA
+FTV	Fortive Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FTV.US&back=CZA
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=CZA
+HIG	Hartford Financial Services Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG.US&back=CZA
+CDW	CDW Corp/DE	/etf/ea/ETZCW.djhtm?c=1&etfid=CDW.US&back=CZA
+GPC	Genuine Parts Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GPC.US&back=CZA
+AEE	Ameren Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=CZA
+ETR	Entergy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=CZA
+CAH	Cardinal Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=CZA
+PBA	Pembina Pipeline Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PBA.US&back=CZA
+WRB	W R Berkley Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WRB.US&back=CZA
+ACGL	Arch Capital Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGL.US&back=CZA
+DOV	Dover Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DOV.US&back=CZA
+CMS	CMS Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=CZA
+AGR	Avangrid Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AGR.US&back=CZA
+VTR	Ventas Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=CZA
+HOLX	Hologic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HOLX.US&back=CZA
+ESS	Essex Property Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=CZA
+TDY	Teledyne Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=CZA
+GRMN	Garmin Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=GRMN.US&back=CZA
+WAB	Westinghouse Air Brake Technologies Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WAB.US&back=CZA
+IEX	IDEX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=CZA
+CSL	Carlisle Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=CZA
+ICLR	ICON PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ICLR.US&back=CZA
+AES	AES Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=CZA
+ZTO	ZTO Express Cayman Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ZTO.US&back=CZA
+FLT	FleetCor Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=CZA
+J	Jacobs Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=J.US&back=CZA
+TRMB	Trimble Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=CZA
+FMC	FMC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FMC.US&back=CZA
+EVRG	Evergy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=CZA
+SWKS	Skyworks Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=CZA
+AVY	Avery Dennison Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AVY.US&back=CZA
+CPT	Camden Property Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=CZA
+NDSN	Nordson Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NDSN.US&back=CZA
+BAH	Booz Allen Hamilton Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=CZA
+ELS	Equity LifeStyle Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ELS.US&back=CZA
+HUBB	Hubbell Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBB.US&back=CZA
+PKG	Packaging Corp of America	/etf/ea/ETZCW.djhtm?c=1&etfid=PKG.US&back=CZA
+RKT	Rocket Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RKT.US&back=CZA
+GLPI	Gaming and Leisure Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=CZA
+AER	AerCap Holdings NV	/etf/ea/ETZCW.djhtm?c=1&etfid=AER.US&back=CZA
+LW	Lamb Weston Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LW.US&back=CZA
+RPM	RPM International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RPM.US&back=CZA
+RE	Everest Re Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=RE.US&back=CZA
+DOX	Amdocs Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=DOX.US&back=CZA
+GGG	Graco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GGG.US&back=CZA
+CNA	CNA Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNA.US&back=CZA
+EWBC	East West Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EWBC.US&back=CZA
+TFX	Teleflex Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TFX.US&back=CZA
+RRX	Regal Rexnord Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RRX.US&back=CZA
+LSI	Life Storage Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=CZA
+EMN	Eastman Chemical Co	/etf/ea/ETZCW.djhtm?c=1&etfid=EMN.US&back=CZA
+JBL	Jabil Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JBL.US&back=CZA
+G	Genpact Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=G.US&back=CZA
+AIZ	Assurant Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AIZ.US&back=CZA
+AGCO	AGCO Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AGCO.US&back=CZA
+TFII	TFI International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TFII.US&back=CZA
+FLEX	Flex Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=FLEX.US&back=CZA
+SNX	TD SYNNEX Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SNX.US&back=CZA
+LECO	Lincoln Electric Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LECO.US&back=CZA
+WAL	Western Alliance Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=WAL.US&back=CZA
+OGE	OGE Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=CZA
+FBHS	Fortune Brands Home & Security Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=CZA
+CHE	Chemed Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CHE.US&back=CZA
+SEE	Sealed Air Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SEE.US&back=CZA
+LU	Lufax Holding Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=LU.US&back=CZA
+IVZ	Invesco Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=IVZ.US&back=CZA
+CACI	CACI International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CACI.US&back=CZA
+BERY	Berry Global Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BERY.US&back=CZA
+DCI	Donaldson Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DCI.US&back=CZA
+LEVI	Levi Strauss & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=LEVI.US&back=CZA
+CNXC	Concentrix Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXC.US&back=CZA
+CNM	Core & Main Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CNM.US&back=CZA
+MDU	MDU Resources Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDU.US&back=CZA
+PPC	Pilgrim's Pride Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PPC.US&back=CZA
+CSAN	Cosan SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CSAN.US&back=CZA
+WTFC	Wintrust Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WTFC.US&back=CZA
+CR	Crane Holdings Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CR.US&back=CZA
+LFUS	Littelfuse Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LFUS.US&back=CZA
+IDA	IDACORP Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IDA.US&back=CZA
+SIGI	Selective Insurance Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SIGI.US&back=CZA
+THG	Hanover Insurance Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=THG.US&back=CZA
+SWX	Southwest Gas Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWX.US&back=CZA
+DRVN	Driven Brands Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DRVN.US&back=CZA
+AMG	Affiliated Managers Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMG.US&back=CZA
+AXS	Axis Capital Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AXS.US&back=CZA
+WTS	Watts Water Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WTS.US&back=CZA
+SRCL	Stericycle Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRCL.US&back=CZA
+PINC	Premier Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PINC.US&back=CZA
+HE	Hawaiian Electric Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HE.US&back=CZA
+ESNT	Essent Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=ESNT.US&back=CZA
+SNDR	Schneider National Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNDR.US&back=CZA
+FLS	Flowserve Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FLS.US&back=CZA
+AVNT	Avient Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AVNT.US&back=CZA
+	Invesco Government & Agency Portfolio	
+	Cash/Receivables/Payables	

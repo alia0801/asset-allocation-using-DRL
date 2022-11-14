@@ -1,0 +1,82 @@
+PSR
+SBAC	SBA Communications Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=PSR
+CCI	Crown Castle Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=PSR
+AMT	American Tower Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=PSR
+EQIX	Equinix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=PSR
+DLR	Digital Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=PSR
+LSI	Life Storage Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LSI.US&back=PSR
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PSR
+EXR	Extra Space Storage Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=PSR
+CUBE	CubeSmart	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBE.US&back=PSR
+NSA	National Storage Affiliates Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=NSA.US&back=PSR
+STAG	STAG Industrial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STAG.US&back=PSR
+EGP	EastGroup Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EGP.US&back=PSR
+TRNO	Terreno Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TRNO.US&back=PSR
+FR	First Industrial Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FR.US&back=PSR
+COLD	Americold Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COLD.US&back=PSR
+REXR	Rexford Industrial Realty Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=REXR.US&back=PSR
+PLD	Prologis Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=PSR
+AIRC	Apartment Income REIT Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AIRC.US&back=PSR
+MAA	Mid-America Apartment Communities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MAA.US&back=PSR
+ESS	Essex Property Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=PSR
+UDR	UDR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UDR.US&back=PSR
+CPT	Camden Property Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=PSR
+AMH	American Homes 4 Rent	/etf/ea/ETZCW.djhtm?c=1&etfid=AMH.US&back=PSR
+EQR	Equity Residential	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=PSR
+AVB	AvalonBay Communities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=PSR
+UMH	UMH Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UMH.US&back=PSR
+INVH	Invitation Homes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INVH.US&back=PSR
+WRE	Washington Real Estate Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=WRE.US&back=PSR
+ELS	Equity LifeStyle Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ELS.US&back=PSR
+GLPI	Gaming and Leisure Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=PSR
+IRT	Independence Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IRT.US&back=PSR
+SUI	Sun Communities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SUI.US&back=PSR
+VICI	VICI Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=PSR
+LAMR	Lamar Advertising Co	/etf/ea/ETZCW.djhtm?c=1&etfid=LAMR.US&back=PSR
+DOC	Physicians Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=DOC.US&back=PSR
+NHI	National Health Investors Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NHI.US&back=PSR
+CTRE	CareTrust REIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRE.US&back=PSR
+STOR	STORE Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=STOR.US&back=PSR
+HR	Healthcare Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HR.US&back=PSR
+OUT	Outfront Media Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OUT.US&back=PSR
+WELL	Welltower Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=PSR
+PEAK	Healthpeak Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=PSR
+PCH	PotlatchDeltic Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCH.US&back=PSR
+VTR	Ventas Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=PSR
+WY	Weyerhaeuser Co	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=PSR
+RYN	Rayonier Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RYN.US&back=PSR
+FCPT	Four Corners Property Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FCPT.US&back=PSR
+ADC	Agree Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ADC.US&back=PSR
+REG	Regency Centers Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=REG.US&back=PSR
+NNN	National Retail Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=PSR
+NTST	NETSTREIT Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=NTST.US&back=PSR
+FRT	Federal Realty Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT.US&back=PSR
+SPG	Simon Property Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=PSR
+O	Realty Income Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=PSR
+KIM	Kimco Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=PSR
+EPRT	Essential Properties Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EPRT.US&back=PSR
+SRC	Spirit Realty Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=PSR
+ROIC	Retail Opportunity Investments Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ROIC.US&back=PSR
+BRX	Brixmor Property Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRX.US&back=PSR
+SITC	SITE Centers Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SITC.US&back=PSR
+AKR	Acadia Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=AKR.US&back=PSR
+ARE	Alexandria Real Estate Equities Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARE.US&back=PSR
+OFC	Corporate Office Properties Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=OFC.US&back=PSR
+BXP	Boston Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BXP.US&back=PSR
+VNO	Vornado Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=PSR
+ONL	Orion Office REIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ONL.US&back=PSR
+CUZ	Cousins Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CUZ.US&back=PSR
+DEI	Douglas Emmett Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DEI.US&back=PSR
+KRC	Kilroy Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KRC.US&back=PSR
+JBGS	JBG SMITH Properties	/etf/ea/ETZCW.djhtm?c=1&etfid=JBGS.US&back=PSR
+VRE	Veris Residential Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRE.US&back=PSR
+WPC	WP Carey Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=PSR
+APLE	Apple Hospitality REIT Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=APLE.US&back=PSR
+HST	Host Hotels & Resorts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HST.US&back=PSR
+RHP	Ryman Hospitality Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RHP.US&back=PSR
+SHO	Sunstone Hotel Investors Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SHO.US&back=PSR
+INN	Summit Hotel Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=INN.US&back=PSR
+DRH	DiamondRock Hospitality Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DRH.US&back=PSR
+RLJ	RLJ Lodging Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=RLJ.US&back=PSR
+PEB	Pebblebrook Hotel Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PEB.US&back=PSR
+	Invesco Government & Agency Portfolio	

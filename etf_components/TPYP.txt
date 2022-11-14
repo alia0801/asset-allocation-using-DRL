@@ -1,0 +1,52 @@
+TPYP
+LNG	CHENIERE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=TPYP
+ENB	ENBRIDGE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=TPYP
+KMI	KINDER MORGAN INC DEL	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=TPYP
+WMB	WILLIAMS COS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=TPYP
+TRP	TC ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRP.US&back=TPYP
+EPD	ENTERPRISE PRODS PARTNERS L P COM	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=TPYP
+ET	ENERGY TRANSFER L P	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=TPYP
+TRGP	TARGA RES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=TRGP.US&back=TPYP
+	PEMBINA PIPELINE CORP	
+ATO	ATMOS ENERGY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=TPYP
+OKE	ONEOK INC NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=TPYP
+NI	NISOURCE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=TPYP
+NFG	NATIONAL FUEL GAS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NFG.US&back=TPYP
+	ALTAGAS LTD	
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=TPYP
+	KEYERA CORP COM	
+SWX	SOUTHWEST GAS HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWX.US&back=TPYP
+MMP	MAGELLAN MIDSTREAM PRTNRS LP COM UNIT RP LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=TPYP
+SJI	SOUTH JERSEY INDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SJI.US&back=TPYP
+OGS	ONE GAS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=OGS.US&back=TPYP
+NJR	NEW JERSEY RES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NJR.US&back=TPYP
+SR	SPIRE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SR.US&back=TPYP
+ETRN	EQUITRANS MIDSTREAM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=ETRN.US&back=TPYP
+AM	ANTERO MIDSTREAM CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AM.US&back=TPYP
+	GIBSON ENERGY INC	
+ENLC	ENLINK MIDSTREAM LLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENLC.US&back=TPYP
+DTM	DT MIDSTREAM INC	/etf/ea/ETZCW.djhtm?c=1&etfid=DTM.US&back=TPYP
+NFE	NEW FORTRESS ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NFE.US&back=TPYP
+CPK	CHESAPEAKE UTILS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CPK.US&back=TPYP
+WES	WESTERN MIDSTREAM PARTNERS LP COM UNIT LP INT	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=TPYP
+PAA	PLAINS ALL AMERN PIPELINE L P UNIT LTD PARTN	/etf/ea/ETZCW.djhtm?c=1&etfid=PAA.US&back=TPYP
+NWN	NORTHWEST NAT HLDG CO	/etf/ea/ETZCW.djhtm?c=1&etfid=NWN.US&back=TPYP
+DCP	DCP MIDSTREAM LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP.US&back=TPYP
+CEQP	CRESTWOOD EQUITY PARTNERS LP UNIT LTD PARTNER	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=TPYP
+PAGP	PLAINS GP HLDGS L P	/etf/ea/ETZCW.djhtm?c=1&etfid=PAGP.US&back=TPYP
+SUN	SUNOCO LP/SUNOCO FIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=SUN.US&back=TPYP
+AROC	ARCHROCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AROC.US&back=TPYP
+CQP	CHENIERE ENERGY PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CQP.US&back=TPYP
+SHLX	SHELL MIDSTREAM PARTNERS L P UNIT LTD INT	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLX.US&back=TPYP
+KNTK	KINETIK HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KNTK.US&back=TPYP
+NS	NUSTAR ENERGY LP	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=TPYP
+HESM	HESS MIDSTREAM LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=TPYP
+	Cash & Other	
+GEL	GENESIS ENERGY L P	/etf/ea/ETZCW.djhtm?c=1&etfid=GEL.US&back=TPYP
+USAC	USA COMPRESSION PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=USAC.US&back=TPYP
+HEP	HOLLY ENERGY PARTNERS L P	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=TPYP
+GLP	GLOBAL PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=GLP.US&back=TPYP
+DKL	DELEK LOGISTICS PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DKL.US&back=TPYP
+PBFX	PBF LOGISTICS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=PBFX.US&back=TPYP
+EE	EXCELERATE ENERGY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EE.US&back=TPYP
+CAPL	CROSSAMERICA PARTNERS LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CAPL.US&back=TPYP

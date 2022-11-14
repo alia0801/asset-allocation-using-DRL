@@ -1,0 +1,11 @@
+JHMM
+OXY	Occidental Petroleum Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=JHMM
+ON	ON Semiconductor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=JHMM
+NUE	Nucor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=JHMM
+RSG	Republic Services,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=JHMM
+PH	Parker-Hannifin Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PH.US&back=JHMM
+DLTR	Dollar Tree,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DLTR.US&back=JHMM
+KEYS	Keysight Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KEYS.US&back=JHMM
+MTB	M&T Bank Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB.US&back=JHMM
+AJG	Arthur J Gallagher & Company	/etf/ea/ETZCW.djhtm?c=1&etfid=AJG.US&back=JHMM
+ENPH	Enphase Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=JHMM

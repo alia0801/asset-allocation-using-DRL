@@ -1,0 +1,33 @@
+ARKW
+TSLA	TESLA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=ARKW
+ROKU	ROKU INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ROKU.US&back=ARKW
+ZM	ZOOM VIDEO COMMUNICATIONS-A	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=ARKW
+SQ	BLOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=ARKW
+COIN	COINBASE GLOBAL INC -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=ARKW
+	GRAYSCALE BITCOIN TRUST BTC	
+DKNG	DRAFTKINGS INC-CL A	/etf/ea/ETZCW.djhtm?c=1&etfid=DKNG.US&back=ARKW
+SHOP	SHOPIFY INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SHOP.US&back=ARKW
+TWLO	TWILIO INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=TWLO.US&back=ARKW
+RBLX	ROBLOX CORP -CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=ARKW
+TDOC	TELADOC HEALTH INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=ARKW
+PATH	UIPATH INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=ARKW
+U	UNITY SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=U.US&back=ARKW
+PD	PAGERDUTY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PD.US&back=ARKW
+SPOT	SPOTIFY TECHNOLOGY SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SPOT.US&back=ARKW
+HOOD	ROBINHOOD MARKETS INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=HOOD.US&back=ARKW
+VUZI	VUZIX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VUZI.US&back=ARKW
+MELI	MERCADOLIBRE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MELI.US&back=ARKW
+MNDY	MONDAY.COM LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=MNDY.US&back=ARKW
+GENI	GENIUS SPORTS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=GENI.US&back=ARKW
+NET	CLOUDFLARE INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=NET.US&back=ARKW
+VCYT	VERACYTE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VCYT.US&back=ARKW
+	ADYEN NV-UNSPON ADR	
+NNDM	NANO DIMENSION LTD - ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NNDM.US&back=ARKW
+CRWD	CROWDSTRIKE HOLDINGS INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=ARKW
+KIND	NEXTDOOR HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=KIND.US&back=ARKW
+NVDA	NVIDIA CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=ARKW
+SE	SEA LTD-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SE.US&back=ARKW
+EDR	ENDEAVOR GROUP HOLD-CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=EDR.US&back=ARKW
+TWOU	2U INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TWOU.US&back=ARKW
+NU	NU HOLDINGS LTD/CAYMAN ISL-A	/etf/ea/ETZCW.djhtm?c=1&etfid=NU.US&back=ARKW
+	DREYFUS GOVT CASH MAN INS	

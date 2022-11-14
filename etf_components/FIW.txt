@@ -1,0 +1,38 @@
+FIW
+IEX	IDEX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=FIW
+WTRG	Essential Utilities,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=FIW
+XYL	Xylem Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XYL.US&back=FIW
+WMS	Advanced Drainage Systems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMS.US&back=FIW
+ACM	AECOM	/etf/ea/ETZCW.djhtm?c=1&etfid=ACM.US&back=FIW
+AWK	American Water Works Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=FIW
+DHR	Danaher Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DHR.US&back=FIW
+A	Agilent Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=A.US&back=FIW
+VMI	Valmont Industries,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VMI.US&back=FIW
+ECL	Ecolab Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=FIW
+ROP	Roper Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ROP.US&back=FIW
+SBS	Companhia de Saneamento Basico do Estado de Sao Paulo-SABESP (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=SBS.US&back=FIW
+AQN	Algonquin Power & Utilities Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AQN.US&back=FIW
+TTEK	Tetra Tech,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TTEK.US&back=FIW
+AOS	A.O. Smith Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AOS.US&back=FIW
+STN	Stantec Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STN.US&back=FIW
+PNR	Pentair Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=PNR.US&back=FIW
+IDXX	IDEXX Laboratories,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IDXX.US&back=FIW
+ZWS	Zurn Elkay Water Solutions Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZWS.US&back=FIW
+AQUA	Evoqua Water Technologies Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AQUA.US&back=FIW
+MLI	Mueller Industries,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MLI.US&back=FIW
+CNM	Core & Main,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CNM.US&back=FIW
+CWT	California Water Service Group	/etf/ea/ETZCW.djhtm?c=1&etfid=CWT.US&back=FIW
+FELE	Franklin Electric Co.,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FELE.US&back=FIW
+FLS	Flowserve Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FLS.US&back=FIW
+ITRI	Itron,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ITRI.US&back=FIW
+AWR	American States Water Company	/etf/ea/ETZCW.djhtm?c=1&etfid=AWR.US&back=FIW
+WTS	Watts Water Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WTS.US&back=FIW
+BMI	Badger Meter,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMI.US&back=FIW
+PRMW	Primo Water Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRMW.US&back=FIW
+LNN	Lindsay Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LNN.US&back=FIW
+ERII	Energy Recovery,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ERII.US&back=FIW
+SJW	SJW Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SJW.US&back=FIW
+MEG	Montrose Environmental Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MEG.US&back=FIW
+MSEX	Middlesex Water Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MSEX.US&back=FIW
+MWA	Mueller Water Products,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MWA.US&back=FIW
+	US Dollar	

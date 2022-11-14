@@ -1,0 +1,103 @@
+CARZ
+TSLA	Tesla,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=CARZ
+AAPL	Apple Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAPL.US&back=CARZ
+TSM	Taiwan Semiconductor Manufacturing Company Ltd. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=TSM.US&back=CARZ
+005930.KS&back=CARZ	Samsung Electronics Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=005930.KS&back=CARZ
+QCOM	QUALCOMM Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=CARZ
+MSFT	Microsoft Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=CARZ
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=CARZ
+GOOGL	Alphabet Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=CARZ
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=CARZ
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=CARZ
+AMD	Advanced Micro Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=CARZ
+7203.JP&back=CARZ	Toyota Motor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=7203.JP&back=CARZ
+1211.HK&back=CARZ	BYD Company Limited (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=1211.HK&back=CARZ
+ADI	Analog Devices,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=CARZ
+	Schneider Electric SE	
+MU	Micron Technology,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=CARZ
+F	Ford Motor Company	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=CARZ
+GM	General Motors Company	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=CARZ
+	Mercedes-Benz Group AG	
+NXPI	NXP Semiconductors N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=CARZ
+WOLF	Wolfspeed,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WOLF.US&back=CARZ
+	Pilbara Minerals Limited	
+BIDU	Baidu,Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=BIDU.US&back=CARZ
+MRVL	Marvell Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=CARZ
+7267.JP&back=CARZ	Honda Motor Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7267.JP&back=CARZ
+LTHM	Livent Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LTHM.US&back=CARZ
+PLUG	Plug Power Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PLUG.US&back=CARZ
+INDI	Indie Semiconductor,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=INDI.US&back=CARZ
+MCHP	Microchip Technology Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=CARZ
+LAZR	Luminar Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LAZR.US&back=CARZ
+	Allkem Limited	
+ALB	Albemarle Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ALB.US&back=CARZ
+ON	ON Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=CARZ
+	Lithium Americas Corp	
+	Infineon Technologies AG	
+2333.HK&back=CARZ	Great Wall Motor Company Limited (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=2333.HK&back=CARZ
+RMBS	Rambus Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RMBS.US&back=CARZ
+PTRA	Proterra,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PTRA.US&back=CARZ
+	Volvo AB (Class B)	
+CHPT	ChargePoint Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHPT.US&back=CARZ
+BLNK	Blink Charging Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BLNK.US&back=CARZ
+PCAR	PACCAR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PCAR.US&back=CARZ
+051910.KS&back=CARZ	LG Chem Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=051910.KS&back=CARZ
+ALGM	Allegro Microsystems,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGM.US&back=CARZ
+CMI	Cummins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=CARZ
+	STMicroelectronics NV	
+NIO	NIO Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=NIO.US&back=CARZ
+SQM	Sociedad Quimica y Minera de Chile S.A. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=SQM.US&back=CARZ
+	Stellantis N.V.	
+	Alfen Beheer BV	
+7201.JP&back=CARZ	Nissan Motor Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=7201.JP&back=CARZ
+012330.KS&back=CARZ	Hyundai Mobis Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=012330.KS&back=CARZ
+005380.KS&back=CARZ	Hyundai Motor Company	/etf/ea/ETZCW.djhtm?c=1&etfid=005380.KS&back=CARZ
+6723.JP&back=CARZ	Renesas Electronics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6723.JP&back=CARZ
+BWA	BorgWarner Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BWA.US&back=CARZ
+MXL	MaxLinear,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MXL.US&back=CARZ
+LEA	Lear Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LEA.US&back=CARZ
+CRUS	Cirrus Logic,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRUS.US&back=CARZ
+006400.KS&back=CARZ	Samsung SDI Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=006400.KS&back=CARZ
+7270.JP&back=CARZ	Subaru Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=7270.JP&back=CARZ
+6902.JP&back=CARZ	DENSO Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6902.JP&back=CARZ
+XPER	Xperi Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XPER.US&back=CARZ
+TTM	Tata Motors Limited (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=TTM.US&back=CARZ
+	Wacker Chemie AG	
+RIVN	Rivian Automotive,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=RIVN.US&back=CARZ
+000270.KS&back=CARZ	Kia Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=000270.KS&back=CARZ
+1772.HK&back=CARZ	Ganfeng Lithium Co.,Ltd. (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=1772.HK&back=CARZ
+	Nickel Industries Limited	
+MVST	Microvast Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MVST.US&back=CARZ
+	Magna International Inc	
+020150.KS&back=CARZ	Iljin Materials Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=020150.KS&back=CARZ
+ALV	Autoliv,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALV.US&back=CARZ
+RACE	Ferrari N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=RACE.US&back=CARZ
+SWKS	Skyworks Solutions,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=CARZ
+	Solvay SA	
+APTV	Aptiv Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=APTV.US&back=CARZ
+	Bayerische Motoren Werke (BMW) AG	
+AMBA	Ambarella,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMBA.US&back=CARZ
+	ANSYS,Inc.	
+361610.KS&back=CARZ	SK IE Technology Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=361610.KS&back=CARZ
+7259.JP&back=CARZ	Aisin Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=7259.JP&back=CARZ
+6752.JP&back=CARZ	Panasonic Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=6752.JP&back=CARZ
+SLAB	Silicon Laboratories Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLAB.US&back=CARZ
+SYNA	Synaptics Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNA.US&back=CARZ
+1585.HK&back=CARZ	Yadea Group Holdings Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=1585.HK&back=CARZ
+108320.KS&back=CARZ	LX Semicon Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=108320.KS&back=CARZ
+GNTX	Gentex Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GNTX.US&back=CARZ
+HIMX	Himax Technologies,Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=HIMX.US&back=CARZ
+LI	Li Auto Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=LI.US&back=CARZ
+	ams AG	
+247540.KS&back=CARZ	Ecopro BM Co.,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=247540.KS&back=CARZ
+0175.HK&back=CARZ	Geely Automobile Holdings Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=0175.HK&back=CARZ
+QRVO	Qorvo,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=CARZ
+TSP	TuSimple Holdings Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TSP.US&back=CARZ
+	Continental AG	
+2238.HK&back=CARZ	Guangzhou Automobile Group Co.,Ltd. (Class H)	/etf/ea/ETZCW.djhtm?c=1&etfid=2238.HK&back=CARZ
+LCID	Lucid Group,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=LCID.US&back=CARZ
+CRNC	Cerence Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRNC.US&back=CARZ
+SITM	Sitime Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SITM.US&back=CARZ
+XPEV	XPeng Inc. (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=XPEV.US&back=CARZ
+	US Dollar	
+YNDX	Yandex N.V. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=YNDX.US&back=CARZ

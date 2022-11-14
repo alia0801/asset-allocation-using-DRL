@@ -1,0 +1,125 @@
+PFXF
+AVGO	Broadcom Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=PFXF
+NEE	Nextera Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=PFXF
+NEE	Nextera Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=PFXF
+PCG	Pg&E Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCG.US&back=PFXF
+BDX	Becton Dickinson And Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BDX.US&back=PFXF
+MT	Arcelormittal Sa	/etf/ea/ETZCW.djhtm?c=1&etfid=MT.US&back=PFXF
+T	At&T Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=PFXF
+DTE	Dte Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=PFXF
+T	At&T Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=PFXF
+ADPT	Aptiv Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADPT.US&back=PFXF
+BSX	Boston Scientific Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BSX.US&back=PFXF
+AQN	Algonquin Power & Utilities Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AQN.US&back=PFXF
+AES	Aes Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=AES.US&back=PFXF
+T	At&T Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=PFXF
+DUK	Duke Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=PFXF
+NI	Nisource Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=PFXF
+AEP	American Electric Power Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=PFXF
+LUMN	Qwest Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=PFXF
+SO	Southern Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=PFXF
+T	At&T Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=PFXF
+F	Ford Motor Co	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=PFXF
+ET	Energy Transfer Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=PFXF
+GFL	Gfl Environmental Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GFL.US&back=PFXF
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=PFXF
+QRTEA	Qurate Retail Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=QRTEA.US&back=PFXF
+F	Ford Motor Co	/etf/ea/ETZCW.djhtm?c=1&etfid=F.US&back=PFXF
+CLVT	Clarivate Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=CLVT.US&back=PFXF
+NLY	Annaly Capital Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=PFXF
+CEQP	Crestwood Equity Partners Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=PFXF
+NEE	Nextera Energy Capital Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=PFXF
+LUMN	Qwest Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=PFXF
+CMS	Cms Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=PFXF
+CHS	Chs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHS.US&back=PFXF
+WCC	Wesco International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WCC.US&back=PFXF
+ENB	Enbridge Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENB.US&back=PFXF
+SO	Southern Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=PFXF
+CHS	Chs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHS.US&back=PFXF
+	Other/Cash	
+	Rbc Bearings Inc	
+TDS	Telephone And Data Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS.US&back=PFXF
+BPYPM	Brookfield Property Preferred Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=BPYPM.US&back=PFXF
+CHS	Chs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHS.US&back=PFXF
+NI	Nisource Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NI.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+DUK	Duke Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=PFXF
+AGNC	Agnc Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+SJI	South Jersey Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SJI.US&back=PFXF
+	United States Cellular Corp	
+CHS	Chs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHS.US&back=PFXF
+SO	Southern Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=PFXF
+SWK	Stanley Black & Decker Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SWK.US&back=PFXF
+NLY	Annaly Capital Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=PFXF
+RITM	Rithm Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=PFXF
+NS	Nustar Logistics Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=PFXF
+	United States Cellular Corp	
+	United States Cellular Corp	
+ET	Energy Transfer Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=PFXF
+ET	Energy Transfer Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=PFXF
+NLY	Annaly Capital Management Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=PFXF
+PARA	Paramount Global	/etf/ea/ETZCW.djhtm?c=1&etfid=PARA.US&back=PFXF
+CHS	Chs Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHS.US&back=PFXF
+DTE	Dte Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=PFXF
+EAI	Entergy Arkansas Llc	/etf/ea/ETZCW.djhtm?c=1&etfid=EAI.US&back=PFXF
+	Qvc Inc	
+SCE-G	Sce Trust Vi	/etf/ea/ETZCW.djhtm?c=1&etfid=SCE-G.US&back=PFXF
+TDS	Telephone And Data Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDS.US&back=PFXF
+AGNC	Agnc Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=PFXF
+AQN	Algonquin Power & Utilities Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AQN.US&back=PFXF
+PBI	Pitney Bowes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PBI.US&back=PFXF
+RLJ	Rlj Lodging Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=RLJ.US&back=PFXF
+NS	Nustar Energy Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=PFXF
+HPP	Hudson Pacific Properties Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HPP.US&back=PFXF
+DLR	Digital Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=PFXF
+DBRG	Digitalbridge Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DBRG.US&back=PFXF
+AGNC	Agnc Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+SABR	Sabre Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SABR.US&back=PFXF
+RITM	Rithm Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=PFXF
+DBRG	Digitalbridge Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DBRG.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+KREF	Kkr Real Estate Finance Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KREF.US&back=PFXF
+AQN	Algonquin Power & Utilities Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AQN.US&back=PFXF
+CIM	Chimera Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CIM.US&back=PFXF
+CMS	Cms Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMS.US&back=PFXF
+ELAN	Elanco Animal Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ELAN.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+	Sce Trust V	
+VNO	Vornado Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=PFXF
+GPJA	Georgia Power Co	/etf/ea/ETZCW.djhtm?c=1&etfid=GPJA.US&back=PFXF
+KIM	Kimco Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=PFXF
+VNO	Vornado Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=PFXF
+	Sce Trust Iv	
+VNO	Vornado Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=PFXF
+TWO	Two Harbors Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TWO.US&back=PFXF
+NTR	Entergy Louisiana Llc	/etf/ea/ETZCW.djhtm?c=1&etfid=NTR.US&back=PFXF
+BEPH	Brookfield Brp Holdings Canada Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BEPH.US&back=PFXF
+BIP	Bip Bermuda Holdings I Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=BIP.US&back=PFXF
+	Alabama Power Co	
+EMP	Entergy Mississippi Llc	/etf/ea/ETZCW.djhtm?c=1&etfid=EMP.US&back=PFXF
+TWO	Two Harbors Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TWO.US&back=PFXF
+SR	Spire Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SR.US&back=PFXF
+RITM	Rithm Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=PFXF
+SCE-H	Sce Trust Iii	/etf/ea/ETZCW.djhtm?c=1&etfid=SCE-H.US&back=PFXF
+ABR	Arbor Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABR.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+	Ps Business Parks Inc	
+TVC	Tennessee Valley Authority	/etf/ea/ETZCW.djhtm?c=1&etfid=TVC.US&back=PFXF
+CIM	Chimera Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CIM.US&back=PFXF
+MFA	Mfa Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MFA.US&back=PFXF
+DHC	Diversified Healthcare Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=DHC.US&back=PFXF
+DTE	Dte Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=PFXF
+FBRT	Franklin Bsp Realty Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FBRT.US&back=PFXF
+VNO	Vornado Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+PEB	Pebblebrook Hotel Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PEB.US&back=PFXF
+BEPH	Brookfield Brp Holdings Canada Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BEPH.US&back=PFXF
+BIP	Brookfield Infrastructure Finance Ulc	/etf/ea/ETZCW.djhtm?c=1&etfid=BIP.US&back=PFXF
+PMT	Pennymac Mortgage Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=PMT.US&back=PFXF
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=PFXF
+DHC	Diversified Healthcare Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=DHC.US&back=PFXF
+NGL	Ngl Energy Partners Lp	/etf/ea/ETZCW.djhtm?c=1&etfid=NGL.US&back=PFXF

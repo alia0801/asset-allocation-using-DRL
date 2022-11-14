@@ -1,0 +1,64 @@
+XOP
+OXY	Occidental Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OXY.US&back=XOP
+DEN	Denbury Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DEN.US&back=XOP
+EQT	EQT Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=EQT.US&back=XOP
+CLR	Continental Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLR.US&back=XOP
+TPL	Texas Pacific Land Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TPL.US&back=XOP
+CRK	Comstock Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRK.US&back=XOP
+TELL	Tellurian Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TELL.US&back=XOP
+RRC	Range Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=XOP
+DVN	Devon Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=XOP
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=XOP
+HES	Hess Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=HES.US&back=XOP
+COP	ConocoPhillips	/etf/ea/ETZCW.djhtm?c=1&etfid=COP.US&back=XOP
+PXD	Pioneer Natural Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=XOP
+DINO	HF Sinclair Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=DINO.US&back=XOP
+MPC	Marathon Petroleum Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=XOP
+CRC	California Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CRC.US&back=XOP
+MTDR	Matador Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MTDR.US&back=XOP
+CVX	Chevron Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CVX.US&back=XOP
+CTRA	Coterra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRA.US&back=XOP
+OVV	Ovintiv Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=XOP
+	Centennial Resource Development Inc. Class A	
+AR	Antero Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=AR.US&back=XOP
+KOS	Kosmos Energy Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=KOS.US&back=XOP
+MUR	Murphy Oil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MUR.US&back=XOP
+GEVO	Gevo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GEVO.US&back=XOP
+SM	SM Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=XOP
+FANG	Diamondback Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=XOP
+GPRE	Green Plains Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GPRE.US&back=XOP
+PBF	PBF Energy Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=XOP
+MRO	Marathon Oil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=XOP
+EOG	EOG Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EOG.US&back=XOP
+PSX	Phillips 66	/etf/ea/ETZCW.djhtm?c=1&etfid=PSX.US&back=XOP
+VLO	Valero Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=XOP
+CIVI	Civitas Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=XOP
+MGY	Magnolia Oil & Gas Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=XOP
+SWN	Southwestern Energy Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SWN.US&back=XOP
+PDCE	PDC Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PDCE.US&back=XOP
+CHRD	Chord Energy Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=XOP
+APA	APA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=XOP
+CNX	CNX Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=XOP
+CPE	Callon Petroleum Company	/etf/ea/ETZCW.djhtm?c=1&etfid=CPE.US&back=XOP
+LPI	Laredo Petroleum Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LPI.US&back=XOP
+DK	Delek US Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DK.US&back=XOP
+NOG	Northern Oil and Gas Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NOG.US&back=XOP
+CLNE	Clean Energy Fuels Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CLNE.US&back=XOP
+TALO	Talos Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TALO.US&back=XOP
+VTNR	Vertex Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VTNR.US&back=XOP
+LFG	Archaea Energy Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=LFG.US&back=XOP
+WTI	W&T Offshore Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WTI.US&back=XOP
+CVI	CVR Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=XOP
+GPOR	Gulfport Energy Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GPOR.US&back=XOP
+INT	World Fuel Services Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INT.US&back=XOP
+MNRL	Brigham Minerals Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=MNRL.US&back=XOP
+ROCC	Ranger Oil Corporation Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ROCC.US&back=XOP
+ALTO	Alto Ingredients Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALTO.US&back=XOP
+ESTE	Earthstone Energy Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTE.US&back=XOP
+PARR	Par Pacific Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PARR.US&back=XOP
+EGY	VAALCO Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EGY.US&back=XOP
+CRGY	Crescent Energy Company Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=CRGY.US&back=XOP
+BRY	Berry Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BRY.US&back=XOP
+REX	REX American Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=REX.US&back=XOP
+	STATE STREET INSTITUTIONAL LIQ STATE STR	
+	U.S. Dollar	

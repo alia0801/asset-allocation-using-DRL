@@ -1,0 +1,18 @@
+AMLP
+ET	Energy Transfer LP	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=AMLP
+MMP	Magellan Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=AMLP
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=AMLP
+WES	Western Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=AMLP
+PAA	Plains All American Pipeline LP	/etf/ea/ETZCW.djhtm?c=1&etfid=PAA.US&back=AMLP
+EPD	Enterprise Products Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=AMLP
+DCP	DCP Midstream LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DCP.US&back=AMLP
+ENLC	EnLink Midstream LLC	/etf/ea/ETZCW.djhtm?c=1&etfid=ENLC.US&back=AMLP
+CQP	Cheniere Energy Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CQP.US&back=AMLP
+CEQP	Crestwood Equity Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=AMLP
+SHLX	Shell Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLX.US&back=AMLP
+NS	NuStar Energy LP	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=AMLP
+HESM	Hess Midstream LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=AMLP
+GEL	Genesis Energy LP	/etf/ea/ETZCW.djhtm?c=1&etfid=GEL.US&back=AMLP
+HEP	Holly Energy Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=AMLP
+DKL	Delek Logistics Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DKL.US&back=AMLP
+	Cash and Equivalents	

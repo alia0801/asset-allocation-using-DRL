@@ -1,0 +1,112 @@
+PGF
+JPM-C	JPMorgan Chase & Co 6	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-C.US&back=PGF
+JPM-D	JPMorgan Chase & Co 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-D.US&back=PGF
+WFC-Q	Wells Fargo & Co 5.85	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-Q.US&back=PGF
+C-K	Citigroup Inc 6.88	/etf/ea/ETZCW.djhtm?c=1&etfid=C-K.US&back=PGF
+WFC-Z	Wells Fargo & Co 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-Z.US&back=PGF
+JPM-M	JPMorgan Chase & Co 4.2	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-M.US&back=PGF
+JPM-L	JPMorgan Chase & Co 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-L.US&back=PGF
+BAC-B	Bank of America Corp 6	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-B.US&back=PGF
+BAC-M	Bank of America Corp 5.38 12/30/2049	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-M.US&back=PGF
+JPM-K	JPMorgan Chase & Co 4.55	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-K.US&back=PGF
+COF-I	Capital One Financial Corp 5	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-I.US&back=PGF
+BAC-N	Bank of America Corp 5	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-N.US&back=PGF
+MS-P	Morgan Stanley 6.5	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-P.US&back=PGF
+MS-I	Morgan Stanley 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-I.US&back=PGF
+GS-J	Goldman Sachs Group Inc/The 5.5	/etf/ea/ETZCW.djhtm?c=1&etfid=GS-J.US&back=PGF
+ALL-H	Allstate Corp/The 5.1	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL-H.US&back=PGF
+C-J	Citigroup Inc 7.12	/etf/ea/ETZCW.djhtm?c=1&etfid=C-J.US&back=PGF
+MS-K	Morgan Stanley 5.85	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-K.US&back=PGF
+MS-O	Morgan Stanley 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-O.US&back=PGF
+BAC-Q	Bank of America Corp 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-Q.US&back=PGF
+COF-J	Capital One Financial Corp 4.8	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-J.US&back=PGF
+MS-E	Morgan Stanley 7.12	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-E.US&back=PGF
+WFC-A	Wells Fargo & Co 4.7	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-A.US&back=PGF
+WFC-R	Wells Fargo & Co 6.62	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-R.US&back=PGF
+WFC-D	Wells Fargo & Co 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-D.US&back=PGF
+ATH-A	Athene Holding Ltd 6.35	/etf/ea/ETZCW.djhtm?c=1&etfid=ATH-A.US&back=PGF
+MS-F	Morgan Stanley 6.88	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-F.US&back=PGF
+BAC-O	Bank of America Corp 4.38	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-O.US&back=PGF
+MET-F	MetLife Inc 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=MET-F.US&back=PGF
+MET-E	MetLife Inc 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=MET-E.US&back=PGF
+BAC-K	Bank of America Corp 5.88	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-K.US&back=PGF
+JPM-J	JPMorgan Chase & Co 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=JPM-J.US&back=PGF
+STT-D	State Street Corp 5.9	/etf/ea/ETZCW.djhtm?c=1&etfid=STT-D.US&back=PGF
+SCHW-D	Charles Schwab Corp/The 5.95	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW-D.US&back=PGF
+TFC-R	Truist Financial Corp 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC-R.US&back=PGF
+WFC-C	Wells Fargo & Co 4.38	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-C.US&back=PGF
+GS-K	Goldman Sachs Group Inc/The 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=GS-K.US&back=PGF
+EQH-A	Equitable Holdings Inc 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH-A.US&back=PGF
+BAC-P	Bank of America Corp 4.12	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-P.US&back=PGF
+WFC-Y	Wells Fargo & Co 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC-Y.US&back=PGF
+ATH-A	Athene Holding Ltd 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=ATH-A.US&back=PGF
+FRC-N	First Republic Bank/CA 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-N.US&back=PGF
+USB-R	US Bancorp 4	/etf/ea/ETZCW.djhtm?c=1&etfid=USB-R.US&back=PGF
+SYF-A	Synchrony Financial 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF-A.US&back=PGF
+KEY-I	KeyCorp 6.12	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY-I.US&back=PGF
+ALL-G	Allstate Corp/The 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL-G.US&back=PGF
+BAC-S	Bank of America Corp 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=BAC-S.US&back=PGF
+FRC-L	First Republic Bank/CA 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-L.US&back=PGF
+TFC-O	Truist Financial Corp 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC-O.US&back=PGF
+SBNYP	Signature Bank/New York NY 5	/etf/ea/ETZCW.djhtm?c=1&etfid=SBNYP.US&back=PGF
+USB-P	US Bancorp 5.5	/etf/ea/ETZCW.djhtm?c=1&etfid=USB-P.US&back=PGF
+NYCB	New York Community Bancorp Inc 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=PGF
+RF	Regions Financial Corp 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=PGF
+FRC-M	First Republic Bank/CA 4	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-M.US&back=PGF
+STT-G	State Street Corp 5.35	/etf/ea/ETZCW.djhtm?c=1&etfid=STT-G.US&back=PGF
+KEY-L	KeyCorp 6.2	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY-L.US&back=PGF
+AIG-A	American International Group Inc 5.85	/etf/ea/ETZCW.djhtm?c=1&etfid=AIG-A.US&back=PGF
+BHFAN	Brighthouse Financial Inc 5.38	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAN.US&back=PGF
+AXS	Axis Capital Holdings Ltd 5.5	/etf/ea/ETZCW.djhtm?c=1&etfid=AXS.US&back=PGF
+FITBI	Fifth Third Bancorp 6.62	/etf/ea/ETZCW.djhtm?c=1&etfid=FITBI.US&back=PGF
+KEY-K	KeyCorp 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY-K.US&back=PGF
+RF-C	Regions Financial Corp 5.7	/etf/ea/ETZCW.djhtm?c=1&etfid=RF-C.US&back=PGF
+COF-L	Capital One Financial Corp 4.38	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-L.US&back=PGF
+ATH-D	Athene Holding Ltd 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=ATH-D.US&back=PGF
+SCHW-J	Charles Schwab Corp/The 4.45	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW-J.US&back=PGF
+KEY-J	KeyCorp 5.65	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY-J.US&back=PGF
+BHFAP	Brighthouse Financial Inc 6.6	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAP.US&back=PGF
+MS-L	Morgan Stanley 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=MS-L.US&back=PGF
+ACGLN	Arch Capital Group Ltd 4.55	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGLN.US&back=PGF
+BHFAO	Brighthouse Financial Inc 6.75	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAO.US&back=PGF
+AEL-A	American Equity Investment Life Holding Co 5.95	/etf/ea/ETZCW.djhtm?c=1&etfid=AEL-A.US&back=PGF
+ESGRP	Enstar Group Ltd 7	/etf/ea/ETZCW.djhtm?c=1&etfid=ESGRP.US&back=PGF
+RNR-G	RenaissanceRe Holdings Ltd 4.2	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR-G.US&back=PGF
+HBANP	Huntington Bancshares Inc/OH 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=HBANP.US&back=PGF
+USB-Q	US Bancorp 3.75	/etf/ea/ETZCW.djhtm?c=1&etfid=USB-Q.US&back=PGF
+CFG-E	Citizens Financial Group Inc 5	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG-E.US&back=PGF
+FRC-K	First Republic Bank/CA 4.12	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-K.US&back=PGF
+HIG-G	Hartford Financial Services Group Inc/The 6	/etf/ea/ETZCW.djhtm?c=1&etfid=HIG-G.US&back=PGF
+SNV-E	Synovus Financial Corp 5.88	/etf/ea/ETZCW.djhtm?c=1&etfid=SNV-E.US&back=PGF
+NTRSO	Northern Trust Corp 4.7	/etf/ea/ETZCW.djhtm?c=1&etfid=NTRSO.US&back=PGF
+SIVBP	SVB Financial Group 5.25	/etf/ea/ETZCW.djhtm?c=1&etfid=SIVBP.US&back=PGF
+ATH-B	Athene Holding Ltd 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=ATH-B.US&back=PGF
+USB-S	US Bancorp 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=USB-S.US&back=PGF
+CFG-D	Citizens Financial Group Inc 6.35	/etf/ea/ETZCW.djhtm?c=1&etfid=CFG-D.US&back=PGF
+FRC-J	First Republic Bank/CA 4.7	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-J.US&back=PGF
+FCNCP	First Citizens BancShares Inc/NC 5.38	/etf/ea/ETZCW.djhtm?c=1&etfid=FCNCP.US&back=PGF
+RF-E	Regions Financial Corp 4.45	/etf/ea/ETZCW.djhtm?c=1&etfid=RF-E.US&back=PGF
+COF-N	Capital One Financial Corp 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=COF-N.US&back=PGF
+VOYA-B	Voya Financial Inc 5.35	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA-B.US&back=PGF
+FRC-I	First Republic Bank/CA 5.5	/etf/ea/ETZCW.djhtm?c=1&etfid=FRC-I.US&back=PGF
+AAM-A	Apollo Asset Management Inc 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=AAM-A.US&back=PGF
+ACGLO	Arch Capital Group Ltd 5.45	/etf/ea/ETZCW.djhtm?c=1&etfid=ACGLO.US&back=PGF
+WAL-A	Western Alliance Bancorp 4.25	/etf/ea/ETZCW.djhtm?c=1&etfid=WAL-A.US&back=PGF
+AEL-B	American Equity Investment Life Holding Co 6.62	/etf/ea/ETZCW.djhtm?c=1&etfid=AEL-B.US&back=PGF
+TCBIO	Texas Capital Bancshares Inc 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=TCBIO.US&back=PGF
+OZKAP	Bank OZK 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=OZKAP.US&back=PGF
+MTB-H	M&T Bank Corp 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=MTB-H.US&back=PGF
+ALL-I	Allstate Corp/The 4.75	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL-I.US&back=PGF
+BHFAM	Brighthouse Financial Inc 4.62	/etf/ea/ETZCW.djhtm?c=1&etfid=BHFAM.US&back=PGF
+AHL-C	Aspen Insurance Holdings Ltd 5.95	/etf/ea/ETZCW.djhtm?c=1&etfid=AHL-C.US&back=PGF
+WAFDP	Washington Federal Inc 4.88	/etf/ea/ETZCW.djhtm?c=1&etfid=WAFDP.US&back=PGF
+AAM-B	Apollo Asset Management Inc 6.38	/etf/ea/ETZCW.djhtm?c=1&etfid=AAM-B.US&back=PGF
+AL-A	Air Lease Corp 6.15	/etf/ea/ETZCW.djhtm?c=1&etfid=AL-A.US&back=PGF
+AHL-D	Aspen Insurance Holdings Ltd 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=AHL-D.US&back=PGF
+AHL-E	Aspen Insurance Holdings Ltd 5.62	/etf/ea/ETZCW.djhtm?c=1&etfid=AHL-E.US&back=PGF
+FITBO	Fifth Third Bancorp 4.95	/etf/ea/ETZCW.djhtm?c=1&etfid=FITBO.US&back=PGF
+RNR	RenaissanceRe Holdings Ltd 5.75	/etf/ea/ETZCW.djhtm?c=1&etfid=RNR.US&back=PGF
+SF-D	Stifel Financial Corp 4.5	/etf/ea/ETZCW.djhtm?c=1&etfid=SF-D.US&back=PGF
+EQH	Equitable Holdings Inc 4.3	/etf/ea/ETZCW.djhtm?c=1&etfid=EQH.US&back=PGF
+	Invesco Government & Agency Portfolio	
+	Cash/Receivables/Payables 0	

@@ -1,0 +1,54 @@
+IPAY
+PYPL	PAYPAL HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=IPAY
+V	VISA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=V.US&back=IPAY
+AXP	AMERICAN EXPRESS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=AXP.US&back=IPAY
+MA	MASTERCARD INCORPORATED	/etf/ea/ETZCW.djhtm?c=1&etfid=MA.US&back=IPAY
+FISV	FISERV INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FISV.US&back=IPAY
+FIS	FIDELITY NATL INFORMATION SVCS COM	/etf/ea/ETZCW.djhtm?c=1&etfid=FIS.US&back=IPAY
+	ADYEN NV	
+SQ	BLOCK INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=IPAY
+GPN	GLOBAL PMTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GPN.US&back=IPAY
+DFS	DISCOVER FINL SVCS	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=IPAY
+FLT	FLEETCOR TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FLT.US&back=IPAY
+JKHY	HENRY JACK & ASSOC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=JKHY.US&back=IPAY
+	WORLDLINE	
+	WISE PLC	
+	NEXI SPA	
+EVOP	EVO PMTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVOP.US&back=IPAY
+	CIELO SA	
+3769.JP&back=IPAY	GMO PAYMENT GATEWA	/etf/ea/ETZCW.djhtm?c=1&etfid=3769.JP&back=IPAY
+FLYW	FLYWIRE CORPORATION	/etf/ea/ETZCW.djhtm?c=1&etfid=FLYW.US&back=IPAY
+PAYO	PAYONEER GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PAYO.US&back=IPAY
+WEX	WEX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WEX.US&back=IPAY
+DLO	DLOCAL LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=DLO.US&back=IPAY
+AFRM	AFFIRM HLDGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AFRM.US&back=IPAY
+PAGS	PAGSEGURO DIGITAL LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=PAGS.US&back=IPAY
+4847.JP&back=IPAY	INTELLIGENT WAVE	/etf/ea/ETZCW.djhtm?c=1&etfid=4847.JP&back=IPAY
+0327.HK&back=IPAY	PAX GLOBAL TECHNOL	/etf/ea/ETZCW.djhtm?c=1&etfid=0327.HK&back=IPAY
+WU	WESTERN UN CO	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=IPAY
+FOUR	SHIFT4 PMTS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FOUR.US&back=IPAY
+NCR	NCR CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=NCR.US&back=IPAY
+CTLP	CANTALOUPE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CTLP.US&back=IPAY
+4051.JP&back=IPAY	GMO FINANCIAL GATE	/etf/ea/ETZCW.djhtm?c=1&etfid=4051.JP&back=IPAY
+IMXI	INTERNATIONAL MNY EXPRESS INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=IMXI.US&back=IPAY
+	NETWORK INTL HLDGS	
+8584.JP&back=IPAY	JACCS CO LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=8584.JP&back=IPAY
+STNE	STONECO LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=STNE.US&back=IPAY
+MGI	MONEYGRAM INTL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MGI.US&back=IPAY
+	Cash & Other	
+	PAYPOINT	
+RELY	REMITLY GLOBAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RELY.US&back=IPAY
+ACIW	ACI WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACIW.US&back=IPAY
+EVTC	EVERTEC INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EVTC.US&back=IPAY
+EEFT	EURONET WORLDWIDE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=EEFT.US&back=IPAY
+IIIV	I3 VERTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IIIV.US&back=IPAY
+MQ	MARQETA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MQ.US&back=IPAY
+377300.KS&back=IPAY	KAKAOPAY CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=377300.KS&back=IPAY
+9923.HK&back=IPAY	YEAHKA LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=9923.HK&back=IPAY
+LSAK	LESAKA TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LSAK.US&back=IPAY
+	NUVEI CORP-SUBORDINATE VTG	
+	BOKU INC	
+BFH	BREAD FINANCIAL HOLDINGS INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=BFH.US&back=IPAY
+GDOT	GREEN DOT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GDOT.US&back=IPAY
+064260.KS&back=IPAY	DANAL CO LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=064260.KS&back=IPAY
+	EML PAYMENTS LTD	

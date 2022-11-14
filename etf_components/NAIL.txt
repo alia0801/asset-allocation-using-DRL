@@ -1,0 +1,58 @@
+NAIL
+	DOW JONES U.S. SELECT HOME BUILDERS INDEX SWAP	
+	DOW JONES U.S. SELECT HOME BUILDERS INDEX SWAP	
+	DOW JONES U.S. SELECT HOME BUILDERS INDEX SWAP	
+	DREYFUS GOVT CASH MGMT	
+	DOW JONES U.S. SELECT HOME BUILDERS INDEX SWAP	
+	GOLDMAN FINL SQ TRSRY INST 506	
+DHI	D R HORTON INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=DHI.US&back=NAIL
+LEN	Lennar Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LEN.US&back=NAIL
+NVR	NVR Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NVR.US&back=NAIL
+	GOLDMAN FINL SQ TRSRY INST 506	
+PHM	PulteGroup Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=NAIL
+	DREYFUS GOVT CASH MGMT	
+	GOLDMAN FS GOVT INST	
+LOW	Lowe's Cos.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOW.US&back=NAIL
+HD	HOME DEPOT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HD.US&back=NAIL
+SHW	Sherwin-Williams	/etf/ea/ETZCW.djhtm?c=1&etfid=SHW.US&back=NAIL
+BLD	TOPBUILD CORP USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=BLD.US&back=NAIL
+TOL	Toll Brothers	/etf/ea/ETZCW.djhtm?c=1&etfid=TOL.US&back=NAIL
+MAS	Masco Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=NAIL
+TMHC	TAYLOR MORRISON HOME CO USD 0.00001	/etf/ea/ETZCW.djhtm?c=1&etfid=TMHC.US&back=NAIL
+BLDR	Builders FirstSource	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDR.US&back=NAIL
+SKY	Skyline Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SKY.US&back=NAIL
+MTH	Meritage Homes Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTH.US&back=NAIL
+WSO	Watsco Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WSO.US&back=NAIL
+KBH	KB HOME	/etf/ea/ETZCW.djhtm?c=1&etfid=KBH.US&back=NAIL
+FND	Floor & Decor Holdings INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FND.US&back=NAIL
+FBHS	FORTUNE BRANDS HOME + SEC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=FBHS.US&back=NAIL
+OC	OWENS CORNING NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=OC.US&back=NAIL
+LII	Lennox International	/etf/ea/ETZCW.djhtm?c=1&etfid=LII.US&back=NAIL
+IBP	INSTALLED BLDG PRODS INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=IBP.US&back=NAIL
+CVCO	Cavco Industries	/etf/ea/ETZCW.djhtm?c=1&etfid=CVCO.US&back=NAIL
+LGIH	LGI HOMES INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=LGIH.US&back=NAIL
+TPH	TRI POINTE HOMES INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=TPH.US&back=NAIL
+MDC	M.D.C.  Hldgs	/etf/ea/ETZCW.djhtm?c=1&etfid=MDC.US&back=NAIL
+MHK	Mohawk Industries	/etf/ea/ETZCW.djhtm?c=1&etfid=MHK.US&back=NAIL
+	GOLDMAN FINL SQ TRSRY INS	
+TREX	Trex Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TREX.US&back=NAIL
+UFPI	UFP INDS INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=UFPI.US&back=NAIL
+LEG	Leggett & Platt	/etf/ea/ETZCW.djhtm?c=1&etfid=LEG.US&back=NAIL
+EXP	Eagle Materials Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXP.US&back=NAIL
+CCS	CENTURY CMNTYS INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=CCS.US&back=NAIL
+LPX	Louisiana Pacific	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=NAIL
+MHO	M/I Homes Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MHO.US&back=NAIL
+SSD	Simpson Manufacturing	/etf/ea/ETZCW.djhtm?c=1&etfid=SSD.US&back=NAIL
+GRBK	Green Brick Partners Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GRBK.US&back=NAIL
+	Lennar Corp	
+BECN	Beacon Roofing Supply Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BECN.US&back=NAIL
+AZEK	AZEK CO INC/THE NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=AZEK.US&back=NAIL
+DOOR	MASONITE INTL CORP NEW NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=DOOR.US&back=NAIL
+BZH	BEAZER HOMES USA INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=BZH.US&back=NAIL
+PGTI	PGT INC USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=PGTI.US&back=NAIL
+JELD	JELD-WEN Holding Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=JELD.US&back=NAIL
+AMWD	American Woodmark Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=AMWD.US&back=NAIL
+NX	QUANEX BLDG PRODS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NX.US&back=NAIL
+HAYW	Hayward Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HAYW.US&back=NAIL
+ETD	Ethan Allen Interiors	/etf/ea/ETZCW.djhtm?c=1&etfid=ETD.US&back=NAIL
+LL	LUMBER LIQUIDATORS HOLDINGS IN	/etf/ea/ETZCW.djhtm?c=1&etfid=LL.US&back=NAIL

@@ -1,0 +1,48 @@
+TAN
+ENPH	Enphase Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENPH.US&back=TAN
+FSLR	First Solar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=TAN
+SEDG	SolarEdge Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SEDG.US&back=TAN
+3800.HK&back=TAN	GCL Technology Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3800.HK&back=TAN
+0968.HK&back=TAN	Xinyi Solar Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0968.HK&back=TAN
+RUN	Sunrun Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RUN.US&back=TAN
+DQ	Daqo New Energy Corp ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=DQ.US&back=TAN
+SHLS	Shoals Technologies Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLS.US&back=TAN
+JKS	JinkoSolar Holding Co Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=JKS.US&back=TAN
+ARRY	Array Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ARRY.US&back=TAN
+	Encavis AG	
+009830.KS&back=TAN	Hanwha Solutions Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=009830.KS&back=TAN
+CSIQ	Canadian Solar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSIQ.US&back=TAN
+NOVA	Sunnova Energy International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NOVA.US&back=TAN
+AY	Atlantica Sustainable Infrastructure PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AY.US&back=TAN
+SPWR	SunPower Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SPWR.US&back=TAN
+HASI	Hannon Armstrong Sustainable Infrastructure Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HASI.US&back=TAN
+	Solaria Energia y Medio Ambiente SA	
+	Enlight Renewable Energy Ltd	
+3576.TW&back=TAN	United Renewable Energy Co Ltd/Taiwan	/etf/ea/ETZCW.djhtm?c=1&etfid=3576.TW&back=TAN
+6865.HK&back=TAN	Flat Glass Group Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=6865.HK&back=TAN
+	Meyer Burger Technology AG	
+	Neoen SA	
+	SMA Solar Technology AG	
+3868.HK&back=TAN	Xinyi Energy Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=3868.HK&back=TAN
+1407.JP&back=TAN	West Holdings Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=1407.JP&back=TAN
+	Energix-Renewable Energies Ltd	
+6443.TW&back=TAN	TSEC Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=6443.TW&back=TAN
+MAXN	Maxeon Solar Technologies Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=MAXN.US&back=TAN
+	OY Nofar Energy Ltd	
+9519.JP&back=TAN	RENOVA Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=9519.JP&back=TAN
+AMPS	Altus Power Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMPS.US&back=TAN
+	Scatec ASA	
+	Grenergy Renovables SA	
+6244.TW&back=TAN	Motech Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=6244.TW&back=TAN
+1108.HK&back=TAN	Luoyang Glass Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1108.HK&back=TAN
+SOL	ReneSola Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SOL.US&back=TAN
+1799.HK&back=TAN	Xinte Energy Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=1799.HK&back=TAN
+	Doral Group Renewable Energy Resources Ltd	
+	Invesco Government & Agency Portfolio	
+322000.KS&back=TAN	Hyundai Energy Solutions Co Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=322000.KS&back=TAN
+3691.TW&back=TAN	Gigasolar Materials Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=3691.TW&back=TAN
+HLGN	Heliogen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLGN.US&back=TAN
+SOL	Soltec Power Holdings SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SOL.US&back=TAN
+0451.HK&back=TAN	GCL New Energy Holdings Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=0451.HK&back=TAN
+	Cash/Receivables/Payables	
+	Cash/Receivables/Payables	

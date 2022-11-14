@@ -1,0 +1,102 @@
+SYLD
+MCK	McKesson Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MCK.US&back=SYLD
+VLO	Valero Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=SYLD
+MOS	Mosaic Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=MOS.US&back=SYLD
+STLD	Steel Dynamics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=SYLD
+NUE	Nucor Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NUE.US&back=SYLD
+CVI	CVR Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CVI.US&back=SYLD
+DDS	Dillard's Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DDS.US&back=SYLD
+CHRD	Chord Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHRD.US&back=SYLD
+PAG	Penske Automotive Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAG.US&back=SYLD
+LPX	Louisiana-Pacific Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LPX.US&back=SYLD
+TOL	Toll Brothers Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TOL.US&back=SYLD
+RYI	Ryerson Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RYI.US&back=SYLD
+AN	AutoNation Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AN.US&back=SYLD
+SFM	Sprouts Farmers Market Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SFM.US&back=SYLD
+CI	Cigna Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CI.US&back=SYLD
+PFG	Principal Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=SYLD
+RS	Reliance Steel & Aluminum Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=SYLD
+VRTV	Veritiv Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTV.US&back=SYLD
+RFP	Resolute Forest Products Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RFP.US&back=SYLD
+AMP	Ameriprise Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMP.US&back=SYLD
+CMA	Comerica Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMA.US&back=SYLD
+XOM	Exxon Mobil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=SYLD
+AGO	Assured Guaranty Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=AGO.US&back=SYLD
+FHI	Federated Hermes Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FHI.US&back=SYLD
+FANG	Diamondback Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FANG.US&back=SYLD
+AMR	Alpha Metallurgical Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMR.US&back=SYLD
+CATY	Cathay General Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=CATY.US&back=SYLD
+ALL	Allstate Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALL.US&back=SYLD
+BCC	Boise Cascade Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BCC.US&back=SYLD
+ZION	Zions Bancorp NA	/etf/ea/ETZCW.djhtm?c=1&etfid=ZION.US&back=SYLD
+MPC	Marathon Petroleum Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPC.US&back=SYLD
+AFL	Aflac Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AFL.US&back=SYLD
+CNX	CNX Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CNX.US&back=SYLD
+AMN	AMN Healthcare Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMN.US&back=SYLD
+DKS	Dick's Sporting Goods Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DKS.US&back=SYLD
+AAP	Advance Auto Parts Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AAP.US&back=SYLD
+AFG	American Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AFG.US&back=SYLD
+ATGE	Adtalem Global Education Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATGE.US&back=SYLD
+GEF	Greif Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GEF.US&back=SYLD
+PXD	Pioneer Natural Resources Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=SYLD
+CAL	Caleres Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAL.US&back=SYLD
+LOPE	Grand Canyon Education Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LOPE.US&back=SYLD
+SANM	Sanmina Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SANM.US&back=SYLD
+MET	MetLife Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MET.US&back=SYLD
+OXM	Oxford Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OXM.US&back=SYLD
+LKQ	LKQ Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LKQ.US&back=SYLD
+CF	CF Industries Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CF.US&back=SYLD
+HOPE	Hope Bancorp Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOPE.US&back=SYLD
+NWBI	Northwest Bancshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NWBI.US&back=SYLD
+RF	Regions Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RF.US&back=SYLD
+MRO	Marathon Oil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRO.US&back=SYLD
+L	Loews Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=L.US&back=SYLD
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=SYLD
+VOYA	Voya Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VOYA.US&back=SYLD
+HPQ	HP Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPQ.US&back=SYLD
+MATX	Matson Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MATX.US&back=SYLD
+CRC	California Resources Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRC.US&back=SYLD
+COOP	Mr Cooper Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=COOP.US&back=SYLD
+PHM	PulteGroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PHM.US&back=SYLD
+WHR	Whirlpool Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=SYLD
+HUN	Huntsman Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=HUN.US&back=SYLD
+APA	APA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=SYLD
+DFS	Discover Financial Services	/etf/ea/ETZCW.djhtm?c=1&etfid=DFS.US&back=SYLD
+FL	Foot Locker Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FL.US&back=SYLD
+ETD	Ethan Allen Interiors Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ETD.US&back=SYLD
+ECPG	Encore Capital Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ECPG.US&back=SYLD
+HTH	Hilltop Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HTH.US&back=SYLD
+OLN	Olin Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=OLN.US&back=SYLD
+DGX	Quest Diagnostics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DGX.US&back=SYLD
+SLM	SLM Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLM.US&back=SYLD
+HIBB	Hibbett Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HIBB.US&back=SYLD
+CR	Crane Holdings Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=CR.US&back=SYLD
+ARW	Arrow Electronics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ARW.US&back=SYLD
+TPR	Tapestry Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TPR.US&back=SYLD
+ODP	ODP Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ODP.US&back=SYLD
+LYB	LyondellBasell Industries NV	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=SYLD
+MAN	ManpowerGroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MAN.US&back=SYLD
+DD	DuPont de Nemours Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DD.US&back=SYLD
+DXC	DXC Technology Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=SYLD
+ALLY	Ally Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLY.US&back=SYLD
+	Cash Equivalent	
+M	Macy's Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=M.US&back=SYLD
+HVT	Haverty Furniture Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HVT.US&back=SYLD
+IP	International Paper Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=SYLD
+RGR	Sturm Ruger & Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RGR.US&back=SYLD
+ZUMZ	Zumiez Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ZUMZ.US&back=SYLD
+UHS	Universal Health Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UHS.US&back=SYLD
+TPH	Tri Pointe Homes Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TPH.US&back=SYLD
+BBBY	Bed Bath & Beyond Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBBY.US&back=SYLD
+MDRX	Allscripts Healthcare Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDRX.US&back=SYLD
+SWBI	Smith & Wesson Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWBI.US&back=SYLD
+BGFV	Big 5 Sporting Goods Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=BGFV.US&back=SYLD
+BIG	Big Lots Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BIG.US&back=SYLD
+LUMN	Lumen Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=SYLD
+WU	Western Union Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=SYLD
+LNC	Lincoln National Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNC.US&back=SYLD
+WOR	Worthington Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WOR.US&back=SYLD
+SYF	Synchrony Financial	/etf/ea/ETZCW.djhtm?c=1&etfid=SYF.US&back=SYLD
+CTRN	Citi Trends Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTRN.US&back=SYLD
+ANF	Abercrombie & Fitch Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=ANF.US&back=SYLD
+XRX	Xerox Holdings Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XRX.US&back=SYLD

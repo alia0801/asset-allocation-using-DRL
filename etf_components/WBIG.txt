@@ -1,0 +1,6 @@
+WBIG
+	Cash & Other	
+CAG	CONAGRA BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=WBIG
+DVN	DEVON ENERGY CORP NEW	/etf/ea/ETZCW.djhtm?c=1&etfid=DVN.US&back=WBIG
+XOM	EXXON MOBIL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=WBIG
+HUM	HUMANA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HUM.US&back=WBIG

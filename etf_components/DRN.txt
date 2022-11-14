@@ -1,0 +1,41 @@
+DRN
+	REAL ESTATE SELECT SECTOR INDEX SWAP	
+	REAL ESTATE SELECT SECTOR INDEX SWAP	
+	REAL ESTATE SELECT SECTOR INDEX SWAP	
+	DREYFUS GOVT CASH MGMT	
+	GOLDMAN FINL SQ TRSRY INST 506	
+	GOLDMAN FINL SQ TRSRY INST 506	
+AMT	AMERICAN T COM USD0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=AMT.US&back=DRN
+PLD	PROLOGIS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PLD.US&back=DRN
+CCI	CROWN CAST COM USD0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=CCI.US&back=DRN
+	DREYFUS GOVT CASH MGMT	
+EQIX	Equinix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EQIX.US&back=DRN
+PSA	Public Storage	/etf/ea/ETZCW.djhtm?c=1&etfid=PSA.US&back=DRN
+O	REALTY INCOME CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=O.US&back=DRN
+SBAC	SBA COMMUNICATIONS CORP NEW NPV Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SBAC.US&back=DRN
+DLR	Digital Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=DLR.US&back=DRN
+WELL	WELLTOWER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WELL.US&back=DRN
+SPG	Simon Property Group	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=DRN
+VICI	VICI PROPERTIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=DRN
+AVB	AvalonBay Communities	/etf/ea/ETZCW.djhtm?c=1&etfid=AVB.US&back=DRN
+EXR	Extra Space Storage Inc Com	/etf/ea/ETZCW.djhtm?c=1&etfid=EXR.US&back=DRN
+CBRE	CBRE GROUP INC NPV	/etf/ea/ETZCW.djhtm?c=1&etfid=CBRE.US&back=DRN
+WY	Weyerhaeuser Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=WY.US&back=DRN
+EQR	Equity Residential	/etf/ea/ETZCW.djhtm?c=1&etfid=EQR.US&back=DRN
+	Duke Realty Corp.	
+ARE	Alexandria RE Equities	/etf/ea/ETZCW.djhtm?c=1&etfid=ARE.US&back=DRN
+MAA	Mid-America Apt Communties	/etf/ea/ETZCW.djhtm?c=1&etfid=MAA.US&back=DRN
+VTR	VENTAS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VTR.US&back=DRN
+ESS	Essex Property Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=ESS.US&back=DRN
+IRM	IRON MTN INC NEW USD 0.01	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=DRN
+PEAK	HCP INC USD	/etf/ea/ETZCW.djhtm?c=1&etfid=PEAK.US&back=DRN
+CPT	Camden Property Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=CPT.US&back=DRN
+UDR	UDR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=UDR.US&back=DRN
+KIM	Kimco Realty	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=DRN
+HST	Host Hotels & Resorts Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HST.US&back=DRN
+	GOLDMAN FINL SQ TRSRY INS	
+BXP	Boston Properties	/etf/ea/ETZCW.djhtm?c=1&etfid=BXP.US&back=DRN
+REG	Regency Centers Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=REG.US&back=DRN
+FRT	Federal Realty Investment Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=FRT.US&back=DRN
+VNO	Vornado Realty Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=VNO.US&back=DRN
+	GOLDMAN FINL SQ TRSRY INST 506	

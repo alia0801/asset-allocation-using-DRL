@@ -1,0 +1,401 @@
+BSCP
+	Charter Communications Operating LLC / Charter Communication 4.91 07/23/2025	
+	Visa Inc 3.15 12/14/2025	
+	AbbVie Inc 3.6 05/14/2025	
+	Boeing Co/The 4.88 05/01/2025	
+	Goldman Sachs Group Inc/The 3.5 04/01/2025	
+	Oracle Corp 2.5 04/01/2025	
+	Morgan Stanley 4 07/23/2025	
+	Microsoft Corp 3.12 11/03/2025	
+	CVS Health Corp 3.88 07/20/2025	
+	Shell International Finance BV 3.25 05/11/2025	
+	Exxon Mobil Corp 2.99 03/19/2025	
+	HCA Inc 5.38 02/01/2025	
+	Hewlett Packard Enterprise Co 4.9 10/15/2025	
+	Citigroup Inc 4.4 06/10/2025	
+	Bank of America Corp 3.95 04/21/2025	
+	Reynolds American Inc 4.45 06/12/2025	
+	Bank of America Corp 4 01/22/2025	
+	Goldman Sachs Group Inc/The 3.5 01/23/2025	
+	JPMorgan Chase & Co 3.12 01/23/2025	
+	JPMorgan Chase & Co 3.9 07/15/2025	
+	Merck & Co Inc 2.75 02/10/2025	
+	Mitsubishi UFJ Financial Group Inc 2.19 02/25/2025	
+	Wells Fargo & Co 3 02/19/2025	
+	Wells Fargo & Co 3.55 09/29/2025	
+	Oracle Corp 2.95 05/15/2025	
+	Chevron Corp 1.55 05/11/2025	
+	Cigna Corp 4.12 11/15/2025	
+	Intel Corp 3.7 07/29/2025	
+	Goldman Sachs Group Inc/The 3.75 05/22/2025	
+	Microsoft Corp 2.7 02/12/2025	
+	American Express Co 3.95 08/01/2025	
+	Sumitomo Mitsui Financial Group Inc 1.47 07/08/2025	
+	Apple Inc 1.12 05/11/2025	
+	General Motors Co 6.12 10/01/2025	
+	Morgan Stanley 5 11/24/2025	
+	Sabine Pass Liquefaction LLC 5.62 03/01/2025	
+	UnitedHealth Group Inc 3.75 07/15/2025	
+	Goldman Sachs Group Inc/The 4.25 10/21/2025	
+	Apple Inc 3.2 05/13/2025	
+	AstraZeneca PLC 3.38 11/16/2025	
+	Credit Suisse AG/New York NY 3.7 02/21/2025	
+	Bank of America Corp 3.88 08/01/2025	
+	Bank of Nova Scotia/The 3.45 04/11/2025	
+	Biogen Inc 4.05 09/15/2025	
+	Celanese US Holdings LLC 6.05 03/15/2025	
+	Gilead Sciences Inc 3.5 02/01/2025	
+	Exxon Mobil Corp 2.71 03/06/2025	
+	Walt Disney Co/The 3.35 03/24/2025	
+	Novartis Capital Corp 3 11/20/2025	
+	American Express Co 2.25 03/04/2025	
+	Walmart Inc 3.9 09/09/2025	
+	Toronto-Dominion Bank/The 3.77 06/06/2025	
+	Southwest Airlines Co 5.25 05/04/2025	
+	Mitsubishi UFJ Financial Group Inc 1.41 07/17/2025	
+	Cheniere Corpus Christi Holdings LLC 5.88 03/31/2025	
+	Sprint Corp 7.62 02/15/2025	
+	Raytheon Technologies Corp 3.95 08/16/2025	
+	Vodafone Group PLC 4.12 05/30/2025	
+	Capital One Financial Corp 4.2 10/29/2025	
+	Amazon.com Inc 3 04/13/2025	
+	Intel Corp 3.4 03/25/2025	
+	Kinder Morgan Inc 4.3 06/01/2025	
+	Northrop Grumman Corp 2.93 01/15/2025	
+	Deutsche Bank AG 4.5 04/01/2025	
+	HSBC Holdings PLC 4.25 08/18/2025	
+	Apple Inc 2.75 01/13/2025	
+	Apple Inc 2.5 02/09/2025	
+	Citigroup Inc 5.5 09/13/2025	
+	Comcast Corp 3.38 08/15/2025	
+	Cooperatieve Rabobank UA 4.38 08/04/2025	
+	Citigroup Inc 3.3 04/27/2025	
+	Credit Suisse AG/New York NY 2.95 04/09/2025	
+	Target Corp 2.25 04/15/2025	
+	PepsiCo Inc 2.25 03/19/2025	
+	US Bancorp 1.45 05/12/2025	
+	Banco Santander SA 2.75 05/28/2025	
+	American International Group Inc 2.5 06/30/2025	
+	HCA Inc 5.25 04/15/2025	
+	Nomura Holdings Inc 1.85 07/16/2025	
+	QUALCOMM Inc 3.45 05/20/2025	
+	Royal Bank of Canada 3.38 04/14/2025	
+	Toyota Motor Credit Corp 1.8 02/13/2025	
+	Canadian Imperial Bank of Commerce 3.3 04/07/2025	
+	Canadian Imperial Bank of Commerce 3.94 08/04/2025	
+	AerCap Ireland Capital DAC / AerCap Global Aviation Trust 6.5 07/15/2025	
+	Bank of Montreal 3.7 06/07/2025	
+	Lloyds Banking Group PLC 4.58 12/10/2025	
+	Toyota Motor Credit Corp 3.95 06/30/2025	
+	Verizon Communications Inc 3.38 02/15/2025	
+	State Street Corp 3.55 08/18/2025	
+	Starbucks Corp 3.8 08/15/2025	
+	Otis Worldwide Corp 2.06 04/05/2025	
+	Verizon Communications Inc 0.85 11/20/2025	
+	Marathon Petroleum Corp 4.7 05/01/2025	
+	Welltower Inc 4 06/01/2025	
+	Bank of Montreal 1.5 01/10/2025	
+	Bank of Nova Scotia/The 1.45 01/10/2025	
+	Caterpillar Financial Services Corp 3.4 05/13/2025	
+	Berkshire Hathaway Energy Co 4.05 04/15/2025	
+	Truist Bank 3.62 09/16/2025	
+	Equinor ASA 2.88 04/06/2025	
+	MPLX LP 4.88 06/01/2025	
+	Toyota Motor Credit Corp 3 04/01/2025	
+	Sumitomo Mitsui Financial Group Inc 2.35 01/15/2025	
+	Truist Bank 1.5 03/10/2025	
+	KeyBank NA/Cleveland OH 4.15 08/08/2025	
+	Honeywell International Inc 1.35 06/01/2025	
+	Microchip Technology Inc 4.25 09/01/2025	
+	General Motors Financial Co Inc 2.9 02/26/2025	
+	General Motors Financial Co Inc 2.75 06/20/2025	
+	Bank of New York Mellon Corp/The 1.6 04/24/2025	
+	Banco Santander SA 3.5 03/24/2025	
+	Ares Capital Corp 3.25 07/15/2025	
+	Elevance Health Inc 2.38 01/15/2025	
+	Apple Inc 0.55 08/20/2025	
+	Amazon.com Inc 0.8 06/03/2025	
+	Enterprise Products Operating LLC 3.75 02/15/2025	
+	NiSource Inc 0.95 08/15/2025	
+	General Motors Financial Co Inc 3.8 04/07/2025	
+	Florida Power & Light Co 2.85 04/01/2025	
+	Toyota Motor Credit Corp 1.45 01/13/2025	
+	Santander Holdings USA Inc 4.5 07/17/2025	
+	Simon Property Group LP 3.5 09/01/2025	
+	American Honda Finance Corp 1.5 01/13/2025	
+	Ally Financial Inc 5.75 11/20/2025	
+	Dell International LLC / EMC Corp 5.85 07/15/2025	
+	John Deere Capital Corp 3.4 06/06/2025	
+	Columbia Pipeline Group Inc 4.5 06/01/2025	
+	Adobe Inc 3.25 02/01/2025	
+	Automatic Data Processing Inc 3.38 09/15/2025	
+	Truist Financial Corp 3.7 06/05/2025	
+	GlaxoSmithKline Capital Inc 3.62 05/15/2025	
+	General Motors Financial Co Inc 4.35 04/09/2025	
+	Energy Transfer LP 4.05 03/15/2025	
+	NextEra Energy Capital Holdings Inc 4.45 06/20/2025	
+	International Business Machines Corp 4 07/27/2025	
+	Plains All American Pipeline LP / PAA Finance Corp 4.65 10/15/2025	
+	United Parcel Service Inc 3.9 04/01/2025	
+	PNC Bank NA 3.25 06/01/2025	
+	PayPal Holdings Inc 1.65 06/01/2025	
+	PepsiCo Inc 2.75 04/30/2025	
+	Santander Holdings USA Inc 3.45 06/02/2025	
+	J M Smucker Co/The 3.5 03/15/2025	
+	Synchrony Financial 4.5 07/23/2025	
+	TotalEnergies Capital International SA 2.43 01/10/2025	
+	Lowe's Cos Inc 4.4 09/08/2025	
+	Laboratory Corp of America Holdings 3.6 02/01/2025	
+	NIKE Inc 2.4 03/27/2025	
+	Novartis Capital Corp 1.75 02/14/2025	
+	Dollar Tree Inc 4 05/15/2025	
+	Honda Motor Co Ltd 2.27 03/10/2025	
+	Home Depot Inc/The 3.35 09/15/2025	
+	General Motors Financial Co Inc 4 01/15/2025	
+	Amgen Inc 3.12 05/01/2025	
+	Abbott Laboratories 2.95 03/15/2025	
+	Comcast Corp 3.38 02/15/2025	
+	Citigroup Inc 3.88 03/26/2025	
+	Capital One Financial Corp 3.2 02/05/2025	
+	CVS Health Corp 4.1 03/25/2025	
+	Cooperatieve Rabobank UA/NY 1.38 01/10/2025	
+	Amazon.com Inc 5.2 12/03/2025	
+	Bank of New York Mellon Corp/The 3.35 04/25/2025	
+	Royalty Pharma PLC 1.2 09/02/2025	
+	Royal Bank of Canada 1.6 01/21/2025	
+	US Bank NA/Cincinnati OH 2.05 01/21/2025	
+	Toyota Motor Credit Corp 0.8 10/16/2025	
+	Verisk Analytics Inc 4 06/15/2025	
+	Walmart Inc 3.55 06/26/2025	
+	Procter & Gamble Co/The 0.55 10/29/2025	
+	Alphabet Inc 0.45 08/15/2025	
+	ConocoPhillips Co 2.4 03/07/2025	
+	Caterpillar Financial Services Corp 0.8 11/13/2025	
+	John Deere Capital Corp 3.45 03/13/2025	
+	Bristol-Myers Squibb Co 0.75 11/13/2025	
+	Constellation Energy Generation LLC 3.25 06/01/2025	
+	Fiserv Inc 3.85 06/01/2025	
+	Johnson & Johnson 0.55 09/01/2025	
+	GLP Capital LP / GLP Financing II Inc 5.25 06/01/2025	
+	Boston Properties LP 3.2 01/15/2025	
+	Campbell Soup Co 3.95 03/15/2025	
+	Precision Castparts Corp 3.25 06/15/2025	
+	Pacific Gas and Electric Co 3.45 07/01/2025	
+	Truist Financial Corp 4 05/01/2025	
+	Zimmer Biomet Holdings Inc 3.55 04/01/2025	
+	DCP Midstream Operating LP 5.38 07/15/2025	
+	Air Lease Corp 3.38 07/01/2025	
+	Baxalta Inc 4 06/23/2025	
+	General Mills Inc 4 04/17/2025	
+	Exelon Corp 3.95 06/15/2025	
+	Nomura Holdings Inc 5.1 07/03/2025	
+	Netflix Inc 5.88 02/15/2025	
+	Northern Trust Corp 3.95 10/30/2025	
+	Mead Johnson Nutrition Co 4.12 11/15/2025	
+	KeyBank NA/Cleveland OH 3.3 06/01/2025	
+	Lowe's Cos Inc 4 04/15/2025	
+	Fidelity National Information Services Inc 4.5 07/15/2025	
+	eBay Inc 1.9 03/11/2025	
+	General Dynamics Corp 3.5 05/15/2025	
+	Fifth Third Bank NA 3.95 07/28/2025	
+	General Motors Financial Co Inc 4.3 07/13/2025	
+	Ally Financial Inc 5.8 05/01/2025	
+	Chubb INA Holdings Inc 3.15 03/15/2025	
+	AerCap Ireland Capital DAC / AerCap Global Aviation Trust 3.5 01/15/2025	
+	John Deere Capital Corp 1.25 01/10/2025	
+	Capital One Financial Corp 4.25 04/30/2025	
+	Caterpillar Financial Services Corp 3.65 08/12/2025	
+	Zoetis Inc 4.5 11/13/2025	
+	Williams Cos Inc/The 3.9 01/15/2025	
+	VMware Inc 4.5 05/15/2025	
+	Toronto-Dominion Bank/The 1.45 01/10/2025	
+	Charles Schwab Corp/The 3.85 05/21/2025	
+	Sempra Energy 3.3 04/01/2025	
+	Stryker Corp 3.38 11/01/2025	
+	3M Co 2 02/14/2025	
+	Synchrony Financial 4.88 06/13/2025	
+	Sysco Corp 3.75 10/01/2025	
+	Regions Financial Corp 2.25 05/18/2025	
+	Ross Stores Inc 4.6 04/15/2025	
+	Philip Morris International Inc 3.38 08/11/2025	
+	VF Corp 2.4 04/23/2025	
+	Valero Energy Corp 2.85 04/15/2025	
+	Williams Cos Inc/The 4 09/15/2025	
+	Cigna Corp 3.25 04/15/2025	
+	CME Group Inc 3 03/15/2025	
+	John Deere Capital Corp 4.05 09/08/2025	
+	DTE Energy Co 1.05 06/01/2025	
+	Chevron Corp 3.33 11/17/2025	
+	Aon Global Ltd 3.88 12/15/2025	
+	Altria Group Inc 2.35 05/06/2025	
+	American Tower Corp 4 06/01/2025	
+	Bank of New York Mellon Corp/The 3 02/24/2025	
+	Avangrid Inc 3.2 04/15/2025	
+	General Dynamics Corp 3.25 04/01/2025	
+	Dominion Energy Inc 3.9 10/01/2025	
+	TWDC Enterprises 18 Corp 3.15 09/17/2025	
+	Fifth Third Bancorp 2.38 01/28/2025	
+	Entergy Corp 0.9 09/15/2025	
+	Lowe's Cos Inc 3.38 09/15/2025	
+	Mastercard Inc 2 03/03/2025	
+	Johnson & Johnson 2.62 01/15/2025	
+	McDonald's Corp 3.3 07/01/2025	
+	Mitsubishi UFJ Financial Group Inc 3.78 03/02/2025	
+	NetApp Inc 1.88 06/22/2025	
+	Mondelez International Inc 1.5 05/04/2025	
+	Moody's Corp 3.75 03/24/2025	
+	McDonald's Corp 3.38 05/26/2025	
+	Diageo Capital PLC 1.38 09/29/2025	
+	Eastman Chemical Co 3.8 03/15/2025	
+	Applied Materials Inc 3.9 10/01/2025	
+	Blackstone Private Credit Fund 4.7 03/24/2025	
+	American Tower Corp 2.4 03/15/2025	
+	American Honda Finance Corp 1.2 07/08/2025	
+	American Honda Finance Corp 1 09/10/2025	
+	Air Lease Corp 3.25 03/01/2025	
+	Air Lease Corp 2.3 02/01/2025	
+	Chevron USA Inc 0.69 08/12/2025	
+	Deere & Co 2.75 04/15/2025	
+	Brixmor Operating Partnership LP 3.85 02/01/2025	
+	Cenovus Energy Inc 5.38 07/15/2025	
+	Canadian Pacific Railway Co 2.9 02/01/2025	
+	Western Midstream Operating LP 3.35 02/01/2025	
+	Truist Financial Corp 1.2 08/05/2025	
+	Toyota Motor Credit Corp 3.65 08/18/2025	
+	Viatris Inc 1.65 06/22/2025	
+	Philip Morris International Inc 1.5 05/01/2025	
+	PepsiCo Inc 3.5 07/17/2025	
+	Pfizer Inc 0.8 05/28/2025	
+	Rogers Communications Inc 3.62 12/15/2025	
+	Citizens Bank NA/Providence RI 2.25 04/28/2025	
+	Texas Instruments Inc 1.38 03/12/2025	
+	Roper Technologies Inc 1 09/15/2025	
+	Phillips 66 3.85 04/09/2025	
+	Magna International Inc 4.15 10/01/2025	
+	International Business Machines Corp 7 10/30/2025	
+	Howmet Aerospace Inc 6.88 05/01/2025	
+	Marriott International Inc/MD 5.75 05/01/2025	
+	Humana Inc 4.5 04/01/2025	
+	Equinix Inc 1 09/15/2025	
+	Florida Power & Light Co 3.12 12/01/2025	
+	Fox Corp 3.05 04/07/2025	
+	L3Harris Technologies Inc 3.83 04/27/2025	
+	Canadian Natural Resources Ltd 3.9 02/01/2025	
+	CSX Corp 3.35 11/01/2025	
+	Alexandria Real Estate Equities Inc 3.45 04/30/2025	
+	PACCAR Financial Corp 3.55 08/11/2025	
+	Take-Two Interactive Software Inc 3.55 04/14/2025	
+	Stryker Corp 1.15 06/15/2025	
+	Invesco Government & Agency Portfolio	
+	Charles Schwab Corp/The 4.2 03/24/2025	
+	Realty Income Corp 4.62 11/01/2025	
+	Quest Diagnostics Inc 3.5 03/30/2025	
+	Paramount Global 4.75 05/15/2025	
+	Ventas Realty LP 3.5 02/01/2025	
+	WRKCo Inc 3.75 03/15/2025	
+	Xcel Energy Inc 3.3 06/01/2025	
+	AerCap Ireland Capital DAC / AerCap Global Aviation Trust 4.45 10/01/2025	
+	Ares Capital Corp 4.25 03/01/2025	
+	Canadian Natural Resources Ltd 2.05 07/15/2025	
+	Caterpillar Financial Services Corp 1.45 05/15/2025	
+	CDW LLC / CDW Finance Corp 4.12 05/01/2025	
+	Bunge Ltd Finance Corp 1.63 08/17/2025	
+	Duke Energy Corp 0.9 09/15/2025	
+	Eli Lilly & Co 2.75 06/01/2025	
+	National Rural Utilities Cooperative Finance Corp 1.88 02/07/2025	
+	ONEOK Partners LP 4.9 03/15/2025	
+	Lennar Corp 4.75 05/30/2025	
+	Discover Financial Services 3.75 03/04/2025	
+	Enbridge Energy Partners LP 5.88 10/15/2025	
+	Broadcom Corp / Broadcom Cayman Finance Ltd 3.12 01/15/2025	
+	CNO Financial Group Inc 5.25 05/30/2025	
+	John Deere Capital Corp 2.05 01/09/2025	
+	Colgate-Palmolive Co 3.1 08/15/2025	
+	AvalonBay Communities Inc 3.45 06/01/2025	
+	Allstate Corp/The 0.75 12/15/2025	
+	Air Products and Chemicals Inc 1.5 10/15/2025	
+	American International Group Inc 3.75 07/10/2025	
+	American Water Capital Corp 3.4 03/01/2025	
+	VeriSign Inc 5.25 04/01/2025	
+	Radian Group Inc 6.62 03/15/2025	
+	QVC Inc 4.45 02/15/2025	
+	Sumitomo Mitsui Banking Corp 3.65 07/23/2025	
+	3M Co 3 08/07/2025	
+	3M Co 2.65 04/15/2025	
+	Toyota Motor Credit Corp 3.4 04/14/2025	
+	Stanley Black & Decker Inc 2.3 02/24/2025	
+	Southern Power Co 4.15 12/01/2025	
+	Spectra Energy Partners LP 3.5 03/15/2025	
+	Realty Income Corp 3.88 04/15/2025	
+	Republic Services Inc 3.2 03/15/2025	
+	Schlumberger Finance Canada Ltd 1.4 09/17/2025	
+	Owl Rock Capital Corp 3.75 07/22/2025	
+	Booking Holdings Inc 3.65 03/15/2025	
+	Public Service Enterprise Group Inc 0.8 08/15/2025	
+	Unilever Capital Corp 3.1 07/30/2025	
+	Union Pacific Corp 3.25 08/15/2025	
+	Union Pacific Corp 3.75 07/15/2025	
+	VICI Properties LP 4.38 05/15/2025	
+	Western Union Co/The 2.85 01/10/2025	
+	Westinghouse Air Brake Technologies Corp 3.2 06/15/2025	
+	AmerisourceBergen Corp 3.25 03/01/2025	
+	Ameriprise Financial Inc 3 04/02/2025	
+	Amcor Flexibles North America Inc 4 05/17/2025	
+	Ally Financial Inc 4.62 03/30/2025	
+	Adobe Inc 1.9 02/01/2025	
+	AutoZone Inc 3.62 04/15/2025	
+	Amgen Inc 1.9 02/21/2025	
+	Cisco Systems Inc 3.5 06/15/2025	
+	DR Horton Inc 2.6 10/15/2025	
+	Danaher Corp 3.35 09/15/2025	
+	Cardinal Health Inc 3.75 09/15/2025	
+	Brookfield Asset Management Inc 4 01/15/2025	
+	Boston Scientific Corp 1.9 06/01/2025	
+	BorgWarner Inc 3.38 03/15/2025	
+	Burlington Northern Santa Fe LLC 3 04/01/2025	
+	CNH Industrial Capital LLC 3.95 05/23/2025	
+	Essex Portfolio LP 3.5 04/01/2025	
+	Dollar General Corp 4.15 11/01/2025	
+	Keurig Dr Pepper Inc 3.4 11/15/2025	
+	EI du Pont de Nemours and Co 1.7 07/15/2025	
+	Duke Energy Progress LLC 3.25 08/15/2025	
+	EOG Resources Inc 3.15 04/01/2025	
+	Deutsche Bank AG/New York NY 4.16 05/13/2025	
+	Devon Energy Corp 5.85 12/15/2025	
+	Emerson Electric Co 3.15 06/01/2025	
+	Enbridge Inc 2.5 01/15/2025	
+	Enbridge Inc 2.5 02/14/2025	
+	Home Depot Inc/The 2.7 04/15/2025	
+	WW Grainger Inc 1.85 02/15/2025	
+	Fortune Brands Home & Security Inc 4 06/15/2025	
+	General Motors Co 4 04/01/2025	
+	Genuine Parts Co 1.75 02/01/2025	
+	Leidos Inc 3.62 05/15/2025	
+	Lam Research Corp 3.8 03/15/2025	
+	MPLX LP 4 02/15/2025	
+	Marsh & McLennan Cos Inc 3.5 03/10/2025	
+	Huntington Bancshares Inc/OH 4 05/15/2025	
+	Host Hotels & Resorts LP 4 06/15/2025	
+	Kimco Realty Corp 3.3 02/01/2025	
+	Nucor Corp 2 06/01/2025	
+	Nucor Corp 3.95 05/23/2025	
+	Newell Brands Inc 4.88 06/01/2025	
+	MetLife Inc 3 03/01/2025	
+	MetLife Inc 3.6 11/13/2025	
+	National Rural Utilities Cooperative Finance Corp 2.85 01/27/2025	
+	McKesson Corp 0.9 12/03/2025	
+	LYB International Finance III LLC 1.25 10/01/2025	
+	Intuit Inc 0.95 07/15/2025	
+	McDonald's Corp 1.45 09/01/2025	
+	Las Vegas Sands Corp 2.9 06/25/2025	
+	Healthpeak Properties Inc 4 06/01/2025	
+	SITE Centers Corp 3.62 02/01/2025	
+	Crown Castle Inc 1.35 07/15/2025	
+	Cummins Inc 0.75 09/01/2025	
+	American Tower Corp 1.3 09/15/2025	
+	Yale University 0.87 04/15/2025	
+	Waste Management Inc 0.75 11/15/2025	
+	Pinnacle West Capital Corp 1.3 06/15/2025	
+	Waste Management Inc 3.12 03/01/2025	
+	Halliburton Co 3.8 11/15/2025	
+	Cash/Receivables/Payables 0	

@@ -1,0 +1,127 @@
+MDIV
+HYLS	First Trust Tactical High Yield ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=HYLS.US&back=MDIV
+TWO	Two Harbors Investment Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TWO.US&back=MDIV
+NLY	Annaly Capital Management,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=MDIV
+IEP	Icahn Enterprises,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=IEP.US&back=MDIV
+KNOP	KNOT Offshore Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=KNOP.US&back=MDIV
+USAC	USA Compression Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=USAC.US&back=MDIV
+RC	Ready Capital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RC.US&back=MDIV
+DKL	Delek Logistics Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DKL.US&back=MDIV
+DMLP	Dorchester Minerals,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=DMLP.US&back=MDIV
+	WESCO International,Inc.,Series A,10.625% Variable Rate	
+PBFX	PBF Logistics LP	/etf/ea/ETZCW.djhtm?c=1&etfid=PBFX.US&back=MDIV
+CIM	Chimera Investment Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CIM.US&back=MDIV
+CAPL	CrossAmerica Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CAPL.US&back=MDIV
+NS	NuStar Energy L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=MDIV
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=MDIV
+KRP	Kimbell Royalty Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=KRP.US&back=MDIV
+GLP	Global Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=GLP.US&back=MDIV
+BSM	Black Stone Minerals,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=BSM.US&back=MDIV
+SHLX	Shell Midstream Partners,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLX.US&back=MDIV
+RITM	Rithm Capital Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=MDIV
+	DigitalBridge Group Inc,Series H,7.125%	
+KREF	KKR Real Estate Finance Trust Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KREF.US&back=MDIV
+	DigitalBridge Group Inc.,Series J,7.125%	
+BRMK	Broadmark Realty Capital Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRMK.US&back=MDIV
+	DigitalBridge Group Inc,Series I,7.15%	
+MMP	Magellan Midstream Partners,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=MDIV
+	CHS Inc.,Series 1,7.875%	
+	Chimera Investment Corp,Series B,8.00% Variable Rate	
+	Two Harbors Investment Corp.,Series B,7.625%,Variable Rate	
+	AGNC Investment Corp.,Series C,7.000%,Variable Rate	
+HEP	Holly Energy Partners,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=MDIV
+	Qwest Corporation,6.75%,Due 06/15/2057	
+BXMT	Blackstone Mortgage Trust,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=BXMT.US&back=MDIV
+	NuStar Logistics,L.P.,Variable Rate,Due 01/15/2043	
+	Qwest Corporation,6.500%,Due 09/01/2056	
+ORI	Old Republic International Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORI.US&back=MDIV
+PAA	Plains All American Pipeline,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=PAA.US&back=MDIV
+ABR	Arbor Realty Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABR.US&back=MDIV
+GLPI	Gaming and Leisure Properties,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=MDIV
+	Citigroup Inc.,Series J,7.125%,Variable Rate	
+	Morgan Stanley,Series E,7.125%,Variable Rate	
+	Citigroup Capital XIII,Variable Rate,due 10/30/2040	
+	AGNC Investment Corp.,Series E,6.500% Variable Rate	
+	Apollo Asset Management,Inc.,Series A,6.375%	
+	Citigroup Inc.,Series K,6.875%,Variable Rate	
+EPD	Enterprise Products Partners L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=MDIV
+	Morgan Stanley,Series F,6.875%,Variable Rate	
+	The PNC Financial Services Group,Inc.,Series P,6.125%,Variable Rate	
+RWT	Redwood Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RWT.US&back=MDIV
+CEQP	Crestwood Equity Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=MDIV
+	AGNC Investment Corp.,Series F,6.125% Variable Rate	
+GTY	Getty Realty Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=GTY.US&back=MDIV
+	Reinsurance Group of America,Incorporated,6.200%,Variable Rate,Due 09/15/2042	
+	NiSource Inc.,Series B,6.500%,Variable Rate	
+	Apollo Asset Management,Inc.,Series B,6.375%	
+SUN	Sunoco LP	/etf/ea/ETZCW.djhtm?c=1&etfid=SUN.US&back=MDIV
+	Wells Fargo & Company,6.625%,Variable Rate	
+GPP	Plains GP Holdings,L.P. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GPP.US&back=MDIV
+LYB	LyondellBasell Industries N.V.	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=MDIV
+ET	Energy Transfer LP	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=MDIV
+HRB	H&R Block,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HRB.US&back=MDIV
+	Axis Capital Holdings Limited,Series E,5.500%	
+VNOM	Viper Energy Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=VNOM.US&back=MDIV
+WES	Western Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=WES.US&back=MDIV
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=MDIV
+VICI	VICI Properties Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VICI.US&back=MDIV
+SLG	SL Green Realty Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLG.US&back=MDIV
+NNN	National Retail Properties,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NNN.US&back=MDIV
+NYCB	New York Community Bancorp,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NYCB.US&back=MDIV
+IRM	Iron Mountain Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=IRM.US&back=MDIV
+FCPT	Four Corners Property Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FCPT.US&back=MDIV
+LAZ	Lazard Ltd (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=LAZ.US&back=MDIV
+CQP	Cheniere Energy Partners,L.P.	/etf/ea/ETZCW.djhtm?c=1&etfid=CQP.US&back=MDIV
+STOR	STORE Capital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=STOR.US&back=MDIV
+ADC	Agree Realty Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ADC.US&back=MDIV
+MO	Altria Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=MDIV
+MPW	Medical Properties Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPW.US&back=MDIV
+IBM	International Business Machines Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=MDIV
+OFC	Corporate Office Properties Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=OFC.US&back=MDIV
+PNW	Pinnacle West Capital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=MDIV
+UVV	Universal Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UVV.US&back=MDIV
+GILD	Gilead Sciences,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=MDIV
+FIBK	First Interstate BancSystem,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FIBK.US&back=MDIV
+XOM	Exxon Mobil Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=MDIV
+SPG	Simon Property Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SPG.US&back=MDIV
+LEG	Leggett & Platt,Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=LEG.US&back=MDIV
+EPRT	Essential Properties Realty Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EPRT.US&back=MDIV
+SAFT	Safety Insurance Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SAFT.US&back=MDIV
+PDM	Piedmont Office Realty Trust,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PDM.US&back=MDIV
+OGE	OGE Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=OGE.US&back=MDIV
+WU	The Western Union Company	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=MDIV
+UNIT	Uniti Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UNIT.US&back=MDIV
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=MDIV
+UBSI	United Bankshares,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBSI.US&back=MDIV
+PFS	Provident Financial Services,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFS.US&back=MDIV
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=MDIV
+ALE	ALLETE,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALE.US&back=MDIV
+NRG	NRG Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NRG.US&back=MDIV
+PFG	Principal Financial Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=MDIV
+FHI	Federated Hermes,Inc. (Class B)	/etf/ea/ETZCW.djhtm?c=1&etfid=FHI.US&back=MDIV
+FFBC	First Financial Bancorp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FFBC.US&back=MDIV
+FHB	First Hawaiian,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FHB.US&back=MDIV
+FULT	Fulton Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FULT.US&back=MDIV
+IP	International Paper Company	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=MDIV
+NWE	NorthWestern Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NWE.US&back=MDIV
+WSBC	WesBanco,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WSBC.US&back=MDIV
+PRU	Prudential Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=MDIV
+FNB	F.N.B. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=FNB.US&back=MDIV
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=MDIV
+KHC	The Kraft Heinz Company	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=MDIV
+RGR	Sturm,Ruger & Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RGR.US&back=MDIV
+	US Dollar	
+WBA	Walgreens Boots Alliance,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=MDIV
+MMM	3M Company	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=MDIV
+BOH	Bank of Hawaii Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BOH.US&back=MDIV
+C	Citigroup Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=C.US&back=MDIV
+ASB	Associated Banc-Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ASB.US&back=MDIV
+ENR	Energizer Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ENR.US&back=MDIV
+FNF	Fidelity National Financial,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FNF.US&back=MDIV
+HOPE	Hope Bancorp,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HOPE.US&back=MDIV
+ONB	Old National Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=ONB.US&back=MDIV
+TFC	Truist Financial Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=MDIV
+USB	U.S. Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=USB.US&back=MDIV
+VFC	V.F. Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=MDIV
+KEY	KeyCorp	/etf/ea/ETZCW.djhtm?c=1&etfid=KEY.US&back=MDIV
+DCOM	Dime Community Bancshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DCOM.US&back=MDIV

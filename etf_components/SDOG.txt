@@ -1,0 +1,52 @@
+SDOG
+BMY	Bristol-Myers Squibb Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=SDOG
+NEM	Newmont Mining Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEM.US&back=SDOG
+CAH	Cardinal Health Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAH.US&back=SDOG
+ABBV	AbbVie Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ABBV.US&back=SDOG
+CAG	Conagra Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CAG.US&back=SDOG
+GILD	Gilead Sciences Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=SDOG
+HII	Huntington Ingalls Industries Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HII.US&back=SDOG
+VLO	Valero Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VLO.US&back=SDOG
+CMI	Cummins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=SDOG
+HBAN	Huntington Bancshares Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HBAN.US&back=SDOG
+IBM	International Business Machines Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=IBM.US&back=SDOG
+PFG	Principal Financial Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PFG.US&back=SDOG
+KHC	Kraft Heinz Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=SDOG
+LMT	Lockheed Martin Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=SDOG
+AMGN	Amgen Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMGN.US&back=SDOG
+KMI	Kinder Morgan Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=SDOG
+XOM	Exxon Mobil Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=XOM.US&back=SDOG
+T	AT&T Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=T.US&back=SDOG
+SNA	Snap-On Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SNA.US&back=SDOG
+OMC	Omnicom Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OMC.US&back=SDOG
+VZ	Verizon Communications Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VZ.US&back=SDOG
+TFC	Truist Financial Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=TFC.US&back=SDOG
+IPG	Interpublic Group of Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IPG.US&back=SDOG
+MMM	3M Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=SDOG
+LYB	LyondellBasell Industries NV	/etf/ea/ETZCW.djhtm?c=1&etfid=LYB.US&back=SDOG
+HPE	Hewlett Packard Enterprise Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPE.US&back=SDOG
+FE	FirstEnergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=SDOG
+MO	Altria Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MO.US&back=SDOG
+CSCO	Cisco Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSCO.US&back=SDOG
+WMB	Williams Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WMB.US&back=SDOG
+PRU	Prudential Financial Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRU.US&back=SDOG
+DOW	The Dow Chemical Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=SDOG
+AMCR	Amcor PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=AMCR.US&back=SDOG
+WBA	Walgreens Boots Alliance Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBA.US&back=SDOG
+SO	Southern Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=SDOG
+PM	Philip Morris International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=SDOG
+PPL	PPL Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=SDOG
+WHR	Whirlpool Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=WHR.US&back=SDOG
+PNW	Pinnacle West Capital Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PNW.US&back=SDOG
+BBY	Best Buy Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BBY.US&back=SDOG
+HAS	Hasbro Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HAS.US&back=SDOG
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=SDOG
+OKE	ONEOK Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=SDOG
+INTC	Intel Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=SDOG
+BEN	Franklin Resources Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BEN.US&back=SDOG
+STX	Seagate Technology Holdings PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=STX.US&back=SDOG
+NWL	Newell Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NWL.US&back=SDOG
+IP	International Paper Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=IP.US&back=SDOG
+LUMN	Lumen Technologies Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LUMN.US&back=SDOG
+VFC	VF Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=VFC.US&back=SDOG
+	Cash and Equivalents	

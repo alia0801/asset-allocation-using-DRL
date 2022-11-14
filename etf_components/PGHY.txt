@@ -1,0 +1,425 @@
+PGHY
+	Invesco Government & Agency Portfolio	
+	Roenesans Gayrimenkul Yatirim AS 7.25 04/26/2023	
+	Hazine Mustesarligi Varlik Kiralama AS 5 04/06/2023	
+	Bolivian Government International Bond 4.88 10/29/2022	
+	Costa Rica Government International Bond 4.25 01/26/2023	
+	Arcelik AS 5 04/03/2023	
+	Bank of Georgia JSC 6 07/26/2023	
+	KOC Holding AS 5.25 03/15/2023	
+	Mountain Province Diamonds Inc 8 12/15/2022	
+	Oman Government International Bond 4.12 01/17/2023	
+	Avient Corp 5.25 03/15/2023	
+	AES Argentina Generacion SA 7.75 02/02/2024	
+	Kuwait Projects Co SPC Ltd 5 03/15/2023	
+	Cash/Receivables/Payables 0	
+	Egypt Government International Bond 4.55 11/20/2023	
+	Multibank Inc 4.38 11/09/2022	
+	Sasol Financing International Ltd 4.5 11/14/2022	
+	Stellantis NV 5.25 04/15/2023	
+	Graphic Packaging International LLC 4.88 11/15/2022	
+	Service Properties Trust 4.5 06/15/2023	
+	Caixa Economica Federal 3.5 11/07/2022	
+	PBF Logistics LP / PBF Logistics Finance Corp 6.88 05/15/2023	
+	Third Pakistan International Sukuk Co Ltd/The 5.62 12/05/2022	
+	Travel + Leisure Co 3.9 03/01/2023	
+	IIFL Finance Ltd 5.88 04/20/2023	
+	Royal Caribbean Cruises Ltd 9.12 06/15/2023	
+	Hrvatska Elektroprivreda 5.88 10/23/2022	
+	Kunming Municipal Urban Construction Investment & Developmen 5.8 10/17/2022	
+	Turkiye Is Bankasi AS 6 10/24/2022	
+	Zoomlion HK SPV Co Ltd 6.12 12/20/2022	
+	Barry Callebaut Services NV 5.5 06/15/2023	
+	OCP SA 5.62 04/25/2024	
+	Videotron Ltd 5.38 06/15/2024	
+	EnerSys 5 04/30/2023	
+	Nigeria Government International Bond 6.38 07/12/2023	
+	Morocco Government International Bond 4.25 12/11/2022	
+	Banco Nacional de Desenvolvimento Economico e Social 5.75 09/26/2023	
+	Turkiye Is Bankasi AS 7.85 12/10/2023	
+	Trinidad & Tobago Government International Bond 4.38 01/16/2024	
+	Yapi ve Kredi Bankasi AS 6.1 03/16/2023	
+	Bank Muscat SAOG 4.88 03/14/2023	
+	DKT Finance ApS 9.38 06/17/2023	
+	Turkiye Ihracat Kredi Bankasi AS 8.25 01/24/2024	
+	TransAlta Corp 4.5 11/15/2022	
+	Turkey Government International Bond 3.25 03/23/2023	
+	Fibabanka AS 6 01/25/2023	
+	Indika Energy Capital III Pte Ltd 5.88 11/09/2024	
+	Itau Unibanco Holding SA/Cayman Island 5.12 05/13/2023	
+	Laredo Petroleum Inc 9.5 01/15/2025	
+	Republic of South Africa Government International Bond 4.67 01/17/2024	
+	Range Resources Corp 5 03/15/2023	
+	OneMain Finance Corp 8.25 10/01/2023	
+	Brinker International Inc 3.88 05/15/2023	
+	Delta Air Lines Inc 3.8 04/19/2023	
+	Ball Corp 4 11/15/2023	
+	Banco Safra SA/Cayman Islands 4.12 02/08/2023	
+	Ford Motor Credit Co LLC 3.55 10/07/2022	
+	Ford Motor Credit Co LLC 5.58 03/18/2024	
+	EnLink Midstream Partners LP 4.4 04/01/2024	
+	Genesis Energy LP / Genesis Energy Finance Corp 5.62 06/15/2024	
+	DISH DBS Corp 5 03/15/2023	
+	Commercial Metals Co 4.88 05/15/2023	
+	Diversified Healthcare Trust 4.75 05/01/2024	
+	Teva Pharmaceutical Finance Netherlands III BV 7.12 01/31/2025	
+	Methanex Corp 4.25 12/01/2024	
+	Petroleos Mexicanos 3.5 01/30/2023	
+	Occidental Petroleum Corp 2.9 08/15/2024	
+	Mongolia Government International Bond 5.62 05/01/2023	
+	NOVA Chemicals Corp 4.88 06/01/2024	
+	International Bank of Azerbaijan OJSC 3.5 09/01/2024	
+	Turkey Government International Bond 5.75 03/22/2024	
+	Xerox Corp 3.8 05/15/2024	
+	Yum! Brands Inc 3.88 11/01/2023	
+	Banco Nacional de Desenvolvimento Economico e Social 4.75 05/09/2024	
+	Egypt Government International Bond 5.58 02/21/2023	
+	Stena AB 7 02/01/2024	
+	Republic of Armenia International Bond 7.15 03/26/2025	
+	Shriram Transport Finance Co Ltd 5.95 10/24/2022	
+	Wynn Las Vegas LLC / Wynn Las Vegas Capital Corp 4.25 05/30/2023	
+	Banco de Reservas de la Republica Dominicana 7 02/01/2023	
+	Republic of Uzbekistan International Bond 4.75 02/20/2024	
+	Mongolian Mortgage Corp Hfc LLC 8.85 02/08/2024	
+	TRI Pointe Group Inc / TRI Pointe Homes Inc 5.88 06/15/2024	
+	Petroleos Mexicanos 4.62 09/21/2023	
+	Las Vegas Sands Corp 3.2 08/08/2024	
+	Teva Pharmaceutical Finance Netherlands III BV 2.8 07/21/2023	
+	EQM Midstream Partners LP 4 08/01/2024	
+	Ecopetrol SA 5.88 09/18/2023	
+	Brazilian Government International Bond 8.88 04/15/2024	
+	Brazilian Government International Bond 8.75 02/04/2025	
+	MGM Resorts International 6 03/15/2023	
+	Occidental Petroleum Corp 6.95 07/01/2024	
+	Teva Pharmaceutical Finance Co BV 2.95 12/18/2022	
+	Tecpetrol SA 4.88 12/12/2022	
+	Cooper-Standard Automotive Inc 13 06/01/2024	
+	Egypt Government International Bond 5.75 05/29/2024	
+	Turk Telekomunikasyon AS 6.88 02/28/2025	
+	First Quantum Minerals Ltd 6.5 03/01/2024	
+	Jaguar Land Rover Automotive PLC 5.62 02/01/2023	
+	State Oil Co of the Azerbaijan Republic 4.75 03/13/2023	
+	Stena International SA 5.75 03/01/2024	
+	Dominican Republic International Bond 5.5 01/27/2025	
+	Eskom Holdings SOC Ltd 7.12 02/11/2025	
+	Arcor SAIC 6 07/06/2023	
+	Royal Caribbean Cruises Ltd 10.88 06/01/2023	
+	Cemig Geracao e Transmissao SA 9.25 12/05/2024	
+	Fidelity Bank PLC 10.5 10/16/2022	
+	NGL Energy Partners LP / NGL Energy Finance Corp 7.5 11/01/2023	
+	Navient Corp 7.25 09/25/2023	
+	Freeport-McMoRan Inc 3.88 03/15/2023	
+	Freeport-McMoRan Inc 4.55 11/14/2024	
+	Ford Motor Credit Co LLC 3.35 11/01/2022	
+	Ford Motor Credit Co LLC 3.37 11/17/2023	
+	Service Properties Trust 4.65 03/15/2024	
+	iStar Inc 4.75 10/01/2024	
+	ADT Security Corp/The 4.12 06/15/2023	
+	Howmet Aerospace Inc 5.12 10/01/2024	
+	Commerzbank AG 8.12 09/19/2023	
+	Continental Resources Inc/OK 4.5 04/15/2023	
+	CDW LLC / CDW Finance Corp 5.5 12/01/2024	
+	Cheniere Corpus Christi Holdings LLC 7 06/30/2024	
+	KB Home 7.62 05/15/2023	
+	Netflix Inc 5.88 02/15/2025	
+	Toll Brothers Finance Corp 4.38 04/15/2023	
+	Sprint Communications LLC 6 11/15/2022	
+	Sprint Corp 7.12 06/15/2024	
+	Sprint Corp 7.62 02/15/2025	
+	Quebecor Media Inc 5.75 01/15/2023	
+	Turkiye Petrol Rafinerileri AS 4.5 10/18/2024	
+	United Airlines Holdings Inc 5 02/01/2024	
+	Turkiye Sinai Kalkinma Bankasi AS 5.5 01/16/2023	
+	Arrow Bidco LLC 9.5 03/15/2024	
+	Yapi ve Kredi Bankasi AS 8.25 10/15/2024	
+	Bombardier Inc 7.5 12/01/2024	
+	TMX Finance LLC / TitleMax Finance Corp 11.12 04/01/2023	
+	W&T Offshore Inc 9.75 11/01/2023	
+	Oman Government International Bond 4.88 02/01/2025	
+	Oil and Gas Holding Co BSCC/The 7.62 11/07/2024	
+	Cielo USA Inc 3.75 11/16/2022	
+	Citgo Holding Inc 9.25 08/01/2024	
+	Leviathan Bond Ltd 5.75 06/30/2023	
+	Triumph Group Inc 8.88 06/01/2024	
+	Starwood Property Trust Inc 5.5 11/01/2023	
+	Taylor Morrison Communities Inc / Taylor Morrison Holdings I 5.88 04/15/2023	
+	Rayonier AM Products Inc 5.5 06/01/2024	
+	Tata Motors Ltd 5.75 10/30/2024	
+	Vietnam Government International Bond 4.8 11/19/2024	
+	Manappuram Finance Ltd 5.9 01/13/2023	
+	TPro Acquisition Corp 11 10/15/2024	
+	GMR Hyderabad International Airport Ltd 5.38 04/10/2024	
+	JSW Steel Ltd 5.95 04/18/2024	
+	Banco Votorantim SA 4.5 09/24/2024	
+	Kenbourne Invest SA 6.88 11/26/2024	
+	Banco Daycoval SA 4.25 12/13/2024	
+	Tenet Healthcare Corp 4.62 09/01/2024	
+	Brinker International Inc 5 10/01/2024	
+	Uniti Group LP / Uniti Fiber Holdings Inc / CSL Capital LLC 7.88 02/15/2025	
+	Albertsons Cos Inc / Safeway Inc / New Albertsons LP / Alber 3.5 02/15/2023	
+	Sealed Air Corp 5.12 12/01/2024	
+	Clearwater Paper Corp 5.38 02/01/2025	
+	Hanesbrands Inc 4.62 05/15/2024	
+	Realogy Group LLC / Realogy Co-Issuer Corp 4.88 06/01/2023	
+	Cengage Learning Inc 9.5 06/15/2024	
+	Taylor Morrison Communities Inc / Taylor Morrison Holdings I 5.62 03/01/2024	
+	TML Holdings Pte Ltd 5.5 06/03/2024	
+	WR Grace Holdings LLC 5.62 10/01/2024	
+	NextEra Energy Operating Partners LP 4.25 07/15/2024	
+	Stericycle Inc 5.38 07/15/2024	
+	Prime Security Services Borrower LLC / Prime Finance Inc 5.25 04/15/2024	
+	Egypt Government International Bond 6.2 03/01/2024	
+	QNB Finansbank AS 6.88 09/07/2024	
+	Yanlord Land HK Co Ltd 6.75 04/23/2023	
+	Live Nation Entertainment Inc 4.88 11/01/2024	
+	Turkey Government International Bond 7.38 02/05/2025	
+	Trinity Industries Inc 4.55 10/01/2024	
+	Turkey Government International Bond 6.35 08/10/2024	
+	Turkiye Is Bankasi AS 6.12 04/25/2024	
+	Turkiye Garanti Bankasi AS 5.88 03/16/2023	
+	Mauser Packaging Solutions Holding Co 5.5 04/15/2024	
+	CCO Holdings LLC / CCO Holdings Capital Corp 4 03/01/2023	
+	FMG Resources August 2006 Pty Ltd 5.12 05/15/2024	
+	Capex SA 6.88 05/15/2024	
+	Yapi ve Kredi Bankasi AS 5.85 06/21/2024	
+	Agua y Saneamientos Argentinos SA 6.62 02/01/2023	
+	North Queensland Export Terminal Pty Ltd 4.45 12/15/2022	
+	Radian Group Inc 4.5 10/01/2024	
+	QVC Inc 4.85 04/01/2024	
+	OneMain Finance Corp 5.62 03/15/2023	
+	Tenet Healthcare Corp 4.62 07/15/2024	
+	Navient Corp 5.88 10/25/2024	
+	Continental Resources Inc/OK 3.8 06/01/2024	
+	Ally Financial Inc 5.12 09/30/2024	
+	AmeriGas Partners LP / AmeriGas Finance Corp 5.62 05/20/2024	
+	AMC Networks Inc 5 04/01/2024	
+	Brazilian Government International Bond 2.62 01/05/2023	
+	Hyatt Hotels Corp 1.3 10/01/2023	
+	HCA Inc 5.38 02/01/2025	
+	Graphic Packaging International LLC 4.12 08/15/2024	
+	Hyatt Hotels Corp 1.8 10/01/2024	
+	Icahn Enterprises LP / Icahn Enterprises Finance Corp 4.75 09/15/2024	
+	Ford Motor Credit Co LLC 4.06 11/01/2024	
+	Delta Air Lines Inc 2.9 10/28/2024	
+	CSC Holdings LLC 5.25 06/01/2024	
+	Oceaneering International Inc 4.65 11/15/2024	
+	Nordstrom Inc 2.3 04/08/2024	
+	Perrigo Finance Unlimited Co 3.9 12/15/2024	
+	Petrobras Global Finance BV 6.25 03/17/2024	
+	Itau Unibanco Holding SA/Cayman Island 3.25 01/24/2025	
+	Mattel Inc 3.15 03/15/2023	
+	Sprint Corp 7.88 09/15/2023	
+	Enova International Inc 8.5 09/01/2024	
+	Puma International Financing SA 5.12 10/06/2024	
+	SoftBank Group Corp 4.75 09/19/2024	
+	Turkey Government International Bond 5.6 11/14/2024	
+	United Airlines Holdings Inc 4.88 01/15/2025	
+	Alpha Star Holding V Ltd 6.62 04/18/2023	
+	Georgia Capital JSC 6.12 03/09/2024	
+	Digicel International Finance Ltd/Digicel international Hold 8.75 05/25/2024	
+	Nickel Industries Ltd 6.5 04/01/2024	
+	India Toll Roads 5.5 08/19/2024	
+	Six Flags Entertainment Corp 4.88 07/31/2024	
+	Univision Communications Inc 5.12 02/15/2025	
+	Owens-Brockway Glass Container Inc 5.38 01/15/2025	
+	Compass Minerals International Inc 4.88 07/15/2024	
+	Spirit AeroSystems Inc 5.5 01/15/2025	
+	PTC Inc 3.62 02/15/2025	
+	Centrais Eletricas Brasileiras SA 3.62 02/04/2025	
+	Rakuten Group Inc 3.55 11/27/2024	
+	goeasy Ltd 5.38 12/01/2024	
+	Triumph Group Inc 6.25 09/15/2024	
+	Uzbek Industrial and Construction Bank ATB 5.75 12/02/2024	
+	CNG Holdings Inc 12.5 06/15/2024	
+	Turkiye Sinai Kalkinma Bankasi AS 6 01/23/2025	
+	CVR Energy Inc 5.25 02/15/2025	
+	Starwood Property Trust Inc 3.75 12/31/2024	
+	SoftBank Group Corp 3.12 01/06/2025	
+	Greenko Solar Mauritius Ltd 5.55 01/29/2025	
+	Medco Platinum Road Pte Ltd 6.75 01/30/2025	
+	Koppers Inc 6 02/15/2025	
+	Freedom Mortgage Corp 8.12 11/15/2024	
+	Teva Pharmaceutical Finance Netherlands III BV 6 04/15/2024	
+	DISH DBS Corp 5.88 11/15/2024	
+	Bancolombia SA 3 01/29/2025	
+	Ford Motor Credit Co LLC 4.14 02/15/2023	
+	Ecopetrol SA 4.12 01/16/2025	
+	Ford Motor Credit Co LLC 3.09 01/09/2023	
+	Service Properties Trust 4.35 10/01/2024	
+	Ford Motor Credit Co LLC 2.3 02/10/2025	
+	QVC Inc 4.45 02/15/2025	
+	Sasol Financing USA LLC 5.88 03/27/2024	
+	Netflix Inc 5.75 03/01/2024	
+	Cornerstone Chemical Co 6.75 08/15/2024	
+	BBK BSC 5.5 07/09/2024	
+	Republic of Kenya Government International Bond 6.88 06/24/2024	
+	Southeast Supply Header LLC 4.25 06/15/2024	
+	Akbank TAS 5 10/24/2022	
+	Industrial Senior Trust 5.5 11/01/2022	
+	Yapi ve Kredi Bankasi AS 5.5 12/06/2022	
+	Jababeka International BV 6.5 10/05/2023	
+	Turkiye Ihracat Kredi Bankasi AS 5.38 10/24/2023	
+	Azure Power Solar Energy Pvt Ltd 5.65 12/24/2024	
+	Energean Israel Finance Ltd 4.5 03/30/2024	
+	Turkiye Vakiflar Bankasi TAO 5.75 01/30/2023	
+	Oztel Holdings SPC Ltd 5.62 10/24/2023	
+	Gilex Holding Sarl 8.5 05/02/2023	
+	FS Energy and Power Fund 7.5 08/15/2023	
+	TC Ziraat Bankasi AS 5.12 09/29/2023	
+	FXI Holdings Inc 7.88 11/01/2024	
+	Petkim Petrokimya Holding AS 5.88 01/26/2023	
+	Saka Energi Indonesia PT 4.45 05/05/2024	
+	Muthoot Finance Ltd 6.12 10/31/2022	
+	Navient Corp 5.5 01/25/2023	
+	Pyxus Holdings Inc 10 08/24/2024	
+	Spirit AeroSystems Inc 3.95 06/15/2023	
+	Itau Unibanco Holding SA/Cayman Island 2.9 01/24/2023	
+	Lumen Technologies Inc 6.75 12/01/2023	
+	Lumen Technologies Inc 7.5 04/01/2024	
+	Brazilian Government International Bond 4.25 01/07/2025	
+	Popular Inc 6.12 09/14/2023	
+	Newmark Group Inc 6.12 11/15/2023	
+	Petrobras Global Finance BV 5.3 01/27/2025	
+	Petroleos Mexicanos 4.88 01/18/2024	
+	Turkey Government International Bond 7.25 12/23/2023	
+	Development Bank of Mongolia LLC 7.25 10/23/2023	
+	SK Innovation Co Ltd 4.12 07/13/2023	
+	Turkiye Vakiflar Bankasi TAO 8.12 03/28/2024	
+	MSU Energy SA / UGEN SA / UENSA SA 6.88 02/01/2025	
+	Theta Capital Pte Ltd 8.12 01/22/2025	
+	Banco de Bogota SA 5.38 02/19/2023	
+	Turkiye Vakiflar Bankasi TAO 6 11/01/2022	
+	Eskom Holdings SOC Ltd 6.75 08/06/2023	
+	BRF SA 4.75 05/22/2024	
+	Sensata Technologies BV 5.62 11/01/2024	
+	Bahrain Government International Bond 6.12 08/01/2023	
+	International Game Technology PLC 6.5 02/15/2025	
+	Bolivian Government International Bond 5.95 08/22/2023	
+	Republic of Azerbaijan International Bond 4.75 03/18/2024	
+	Stena International SA 6.12 02/01/2025	
+	Lanzhou City Development Investment Co Ltd 4.15 11/15/2022	
+	Shriram Transport Finance Co Ltd 5.1 07/16/2023	
+	Greenko Investment Co 4.88 08/16/2023	
+	Turkiye Ihracat Kredi Bankasi AS 6.12 05/03/2024	
+	Team Health Holdings Inc 6.38 02/01/2025	
+	Muthoot Finance Ltd 4.4 09/02/2023	
+	Navient Corp 6.12 03/25/2024	
+	Petroleos Mexicanos 4.25 01/15/2025	
+	Azul Investments LLP 5.88 10/26/2024	
+	Ensign Drilling Inc 9.25 04/15/2024	
+	Turk Telekomunikasyon AS 4.88 06/19/2024	
+	Ahern Rentals Inc 7.38 05/15/2023	
+	OneMain Finance Corp 6.12 03/15/2024	
+	Greenko Wind Projects Mauritius Ltd 5.5 04/06/2025	
+	ABJA Investment Co Pte Ltd 5.95 07/31/2024	
+	APL Realty Holdings Pte Ltd 5.95 06/02/2024	
+	Axtel SAB de CV 6.38 11/14/2024	
+	LMIRT Capital Pte Ltd 7.25 06/19/2024	
+	Operadora de Servicios Mega SA de CV Sofom ER 8.25 02/11/2025	
+	Infrabuild Australia Pty Ltd 12 10/01/2024	
+	Hazine Mustesarligi Varlik Kiralama AS 4.49 11/25/2024	
+	MTN Mauritius Investments Ltd 4.75 11/11/2024	
+	InterCement Financial Operations BV 5.75 07/17/2024	
+	Adani Green Energy UP Ltd / Prayatna Developers Pvt Ltd / Pa 6.25 12/10/2024	
+	Mersin Uluslararasi Liman Isletmeciligi AS 5.38 11/15/2024	
+	Turkiye Vakiflar Bankasi TAO 5.25 02/05/2025	
+	Yanlord Land HK Co Ltd 6.8 02/27/2024	
+	InterGen NV 7 06/30/2023	
+	Shriram Transport Finance Co Ltd 4.4 03/13/2024	
+	Diebold Nixdorf Inc 8.5 04/15/2024	
+	Guitar Center Holdings Inc 0	
+	India Green Energy Holdings 5.38 04/29/2024	
+	Gol Finance SA 7 01/31/2025	
+	Owens-Brockway Glass Container Inc 5.88 08/15/2023	
+	Credivalores-Crediservicios SAS 8.88 02/07/2025	
+	Egypt Government International Bond 6.75 11/10/2024	
+	Goodyear Tire & Rubber Co/The 9.5 05/31/2025	
+	HCA Inc 7.69 06/15/2025	
+	Occidental Petroleum Corp 8 07/15/2025	
+	PBF Holding Co LLC / PBF Finance Corp 7.25 06/15/2025	
+	Murphy Oil Corp 5.75 08/15/2025	
+	MGM Resorts International 5.75 06/15/2025	
+	MGM Resorts International 6.75 05/01/2025	
+	SM Energy Co 5.62 06/01/2025	
+	Spectrum Brands Inc 5.75 07/15/2025	
+	Radian Group Inc 6.62 03/15/2025	
+	Range Resources Corp 4.88 05/15/2025	
+	Lumen Technologies Inc 5.62 04/01/2025	
+	Ball Corp 5.25 07/01/2025	
+	Hillenbrand Inc 5.75 06/15/2025	
+	HCA Inc 5.25 04/15/2025	
+	Howmet Aerospace Inc 6.88 05/01/2025	
+	Ford Motor Credit Co LLC 5.12 06/16/2025	
+	Exterran Energy Solutions LP / EES Finance Corp 8.12 05/01/2025	
+	VeriSign Inc 5.25 04/01/2025	
+	USI Inc/NY 6.88 05/01/2025	
+	Alliance Resource Operating Partners LP / Alliance Resource 7.5 05/01/2025	
+	Huachen Energy Co Ltd 4.65 12/29/2026	
+	Aramark Services Inc 5 04/01/2025	
+	Change Healthcare Holdings LLC / Change Healthcare Finance I 5.75 03/01/2025	
+	NortonLifeLock Inc 5 04/15/2025	
+	Mongolia Government International Bond 8.75 03/09/2024	
+	Scientific Games International Inc 8.62 07/01/2025	
+	Caesars Entertainment Inc 6.25 07/01/2025	
+	Caesars Resort Collection LLC / CRC Finco Inc 5.75 07/01/2025	
+	Clear Channel International BV 6.62 08/01/2025	
+	Spirit AeroSystems Inc 7.5 04/15/2025	
+	Six Flags Theme Parks Inc 7 07/01/2025	
+	Aramark Services Inc 6.38 05/01/2025	
+	Vail Resorts Inc 6.25 05/15/2025	
+	Neptune Energy Bondco PLC 6.62 05/15/2025	
+	SoftBank Group Corp 6.12 04/20/2025	
+	Ghana Government International Bond 7.88 08/07/2023	
+	Norddeutsche Landesbank-Girozentrale 6.25 04/10/2024	
+	Pakistan Government International Bond 8.25 04/15/2024	
+	CommScope Technologies LLC 6 06/15/2025	
+	Wynn Las Vegas LLC / Wynn Las Vegas Capital Corp 5.5 03/01/2025	
+	Codere Finance 2 Luxembourg SA 13.62 11/30/2027	
+	Xerox Holdings Corp 5 08/15/2025	
+	Mauser Packaging Solutions Holding Co 7.25 04/15/2025	
+	MHP SE 7.75 05/10/2024	
+	Turkey Government International Bond 4.25 03/13/2025	
+	Werner FinCo LP / Werner FinCo Inc 8.75 07/15/2025	
+	FirstEnergy Corp 2.05 03/01/2025	
+	Ford Motor Credit Co LLC 4.69 06/09/2025	
+	AmeriGas Partners LP / AmeriGas Finance Corp 5.5 05/20/2025	
+	B&G Foods Inc 5.25 04/01/2025	
+	DPL Inc 4.12 07/01/2025	
+	OneMain Finance Corp 6.88 03/15/2025	
+	Las Vegas Sands Corp 2.9 06/25/2025	
+	Navient Corp 6.75 06/25/2025	
+	NGL Energy Partners LP / NGL Energy Finance Corp 6.12 03/01/2025	
+	Summit Midstream Holdings LLC / Summit Midstream Finance Cor 5.75 04/15/2025	
+	Service Properties Trust 4.5 03/15/2025	
+	Tunghsu Venus Holdings Ltd 7 12/31/2049	
+	Petropavlovsk 2016 Ltd 8.12 11/14/2022	
+	Triumph Group Inc 7.75 08/15/2025	
+	RongXingDa Development BVI Ltd 8.95 12/31/2022	
+	Freedom Mortgage Corp 8.25 04/15/2025	
+	Sixsigma Networks Mexico SA de CV 7.5 05/02/2025	
+	Wesco Aircraft Holdings Inc 8.5 11/15/2024	
+	El Salvador Government International Bond 5.88 01/30/2025	
+	Codere New Holdco SA 7.5 11/30/2027	
+	Venator Finance Sarl / Venator Materials LLC 5.75 07/15/2025	
+	Bed Bath & Beyond Inc 3.75 08/01/2024	
+	Zhongrong International Resources Co Ltd 7.25 12/31/2049	
+	Tullow Oil PLC 7 03/01/2025	
+	WeWork Cos LLC / WW Co-Obligor Inc 5 07/10/2025	
+	Ethiopia International Bond 6.62 12/11/2024	
+	Greenland Global Investment Ltd 5.88 07/03/2024	
+	Unifin Financiera SAB de CV 7.25 09/27/2023	
+	Global Ports Finance PLC 6.5 09/22/2023	
+	Chelyabinsk Pipe Plant Via Chelpipe Finance DAC 4.5 09/19/2024	
+	Hornbeck Offshore Services Inc	
+	YPF SA 8.5 07/28/2025	
+	Tahoe Group Global Co Ltd 7.88 12/31/2049	
+	Ukraine Railways Via Rail Capital Markets PLC 8.25 07/09/2024	
+	Reliance Communications Ltd 6.5 12/31/2049	
+	O1 Properties Finance PLC 0.5 12/31/2049	
+	PetroQuest Energy Inc	
+	EA Partners I BV 6.88 12/31/2049	
+	Yihua Overseas Investment Ltd 8.5 12/31/2049	
+	Hornbeck Offshore Services Inc	
+	Avianca Holdings SA / Avianca Leasing LLC / Grupo Taca Holdi 8.38 12/31/2049	
+	Hornbeck Offshore Services Inc	
+	TRU Taj LLC / TRU Taj Finance Inc	

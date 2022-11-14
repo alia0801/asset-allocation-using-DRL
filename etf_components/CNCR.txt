@@ -1,0 +1,32 @@
+CNCR
+IGMS	IGM BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IGMS.US&back=CNCR
+IMCR	IMMUNOCORE HOLDINGS PLC-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=IMCR.US&back=CNCR
+LYEL	LYELL IMMUNOPHARMA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LYEL.US&back=CNCR
+IBRX	IMMUNITYBIO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IBRX.US&back=CNCR
+REGN	REGENERON PHARMACEUTICALS	/etf/ea/ETZCW.djhtm?c=1&etfid=REGN.US&back=CNCR
+XNCR	XENCOR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=XNCR.US&back=CNCR
+RCUS	ARCUS BIOSCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RCUS.US&back=CNCR
+IOVA	IOVANCE BIOTHERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IOVA.US&back=CNCR
+REPL	REPLIMUNE GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=REPL.US&back=CNCR
+GMAB	GENMAB A/S -SP ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=GMAB.US&back=CNCR
+FATE	FATE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=FATE.US&back=CNCR
+ALLO	ALLOGENE THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ALLO.US&back=CNCR
+NKTX	NKARTA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NKTX.US&back=CNCR
+ACLX	ARCELLX INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ACLX.US&back=CNCR
+GILD	GILEAD SCIENCES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=CNCR
+CRSP	CRISPR THERAPEUTICS AG	/etf/ea/ETZCW.djhtm?c=1&etfid=CRSP.US&back=CNCR
+ITOS	ITEOS THERAPEUTICS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ITOS.US&back=CNCR
+ARGX	ARGENX SE - ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ARGX.US&back=CNCR
+MRUS	MERUS NV	/etf/ea/ETZCW.djhtm?c=1&etfid=MRUS.US&back=CNCR
+MRK	MERCK & CO. INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=CNCR
+NGM	NGM BIOPHARMACEUTICALS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NGM.US&back=CNCR
+BGNE	BEIGENE LTD-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BGNE.US&back=CNCR
+BNTX	BIONTECH SE-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BNTX.US&back=CNCR
+BMY	BRISTOL-MYERS SQUIBB CO	/etf/ea/ETZCW.djhtm?c=1&etfid=BMY.US&back=CNCR
+TIL	INSTIL BIO INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TIL.US&back=CNCR
+NKTR	NEKTAR THERAPEUTICS	/etf/ea/ETZCW.djhtm?c=1&etfid=NKTR.US&back=CNCR
+LEGN	LEGEND BIOTECH CORP-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=LEGN.US&back=CNCR
+AZN	ASTRAZENECA PLC-SPONS ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=AZN.US&back=CNCR
+CELU	CELULARITY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CELU.US&back=CNCR
+IMAB	I-MAB-SPONSORED ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=IMAB.US&back=CNCR
+	CASH & OTHER	

@@ -1,0 +1,60 @@
+HIPS
+FCT	First Trust Senior Floating Ra	/etf/ea/ETZCW.djhtm?c=1&etfid=FCT.US&back=HIPS
+	Angel Oak Financial Strategies	
+JRI	Nuveen Real Asset Income and G	/etf/ea/ETZCW.djhtm?c=1&etfid=JRI.US&back=HIPS
+JQC	Nuveen Credit Strategies Incom	/etf/ea/ETZCW.djhtm?c=1&etfid=JQC.US&back=HIPS
+ARDC	Ares Dynamic Credit Allocation	/etf/ea/ETZCW.djhtm?c=1&etfid=ARDC.US&back=HIPS
+BGH	Barings Global Short Duration	/etf/ea/ETZCW.djhtm?c=1&etfid=BGH.US&back=HIPS
+HYI	Western Asset High Yield Defin	/etf/ea/ETZCW.djhtm?c=1&etfid=HYI.US&back=HIPS
+DLY	DoubleLine Yield Opportunities	/etf/ea/ETZCW.djhtm?c=1&etfid=DLY.US&back=HIPS
+ISD	PGIM High Yield Bond Fund Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ISD.US&back=HIPS
+HIX	Western Asset High Income Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=HIX.US&back=HIPS
+HYT	BlackRock Corporate High Yield	/etf/ea/ETZCW.djhtm?c=1&etfid=HYT.US&back=HIPS
+GHY	PGIM Global High Yield Fund Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GHY.US&back=HIPS
+EAD	Allspring Income Opportunities	/etf/ea/ETZCW.djhtm?c=1&etfid=EAD.US&back=HIPS
+KIO	KKR Income Opportunities Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=KIO.US&back=HIPS
+EMD	Western Asset Emerging Markets Debt Fund Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EMD.US&back=HIPS
+SHLX	Shell Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=SHLX.US&back=HIPS
+DKL	Delek Logistics Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=DKL.US&back=HIPS
+ET	Energy Transfer LP	/etf/ea/ETZCW.djhtm?c=1&etfid=ET.US&back=HIPS
+CQP	Cheniere Energy Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CQP.US&back=HIPS
+EPD	Enterprise Products Partners L	/etf/ea/ETZCW.djhtm?c=1&etfid=EPD.US&back=HIPS
+KMI	Kinder Morgan Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KMI.US&back=HIPS
+USAC	USA Compression Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=USAC.US&back=HIPS
+MMP	Magellan Midstream Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MMP.US&back=HIPS
+MPLX	MPLX LP	/etf/ea/ETZCW.djhtm?c=1&etfid=MPLX.US&back=HIPS
+NS	NuStar Energy LP	/etf/ea/ETZCW.djhtm?c=1&etfid=NS.US&back=HIPS
+HEP	HOLLY ENERGY PARTNERS L P	/etf/ea/ETZCW.djhtm?c=1&etfid=HEP.US&back=HIPS
+CEQP	Crestwood Equity Partners LP	/etf/ea/ETZCW.djhtm?c=1&etfid=CEQP.US&back=HIPS
+OKE	ONEOK Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OKE.US&back=HIPS
+HESM	Hess Midstream LP	/etf/ea/ETZCW.djhtm?c=1&etfid=HESM.US&back=HIPS
+WPC	WP Carey Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WPC.US&back=HIPS
+GLPI	Gaming and Leisure Properties	/etf/ea/ETZCW.djhtm?c=1&etfid=GLPI.US&back=HIPS
+CGBD	Carlyle Secured Lending, Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CGBD.US&back=HIPS
+SUN	SUNOCO LP	/etf/ea/ETZCW.djhtm?c=1&etfid=SUN.US&back=HIPS
+TCPC	BlackRock TCP Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TCPC.US&back=HIPS
+NMFC	NEW MTN FIN CORP COM	/etf/ea/ETZCW.djhtm?c=1&etfid=NMFC.US&back=HIPS
+GTY	Getty Realty Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=GTY.US&back=HIPS
+ARCC	ARES CAP CORP COM	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCC.US&back=HIPS
+BCSF	Bain Capital Specialty Finance Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BCSF.US&back=HIPS
+OCSL	OAKTREE SPECIALTY LENDING CORP COM	/etf/ea/ETZCW.djhtm?c=1&etfid=OCSL.US&back=HIPS
+BXMT	Blackstone Mortgage Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BXMT.US&back=HIPS
+ORCC	Owl Rock Capital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCC.US&back=HIPS
+ALX	Alexander's Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALX.US&back=HIPS
+BBDC	Barings BDC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BBDC.US&back=HIPS
+KREF	KKR Real Estate Finance Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KREF.US&back=HIPS
+GBDC	GOLUB CAP BDC INC COM	/etf/ea/ETZCW.djhtm?c=1&etfid=GBDC.US&back=HIPS
+PSEC	PROSPECT CAPITAL CORPORATION COM	/etf/ea/ETZCW.djhtm?c=1&etfid=PSEC.US&back=HIPS
+GSBD	Goldman Sachs BDC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GSBD.US&back=HIPS
+SRC	Spirit Realty Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SRC.US&back=HIPS
+ARI	Apollo Commercial Real Estate	/etf/ea/ETZCW.djhtm?c=1&etfid=ARI.US&back=HIPS
+RITM	Rithm Capital Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=RITM.US&back=HIPS
+HTGC	HERCULES CAPITAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HTGC.US&back=HIPS
+PMT	PennyMac Mortgage Investment T	/etf/ea/ETZCW.djhtm?c=1&etfid=PMT.US&back=HIPS
+SLRC	SLR Investment Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SLRC.US&back=HIPS
+TSLX	SIXTH STREET SPECIALTY LENDING, INC.	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLX.US&back=HIPS
+NLY	ANNALY CAP MGMT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NLY.US&back=HIPS
+AGNC	AGNC INVT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AGNC.US&back=HIPS
+TPVG	TriplePoint Venture Growth BDC	/etf/ea/ETZCW.djhtm?c=1&etfid=TPVG.US&back=HIPS
+BRMK	Broadmark Realty Capital Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRMK.US&back=HIPS
+CIM	CHIMERA INVT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CIM.US&back=HIPS

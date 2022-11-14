@@ -1,0 +1,83 @@
+PNQI
+AMZN	Amazon.com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=PNQI
+MSFT	Microsoft Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=PNQI
+GOOG	Alphabet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=PNQI
+DIS	Walt Disney Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=PNQI
+META	Meta Platforms Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=PNQI
+NFLX	Netflix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NFLX.US&back=PNQI
+CRM	Salesforce Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=PNQI
+PYPL	PayPal Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PYPL.US&back=PNQI
+BKNG	Booking Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BKNG.US&back=PNQI
+BABA	Alibaba Group Holding Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BABA.US&back=PNQI
+ADBE	Adobe Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=PNQI
+UBER	Uber Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=PNQI
+ABNB	Airbnb Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=PNQI
+MELI	MercadoLibre Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MELI.US&back=PNQI
+TWTR	Twitter Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TWTR.US&back=PNQI
+SHOP	Shopify Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SHOP.US&back=PNQI
+CSGP	CoStar Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGP.US&back=PNQI
+JD	JD.com Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=JD.US&back=PNQI
+BIDU	Baidu Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BIDU.US&back=PNQI
+SE	Sea Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=SE.US&back=PNQI
+EBAY	eBay Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBAY.US&back=PNQI
+VRSN	VeriSign Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VRSN.US&back=PNQI
+ZM	Zoom Video Communications Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=PNQI
+SPOT	Spotify Technology SA	/etf/ea/ETZCW.djhtm?c=1&etfid=SPOT.US&back=PNQI
+EXPE	Expedia Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EXPE.US&back=PNQI
+SNAP	Snap Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNAP.US&back=PNQI
+PCTY	Paylocity Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PCTY.US&back=PNQI
+AKAM	Akamai Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AKAM.US&back=PNQI
+TCOM	Trip.com Group Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=TCOM.US&back=PNQI
+NTES	NetEase Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NTES.US&back=PNQI
+COIN	Coinbase Global Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=PNQI
+GDDY	GoDaddy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GDDY.US&back=PNQI
+DOCU	DocuSign Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCU.US&back=PNQI
+OKTA	Okta Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OKTA.US&back=PNQI
+OTEX	Open Text Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=OTEX.US&back=PNQI
+ROKU	Roku Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROKU.US&back=PNQI
+DKNG	DraftKings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DKNG.US&back=PNQI
+DBX	Dropbox Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DBX.US&back=PNQI
+Z	Zillow Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=Z.US&back=PNQI
+LYFT	Lyft Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LYFT.US&back=PNQI
+WIX	Wix.com Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=WIX.US&back=PNQI
+SPSC	SPS Commerce Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SPSC.US&back=PNQI
+COUP	Coupa Software Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COUP.US&back=PNQI
+VIPS	Vipshop Holdings Ltd ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=VIPS.US&back=PNQI
+GLBE	Global-e Online Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=GLBE.US&back=PNQI
+TDOC	Teladoc Health Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TDOC.US&back=PNQI
+GTLB	Gitlab Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GTLB.US&back=PNQI
+NEWR	New Relic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NEWR.US&back=PNQI
+BOX	Box Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BOX.US&back=PNQI
+CHWY	Chewy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHWY.US&back=PNQI
+DLO	Dlocal Ltd/Uruguay	/etf/ea/ETZCW.djhtm?c=1&etfid=DLO.US&back=PNQI
+ALRM	Alarm.com Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ALRM.US&back=PNQI
+ZD	Ziff Davis Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZD.US&back=PNQI
+TRIP	TripAdvisor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TRIP.US&back=PNQI
+CHGG	Chegg Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHGG.US&back=PNQI
+W	Wayfair Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=W.US&back=PNQI
+ENV	Envestnet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENV.US&back=PNQI
+YELP	Yelp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=YELP.US&back=PNQI
+CVNA	Carvana Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CVNA.US&back=PNQI
+MMYT	MakeMyTrip Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=MMYT.US&back=PNQI
+BILI	Bilibili Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=BILI.US&back=PNQI
+ATHM	Autohome Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=ATHM.US&back=PNQI
+SSTK	Shutterstock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SSTK.US&back=PNQI
+CRTO	Criteo SA ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=CRTO.US&back=PNQI
+YY	JOYY Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=YY.US&back=PNQI
+	Invesco Government & Agency Portfolio	
+FSLY	Fastly Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLY.US&back=PNQI
+OSTK	Overstock.com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OSTK.US&back=PNQI
+PRO	PROS Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRO.US&back=PNQI
+MOMO	Hello Group Inc ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=MOMO.US&back=PNQI
+CARS	Cars.com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CARS.US&back=PNQI
+LPSN	LivePerson Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LPSN.US&back=PNQI
+RDFN	Redfin Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RDFN.US&back=PNQI
+TWOU	2U Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TWOU.US&back=PNQI
+EB	Eventbrite Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EB.US&back=PNQI
+PETS	PetMed Express Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PETS.US&back=PNQI
+GDRX	GoodRx Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GDRX.US&back=PNQI
+SFIX	Stitch Fix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SFIX.US&back=PNQI
+BCOV	Brightcove Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BCOV.US&back=PNQI
+LE	Lands' End Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LE.US&back=PNQI
+EGAN	eGain Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=EGAN.US&back=PNQI
+FLWS	1-800-Flowers.com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLWS.US&back=PNQI

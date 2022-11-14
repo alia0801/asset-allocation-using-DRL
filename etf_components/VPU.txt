@@ -1,0 +1,21 @@
+VPU
+NEE	NextEra Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NEE.US&back=VPU
+DUK	Duke Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=DUK.US&back=VPU
+SO	Southern Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=SO.US&back=VPU
+D	Dominion Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=D.US&back=VPU
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=VPU
+AEP	American Electric Power Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEP.US&back=VPU
+EXC	Exelon Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=EXC.US&back=VPU
+XEL	Xcel Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=XEL.US&back=VPU
+ED	Consolidated Edison Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ED.US&back=VPU
+WEC	WEC Energy Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WEC.US&back=VPU
+PEG	Public Service Enterprise Group Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PEG.US&back=VPU
+ES	Eversource Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=ES.US&back=VPU
+AWK	American Water Works Co. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AWK.US&back=VPU
+CEG	Constellation Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=VPU
+EIX	Edison International	/etf/ea/ETZCW.djhtm?c=1&etfid=EIX.US&back=VPU
+DTE	DTE Energy Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=DTE.US&back=VPU
+ETR	Entergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ETR.US&back=VPU
+AEE	Ameren Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=AEE.US&back=VPU
+FE	FirstEnergy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FE.US&back=VPU
+PPL	PPL Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=PPL.US&back=VPU

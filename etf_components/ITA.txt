@@ -1,0 +1,41 @@
+ITA
+RTX	RAYTHEON TECHNOLOGIES CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=RTX.US&back=ITA
+LMT	LOCKHEED MARTIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=ITA
+BA	BOEING	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=ITA
+NOC	NORTHROP GRUMMAN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=NOC.US&back=ITA
+GD	GENERAL DYNAMICS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=ITA
+TDG	TRANSDIGM GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDG.US&back=ITA
+HWM	HOWMET AEROSPACE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=ITA
+LHX	L3HARRIS TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=LHX.US&back=ITA
+TXT	TEXTRON INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TXT.US&back=ITA
+HII	HUNTINGTON INGALLS INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=HII.US&back=ITA
+HEI.A	HEICO CORP CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.A.US&back=ITA
+AXON	AXON ENTERPRISE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AXON.US&back=ITA
+	RBC BEARINGS INC	
+HEI	HEICO CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HEI.US&back=ITA
+CW	CURTISS WRIGHT CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=CW.US&back=ITA
+WWD	WOODWARD INC	/etf/ea/ETZCW.djhtm?c=1&etfid=WWD.US&back=ITA
+HXL	HEXCEL CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=HXL.US&back=ITA
+BWXT	BWX TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BWXT.US&back=ITA
+AJRD	AEROJET ROCKETDYNE HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AJRD.US&back=ITA
+SPR	SPIRIT AEROSYSTEMS INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=SPR.US&back=ITA
+MRCY	MERCURY SYSTEMS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MRCY.US&back=ITA
+MOG.A	MOOG INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=MOG.A.US&back=ITA
+AVAV	AEROVIRONMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVAV.US&back=ITA
+MAXR	MAXAR TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MAXR.US&back=ITA
+KTOS	KRATOS DEFENSE AND SECURITY SOLUTI	/etf/ea/ETZCW.djhtm?c=1&etfid=KTOS.US&back=ITA
+AIR	AAR CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=AIR.US&back=ITA
+PSN	PARSONS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=PSN.US&back=ITA
+SPCE	VIRGIN GALACTIC HOLDINGS INC SHS C	/etf/ea/ETZCW.djhtm?c=1&etfid=SPCE.US&back=ITA
+RGR	STURM RUGER INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RGR.US&back=ITA
+KAMN	KAMAN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=KAMN.US&back=ITA
+TGI	TRIUMPH GROUP INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TGI.US&back=ITA
+RKLB	ROCKET LAB USA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=RKLB.US&back=ITA
+	USD CASH	
+SWBI	SMITH WESSON BRANDS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SWBI.US&back=ITA
+ACHR	ARCHER AVIATION INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHR.US&back=ITA
+NPK	NATIONAL PRESTO INDUSTRIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=NPK.US&back=ITA
+	BLK CSH FND TREASURY SL AGENCY	
+ASTR	ASTRA SPACE INC CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=ASTR.US&back=ITA
+	CASH COLLATERAL USD WFFUT	
+	XAI INDUSTRIAL SEP 22	

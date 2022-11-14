@@ -1,0 +1,121 @@
+XSVM
+CCRN	Cross Country Healthcare Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CCRN.US&back=XSVM
+AAWW	Atlas Air Worldwide Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AAWW.US&back=XSVM
+SNEX	StoneX Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SNEX.US&back=XSVM
+CONN	Conn's Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CONN.US&back=XSVM
+FDP	Fresh Del Monte Produce Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FDP.US&back=XSVM
+ZEUS	Olympic Steel Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZEUS.US&back=XSVM
+GEO	GEO Group Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=GEO.US&back=XSVM
+COOP	Mr Cooper Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=COOP.US&back=XSVM
+EZPW	EZCORP Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EZPW.US&back=XSVM
+ANDE	Andersons Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=ANDE.US&back=XSVM
+ITOS	iTeos Therapeutics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ITOS.US&back=XSVM
+GPI	Group 1 Automotive Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GPI.US&back=XSVM
+ASO	Academy Sports & Outdoors Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ASO.US&back=XSVM
+SPTN	SpartanNash Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTN.US&back=XSVM
+ATGE	Adtalem Global Education Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATGE.US&back=XSVM
+SENEA	Seneca Foods Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SENEA.US&back=XSVM
+UNFI	United Natural Foods Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UNFI.US&back=XSVM
+AEL	American Equity Investment Life Holding Co	/etf/ea/ETZCW.djhtm?c=1&etfid=AEL.US&back=XSVM
+PBF	PBF Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=XSVM
+ANF	Abercrombie & Fitch Co	/etf/ea/ETZCW.djhtm?c=1&etfid=ANF.US&back=XSVM
+STC	Stewart Information Services Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=STC.US&back=XSVM
+SIG	Signet Jewelers Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=SIG.US&back=XSVM
+ENVA	Enova International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ENVA.US&back=XSVM
+SANM	Sanmina Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SANM.US&back=XSVM
+CLW	Clearwater Paper Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CLW.US&back=XSVM
+BCC	Boise Cascade Co	/etf/ea/ETZCW.djhtm?c=1&etfid=BCC.US&back=XSVM
+CATO	Cato Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=CATO.US&back=XSVM
+MERC	Mercer International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MERC.US&back=XSVM
+ABG	Asbury Automotive Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABG.US&back=XSVM
+CNXN	PC Connection Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CNXN.US&back=XSVM
+PRDO	Perdoceo Education Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PRDO.US&back=XSVM
+UFCS	United Fire Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UFCS.US&back=XSVM
+TBI	TrueBlue Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TBI.US&back=XSVM
+AGO	Assured Guaranty Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AGO.US&back=XSVM
+ARCB	ArcBest Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ARCB.US&back=XSVM
+MLI	Mueller Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MLI.US&back=XSVM
+HAFC	Hanmi Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HAFC.US&back=XSVM
+UVE	Universal Insurance Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UVE.US&back=XSVM
+PRA	ProAssurance Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PRA.US&back=XSVM
+WIRE	Encore Wire Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=WIRE.US&back=XSVM
+SCSC	ScanSource Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SCSC.US&back=XSVM
+ECPG	Encore Capital Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ECPG.US&back=XSVM
+ODP	ODP Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=ODP.US&back=XSVM
+GCO	Genesco Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GCO.US&back=XSVM
+HOPE	Hope Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HOPE.US&back=XSVM
+STBA	S&T Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STBA.US&back=XSVM
+GIII	G-III Apparel Group Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=GIII.US&back=XSVM
+REX	REX American Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=REX.US&back=XSVM
+TTMI	TTM Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TTMI.US&back=XSVM
+ETD	Ethan Allen Interiors Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ETD.US&back=XSVM
+LPG	Dorian LPG Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=LPG.US&back=XSVM
+AOSL	Alpha & Omega Semiconductor Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=AOSL.US&back=XSVM
+CHS	Chico's FAS Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHS.US&back=XSVM
+FLGT	Fulgent Genetics Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=FLGT.US&back=XSVM
+SCVL	Shoe Carnival Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SCVL.US&back=XSVM
+CUBI	Customers Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CUBI.US&back=XSVM
+FSP	Franklin Street Properties Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FSP.US&back=XSVM
+MATX	Matson Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MATX.US&back=XSVM
+BHLB	Berkshire Hills Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BHLB.US&back=XSVM
+UFPI	UFP Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UFPI.US&back=XSVM
+EPC	Edgewell Personal Care Co	/etf/ea/ETZCW.djhtm?c=1&etfid=EPC.US&back=XSVM
+HUBG	Hub Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HUBG.US&back=XSVM
+KREF	KKR Real Estate Finance Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KREF.US&back=XSVM
+CAL	Caleres Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CAL.US&back=XSVM
+STAR	iStar Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STAR.US&back=XSVM
+HMN	Horace Mann Educators Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=HMN.US&back=XSVM
+OMI	Owens & Minor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OMI.US&back=XSVM
+SXC	SunCoke Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SXC.US&back=XSVM
+DCOM	Dime Community Bancshares Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DCOM.US&back=XSVM
+RGP	Resources Connection Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RGP.US&back=XSVM
+RC	Ready Capital Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=RC.US&back=XSVM
+PRAA	PRA Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PRAA.US&back=XSVM
+BANR	Banner Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BANR.US&back=XSVM
+NSIT	Insight Enterprises Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NSIT.US&back=XSVM
+RWT	Redwood Trust Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RWT.US&back=XSVM
+UCBI	United Community Banks Inc/GA	/etf/ea/ETZCW.djhtm?c=1&etfid=UCBI.US&back=XSVM
+FBNC	First Bancorp/Southern Pines NC	/etf/ea/ETZCW.djhtm?c=1&etfid=FBNC.US&back=XSVM
+EGBN	Eagle Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EGBN.US&back=XSVM
+EIG	Employers Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EIG.US&back=XSVM
+SMP	Standard Motor Products Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SMP.US&back=XSVM
+PFS	Provident Financial Services Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PFS.US&back=XSVM
+SCHL	Scholastic Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHL.US&back=XSVM
+FCF	First Commonwealth Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FCF.US&back=XSVM
+CYH	Community Health Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CYH.US&back=XSVM
+CPF	Central Pacific Financial Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CPF.US&back=XSVM
+GMS	GMS Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GMS.US&back=XSVM
+BRKL	Brookline Bancorp Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRKL.US&back=XSVM
+OFG	OFG Bancorp	/etf/ea/ETZCW.djhtm?c=1&etfid=OFG.US&back=XSVM
+EFC	Ellington Financial Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EFC.US&back=XSVM
+HCC	Warrior Met Coal Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HCC.US&back=XSVM
+PIPR	Piper Sandler Cos	/etf/ea/ETZCW.djhtm?c=1&etfid=PIPR.US&back=XSVM
+UVV	Universal Corp/VA	/etf/ea/ETZCW.djhtm?c=1&etfid=UVV.US&back=XSVM
+MOV	Movado Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MOV.US&back=XSVM
+GCI	Gannett Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GCI.US&back=XSVM
+VSTO	Vista Outdoor Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VSTO.US&back=XSVM
+DXPE	DXP Enterprises Inc/TX	/etf/ea/ETZCW.djhtm?c=1&etfid=DXPE.US&back=XSVM
+VRTV	Veritiv Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=VRTV.US&back=XSVM
+HMST	HomeStreet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HMST.US&back=XSVM
+HLX	Helix Energy Solutions Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLX.US&back=XSVM
+BANC	Banc of California Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BANC.US&back=XSVM
+TMST	TimkenSteel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=TMST.US&back=XSVM
+DNOW	NOW Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DNOW.US&back=XSVM
+CXW	CoreCivic Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CXW.US&back=XSVM
+MDRX	Allscripts Healthcare Solutions Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDRX.US&back=XSVM
+NPO	EnPro Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NPO.US&back=XSVM
+THRY	Thryv Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=THRY.US&back=XSVM
+ABM	ABM Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ABM.US&back=XSVM
+ASIX	AdvanSix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ASIX.US&back=XSVM
+GBX	Greenbrier Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=GBX.US&back=XSVM
+VBTX	Veritex Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VBTX.US&back=XSVM
+BGS	B&G Foods Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BGS.US&back=XSVM
+EBIX	Ebix Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EBIX.US&back=XSVM
+TSE	Trinseo PLC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSE.US&back=XSVM
+CLDT	Chatham Lodging Trust	/etf/ea/ETZCW.djhtm?c=1&etfid=CLDT.US&back=XSVM
+BSIG	Brightsphere Investment Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BSIG.US&back=XSVM
+CPE	Callon Petroleum Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CPE.US&back=XSVM
+IIIN	Insteel Industries Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IIIN.US&back=XSVM
+TILE	Interface Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TILE.US&back=XSVM
+OIS	Oil States International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OIS.US&back=XSVM
+	Invesco Government & Agency Portfolio	

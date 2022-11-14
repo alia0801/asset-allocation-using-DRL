@@ -1,0 +1,41 @@
+XSD
+FSLR	First Solar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=XSD
+PI	Impinj Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PI.US&back=XSD
+WOLF	Wolfspeed Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WOLF.US&back=XSD
+SPWR	SunPower Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SPWR.US&back=XSD
+ON	ON Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=XSD
+LSCC	Lattice Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LSCC.US&back=XSD
+RMBS	Rambus Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RMBS.US&back=XSD
+MTSI	MACOM Technology Solutions Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MTSI.US&back=XSD
+MPWR	Monolithic Power Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MPWR.US&back=XSD
+TXN	Texas Instruments Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=TXN.US&back=XSD
+AOSL	Alpha and Omega Semiconductor Limited	/etf/ea/ETZCW.djhtm?c=1&etfid=AOSL.US&back=XSD
+MCHP	Microchip Technology Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=XSD
+ALGM	Allegro MicroSystems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALGM.US&back=XSD
+DIOD	Diodes Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=DIOD.US&back=XSD
+QCOM	Qualcomm Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=QCOM.US&back=XSD
+CRUS	Cirrus Logic Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRUS.US&back=XSD
+SWKS	Skyworks Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWKS.US&back=XSD
+ADI	Analog Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ADI.US&back=XSD
+OLED	Universal Display Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OLED.US&back=XSD
+AVGO	Broadcom Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVGO.US&back=XSD
+NXPI	NXP Semiconductors NV	/etf/ea/ETZCW.djhtm?c=1&etfid=NXPI.US&back=XSD
+MXL	MaxLinear Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MXL.US&back=XSD
+POWI	Power Integrations Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=POWI.US&back=XSD
+MU	Micron Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MU.US&back=XSD
+SLAB	Silicon Laboratories Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SLAB.US&back=XSD
+AMD	Advanced Micro Devices Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMD.US&back=XSD
+NVDA	NVIDIA Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVDA.US&back=XSD
+QRVO	Qorvo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=QRVO.US&back=XSD
+AMBA	Ambarella Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AMBA.US&back=XSD
+MRVL	Marvell Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=XSD
+SYNA	Synaptics Incorporated	/etf/ea/ETZCW.djhtm?c=1&etfid=SYNA.US&back=XSD
+INTC	Intel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=XSD
+SGH	SMART Global Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SGH.US&back=XSD
+SMTC	Semtech Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SMTC.US&back=XSD
+INDI	indie Semiconductor Inc. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=INDI.US&back=XSD
+NVTS	Navitas Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVTS.US&back=XSD
+SITM	SiTime Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SITM.US&back=XSD
+MMAT	Meta Materials Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MMAT.US&back=XSD
+CEVA	CEVA Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CEVA.US&back=XSD
+	STATE STREET INSTITUTIONAL LIQ STATE STR	

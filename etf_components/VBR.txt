@@ -1,0 +1,21 @@
+VBR
+PWR	Quanta Services Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PWR.US&back=VBR
+MOH	Molina Healthcare Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MOH.US&back=VBR
+ATO	Atmos Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATO.US&back=VBR
+CSL	Carlisle Cos. Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CSL.US&back=VBR
+BG	Bunge Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=VBR
+IEX	IDEX Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=IEX.US&back=VBR
+BRO	Brown & Brown Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRO.US&back=VBR
+STLD	Steel Dynamics Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=STLD.US&back=VBR
+OVV	Ovintiv Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=OVV.US&back=VBR
+APA	APA Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=APA.US&back=VBR
+HWM	Howmet Aerospace Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HWM.US&back=VBR
+CEG	Constellation Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=VBR
+KIM	Kimco Realty Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=KIM.US&back=VBR
+CHK	Chesapeake Energy Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=CHK.US&back=VBR
+BAH	Booz Allen Hamilton Holding Corp. Class A	/etf/ea/ETZCW.djhtm?c=1&etfid=BAH.US&back=VBR
+FHN	First Horizon National Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=FHN.US&back=VBR
+FSLR	First Solar Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=FSLR.US&back=VBR
+RPM	RPM International Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RPM.US&back=VBR
+RS	Reliance Steel & Aluminum Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=RS.US&back=VBR
+WTRG	Essential Utilities Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WTRG.US&back=VBR

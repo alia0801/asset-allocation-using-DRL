@@ -1,0 +1,59 @@
+BSCM
+	United States Treasury Bill 0 10/20/2022	
+	United States Treasury Bill 0 11/17/2022	
+	AbbVie Inc 2.3 11/21/2022	
+	AbbVie Inc 2.9 11/06/2022	
+	Oracle Corp 2.5 10/15/2022	
+	Visa Inc 2.8 12/14/2022	
+	Morgan Stanley 4.88 11/01/2022	
+	United States Treasury Bill 0 12/15/2022	
+	Centene Corp 4.25 12/15/2027	
+	Cash/Receivables/Payables 0	
+	Barclays Bank PLC 7.62 11/21/2022	
+	Intel Corp 2.7 12/15/2022	
+	NatWest Group PLC 6.12 12/15/2022	
+	Sumitomo Mitsui Financial Group Inc 2.78 10/18/2022	
+	Walmart Inc 2.35 12/15/2022	
+	Amazon.com Inc 2.5 11/29/2022	
+	American Express Co 2.65 12/02/2022	
+	Deutsche Bank AG/New York NY 3.3 11/16/2022	
+	PNC Bank NA 2.7 11/01/2022	
+	General Dynamics Corp 2.25 11/15/2022	
+	Comcast Cable Communications Holdings Inc 9.46 11/15/2022	
+	Chubb INA Holdings Inc 2.88 11/03/2022	
+	Toyota Motor Credit Corp 0.35 10/14/2022	
+	BP Capital Markets PLC 2.5 11/06/2022	
+	Bank of Montreal 2.55 11/06/2022	
+	TWDC Enterprises 18 Corp 2.35 12/01/2022	
+	MPT Operating Partnership LP / MPT Finance Corp 5 10/15/2027	
+	International Business Machines Corp 2.88 11/09/2022	
+	UnitedHealth Group Inc 2.38 10/15/2022	
+	Microchip Technology Inc 4.25 09/01/2025	
+	DTE Energy Co 0.55 11/01/2022	
+	MUFG Union Bank NA 2.1 12/09/2022	
+	Philip Morris International Inc 2.5 11/02/2022	
+	Microsoft Corp 2.12 11/15/2022	
+	Caterpillar Financial Services Corp 1.95 11/18/2022	
+	Elevance Health Inc 2.95 12/01/2022	
+	Public Service Enterprise Group Inc 2.65 11/15/2022	
+	DH Europe Finance II Sarl 2.05 11/15/2022	
+	General Electric Co 2.7 10/09/2022	
+	Humana Inc 3.15 12/01/2022	
+	Caterpillar Financial Services Corp 2.55 11/29/2022	
+	M&T Bank Corp 3.65 12/06/2022	
+	PNC Financial Services Group Inc/The 2.85 11/09/2022	
+	Mosaic Co/The 3.25 11/15/2022	
+	Hyatt Hotels Corp 1.8 10/01/2024	
+	American Honda Finance Corp 0.4 10/21/2022	
+	Equifax Inc 3.3 12/15/2022	
+	Aon Corp 2.2 11/15/2022	
+	American Honda Finance Corp 2.6 11/16/2022	
+	DTE Energy Co 2.25 11/01/2022	
+	United Rentals North America Inc 3.88 11/15/2027	
+	SL Green Operating Partnership LP 3.25 10/15/2022	
+	CommonSpirit Health 2.95 11/01/2022	
+	Discover Financial Services 3.85 11/21/2022	
+	General Mills Inc 2.6 10/12/2022	
+	Celanese US Holdings LLC 4.62 11/15/2022	
+	Nasdaq Inc 0.45 12/21/2022	
+	Invesco Government & Agency Portfolio	

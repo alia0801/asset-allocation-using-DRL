@@ -1,0 +1,102 @@
+FPX
+CTVA	Corteva Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CTVA.US&back=FPX
+CRWD	CrowdStrike Holdings,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=CRWD.US&back=FPX
+GD	General Dynamics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=GD.US&back=FPX
+ABNB	Airbnb,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ABNB.US&back=FPX
+KDP	Keurig Dr Pepper Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=FPX
+ON	ON Semiconductor Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ON.US&back=FPX
+TMUS	T-Mobile US,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMUS.US&back=FPX
+PXD	Pioneer Natural Resources Company	/etf/ea/ETZCW.djhtm?c=1&etfid=PXD.US&back=FPX
+MRVL	Marvell Technology Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MRVL.US&back=FPX
+UBER	Uber Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=UBER.US&back=FPX
+SWAV	Shockwave Medical,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=SWAV.US&back=FPX
+MKL	Markel Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MKL.US&back=FPX
+UTHR	United Therapeutics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=UTHR.US&back=FPX
+RSG	Republic Services,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=RSG.US&back=FPX
+TW	Tradeweb Markets Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TW.US&back=FPX
+LLY	Eli Lilly and Company	/etf/ea/ETZCW.djhtm?c=1&etfid=LLY.US&back=FPX
+ACI	Albertsons Companies,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=FPX
+LNG	Cheniere Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LNG.US&back=FPX
+CRM	Salesforce,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=FPX
+SRE	Sempra Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=SRE.US&back=FPX
+DOW	Dow Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOW.US&back=FPX
+EVRG	Evergy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVRG.US&back=FPX
+RRC	Range Resources Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=RRC.US&back=FPX
+MDB	MongoDB,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=MDB.US&back=FPX
+SQ	Block Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SQ.US&back=FPX
+BMBL	Bumble Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=BMBL.US&back=FPX
+OGN	Organon & Co.	/etf/ea/ETZCW.djhtm?c=1&etfid=OGN.US&back=FPX
+SWCH	Switch,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SWCH.US&back=FPX
+DELL	Dell Technologies Inc. (Class C)	/etf/ea/ETZCW.djhtm?c=1&etfid=DELL.US&back=FPX
+ALC	Alcon Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ALC.US&back=FPX
+CEG	Constellation Energy	/etf/ea/ETZCW.djhtm?c=1&etfid=CEG.US&back=FPX
+J	Jacobs Solutions Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=J.US&back=FPX
+CMI	Cummins Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CMI.US&back=FPX
+NVST	Envista Holdings Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=NVST.US&back=FPX
+RIVN	Rivian Automotive,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=RIVN.US&back=FPX
+DXC	DXC Technology Company	/etf/ea/ETZCW.djhtm?c=1&etfid=DXC.US&back=FPX
+HQY	HealthEquity,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HQY.US&back=FPX
+	Change Healthcare,Inc.	
+TMX	Terminix Global Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TMX.US&back=FPX
+LTHM	Livent Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=LTHM.US&back=FPX
+CHX	ChampionX Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CHX.US&back=FPX
+DDOG	Datadog,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DDOG.US&back=FPX
+CARR	Carrier Global Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=CARR.US&back=FPX
+RYAN	Ryan Specialty Holdings,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=RYAN.US&back=FPX
+ACT	Enact Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ACT.US&back=FPX
+OTIS	Otis Worldwide Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=OTIS.US&back=FPX
+GO	Grocery Outlet Holding Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=GO.US&back=FPX
+DUOL	Duolingo,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DUOL.US&back=FPX
+BLCO	Bausch + Lomb Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=BLCO.US&back=FPX
+MGY	Magnolia Oil & Gas Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=MGY.US&back=FPX
+RPRX	Royalty Pharma Plc (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=RPRX.US&back=FPX
+BRBR	Bellring Brands Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BRBR.US&back=FPX
+DASH	DoorDash,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DASH.US&back=FPX
+ZM	Zoom Video Communications,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZM.US&back=FPX
+RBLX	Roblox Corporation (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=RBLX.US&back=FPX
+COIN	Coinbase Global,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=COIN.US&back=FPX
+PRVA	Privia Health Group,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PRVA.US&back=FPX
+PSN	Parsons Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PSN.US&back=FPX
+PECO	Phillips Edison & Company,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=PECO.US&back=FPX
+AVTR	Avantor,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AVTR.US&back=FPX
+ATKR	Atkore Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ATKR.US&back=FPX
+ZI	ZoomInfo Technologies Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=ZI.US&back=FPX
+GTLB	GitLab Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=GTLB.US&back=FPX
+AXNX	Axonics Modulation Technologies,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=AXNX.US&back=FPX
+BILL	Bill.com Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=BILL.US&back=FPX
+ORCC	Owl Rock Capital Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=ORCC.US&back=FPX
+NAPA	The Duckhorn Portfolio,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NAPA.US&back=FPX
+SMPL	The Simply Good Foods Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SMPL.US&back=FPX
+PFHC	ProFrac Holding Corp. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=PFHC.US&back=FPX
+LEGN	Legend Biotech Corporation (ADR)	/etf/ea/ETZCW.djhtm?c=1&etfid=LEGN.US&back=FPX
+EE	Excelerate Energy,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=EE.US&back=FPX
+TPG	TPG Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TPG.US&back=FPX
+HRMY	Harmony Biosciences Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HRMY.US&back=FPX
+IONS	Ionis Pharmaceuticals,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=IONS.US&back=FPX
+NFE	New Fortress Energy Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NFE.US&back=FPX
+SHC	Sotera Health Company	/etf/ea/ETZCW.djhtm?c=1&etfid=SHC.US&back=FPX
+ASO	Academy Sports and Outdoors,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ASO.US&back=FPX
+CRDO	Credo Technology Group Holding Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=CRDO.US&back=FPX
+TWNK	Hostess Brands,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=TWNK.US&back=FPX
+WBD	Warner Bros. Discovery,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WBD.US&back=FPX
+VRNT	Verint Systems Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=VRNT.US&back=FPX
+WSC	WillScot Mobile Mini Holdings Corp.	/etf/ea/ETZCW.djhtm?c=1&etfid=WSC.US&back=FPX
+PRCT	PROCEPT BioRobotics Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=PRCT.US&back=FPX
+MQ	Marqeta,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=MQ.US&back=FPX
+WOW	WideOpenWest,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=WOW.US&back=FPX
+EVGO	EVgo Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=EVGO.US&back=FPX
+	US Dollar	
+TENB	Tenable Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=TENB.US&back=FPX
+HPK	HighPeak Energy,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HPK.US&back=FPX
+DOCS	Doximity,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCS.US&back=FPX
+HI	Hillenbrand,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=HI.US&back=FPX
+LITE	Lumentum Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=LITE.US&back=FPX
+GTN	Gray Television,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=GTN.US&back=FPX
+DRVN	Driven Brands Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DRVN.US&back=FPX
+DSEY	Diversey Holdings,Ltd.	/etf/ea/ETZCW.djhtm?c=1&etfid=DSEY.US&back=FPX
+DOCN	DigitalOcean Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=DOCN.US&back=FPX
+CERE	Cerevel Therapeutics Holdings,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=CERE.US&back=FPX
+ESTA	Establishment Labs Holdings Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=ESTA.US&back=FPX
+NARI	Inari Medical,Inc.	/etf/ea/ETZCW.djhtm?c=1&etfid=NARI.US&back=FPX
+SPT	Sprout Social,Inc. (Class A)	/etf/ea/ETZCW.djhtm?c=1&etfid=SPT.US&back=FPX
+SITM	Sitime Corporation	/etf/ea/ETZCW.djhtm?c=1&etfid=SITM.US&back=FPX

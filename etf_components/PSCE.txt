@@ -1,0 +1,29 @@
+PSCE
+SM	SM Energy Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SM.US&back=PSCE
+HP	Helmerich & Payne Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HP.US&back=PSCE
+PBF	PBF Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PBF.US&back=PSCE
+CIVI	Civitas Resources Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CIVI.US&back=PSCE
+CEIX	CONSOL Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CEIX.US&back=PSCE
+INT	World Fuel Services Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INT.US&back=PSCE
+CPE	Callon Petroleum Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CPE.US&back=PSCE
+PTEN	Patterson-UTI Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PTEN.US&back=PSCE
+GPRE	Green Plains Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GPRE.US&back=PSCE
+TALO	Talos Energy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TALO.US&back=PSCE
+LPI	Laredo Petroleum Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LPI.US&back=PSCE
+NBR	Nabors Industries Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=NBR.US&back=PSCE
+PARR	Par Pacific Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PARR.US&back=PSCE
+AROC	Archrock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AROC.US&back=PSCE
+SLCA	US Silica Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SLCA.US&back=PSCE
+OII	Oceaneering International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OII.US&back=PSCE
+PUMP	ProPetro Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=PUMP.US&back=PSCE
+DRQ	Dril-Quip Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=DRQ.US&back=PSCE
+CLB	Core Laboratories NV	/etf/ea/ETZCW.djhtm?c=1&etfid=CLB.US&back=PSCE
+ROCC	Ranger Oil Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=ROCC.US&back=PSCE
+RES	RPC Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=RES.US&back=PSCE
+VTOL	Bristow Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VTOL.US&back=PSCE
+HLX	Helix Energy Solutions Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HLX.US&back=PSCE
+REX	REX American Resources Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=REX.US&back=PSCE
+LPG	Dorian LPG Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=LPG.US&back=PSCE
+BOOM	DMC Global Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BOOM.US&back=PSCE
+OIS	Oil States International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=OIS.US&back=PSCE
+	Invesco Government & Agency Portfolio	

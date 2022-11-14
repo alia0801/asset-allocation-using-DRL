@@ -1,0 +1,85 @@
+PZT
+	New York State Dormitory Authority 4 02/15/2044	
+	New York Power Authority 4 11/15/2052	
+	Battery Park City Authority 5 11/01/2049	
+	Triborough Bridge & Tunnel Authority 5 11/15/2051	
+	Utility Debt Securitization Authority 5 12/15/2038	
+	City of New York NY 5 10/01/2039	
+	New York City Municipal Water Finance Authority 5 06/15/2048	
+	Long Island Power Authority 5 09/01/2041	
+	New York Convention Center Development Corp 5 11/15/2045	
+	Long Island Power Authority 5 09/01/2044	
+	New York Convention Center Development Corp 5 11/15/2040	
+	Brooklyn Arena Local Development Corp 5 07/15/2042	
+	City of New York NY 4 12/01/2043	
+	New York City Transitional Finance Authority Future Tax Secu 4 02/01/2043	
+	Triborough Bridge & Tunnel Authority 4 05/15/2046	
+	New York State Urban Development Corp 4 03/15/2044	
+	New York State Dormitory Authority 4 07/01/2047	
+	New York State Dormitory Authority 4 07/01/2050	
+	New York City Municipal Water Finance Authority 3.62 06/15/2048	
+	Metropolitan Transportation Authority 5 11/15/2046	
+	Port Authority of New York & New Jersey 5 09/01/2048	
+	Utility Debt Securitization Authority 5 12/15/2041	
+	New York State Dormitory Authority 4 07/01/2049	
+	New York City Transitional Finance Authority Future Tax Secu 5 02/01/2043	
+	Triborough Bridge & Tunnel Authority 5 11/15/2046	
+	New York City Transitional Finance Authority Future Tax Secu 4 11/01/2037	
+	New York State Thruway Authority 3 01/01/2049	
+	New York City Industrial Development Agency 3 03/01/2049	
+	MTA Hudson Rail Yards Trust Obligations 5 11/15/2051	
+	New York State Dormitory Authority 5 07/01/2050	
+	Triborough Bridge & Tunnel Authority 5.25 05/15/2052	
+	Triborough Bridge & Tunnel Authority 5 11/15/2037	
+	Triborough Bridge & Tunnel Authority 5 11/15/2038	
+	Port Authority of New York & New Jersey 5.25 10/15/2055	
+	New York State Environmental Facilities Corp 5 06/15/2041	
+	New York City Municipal Water Finance Authority 5 06/15/2050	
+	New York City Municipal Water Finance Authority 5 06/15/2051	
+	City of New York NY 5 12/01/2042	
+	City of New York NY 5 03/01/2038	
+	City of New York NY 5 08/01/2043	
+	New York State Dormitory Authority 5 02/15/2038	
+	New York State Urban Development Corp 5 03/15/2041	
+	Port Authority of New York & New Jersey 5 11/15/2047	
+	New York State Dormitory Authority 5 03/15/2043	
+	New York City Transitional Finance Authority Building Aid Re 5 07/15/2043	
+	New York State Thruway Authority 5 01/01/2046	
+	New York City Transitional Finance Authority Future Tax Secu 5 08/01/2045	
+	Guam Power Authority 5 10/01/2030	
+	Metropolitan Transportation Authority 5.25 11/15/2056	
+	Metropolitan Transportation Authority 5.25 11/15/2055	
+	Build NYC Resource Corp 5 07/01/2041	
+	New York City Transitional Finance Authority Future Tax Secu 4 11/01/2037	
+	Battery Park City Authority 4 11/01/2044	
+	New York City Transitional Finance Authority Building Aid Re 4 07/15/2046	
+	New York City Municipal Water Finance Authority 4 06/15/2051	
+	New York City Municipal Water Finance Authority 4 06/15/2050	
+	New York Liberty Development Corp 4 02/15/2043	
+	New York City Municipal Water Finance Authority 4 06/15/2049	
+	Metropolitan Transportation Authority 5 11/15/2044	
+	New York Transportation Development Corp 4 12/01/2042	
+	New York State Dormitory Authority 3 02/01/2050	
+	New York City Transitional Finance Authority Future Tax Secu 3 05/01/2048	
+	New York City Municipal Water Finance Authority 3 06/15/2050	
+	New York State Dormitory Authority 3 03/15/2049	
+	Broome County Local Development Corp 3 04/01/2045	
+	Port Authority of New York & New Jersey 4 07/15/2041	
+	New York State Dormitory Authority 5.5 07/01/2040	
+	Onondaga County Trust for Cultural Resources 5 12/01/2043	
+	Triborough Bridge & Tunnel Authority 5 11/15/2037	
+	New York State Dormitory Authority 5 07/01/2050	
+	City of New York NY 5 08/01/2038	
+	New York State Dormitory Authority 5 07/01/2046	
+	Port Authority of New York & New Jersey 4 07/15/2040	
+	Dutchess County Local Development Corp 5 07/01/2046	
+	Hudson Yards Infrastructure Corp 5 02/15/2042	
+	Metropolitan Transportation Authority 4 11/15/2049	
+	New York State Dormitory Authority 4.25 10/01/2051	
+	New York State Dormitory Authority 4 07/01/2050	
+	New York Transportation Development Corp 4 12/01/2039	
+	Monroe County Industrial Development Corp/NY 4 07/01/2050	
+	New York State Dormitory Authority 4 07/01/2045	
+	Cash/Receivables/Payables 0	
+	New York State Dormitory Authority 5 03/15/2042	
+	City of New York NY 5.5 05/01/2046	

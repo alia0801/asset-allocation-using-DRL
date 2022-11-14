@@ -1,0 +1,13 @@
+RLY
+GNR	SPDR S&P Global Natural Resources ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=GNR.US&back=RLY
+PDBC	Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=PDBC.US&back=RLY
+GII	SPDR S&P Global Infrastructure ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=GII.US&back=RLY
+TIPX	SPDR Bloomberg 1-10 Year TIPS ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=TIPX.US&back=RLY
+RWR	SPDR Dow Jones REIT ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=RWR.US&back=RLY
+XLE	Energy Select Sector SPDR Fund	/etf/ea/ETZCW.djhtm?c=1&etfid=XLE.US&back=RLY
+	Ssga Fds/Usa State St Inst Us Gov M Oef	
+XME	SPDR S&P Metals & Mining ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=XME.US&back=RLY
+WIP	SPDR FTSE International Government Inflation-Protected Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=WIP.US&back=RLY
+RWX	SPDR Dow Jones International Real Estate ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=RWX.US&back=RLY
+MOO	VanEck Agribusiness ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=MOO.US&back=RLY
+	U.S. Dollar	

@@ -1,0 +1,42 @@
+PSL
+COST	Costco Wholesale Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=COST.US&back=PSL
+SCI	Service Corp International/US	/etf/ea/ETZCW.djhtm?c=1&etfid=SCI.US&back=PSL
+KDP	Keurig Dr Pepper Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=KDP.US&back=PSL
+ADM	Archer-Daniels-Midland Co	/etf/ea/ETZCW.djhtm?c=1&etfid=ADM.US&back=PSL
+CHD	Church & Dwight Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CHD.US&back=PSL
+HSY	Hershey Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=HSY.US&back=PSL
+SYY	Sysco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=SYY.US&back=PSL
+PEP	PepsiCo Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PEP.US&back=PSL
+PG	Procter & Gamble Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=PG.US&back=PSL
+HRB	H&R Block Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HRB.US&back=PSL
+GIS	General Mills Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GIS.US&back=PSL
+CELH	Celsius Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CELH.US&back=PSL
+LW	Lamb Weston Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LW.US&back=PSL
+EL	Estee Lauder Cos Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=EL.US&back=PSL
+PFGC	Performance Food Group Co	/etf/ea/ETZCW.djhtm?c=1&etfid=PFGC.US&back=PSL
+BF.B	Brown-Forman Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=BF.B.US&back=PSL
+CASY	Casey's General Stores Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CASY.US&back=PSL
+MNST	Monster Beverage Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MNST.US&back=PSL
+KHC	Kraft Heinz Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=KHC.US&back=PSL
+MGPI	MGP Ingredients Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MGPI.US&back=PSL
+MDLZ	Mondelez International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDLZ.US&back=PSL
+PM	Philip Morris International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=PSL
+BG	Bunge Ltd	/etf/ea/ETZCW.djhtm?c=1&etfid=BG.US&back=PSL
+LRN	Stride Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LRN.US&back=PSL
+ELF	elf Beauty Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ELF.US&back=PSL
+KR	Kroger Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=KR.US&back=PSL
+SFM	Sprouts Farmers Market Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=SFM.US&back=PSL
+ACI	Albertsons Cos Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ACI.US&back=PSL
+SPTN	SpartanNash Co	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTN.US&back=PSL
+POST	Post Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=POST.US&back=PSL
+ANDE	Andersons Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=ANDE.US&back=PSL
+IMKTA	Ingles Markets Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IMKTA.US&back=PSL
+ATGE	Adtalem Global Education Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ATGE.US&back=PSL
+USFD	US Foods Holding Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=USFD.US&back=PSL
+IPAR	Inter Parfums Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=IPAR.US&back=PSL
+CHEF	Chefs' Warehouse Inc/The	/etf/ea/ETZCW.djhtm?c=1&etfid=CHEF.US&back=PSL
+LAUR	Laureate Education Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=LAUR.US&back=PSL
+CALM	Cal-Maine Foods Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CALM.US&back=PSL
+UTZ	Utz Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=UTZ.US&back=PSL
+FIZZ	National Beverage Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=FIZZ.US&back=PSL
+	Invesco Government & Agency Portfolio	

@@ -1,0 +1,321 @@
+VRP
+	General Electric Co 6.62 12/31/2099	
+	Wells Fargo & Co 3.9 12/31/2099	
+	JPMorgan Chase & Co 6.28 12/31/2049	
+	JPMorgan Chase & Co 4.6 12/31/2049	
+	JPMorgan Chase & Co 5.6 12/31/2049	
+	Citigroup Capital XIII 9.18 10/30/2040	
+	Charles Schwab Corp/The 5.38 12/31/2099	
+	BP Capital Markets PLC 4.38 12/31/2099	
+	BP Capital Markets PLC 4.88 12/31/2049	
+	JPMorgan Chase & Co 5 12/31/2049	
+	Bank of America Corp 5.88 12/31/2049	
+	JPMorgan Chase & Co 6.75 12/31/2049	
+	Vodafone Group PLC 7 04/04/2079	
+	Wells Fargo & Co 5.88 12/31/2049	
+	Bank of America Corp 6.25 12/31/2049	
+	Bank of America Corp 6.12 12/31/2099	
+	Citigroup Inc 3.88 12/31/2099	
+	Charles Schwab Corp/The 4 12/31/2049	
+	Charles Schwab Corp/The 4 12/31/2049	
+	Citigroup Inc 5.95 12/31/2099	
+	Wells Fargo & Co 5.9 12/31/2099	
+	Bank of America Corp 6.1 12/31/2049	
+	Citigroup Inc 6.3 12/31/2049	
+	JPMorgan Chase & Co 3.65 12/31/2059	
+	JPMorgan Chase & Co 6.1 12/31/2049	
+	Wells Fargo & Co 5.85	
+	Invesco Government & Agency Portfolio	
+	PNC Financial Services Group Inc/The 6.85	
+	Truist Financial Corp 4.8 12/31/2049	
+	Citigroup Inc 6.88	
+	Prudential Financial Inc 5.62 06/15/2043	
+	JPMorgan Chase & Co 6 12/31/2099	
+	Citigroup Inc 5.95 12/31/2049	
+	JPMorgan Chase & Co 5.15 12/29/2049	
+	Citigroup Inc 6.25 12/29/2049	
+	Bank of America Corp 6.5 12/31/2049	
+	Bank of America Corp 4.38 12/31/2099	
+	Goldman Sachs Group Inc/The 5 12/31/2049	
+	Citigroup Inc 5 12/31/2049	
+	Transcanada Trust 5.3 03/15/2077	
+	JPMorgan Chase & Co 4 12/31/2049	
+	Citigroup Inc 4 12/31/2049	
+	American Express Co 3.55 12/31/2049	
+	Citigroup Inc 5.35 12/31/2049	
+	Citigroup Inc 4.7 12/31/2049	
+	JPMorgan Chase & Co 4.62 12/31/2049	
+	Emera Inc 6.75 06/15/2076	
+	PNC Financial Services Group Inc/The 6.2 12/31/2099	
+	US Bancorp 3.7 12/31/2049	
+	Transcanada Trust 5.88 08/15/2076	
+	PNC Financial Services Group Inc/The 3.4 12/31/2049	
+	Southern Co/The 4 01/15/2051	
+	Bank of Nova Scotia/The 4.9 12/31/2049	
+	Bank of Nova Scotia/The 4.65 12/31/2049	
+	Prudential Financial Inc 6 09/01/2052	
+	Ally Financial Inc 4.7 12/31/2049	
+	Goldman Sachs Group Inc/The 4	
+	Bank of America Corp 6.45 12/15/2066	
+	Edison International 5.38 12/31/2049	
+	Bank of New York Mellon Corp/The 3.75 12/31/2059	
+	PNC Financial Services Group Inc/The 6.46 12/31/2049	
+	Morgan Stanley 6.38	
+	JPMorgan Chase & Co 6.12 12/31/2049	
+	Truist Financial Corp 4.95 12/31/2059	
+	Citigroup Inc 7.12	
+	Bank of America Corp 6.3 12/31/2049	
+	Goldman Sachs Group Inc/The 5.5	
+	Bank of America Corp 5.2 12/31/2049	
+	Transcanada Trust 5.5 09/15/2079	
+	Prudential Financial Inc 5.38 05/15/2045	
+	Morgan Stanley 5.85	
+	PNC Financial Services Group Inc/The 6 12/31/2059	
+	Prudential Financial Inc 5.7 09/15/2048	
+	Bank of New York Mellon Corp/The 4.7 12/31/2099	
+	Bank of America Corp 5.12 12/31/2049	
+	Energy Transfer LP 7.12 12/31/2049	
+	Enbridge Inc 5.5 07/15/2077	
+	Enbridge Inc 5.75 07/15/2080	
+	Duke Energy Corp 4.88 12/31/2049	
+	Bank of America Corp 4.3 12/31/2049	
+	Truist Financial Corp 5.1 12/31/2049	
+	Morgan Stanley 7.12	
+	MetLife Inc 3.85 12/31/2099	
+	Morgan Stanley 4	
+	Prudential Financial Inc 5.12 03/01/2052	
+	Bank of New York Mellon Corp/The 4.62 12/31/2049	
+	US Bancorp 5.3 12/31/2049	
+	Paramount Global 6.38 03/30/2062	
+	Wells Fargo & Co 6.62	
+	Athene Holding Ltd 6.35	
+	Enterprise Products Operating LLC 5.25 08/16/2077	
+	Sempra Energy 4.88 12/31/2049	
+	Morgan Stanley 6.88	
+	General Motors Financial Co Inc 5.75 12/31/2099	
+	Energy Transfer LP 6.5 12/31/2049	
+	Sempra Energy 4.12 04/01/2052	
+	Southern Co/The 3.75 09/15/2051	
+	US Bancorp 3.5	
+	TransCanada PipeLines Ltd 5.12 05/15/2067	
+	Energy Transfer LP 7.6	
+	Energy Transfer LP 6.25 12/31/2099	
+	Capital One Financial Corp 3.95 12/31/2049	
+	Citigroup Inc 4.15 12/31/2049	
+	CenterPoint Energy Inc 6.12 12/31/2049	
+	Enbridge Inc 6.25 03/01/2078	
+	State Street Corp 5.9	
+	SVB Financial Group 4 12/31/2049	
+	Voya Financial Inc 5.65 05/15/2053	
+	SVB Financial Group 4.25 12/31/2099	
+	Citigroup Inc 5.9 12/31/2049	
+	Allstate Corp/The 5.75 08/15/2053	
+	Ally Financial Inc 4.7 12/31/2049	
+	American International Group Inc 5.75 04/01/2048	
+	Aegon NV 5.5 04/11/2048	
+	Dominion Energy Inc 4.65 12/31/2049	
+	Transcanada Trust 5.62 05/20/2075	
+	Truist Financial Corp 6.39 12/31/2059	
+	Vodafone Group PLC 4.12 06/04/2081	
+	Transcanada Trust 5.6 03/07/2082	
+	Reinsurance Group of America Inc 7.12 10/15/2052	
+	Enbridge Inc 6 01/15/2077	
+	Goldman Sachs Group Inc/The 6.38	
+	Annaly Capital Management Inc 8.67	
+	AerCap Holdings NV 5.88 10/10/2079	
+	Dominion Energy Inc 4.35 12/31/2049	
+	Plains All American Pipeline LP 6.12 12/31/2099	
+	Charles Schwab Corp/The 5 12/31/2099	
+	Vodafone Group PLC 5.12 06/04/2081	
+	United Overseas Bank Ltd 3.88 12/31/2049	
+	Stanley Black & Decker Inc 4 03/15/2060	
+	Prudential Financial Inc 4.5 09/15/2047	
+	Prudential Financial Inc 3.7 10/01/2050	
+	Dominion Energy Inc 5.75 10/01/2054	
+	Edison International 5 12/31/2049	
+	Goldman Sachs Group Inc/The 3.75	
+	Goldman Sachs Group Inc/The 4.12 12/31/2059	
+	Goldman Sachs Group Inc/The 5.3 12/31/2049	
+	Algonquin Power & Utilities Corp 4.75 01/18/2082	
+	American Electric Power Co Inc 3.88 02/15/2062	
+	Athene Holding Ltd 6.38	
+	Markel Corp 6 12/31/2049	
+	Charles Schwab Corp/The 6.4 12/31/2049	
+	Goldman Sachs Group Inc/The 3.65 12/31/2049	
+	WESCO International Inc 10.62	
+	Paramount Global 6.25 02/28/2057	
+	Goldman Sachs Capital II 4 12/31/2049	
+	Fifth Third Bancorp 5.1 12/31/2049	
+	Enbridge Inc 6.38 04/15/2078	
+	Enbridge Inc 7.62 01/15/2083	
+	KeyCorp 6.2	
+	MetLife Inc 4.29	
+	Goldman Sachs Group Inc/The 3.8 12/31/2059	
+	SVB Financial Group 4.1 12/31/2099	
+	Southern Co/The 6.92 03/15/2057	
+	Enterprise Products Operating LLC 5.38 02/15/2078	
+	Goldman Sachs Group Inc/The 4.95 12/31/2049	
+	DCP Midstream LP 7.38 12/31/2049	
+	Bank of New York Mellon Corp/The 3.7 12/31/2049	
+	Regions Financial Corp 6.38	
+	PacWest Bancorp 7.75	
+	New York Community Bancorp Inc 6.38	
+	USB Capital IX 3.53 12/31/2049	
+	NiSource Inc 6.5	
+	KeyCorp 6.12	
+	PNC Financial Services Group Inc/The 5 12/31/2049	
+	Prudential Financial Inc 5.2 03/15/2044	
+	State Street Corp 5.35	
+	Allstate Corp/The 6.5 05/15/2057	
+	CHS Inc 6.75	
+	Discover Financial Services 5.5 12/31/2049	
+	Discover Financial Services 6.12 12/31/2049	
+	Equitable Holdings Inc 4.95 12/31/2049	
+	Enbridge Inc 7.38 01/15/2083	
+	Goldman Sachs Group Inc/The 5.5 12/31/2049	
+	Huntington Bancshares Inc/OH 5.7 12/31/2049	
+	Huntington Bancshares Inc/OH 5.62 12/31/2049	
+	Allstate Corp/The 5.1 01/15/2053	
+	State Street Corp 5.62 12/31/2049	
+	Progressive Corp/The 5.38 12/31/2049	
+	MetLife Inc 5.88 12/31/2099	
+	KeyCorp 5 12/31/2049	
+	PNC Financial Services Group Inc/The 4.85 12/31/2049	
+	NextEra Energy Capital Holdings Inc 4.8 12/01/2077	
+	NextEra Energy Capital Holdings Inc 3.8 03/15/2082	
+	NextEra Energy Capital Holdings Inc 5.65 05/01/2079	
+	Northern Trust Corp 4.6 12/31/2049	
+	Lincoln National Corp 5.3 05/17/2066	
+	M&T Bank Corp 5.12 12/29/2049	
+	PartnerRe Finance B LLC 4.5 10/01/2050	
+	Regions Financial Corp 5.7	
+	SVB Financial Group 4.7 12/31/2099	
+	AGNC Investment Corp 6.12	
+	Bank of New York Mellon Corp/The 4.5 12/31/2049	
+	Huntington Bancshares Inc/OH 4.45 12/31/2049	
+	Energy Transfer LP 6.75 12/31/2049	
+	Fifth Third Bancorp 6.62	
+	General Motors Financial Co Inc 6.5 12/31/2049	
+	General Motors Financial Co Inc 5.7 12/31/2049	
+	Energy Transfer LP 5.8 11/01/2066	
+	Bank of Montreal 4.8 12/31/2049	
+	CMS Energy Corp 4.75 06/01/2050	
+	CHS Inc 7.1	
+	Truist Financial Corp 5.12 12/31/2049	
+	US Bancorp 3.53	
+	WEC Energy Group Inc 5.02 05/15/2067	
+	Vodafone Group PLC 3.25 06/04/2081	
+	Charles Schwab Corp/The 5 12/31/2049	
+	Charles Schwab Corp/The 7.6 12/31/2049	
+	Reinsurance Group of America Inc 5.75 06/15/2056	
+	PPL Capital Funding Inc 6.34 03/30/2067	
+	NuStar Logistics LP 9.25 01/15/2043	
+	Nationwide Financial Services Inc 6.75 05/15/2037	
+	Comerica Inc 5.62 12/31/2049	
+	Citizens Financial Group Inc 5.65 12/31/2049	
+	CoBank ACB 6.45 12/31/2049	
+	Assurant Inc 7 03/27/2048	
+	Energy Transfer LP 7.38	
+	Energy Transfer LP 7.62	
+	Energy Transfer LP 6.62 12/31/2049	
+	Annaly Capital Management Inc 6.75	
+	Enstar Group Ltd 7	
+	Morgan Stanley 5.88 12/31/2049	
+	NiSource Inc 5.65 12/31/2049	
+	M&T Bank Corp 5 12/31/2049	
+	M&T Bank Corp 3.5 12/31/2049	
+	Mellon Capital IV 4.09 12/31/2049	
+	Principal Financial Group Inc 5.95 05/15/2055	
+	State Street Corp 4.29 06/15/2047	
+	JPMorgan Chase & Co 3.91 05/15/2047	
+	Rithm Capital Corp 7	
+	National Rural Utilities Cooperative Finance Corp 4.75 04/30/2043	
+	Annaly Capital Management Inc 6.5	
+	American Equity Investment Life Holding Co 5.95	
+	Duke Energy Corp 3.25 01/15/2082	
+	BAC Capital Trust XIV 4 09/29/2049	
+	AGNC Investment Corp 6.5	
+	Algonquin Power & Utilities Corp 6.2 07/01/2079	
+	National Rural Utilities Cooperative Finance Corp 5.25 04/20/2046	
+	Bank of America Corp 4	
+	M&T Bank Corp 6.45 12/31/2049	
+	Lincoln National Corp 4.75 04/20/2067	
+	Truist Financial Corp 3.58 05/15/2027	
+	Southern California Edison Co 6.98 12/31/2049	
+	Synovus Financial Corp 5.88	
+	Regions Financial Corp 5.75 12/31/2049	
+	AGNC Investment Corp 7	
+	EnLink Midstream Partners LP 6 12/31/2049	
+	Enterprise Products Operating LLC 5.91 08/16/2077	
+	Fifth Third Bancorp 4.5 12/31/2049	
+	Goldman Sachs Group Inc/The 4.4 12/31/2049	
+	American Equity Investment Life Holding Co 6.62	
+	CMS Energy Corp 3.75 12/01/2050	
+	Algonquin Power & Utilities Corp 6.88 10/17/2078	
+	Citizens Financial Group Inc 6.35	
+	Rithm Capital Corp 6.38	
+	NuStar Energy LP 9.13	
+	Voya Financial Inc 5.35	
+	Wintrust Financial Corp 6.88	
+	Western Alliance Bancorp 4.25	
+	Aspen Insurance Holdings Ltd 5.95	
+	Bank of America Corp 4.1	
+	M&T Bank Corp 5.62	
+	SCE Trust IV 5.38	
+	SCE Trust V 5.45	
+	Arbor Realty Trust Inc 6.25	
+	Chimera Investment Corp 8	
+	Air Lease Corp 6.15	
+	SCE Trust III 5.75	
+	Bank of America Corp 3.69	
+	Rithm Capital Corp 7.12	
+	NuStar Energy LP 10.25	
+	MFA Financial Inc 6.5	
+	Two Harbors Investment Corp 7.62	
+	Two Harbors Investment Corp 7.25	
+	SiriusPoint Ltd 8	
+	Synovus Financial Corp 6.3	
+	AGNC Investment Corp 6.88	
+	Chimera Investment Corp 7.75	
+	Granite Point Mortgage Trust Inc 7	
+	Goldman Sachs Group Inc/The 4.5	
+	DCP Midstream LP 7.88	
+	PennyMac Mortgage Investment Trust 8	
+	NuStar Energy LP 9	
+	Bank of America Corp 4.5	
+	WesBanco Inc 6.75	
+	GasLog Partners LP 8.62	
+	Seapeak LLC 8.5	
+	Tsakos Energy Navigation Ltd 9.5	
+	Atlas Corp 8	
+	Zions Bancorp NA 6.3	
+	NGL Energy Partners LP 9.72	
+	New York Mortgage Trust Inc 7.88	
+	Midland States Bancorp Inc 7.75	
+	Kemper Corp 5.88 03/15/2062	
+	Textainer Group Holdings Ltd 7	
+	Truist Financial Corp 4.28	
+	Argo Group International Holdings Ltd 7	
+	Chimera Investment Corp 8	
+	ACRES Commercial Realty Corp 8.62	
+	FNB Corp/PA 7.25	
+	Two Harbors Investment Corp 8.12	
+	Merchants Bancorp/IN 6	
+	New York Mortgage Trust Inc 8	
+	Rithm Capital Corp 7.5	
+	Wintrust Financial Corp 6.5	
+	Tsakos Energy Navigation Ltd 9.25	
+	Valley National Bancorp 6.25	
+	Valley National Bancorp 5.5	
+	PennyMac Mortgage Investment Trust 8.12	
+	DCP Midstream LP 7.95	
+	Dynex Capital Inc 6.9	
+	Ellington Financial Inc 6.75	
+	First Horizon Corp 6.1	
+	Fortress Transportation and Infrastructure Investors LLC 8	
+	Fortress Transportation and Infrastructure Investors LLC 8.25	
+	ConnectOne Bancorp Inc 5.25	
+	AGNC Investment Corp 7.75	
+	Fortress Transportation and Infrastructure Investors LLC 8.25	
+	New York Mortgage Trust Inc 6.88	
+	Cash/Receivables/Payables 0	

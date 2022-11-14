@@ -1,0 +1,52 @@
+MOAT
+K	Kellogg Co	/etf/ea/ETZCW.djhtm?c=1&etfid=K.US&back=MOAT
+GILD	Gilead Sciences Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GILD.US&back=MOAT
+PII	Polaris Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PII.US&back=MOAT
+VEEV	Veeva Systems Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=VEEV.US&back=MOAT
+ECL	Ecolab Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ECL.US&back=MOAT
+BA	Boeing Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=BA.US&back=MOAT
+BLK	Blackrock Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BLK.US&back=MOAT
+ETSY	Etsy Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ETSY.US&back=MOAT
+TYL	Tyler Technologies Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TYL.US&back=MOAT
+BIIB	Biogen Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BIIB.US&back=MOAT
+MSFT	Microsoft Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MSFT.US&back=MOAT
+WFC	Wells Fargo & Co	/etf/ea/ETZCW.djhtm?c=1&etfid=WFC.US&back=MOAT
+AMZN	Amazon.Com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=AMZN.US&back=MOAT
+MAS	Masco Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=MAS.US&back=MOAT
+ZBH	Zimmer Biomet Holdings Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ZBH.US&back=MOAT
+EFX	Equifax Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=EFX.US&back=MOAT
+MELI	Mercadolibre Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MELI.US&back=MOAT
+EMR	Emerson Electric Co	/etf/ea/ETZCW.djhtm?c=1&etfid=EMR.US&back=MOAT
+GOOGL	Alphabet Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOGL.US&back=MOAT
+MDT	Medtronic Plc	/etf/ea/ETZCW.djhtm?c=1&etfid=MDT.US&back=MOAT
+ADBE	Adobe Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ADBE.US&back=MOAT
+MMM	3m Co	/etf/ea/ETZCW.djhtm?c=1&etfid=MMM.US&back=MOAT
+LRCX	Lam Research Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=LRCX.US&back=MOAT
+WU	Western Union Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=WU.US&back=MOAT
+GWRE	Guidewire Software Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=GWRE.US&back=MOAT
+NOW	Servicenow Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=NOW.US&back=MOAT
+META	Meta Platforms Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=META.US&back=MOAT
+CRM	Salesforce.Com Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CRM.US&back=MOAT
+TER	Teradyne Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=MOAT
+INTC	Intel Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=INTC.US&back=MOAT
+CPB	Campbell Soup Co	/etf/ea/ETZCW.djhtm?c=1&etfid=CPB.US&back=MOAT
+MRK	Merck & Co Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MRK.US&back=MOAT
+STZ	Constellation Brands Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=STZ.US&back=MOAT
+CSGP	Costar Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CSGP.US&back=MOAT
+PM	Philip Morris International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=PM.US&back=MOAT
+ROK	Rockwell Automation Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ROK.US&back=MOAT
+SCHW	Charles Schwab Corp/The	/etf/ea/ETZCW.djhtm?c=1&etfid=SCHW.US&back=MOAT
+DIS	Walt Disney Co/The	/etf/ea/ETZCW.djhtm?c=1&etfid=DIS.US&back=MOAT
+KLAC	Kla Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=KLAC.US&back=MOAT
+WDAY	Workday Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=WDAY.US&back=MOAT
+STT	State Street Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=STT.US&back=MOAT
+ICE	Intercontinental Exchange Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=ICE.US&back=MOAT
+HON	Honeywell International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=HON.US&back=MOAT
+BLKB	Blackbaud Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BLKB.US&back=MOAT
+MCHP	Microchip Technology Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=MCHP.US&back=MOAT
+BRK.B	Berkshire Hathaway Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=BRK.B.US&back=MOAT
+TROW	T Rowe Price Group Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=TROW.US&back=MOAT
+TRU	Transunion	/etf/ea/ETZCW.djhtm?c=1&etfid=TRU.US&back=MOAT
+CMCSA	Comcast Corp	/etf/ea/ETZCW.djhtm?c=1&etfid=CMCSA.US&back=MOAT
+CMP	Compass Minerals International Inc	/etf/ea/ETZCW.djhtm?c=1&etfid=CMP.US&back=MOAT
+	Other/Cash	

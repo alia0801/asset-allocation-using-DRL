@@ -1,0 +1,39 @@
+ARKQ
+TSLA	TESLA INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TSLA.US&back=ARKQ
+TRMB	TRIMBLE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TRMB.US&back=ARKQ
+KTOS	KRATOS DEFENSE & SECURITY	/etf/ea/ETZCW.djhtm?c=1&etfid=KTOS.US&back=ARKQ
+IRDM	IRIDIUM COMMUNICATIONS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=IRDM.US&back=ARKQ
+PATH	UIPATH INC - CLASS A	/etf/ea/ETZCW.djhtm?c=1&etfid=PATH.US&back=ARKQ
+DE	DEERE & CO	/etf/ea/ETZCW.djhtm?c=1&etfid=DE.US&back=ARKQ
+AVAV	AEROVIRONMENT INC	/etf/ea/ETZCW.djhtm?c=1&etfid=AVAV.US&back=ARKQ
+6301.JP&back=ARKQ	KOMATSU LTD -SPONS ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=6301.JP&back=ARKQ
+TER	TERADYNE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TER.US&back=ARKQ
+BLDE	BLADE AIR MOBILITY INC	/etf/ea/ETZCW.djhtm?c=1&etfid=BLDE.US&back=ARKQ
+DDD	3D SYSTEMS CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=DDD.US&back=ARKQ
+ACHR	ARCHER AVIATION INC-A	/etf/ea/ETZCW.djhtm?c=1&etfid=ACHR.US&back=ARKQ
+VLD	VELO3D INC	/etf/ea/ETZCW.djhtm?c=1&etfid=VLD.US&back=ARKQ
+ESLT	ELBIT SYSTEMS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=ESLT.US&back=ARKQ
+MKFG	MARKFORGED HOLDING CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=MKFG.US&back=ARKQ
+TSP	TUSIMPLE HOLDINGS INC - A	/etf/ea/ETZCW.djhtm?c=1&etfid=TSP.US&back=ARKQ
+GOOG	ALPHABET INC-CL C	/etf/ea/ETZCW.djhtm?c=1&etfid=GOOG.US&back=ARKQ
+1211.HK&back=ARKQ	BYD CO LTD-UNSPONSORED ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=1211.HK&back=ARKQ
+U	UNITY SOFTWARE INC	/etf/ea/ETZCW.djhtm?c=1&etfid=U.US&back=ARKQ
+MGA	MAGNA INTERNATIONAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=MGA.US&back=ARKQ
+VUZI	VUZIX CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=VUZI.US&back=ARKQ
+NNDM	NANO DIMENSION LTD - ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NNDM.US&back=ARKQ
+CAT	CATERPILLAR INC	/etf/ea/ETZCW.djhtm?c=1&etfid=CAT.US&back=ARKQ
+XPEV	XPENG INC - ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=XPEV.US&back=ARKQ
+PRLB	PROTO LABS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=PRLB.US&back=ARKQ
+SSYS	STRATASYS LTD	/etf/ea/ETZCW.djhtm?c=1&etfid=SSYS.US&back=ARKQ
+NIU	NIU TECHNOLOGIES-SPONS ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NIU.US&back=ARKQ
+SNPS	SYNOPSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=SNPS.US&back=ARKQ
+TDY	TELEDYNE TECHNOLOGIES INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TDY.US&back=ARKQ
+ANSS	ANSYS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ANSS.US&back=ARKQ
+MTLS	MATERIALISE NV-ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=MTLS.US&back=ARKQ
+LMT	LOCKHEED MARTIN CORP	/etf/ea/ETZCW.djhtm?c=1&etfid=LMT.US&back=ARKQ
+ISRG	INTUITIVE SURGICAL INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ISRG.US&back=ARKQ
+NIO	NIO INC - ADR	/etf/ea/ETZCW.djhtm?c=1&etfid=NIO.US&back=ARKQ
+GM	GENERAL MOTORS CO	/etf/ea/ETZCW.djhtm?c=1&etfid=GM.US&back=ARKQ
+TWOU	2U INC	/etf/ea/ETZCW.djhtm?c=1&etfid=TWOU.US&back=ARKQ
+	DREYFUS GOVT CASH MAN INS	
+ONVO	ORGANOVO HOLDINGS INC	/etf/ea/ETZCW.djhtm?c=1&etfid=ONVO.US&back=ARKQ

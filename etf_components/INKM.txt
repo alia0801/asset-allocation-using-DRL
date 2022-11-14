@@ -1,0 +1,14 @@
+INKM
+SRLN	SPDR Blackstone Senior Loan ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SRLN.US&back=INKM
+SPTL	SPDR Portfolio Long Term Treasury ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPTL.US&back=INKM
+DWX	SPDR S&P International Dividend ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=DWX.US&back=INKM
+EBND	SPDR Bloomberg Emerging Markets Local Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=EBND.US&back=INKM
+GII	SPDR S&P Global Infrastructure ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=GII.US&back=INKM
+JNK	SPDR Bloomberg High Yield Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=JNK.US&back=INKM
+SPYD	SPDR Portfolio S&P 500 High Dividend ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPYD.US&back=INKM
+PSK	SPDR ICE Preferred Securities ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=PSK.US&back=INKM
+REM	iShares Mortgage Real Estate ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=REM.US&back=INKM
+	Ssga Fds/Usa State St Inst Us Gov M Oef	
+CWB	SPDR Bloomberg Convertible Securities ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=CWB.US&back=INKM
+KBWY	Invesco KBW Premium Yield Equity REIT ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=KBWY.US&back=INKM
+SPLB	SPDR Portfolio Long Term Corporate Bond ETF	/etf/ea/ETZCW.djhtm?c=1&etfid=SPLB.US&back=INKM
