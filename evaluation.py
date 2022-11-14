@@ -6,7 +6,6 @@ import statistics
 import math
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
-# from datetime import datetime
 import datetime
 from util import *
 from config import *
@@ -201,14 +200,11 @@ def q_result(comb_num,#comb_num_list,
     ucl_best_closest = pd.read_csv(best_close_path+str(comb_num)+'/final_reward.csv')
     ucl_best_un = pd.read_csv(best_un_path+str(comb_num)+'/final_reward.csv')
     ucl_best_closest_un = pd.read_csv(escpr_path+str(comb_num)+'/final_reward.csv')
-    ucl_best_closest_un_rwd = pd.read_csv(escpr_path+str(comb_num)+'/ensemble/classic_reward_all.csv')
-    ucl_best_closest_un_std = pd.read_csv(escpr_path+str(comb_num)+'/ensemble/classic_1mstdev_all.csv')
-    ucl_best_closest_un_mdd = pd.read_csv(escpr_path+str(comb_num)+'/ensemble/classic_mdd_all.csv')
     ucl_org_r = pd.read_csv(escpr_path+str(comb_num)+'/csv/classic_reward_00.csv')
     
     ucl_org = ucl_org_r
-    df_list = [buy_hold,       mean_rev,       drl_ppo_best, drl_ppo_closest ,drl_ppo_best_closest ,drl_td3_best ,ucl_best,    ucl_best_closest, ucl_best_un,  ucl_best_closest_un, ucl_best_closest_un_rwd, ucl_best_closest_un_std, ucl_best_closest_un_mdd, ucl_org]
-    legends = ['Buy and Hold','Mean Reversion',   'PPO',     'PPO close',    'PPO opt&close',   'TD3',   'ES-CPR -CR-UR','ES-CPR -UR'   , 'ES-CPR -CR', 'ES-CPR' , 'ES-CPR- 1agent-rwd'  , 'ES-CPR- 1agent-std' , 'ES-CPR- 1agent-mdd' ,'ES-CPR- no replace']#
+    df_list = [buy_hold,       mean_rev,       drl_ppo_best, drl_ppo_closest ,drl_ppo_best_closest ,drl_td3_best ,ucl_best,    ucl_best_closest, ucl_best_un,  ucl_best_closest_un, ucl_org]
+    legends = ['Buy and Hold','Mean Reversion',   'PPO',     'PPO close',    'PPO opt&close',   'TD3',   'ES-CPR -CR-UR','ES-CPR -UR'   , 'ES-CPR -CR', 'ES-CPR' ,'ES-CPR- no replace']#
     
     comb_key=list(COMBS.keys())[comb_num]
     org_etfs = COMBS[comb_key]['etfs'] 
