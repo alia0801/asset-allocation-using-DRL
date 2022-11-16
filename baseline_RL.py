@@ -408,11 +408,29 @@ if __name__ == '__main__':
     e_trade_gym = StockPortfolioEnv(df = trade, **env_kwargs)
 
     df_daily_return, df_actions,_ = DRLAgent.DRL_prediction(model=trained_ppo,environment = e_trade_gym)
-    df_daily_return.to_csv(save_path+'df_daily_return_ppo_opt_close.csv')
-    df_actions.to_csv(save_path+'df_actions_ppo_opt_close.csv')
+    if REWARD_FUNCTION_TYPE==1:
+        filename_return = 'df_daily_return_ppo.csv'
+        filename_action = 'df_actions_ppo.csv'
+    elif REWARD_FUNCTION_TYPE==2:
+        filename_return = 'df_daily_return_ppo_close.csv'
+        filename_action = 'df_actions_ppo_close.csv'
+    elif REWARD_FUNCTION_TYPE==3:
+        filename_return = 'df_daily_return_ppo_opt_close.csv'
+        filename_action = 'df_actions_ppo_opt_close.csv'
+    df_daily_return.to_csv(save_path+filename_return)
+    df_actions.to_csv(save_path+filename_action)
 
     df_daily_return, df_actions,_ = DRLAgent.DRL_prediction(model=trained_td3,environment = e_trade_gym)
-    df_daily_return.to_csv(save_path+'df_daily_return_td3.csv')
-    df_actions.to_csv(save_path+'df_actions_td3.csv')
+    if REWARD_FUNCTION_TYPE==1:
+        filename_return = 'df_daily_return_td3.csv'
+        filename_action = 'df_actions_td3.csv'
+    elif REWARD_FUNCTION_TYPE==2:
+        filename_return = 'df_daily_return_td3_close.csv'
+        filename_action = 'df_actions_td3_close.csv'
+    elif REWARD_FUNCTION_TYPE==3:
+        filename_return = 'df_daily_return_td3_opt_close.csv'
+        filename_action = 'df_actions_td3_opt_close.csv'
+    df_daily_return.to_csv(save_path+filename_return)
+    df_actions.to_csv(save_path+filename_action)
 
     ######################################################################s
