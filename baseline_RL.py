@@ -21,7 +21,7 @@ import gym
 from gym import spaces
 from stable_baselines3.common.vec_env import DummyVecEnv
 
-
+import argparse
 
 if not os.path.exists("./" + config.DATA_SAVE_DIR):
     os.makedirs("./" + config.DATA_SAVE_DIR)
@@ -284,20 +284,39 @@ class StockPortfolioEnv(gym.Env):
 
 if __name__ == '__main__':
 
-    filename = './parm/parm_drl.txt'
-    parm = []  
-    f = open(filename)
-    for line in f:
-        parm.append(line[:-1])
-    print(parm)
-    save_path = 'result_baseline_rl/'+parm[0]+'/'
+    parser = argparse.ArgumentParser(description='Test')
+    parser.add_argument('--comb', type=int, default=0, help='comb code')
+    parser.add_argument('--rft', type=int, default=0, help='reward_fuction_type')
+    parser.add_argument('--arg_from', type=bool, default=False, help='wheather arg from command')
+    args = parser.parse_args()
+    
+    if args.arg_from == False: # get arg from parm_escpr.txt
+        print('get arg from parm_drl.txt')
+
+        filename = './parm/parm_drl.txt'
+        parm = []  
+        f = open(filename)
+        for line in f:
+            parm.append(line[:-1])
+        print(parm)
+        comb_num = int(parm[0])
+        reward_fuction_type = int(parm[1])
+    else:
+        comb_num=args.comb
+        reward_fuction_type=args.rft
+
+    print('comb_num=',comb_num)
+    print('reward_fuction_type=',reward_fuction_type)
+
+
+    save_path = 'result_baseline_rl/'+str(comb_num)+'/'
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     if not os.path.exists(save_path+'trained_models/'):
         os.makedirs(save_path+'trained_models/')
 
-    REWARD_FUNCTION_TYPE = int(parm[1])
-    comb_key=list(COMBS.keys())[int(parm[0])]
+    REWARD_FUNCTION_TYPE = reward_fuction_type
+    comb_key=list(COMBS.keys())[comb_num]
     org_etfs=COMBS[comb_key]['etfs']
     org_comb_weight=COMBS[comb_key]['weights']
     print('comb name:',comb_key)

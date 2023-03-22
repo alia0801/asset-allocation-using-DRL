@@ -10,7 +10,7 @@ pd.core.common.is_list_like = pd.api.types.is_list_like
 import os
 from util import *
 from config import *
-
+import argparse
 
 # ## Mean Reversion
 # 參考[A Simple Mean Reversion System in Simple Python Code](https://gist.github.com/AnthonyFJGarner/ccd23f0e9d46214612f59c7b92a82149?fbclid=IwAR009-5uFVZAMK2klvNQWrCA8Le7FX9sULY8YA1nLz0KMkb0_kzZRi7oaJs)
@@ -156,7 +156,7 @@ def mean_rev(comb,start_date,end_date,moving_average,weights=None):
 def buy_and_hold(start_date,end_date,comb,weights):
     if weights is None:
         weights = [1/len(comb)]*len(comb)
-    df_close = pd.read_csv('./price_indicator_data/all_etf_close_2001_2021_all.csv')
+    df_close = pd.read_csv('./price_indicator_data/all_etf_close_2001_2022_all.csv')
     df_close.drop('Unnamed: 0', inplace=True, axis=1)
     col = comb.copy()
     col.insert(0,'Date')
@@ -194,14 +194,27 @@ def buy_and_hold(start_date,end_date,comb,weights):
 
 if __name__ == '__main__':
 
-    filename = './parm/parm_traditional.txt'
-    parm = []  
-    f = open(filename)
-    for line in f:
-        parm.append(line[:-1])
-    print(parm)
+    parser = argparse.ArgumentParser(description='Test')
+    parser.add_argument('--comb', type=int, default=0, help='comb code')
+    parser.add_argument('--arg_from', type=bool, default=False, help='wheather arg from command')
+    args = parser.parse_args()
     
-    comb_key=list(COMBS.keys())[int(parm[0])]
+    if args.arg_from == False: # get arg from parm_escpr.txt
+        print('get arg from parm_traditional.txt')
+
+        filename = './parm/parm_traditional.txt'
+        parm = []  
+        f = open(filename)
+        for line in f:
+            parm.append(line[:-1])
+        print(parm)
+        comb_num = int(parm[0])
+    else:
+        comb_num=args.comb
+
+    print('comb_num=',comb_num)
+    
+    comb_key=list(COMBS.keys())[comb_num]
     comb=COMBS[comb_key]['etfs']
     weights=COMBS[comb_key]['weights']
     print('comb name:',comb_key)
@@ -211,8 +224,9 @@ if __name__ == '__main__':
     start_date = ORG_TRADE_START#'2016-01-01' 
     end_date = ORG_TRADE_END#'2022-01-01'
     
-    path = './result_baseline_traditional/'+parm[0]+'/'
-    os.mkdir(path)
+    path = './result_baseline_traditional/'+str(comb_num)+'/'
+    if not os.path.exists(path):
+        os.makedirs(path)
 
 
     # Mean Reversion

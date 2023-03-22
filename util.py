@@ -259,7 +259,7 @@ def get_ABC(input_df):
 def get_comb_ABC(comb,start,end,w=None):
     if w is None:
         w = [1/len(comb)]*len(comb)
-    close_data = pd.read_csv('./price_indicator_data/all_etf_close_2001_2021_all.csv')
+    close_data = pd.read_csv('./price_indicator_data/all_etf_close_2001_2022_all.csv')
     close_data.drop('Unnamed: 0', inplace=True, axis=1)
     col = comb.copy()
     col.insert(0,'Date')
@@ -298,7 +298,7 @@ def get_avg_ABC(comb,start,end):
 
 def get_all_A(start,end,all_etf):
     
-    close_data = pd.read_csv('./price_indicator_data/all_etf_close_2001_2021_all.csv')
+    close_data = pd.read_csv('./price_indicator_data/all_etf_close_2001_2022_all.csv')
     close_data.drop('Unnamed: 0', inplace=True, axis=1)
     col = all_etf.copy()
     col.insert(0,'Date')

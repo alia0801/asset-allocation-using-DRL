@@ -5,30 +5,49 @@ from stable_baselines3 import PPO
 # from myEnv import StockPortfolioEnv
 import sys
 import os
+import argparse
 sys.path.append("../FinRL-Library")
 
 set_seed(100)
 
 if __name__ == '__main__':
     reward_by_i = 1 # 0:reward 1:mdd 2:std
+    print('agent B')
 
-    filename = './parm/parm_escpr.txt'
-    parm = []  
-    f = open(filename)
-    for line in f:
-        parm.append(line[:-1])
-    print(parm)
+    parser = argparse.ArgumentParser(description='Test')
+    parser.add_argument('--comb', type=int, default=0, help='comb code')
+    parser.add_argument('--rft', type=int, default=0, help='reward_fuction_type')
+    parser.add_argument('--arg_from', type=bool, default=False, help='wheather arg from command')
+    args = parser.parse_args()
+    
+    if args.arg_from == False: # get arg from parm_escpr.txt
+        print('get arg from parm_escpr.txt')
+
+        filename = './parm/parm_escpr.txt'
+        parm = []  
+        f = open(filename)
+        for line in f:
+            parm.append(line[:-1])
+        print(parm)
+        comb_num = int(parm[0])
+        reward_fuction_type = int(parm[1])
+    else:
+        comb_num=args.comb
+        reward_fuction_type=args.rft
+
+    print('comb_num=',comb_num)
+    print('reward_fuction_type=',reward_fuction_type)
 
     # reward_by_list=['reward','mdd','1mstdev']
-    reward_fuction_type = int(parm[1])  # 1:bestABC, 2:bestA/B/C+closestABC, 3:bestA/B/C+closestABC+uncertainty ,4:bestA/B/C+uncertainty
-    comb_key=list(COMBS.keys())[int(parm[0])]
+    # reward_fuction_type = int(parm[1])  # 1:bestABC, 2:bestA/B/C+closestABC, 3:bestA/B/C+closestABC+uncertainty ,4:bestA/B/C+uncertainty
+    comb_key=list(COMBS.keys())[comb_num]
     org_etfs=COMBS[comb_key]['etfs']
     org_comb_weight=COMBS[comb_key]['weights']
     print('comb name:',comb_key)
     print('comb etfs:',org_etfs)
     print('comb weights:',org_comb_weight)
 
-    save_path = './results/type_'+parm[1]+'/'+parm[0]+'/'
+    save_path = './results/type_'+str(reward_fuction_type)+'/'+str(comb_num)+'/'
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     if not os.path.exists(save_path+'detect_record/'):

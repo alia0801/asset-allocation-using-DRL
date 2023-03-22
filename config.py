@@ -8,7 +8,7 @@ ORG_TRAIN_START = '2009-01-01' #org_train_start
 ORG_TRAIN_END = '2016-01-01' #org_train_end
 GET_DATA_TRADE_START = '2015-01-01' # get_data_trade_start = org_trade_start - 1year
 ORG_TRADE_START = '2016-01-01' #org_trade_start
-ORG_TRADE_END = '2021-12-31' #org_trade_end
+ORG_TRADE_END = '2022-12-31' #org_trade_end
 ORG_INIT_AMOUNT = 1000000#org_initial_amount
 COLORS = ['b','orange','g','r','purple','brown','pink','gray','olive','cyan','m','y','black','lime','greenyellow','darksalmon']
 
